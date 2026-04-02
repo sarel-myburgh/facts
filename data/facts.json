@@ -204,12 +204,18 @@
         "url": "https://www.nationalgeographic.com/animals/article/grizzly-polar-bear-hybrid-animals",
         "publisher": "National Geographic",
         "type": "article"
+      },
+      {
+        "title": "Polar bear",
+        "url": "https://www.britannica.com/animal/polar-bear",
+        "publisher": "Britannica",
+        "type": "reference"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Polar_Bear_-_Alaska.jpg",
+      "description": "Polar bear image",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -233,7 +239,13 @@
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "Former Coca-Cola employee attempts to sell secrets to Pepsi",
+        "title": "Coca-Cola and Pepsi corporate espionage story",
+        "url": "https://www.wsj.com/articles/SB114955123330795123",
+        "publisher": "The Wall Street Journal",
+        "type": "article"
+      },
+      {
+        "title": "Former Coca-Cola Employee Attempts to Sell Secrets to Pepsi",
         "url": "https://www.stlamerican.com/business/former-coca-cola-employee-attempts-to-sell-secrets-to-pepsi/",
         "publisher": "St. Louis American",
         "type": "article"
@@ -269,12 +281,18 @@
         "url": "https://en.wikipedia.org/wiki/List_of_the_highest_major_summits_of_the_United_States",
         "publisher": "Wikipedia",
         "type": "reference"
+      },
+      {
+        "title": "Alaska mountains",
+        "url": "https://www.britannica.com/place/Alaska/Mountains-and-rivers",
+        "publisher": "Britannica",
+        "type": "reference"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Denali_and_Mt_Foraker.jpg",
+      "description": "Alaskan mountains/Denali",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -605,16 +623,22 @@
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "Dotsero Volcanic Center",
+        "title": "Dotsero volcanic center",
         "url": "https://www.usgs.gov/volcanoes/dotsero-volcanic-center",
-        "publisher": "U.S. Geological Survey",
+        "publisher": "USGS",
+        "type": "reference"
+      },
+      {
+        "title": "Colorado volcanoes",
+        "url": "https://www.britannica.com/place/Colorado-state/Drainage",
+        "publisher": "Britannica",
         "type": "reference"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Dotsero_Volcano.jpg",
+      "description": "Dotsero volcanic center",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -641,6 +665,12 @@
         "title": "First movie with an official soundtrack",
         "url": "https://www.guinnessworldrecords.com/world-records/first-movie-with-an-official-soundtrack",
         "publisher": "Guinness World Records",
+        "type": "reference"
+      },
+      {
+        "title": "Snow White and the Seven Dwarfs",
+        "url": "https://www.britannica.com/topic/Snow-White-and-the-Seven-Dwarfs",
+        "publisher": "Britannica",
         "type": "reference"
       }
     ],
