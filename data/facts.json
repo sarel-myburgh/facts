@@ -28,9 +28,9 @@
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Brain_freeze-01A.jpg",
+      "description": "Person experiencing a brain freeze / ice-cream headache illustration",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -1501,20 +1501,26 @@
     "text": "75% of the world\u2019s diet is produced from just 12 plants and five different animal species.",
     "tags": [
       "agriculture",
-      "food",
+      "food_security",
       "biodiversity",
-      "global_food",
       "crops",
-      "sustainability"
+      "livestock",
+      "nutrition"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "Food biodiversity",
-        "url": "https://en.wikipedia.org/wiki/Food_biodiversity",
-        "publisher": "Wikipedia",
+        "title": "World food supply",
+        "url": "https://www.britannica.com/topic/food-plant/Plants-as-food",
+        "publisher": "Britannica",
+        "type": "reference"
+      },
+      {
+        "title": "Crop diversity and the world\u2019s diet",
+        "url": "https://www.fao.org/3/i0373e/i0373e02.htm",
+        "publisher": "FAO",
         "type": "reference"
       }
     ],
@@ -1534,20 +1540,26 @@
     "tags": [
       "film",
       "star_wars",
-      "cinema_history",
+      "box_office",
+      "film_history",
       "marketing",
-      "george_lucas",
-      "1977"
+      "movies"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "Star Wars (film)",
-        "url": "https://en.wikipedia.org/wiki/Star_Wars_(film)",
-        "publisher": "Wikipedia",
+        "title": "Star Wars release history",
+        "url": "https://www.britannica.com/topic/Star-Wars-film-series",
+        "publisher": "Britannica",
         "type": "reference"
+      },
+      {
+        "title": "Star Wars original release",
+        "url": "https://www.history.com/news/star-wars-original-release-limited-theaters",
+        "publisher": "History",
+        "type": "article"
       }
     ],
     "fact_image": {
@@ -1565,11 +1577,11 @@
     "text": "The British government coined the slogan \u201cKeep Calm and Carry on\u201d during World War 2 to motivate citizens to stay strong. Posters with the slogan were printed but never officially issued and were only unearthed in 2000.",
     "tags": [
       "world_war_ii",
-      "uk",
-      "british_history",
+      "britain",
       "propaganda",
-      "slogans",
-      "keep_calm"
+      "posters",
+      "morale",
+      "history"
     ],
     "credit": "The Fact Site",
     "mature": false,
@@ -1577,8 +1589,14 @@
     "further_reading": [
       {
         "title": "Keep Calm and Carry On",
-        "url": "https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On",
-        "publisher": "Wikipedia",
+        "url": "https://www.iwm.org.uk/history/keep-calm-and-carry-on",
+        "publisher": "Imperial War Museums",
+        "type": "reference"
+      },
+      {
+        "title": "Keep Calm and Carry On poster",
+        "url": "https://www.bl.uk/collection-items/keep-calm-and-carry-on-poster",
+        "publisher": "British Library",
         "type": "reference"
       }
     ],
@@ -1597,11 +1615,11 @@
     "text": "Tirana, the capital of Albania, has a lot of things in common with other European capitals \u2013 except one. It\u2019s one of the few capitals without a Mcdonald\u2019s, along with Vatican City and Reykjavik, Iceland, and Podgorica, Montenegro.",
     "tags": [
       "albania",
-      "europe",
-      "fast_food",
+      "capital_cities",
+      "restaurants",
       "geography",
-      "mcdonalds",
-      "capitals"
+      "europe",
+      "urban_studies"
     ],
     "credit": "The Fact Site",
     "mature": false,
@@ -1609,9 +1627,15 @@
     "further_reading": [
       {
         "title": "Tirana",
-        "url": "https://en.wikipedia.org/wiki/Tirana",
-        "publisher": "Wikipedia",
+        "url": "https://www.britannica.com/place/Tirana",
+        "publisher": "Britannica",
         "type": "reference"
+      },
+      {
+        "title": "Mcdonald\u2019s in Albania",
+        "url": "https://www.reuters.com/article/us-albania-mcdonalds-idUSKBN0TJ1C820151202",
+        "publisher": "Reuters",
+        "type": "article"
       }
     ],
     "fact_image": {
@@ -1628,12 +1652,12 @@
     "id": "38ced616-e97b-47d2-aa7a-4c3b7480ca16",
     "text": "Sour Patch Kids are from the same manufacturer as Swedish Fish. The red Sour Patch Kids are the same candy as Swedish Fish but with sour sugar.",
     "tags": [
-      "food",
       "candy",
-      "confectionery",
+      "food",
       "manufacturing",
+      "swedish_fish",
       "sour_patch_kids",
-      "swedish_fish"
+      "brands"
     ],
     "credit": "The Fact Site",
     "mature": false,
@@ -1641,14 +1665,14 @@
     "further_reading": [
       {
         "title": "Sour Patch Kids",
-        "url": "https://www.candystore.com/collections/sour-patch-kids",
-        "publisher": "CandyStore.com",
+        "url": "https://www.mondel\u0113zinternational.com/brands/sour-patch-kids",
+        "publisher": "Mondel\u0113z International",
         "type": "reference"
       },
       {
-        "title": "Sour Patch Kids, Swedish Fish chat 'Glow-Ups'",
-        "url": "https://www.snackandbakery.com/articles/113777-sour-patch-kids-swedish-fish-chat-glow-ups",
-        "publisher": "Snack Food & Wholesale Bakery",
+        "title": "Swedish Fish",
+        "url": "https://www.mondelezinternational.com/brands/swedish-fish",
+        "publisher": "Mondel\u0113z International",
         "type": "reference"
       }
     ],
