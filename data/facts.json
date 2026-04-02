@@ -1880,35 +1880,34 @@
     "id": "408f19e5-b5b2-435f-a4f2-00914810144e",
     "text": "The youngest Pope in history was Pope Benedict IX, who was either 11 or 20 years old when he was elected in 1032. He is also the only person to have been the Pope more than once.",
     "tags": [
-      "religion",
-      "catholicism",
+      "pope",
+      "catholic_church",
       "history",
-      "papacy",
-      "medieval_history",
-      "records",
-      "pope"
+      "middle_ages",
+      "vatican",
+      "religion"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "Youngest elected pope",
-        "url": "https://www.guinnessworldrecords.com/world-records/65255-youngest-elected-pope",
-        "publisher": "Guinness World Records",
+        "title": "Pope Benedict IX",
+        "url": "https://www.britannica.com/biography/Pope-Benedict-IX",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "Pope Benedict IX",
-        "url": "https://en.wikipedia.org/wiki/Pope_Benedict_IX",
-        "publisher": "Wikipedia",
+        "title": "11616a.htm",
+        "url": "https://www.newadvent.org/cathen/11616a.htm",
+        "publisher": "reference",
         "type": "reference"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Pope_Benedict_IX.jpg",
+      "description": "Fact-specific image",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -1919,28 +1918,34 @@
     "id": "c6bbc0dd-0b36-40f4-9974-0f58a089c524",
     "text": "Costa Coffee employs Gennaro Pelliccia as a coffee taster, who has had his tongue insured for \u00a310 million since 2009.",
     "tags": [
-      "business",
       "coffee",
+      "costa_coffee",
       "insurance",
-      "celebrities",
-      "food_industry",
-      "costa_coffee"
+      "tongue",
+      "business",
+      "food_industry"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "Highest insured tongue",
-        "url": "https://www.guinnessworldrecords.com/world-records/113051-highest-insured-tongue",
-        "publisher": "Guinness World Records",
-        "type": "article"
+        "title": "costa coffee taster tongue",
+        "url": "https://www.theguardian.com/business/2009/sep/21/costa-coffee-taster-tongue",
+        "publisher": "reference",
+        "type": "reference"
+      },
+      {
+        "title": "coffee taster has tongue insured for pound10m 1789409.html",
+        "url": "https://www.independent.co.uk/news/uk/home-news/coffee-taster-has-tongue-insured-for-pound10m-1789409.html",
+        "publisher": "reference",
+        "type": "reference"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Coffee_beans_in_sack.jpg",
+      "description": "Fact-specific image",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -1953,32 +1958,32 @@
     "tags": [
       "music",
       "johnny_cash",
-      "country_music",
-      "celebrities",
       "voice",
-      "advice"
+      "country_music",
+      "lessons",
+      "singing"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "Johnny Cash: Biography, Country Musician, Grammy Winner",
-        "url": "https://www.biography.com/musicians/a86763790/johnny-cash",
-        "publisher": "Biography.com",
+        "title": "Johnny Cash",
+        "url": "https://www.britannica.com/biography/Johnny-Cash",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "Johnny Cash, Academy Class of 1988, Part 3",
-        "url": "https://achievement.org/video/johnny-cash-3/",
-        "publisher": "Academy of Achievement",
+        "title": "",
+        "url": "https://www.countryliving.com/life/entertainment/a36443018/johnny-cash-voice-lessons/",
+        "publisher": "reference",
         "type": "reference"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Johnny_Cash_1970.jpg",
+      "description": "Fact-specific image",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -1989,34 +1994,34 @@
     "id": "101d1c02-fd65-487d-ab99-df5bea99c852",
     "text": "There is an island called \u201cJust Enough Room,\u201d where there\u2019s just enough room for a tree and a house.",
     "tags": [
-      "geography",
       "islands",
-      "unusual_places",
-      "new_york",
-      "records",
-      "tiny_places"
+      "travel",
+      "geography",
+      "quirky_places",
+      "real_estate",
+      "new_york"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "World's Smallest Inhabited Island Is About the Size of a Tennis Court",
-        "url": "https://www.cntraveler.com/story/just-room-enough-worlds-smallest-inhabited-island",
-        "publisher": "Cond\u00e9 Nast Traveler",
+        "title": "just enough room island",
+        "url": "https://www.atlasobscura.com/places/just-enough-room-island",
+        "publisher": "reference",
         "type": "reference"
       },
       {
-        "title": "Just Room Enough Island",
-        "url": "https://en.wikipedia.org/wiki/Just_Room_Enough_Island",
-        "publisher": "Wikipedia",
+        "title": "",
+        "url": "https://www.smithsonianmag.com/travel/visit-just-enough-room-island-180968596/",
+        "publisher": "reference",
         "type": "reference"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Just_Enough_Room_Island.jpg",
+      "description": "Fact-specific image",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -2027,27 +2032,27 @@
     "id": "9f261a42-4df3-4002-99bb-72d7c85690a8",
     "text": "People who post their fitness routine on Facebook are more likely to have psychological problems.",
     "tags": [
+      "facebook",
+      "mental_health",
       "psychology",
       "social_media",
       "fitness",
-      "mental_health",
-      "research",
-      "facebook"
+      "behavior"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "The Big Five, self-esteem, and narcissism as predictors of the topics people write about in Facebook status updates",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0191886915003025",
-        "publisher": "ScienceDirect",
-        "type": "article"
+        "title": "why your fitness posts facebook might be masking trouble",
+        "url": "https://www.psychologytoday.com/us/blog/experimentations/201112/why-your-fitness-posts-facebook-might-be-masking-trouble",
+        "publisher": "reference",
+        "type": "reference"
       },
       {
-        "title": "Facebook status updates reveal low self-esteem and narcissism",
-        "url": "https://www.sciencedaily.com/releases/2015/05/150521213743.htm",
-        "publisher": "ScienceDaily",
+        "title": "",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6657894/",
+        "publisher": "reference",
         "type": "reference"
       }
     ],
@@ -2066,33 +2071,33 @@
     "text": "Medieval chastity belts are a myth. A great majority of examples now existing were made in the 18th and 19th centuries as jokes.",
     "tags": [
       "history",
-      "medieval_history",
-      "mythology",
-      "artifacts",
-      "chastity_belts",
-      "debunked"
+      "medieval",
+      "myths",
+      "chastity_belt",
+      "sexuality",
+      "jokes"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "chastity-belt; forgery",
-        "url": "https://www.britishmuseum.org/collection/object/H_M-574",
-        "publisher": "British Museum",
+        "title": "chastity belt",
+        "url": "https://www.britannica.com/topic/chastity-belt",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "Medieval chastity belts are a myth",
-        "url": "https://www.smithsonianmag.com/smart-news/medieval-chastity-belts-are-myth-180956341/",
-        "publisher": "Smithsonian Magazine",
+        "title": "what is a chastity belt really",
+        "url": "https://www.history.com/news/what-is-a-chastity-belt-really",
+        "publisher": "reference",
         "type": "reference"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Chastity_belt_Museum_of_Contraception.jpg",
+      "description": "Fact-specific image",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -2103,28 +2108,28 @@
     "id": "8cadde25-2c90-4c57-9143-6aec90b32e14",
     "text": "Nowadays, millionaires with just $1 million aren\u2019t considered wealthy anymore by most Americans. Now, the typical American sees at least $2.4 million as wealthy.",
     "tags": [
-      "economics",
       "wealth",
-      "united_states",
-      "perception",
+      "millionaires",
+      "money",
+      "public_opinion",
       "finance",
-      "millionaires"
+      "society"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "Two-thirds of American millionaires don't consider themselves wealthy, survey says",
-        "url": "https://www.cbsnews.com/news/one-third-of-american-millionaires-dont-consider-themselves-wealthy-survey-says/",
-        "publisher": "CBS News",
-        "type": "article"
+        "title": "americans say you need at least 2point4 million to be wealthy.html",
+        "url": "https://www.cnbc.com/2019/09/10/americans-say-you-need-at-least-2point4-million-to-be-wealthy.html",
+        "publisher": "reference",
+        "type": "reference"
       },
       {
-        "title": "You Need $2.4 Million to Be Considered Wealthy in America",
-        "url": "https://www.wealthmanagement.com/high-net-worth/you-need-2-4-million-to-be-considered-wealthy-in-america",
-        "publisher": "WealthManagement",
-        "type": "article"
+        "title": "what does it mean to be wealthy.aspx",
+        "url": "https://www.gallup.com/workplace/283041/what-does-it-mean-to-be-wealthy.aspx",
+        "publisher": "reference",
+        "type": "reference"
       }
     ],
     "fact_image": {
@@ -2143,10 +2148,10 @@
     "tags": [
       "television",
       "animation",
-      "flintstones",
+      "primetime",
       "hanna_barbera",
-      "tv_history",
-      "primetime"
+      "history",
+      "sitcom"
     ],
     "credit": "The Fact Site",
     "mature": false,
@@ -2159,16 +2164,16 @@
         "type": "reference"
       },
       {
-        "title": "First prime-time animation show",
-        "url": "https://www.guinnessworldrecords.com/world-records/first-prime-time-animation-show",
-        "publisher": "Guinness World Records",
+        "title": "flintstones",
+        "url": "https://www.emmys.com/shows/flintstones",
+        "publisher": "reference",
         "type": "reference"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:The_Flintstones_title_card.png",
+      "description": "Fact-specific image",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -2180,27 +2185,27 @@
     "text": "There is a company that sells mirrors that make people look 10 pounds thinner. Overall, the mirrors have contributed to 54% of total sales for retailers that use them.",
     "tags": [
       "retail",
-      "body_image",
-      "psychology",
-      "business",
+      "mirrors",
       "marketing",
-      "mirrors"
+      "sales",
+      "psychology",
+      "consumer_behavior"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "How Do 'Skinny' Mirrors Work?",
-        "url": "https://www.mentalfloss.com/article/90717/how-do-skinny-mirrors-work",
-        "publisher": "Mental Floss",
-        "type": "article"
+        "title": "mirrors that make you look thinner.html",
+        "url": "https://www.nytimes.com/2002/07/28/business/mirrors-that-make-you-look-thinner.html",
+        "publisher": "reference",
+        "type": "reference"
       },
       {
-        "title": "Alert: Clothing Stores Might Be Using 'Skinny Mirrors' to Make You Look Thinner",
-        "url": "https://www.elle.com/fashion/news/a19958/skinny-mirror/",
-        "publisher": "ELLE",
-        "type": "article"
+        "title": "",
+        "url": "https://www.americanluxury.com/",
+        "publisher": "reference",
+        "type": "reference"
       }
     ],
     "fact_image": {
@@ -2217,40 +2222,34 @@
     "id": "22eef3e4-1242-49b4-be07-56d08d2ce744",
     "text": "There\u2019s no period in \u201cDr. Pepper.\u201d It was removed because the old logo font made it look like \u201cDi: Pepper.\u201d",
     "tags": [
-      "food",
-      "dr_pepper",
+      "soft_drinks",
       "branding",
+      "soda",
+      "dr_pepper",
       "typography",
-      "beverages",
-      "logo_design"
+      "marketing"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "sodas:why-is-the-period-missing-in-dr-pepper",
-        "url": "https://culinarylore.com/sodas:why-is-the-period-missing-in-dr-pepper/",
-        "publisher": "culinarylore.com",
-        "type": "article"
-      },
-      {
-        "title": "removed because the old logo font made it look like",
-        "url": "https://en.wikipedia.org/wiki/removed_because_the_old_logo_font_made_it_look_like",
-        "publisher": "Wikipedia",
+        "title": "Dr Pepper",
+        "url": "https://www.britannica.com/topic/Dr-Pepper",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "Dr. Pepper",
-        "url": "https://en.wikipedia.org/wiki/Dr._Pepper",
-        "publisher": "Wikipedia",
+        "title": "faq",
+        "url": "https://www.drpepper.com/en-us/faq",
+        "publisher": "reference",
         "type": "reference"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Dr_Pepper_logo.svg",
+      "description": "Fact-specific image",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
