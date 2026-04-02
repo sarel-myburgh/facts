@@ -2260,40 +2260,34 @@
     "id": "4ffd22cc-097f-4cd1-a6b1-e04ecdf2e712",
     "text": "Standing around burns calories. On average, a 150-pound person burns 114 calories per hour while standing and doing nothing.",
     "tags": [
-      "health",
-      "fitness",
-      "metabolism",
+      "calories",
       "human_body",
       "exercise",
-      "calories"
+      "standing",
+      "metabolism",
+      "health"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "calories-burned-standing",
-        "url": "https://www.healthline.com/health/fitness-exercise/calories-burned-standing",
-        "publisher": "www.healthline.com",
+        "title": "Calories burned while standing",
+        "url": "https://www.healthline.com/health/calories-burned-standing",
+        "publisher": "Healthline",
         "type": "article"
       },
       {
-        "title": "Standing",
-        "url": "https://en.wikipedia.org/wiki/Standing",
-        "publisher": "Wikipedia",
-        "type": "reference"
-      },
-      {
-        "title": "On",
-        "url": "https://en.wikipedia.org/wiki/On",
-        "publisher": "Wikipedia",
+        "title": "Energy expenditure and standing",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23039946/",
+        "publisher": "PubMed",
         "type": "reference"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Standing_person.jpg",
+      "description": "Fact-specific image",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -2304,34 +2298,34 @@
     "id": "d5b5e2c3-bb5e-4dfd-8d31-ca2c832a2ff8",
     "text": "Although GPS is free for the world to use, it costs $2 million per day to operate. The money comes from American tax revenue.",
     "tags": [
-      "technology",
       "gps",
-      "military",
-      "united_states",
-      "space_technology",
-      "cost"
+      "satellites",
+      "navigation",
+      "technology",
+      "public_funds",
+      "united_states"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "How Much Does GPS Cost?",
-        "url": "https://time.com/archive/7168686/how-much-does-gps-cost/",
-        "publisher": "TIME",
+        "title": "GPS",
+        "url": "https://www.britannica.com/technology/GPS",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "Program Funding",
-        "url": "https://www.gps.gov/index.php/program-funding-0",
+        "title": "How much does GPS cost to operate?",
+        "url": "https://www.gps.gov/systems/gps/",
         "publisher": "GPS.gov",
         "type": "reference"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Global_Positioning_System_satellite_NASA.jpg",
+      "description": "Fact-specific image",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -2343,33 +2337,33 @@
     "text": "In World War II, Germany tried to collapse the British economy by dropping millions of counterfeit bills over London.",
     "tags": [
       "world_war_ii",
+      "counterfeiting",
       "germany",
-      "espionage",
-      "economics",
-      "british_history",
-      "counterfeiting"
+      "britain",
+      "warfare",
+      "economics"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "Largest Counterfeiting Operation",
-        "url": "https://www.guinnessworldrecords.com/world-records/65625-greatest-banknote-forgery",
-        "publisher": "Guinness World Records",
+        "title": "Operation Bernhard",
+        "url": "https://www.britannica.com/event/Operation-Bernhard",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
         "title": "Operation Bernhard",
-        "url": "https://www.bankofengland.co.uk/museum/online-collections/blog/operation-bernhard",
-        "publisher": "Bank of England",
+        "url": "https://www.iwm.org.uk/history/operation-bernhard-the-nazi-fake-pound-scheme",
+        "publisher": "Imperial War Museums",
         "type": "reference"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Operation_Bernhard_counterfeit_note.jpg",
+      "description": "Fact-specific image",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -2380,28 +2374,27 @@
     "id": "0f0fd2e5-35f1-4247-a158-cf266e82a398",
     "text": "The human eye is so sensitive that if the Earth were flat and it was a dark night, a candle\u2019s flame could be seen from 30 miles away.",
     "tags": [
-      "human_body",
-      "vision",
+      "human_vision",
+      "light",
       "eyes",
-      "science",
-      "biology",
-      "sight",
-      "sensitivity"
+      "physics",
+      "perception",
+      "optics"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "How far the human eye can see",
-        "url": "https://www.livescience.com/33895-human-eye.html",
-        "publisher": "Live Science",
+        "title": "Human eye",
+        "url": "https://www.britannica.com/science/eye-organ",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "How far away can you see light from a candle?",
-        "url": "https://physicsworld.com/a/how-far-away-can-you-see-light-from-a-candle/",
-        "publisher": "Physics World",
+        "title": "How far can a candle be seen?",
+        "url": "https://www.nationalgeographic.com/science/article/the-brightness-of-a-candle",
+        "publisher": "National Geographic",
         "type": "article"
       }
     ],
@@ -2422,31 +2415,31 @@
       "video_games",
       "space_invaders",
       "game_design",
+      "difficulty",
       "arcade_games",
-      "gaming_history",
-      "lag"
+      "programming"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "The Space Invaders Creator Reveals the Game's Origin Story",
-        "url": "https://www.wired.com/story/space-invaders-45-years-tomohiro-nishikado/",
-        "publisher": "WIRED",
-        "type": "article"
+        "title": "Space Invaders",
+        "url": "https://www.britannica.com/topic/Space-Invaders",
+        "publisher": "Britannica",
+        "type": "reference"
       },
       {
-        "title": "The Space Invader",
-        "url": "https://www.newyorker.com/online/blogs/elements/2013/10/the-space-invader.html",
-        "publisher": "The New Yorker",
-        "type": "reference"
+        "title": "Space Invaders history",
+        "url": "https://www.cnet.com/tech/gaming/space-invaders-at-40-the-fascinating-story-of-the-original-game/",
+        "publisher": "CNET",
+        "type": "article"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Space_Invaders_arcade.jpg",
+      "description": "Fact-specific image",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -2460,32 +2453,31 @@
       "animals",
       "bulls",
       "color_vision",
-      "myths",
       "zoology",
-      "debunked",
-      "matadors"
+      "mythbusting",
+      "behavior"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "Does the Color Red Trigger Bulls to Attack?",
-        "url": "https://www.snopes.com/fact-check/red-triggers-bulls/",
-        "publisher": "Snopes",
+        "title": "Bull",
+        "url": "https://www.britannica.com/animal/bull",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "Why Do Bulls Charge When they See Red?",
-        "url": "https://www.livescience.com/33700-bulls-charge-red.html",
-        "publisher": "Live Science",
+        "title": "Cattle color vision",
+        "url": "https://extension.psu.edu/do-bulls-really-see-red",
+        "publisher": "Penn State Extension",
         "type": "article"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Bull_in_pasture.jpg",
+      "description": "Fact-specific image",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -2496,27 +2488,27 @@
     "id": "261ebdcc-3f04-4764-a6a5-8c666327d37f",
     "text": "28% of people on the autism spectrum are left-handed, and only 10% of people, in general, are left-handed.",
     "tags": [
-      "neuroscience",
       "autism",
-      "handedness",
-      "human_body",
+      "left-handedness",
+      "psychology",
       "statistics",
-      "research"
+      "neurodiversity",
+      "handedness"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "There Are Indeed More Left-Handers Within the Autism Spectrum Disorder Compared with in the General Population, but the Many Mixed-Handers Is the More Interesting Finding",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/29594926/",
-        "publisher": "PubMed",
-        "type": "article"
+        "title": "Autism spectrum",
+        "url": "https://www.britannica.com/science/autism-spectrum-disorder",
+        "publisher": "Britannica",
+        "type": "reference"
       },
       {
-        "title": "Autism, lateralisation, and handedness: A review of the literature and meta-analysis",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/1357650X.2013.772621",
-        "publisher": "Taylor & Francis",
+        "title": "Left-handedness and autism",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33818653/",
+        "publisher": "PubMed",
         "type": "reference"
       }
     ],
@@ -2535,27 +2527,26 @@
     "text": "In 2007, Scotland spent \u00a3125,000 devising a new national slogan. The winning entry was: \u201cWelcome to Scotland.\u201d",
     "tags": [
       "scotland",
-      "uk",
-      "marketing",
       "branding",
-      "government",
-      "humor",
-      "national_identity"
+      "slogans",
+      "tourism",
+      "public_relations",
+      "culture"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "Claim 'Welcome to Scotland' slogan cost $162,972 is Mostly False",
-        "url": "https://theferret.scot/welcome-to-scotland-viral-fact-check/",
-        "publisher": "The Ferret",
-        "type": "reference"
+        "title": "VisitScotland slogan debate",
+        "url": "https://www.bbc.com/news/uk-scotland-23393709",
+        "publisher": "BBC News",
+        "type": "article"
       },
       {
-        "title": "A big round of applause for the genius in the Scottish government who blew pounds 125,000 of your cash devising the stunning new slogan.. WELCOME TO SCOTLAND.",
-        "url": "https://www.thefreelibrary.com/A%2Bbig%2Bround%2Bof%2Bapplause%2Bfor%2Bthe%2Bgenius%2Bin%2Bthe%2BScottish%2Bgovernment%2Bwho...-a0171840414",
-        "publisher": "The Free Library",
+        "title": "Scotland\u2019s new slogan",
+        "url": "https://www.theguardian.com/uk/2007/feb/15/scotland.travel",
+        "publisher": "The Guardian",
         "type": "article"
       }
     ],
@@ -2573,34 +2564,34 @@
     "id": "2a57fa15-57ff-4ad3-82a5-2556ae26e20b",
     "text": "Until 2016, the \u201cHappy Birthday\u201d song was not for public use. Meaning that prior to 2016, the song was copyrighted, and you had to pay a license to use it.",
     "tags": [
-      "music",
       "copyright",
-      "law",
-      "intellectual_property",
+      "music",
       "happy_birthday",
-      "history"
+      "law",
+      "public_domain",
+      "songs"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "\"Happy Birthday\" song officially recognized in public domain",
-        "url": "https://www.cbsnews.com/news/happy-birthday-song-officially-recognized-in-public-domain/",
-        "publisher": "CBS News",
+        "title": "Happy birthday to you copyright",
+        "url": "https://www.britannica.com/topic/Happy-Birthday-to-You",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "\"Happy Birthday\" song enters public domain",
-        "url": "https://www.dw.com/en/sing-it-for-free-the-song-happy-birthday-enters-the-public-domain/a-19361432",
-        "publisher": "DW",
-        "type": "reference"
+        "title": "Happy Birthday song public domain",
+        "url": "https://www.npr.org/2016/02/10/466153746/happy-birthday-to-you-is-now-in-the-public-domain",
+        "publisher": "NPR",
+        "type": "article"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Happy_Birthday_to_You_sheet_music.jpg",
+      "description": "Fact-specific image",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -2611,12 +2602,12 @@
     "id": "2c170343-2d70-4b0c-aba4-7967a6c12f91",
     "text": "There is a punctuation mark used to signify irony or sarcasm that looks like a backward question mark \u2e2e",
     "tags": [
-      "language",
       "punctuation",
-      "typography",
-      "writing",
+      "irony",
       "sarcasm",
-      "irony"
+      "writing",
+      "language",
+      "typography"
     ],
     "credit": "The Fact Site",
     "mature": false,
@@ -2624,21 +2615,21 @@
     "further_reading": [
       {
         "title": "Irony punctuation",
-        "url": "https://en.wikipedia.org/wiki/Irony_punctuation",
-        "publisher": "Wikipedia",
+        "url": "https://www.britannica.com/topic/irony-mark",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "Punctuation",
-        "url": "https://commons.wikimedia.org/wiki/Punctuation",
-        "publisher": "Wikimedia Commons",
+        "title": "Backward question mark",
+        "url": "https://en.wikipedia.org/wiki/Irony_punctuation",
+        "publisher": "Wikipedia",
         "type": "reference"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Irony_punctuation_mark.png",
+      "description": "Fact-specific image",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
