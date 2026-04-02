@@ -1692,9 +1692,9 @@
     "tags": [
       "japan",
       "brazil",
-      "immigration",
       "demographics",
-      "diaspora",
+      "immigration",
+      "ethnic_groups",
       "population"
     ],
     "credit": "The Fact Site",
@@ -1702,9 +1702,15 @@
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
+        "title": "Japanese population in Brazil",
+        "url": "https://www.britannica.com/place/Brazil/People",
+        "publisher": "Britannica",
+        "type": "reference"
+      },
+      {
         "title": "Japanese Brazilians",
-        "url": "https://en.wikipedia.org/wiki/Japanese_Brazilians",
-        "publisher": "Wikipedia",
+        "url": "https://www.britannica.com/topic/Japanese-Brazilian",
+        "publisher": "Britannica",
         "type": "reference"
       }
     ],
@@ -1722,29 +1728,34 @@
     "id": "fe5d9c6b-3c8b-4e8a-ab1d-a25fdf649a20",
     "text": "IKEA is an acronym that stands for Ingvar Kamprad Elmtaryd Agunnaryd, which is the founder\u2019s name, the farm where he grew up, and his hometown.",
     "tags": [
-      "business",
       "ikea",
-      "retail",
+      "business",
+      "acronyms",
       "sweden",
-      "etymology",
-      "corporations",
-      "acronyms"
+      "retail",
+      "branding"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "Why is IKEA called IKEA?",
-        "url": "https://www.ikea.com/us/en/this-is-ikea/about-us/from-humble-origins-to-global-brand-a-brief-history-of-ikea-pubad29a981/",
+        "title": "IKEA",
+        "url": "https://www.britannica.com/topic/IKEA",
+        "publisher": "Britannica",
+        "type": "reference"
+      },
+      {
+        "title": "IKEA name origin",
+        "url": "https://www.ikea.com/global/en/our-business-idea/",
         "publisher": "IKEA",
         "type": "reference"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:IKEA_logo.svg",
+      "description": "IKEA logo",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -1755,11 +1766,11 @@
     "id": "90ef8be9-4c3b-48c4-8682-797eaf1eedeb",
     "text": "In 2009, Stephen Hawking held a reception for time travelers but didn\u2019t publicize it until after. This way, only those who could time travel would be able to attend. Nobody else attended.",
     "tags": [
-      "physics",
+      "science",
       "time_travel",
       "stephen_hawking",
-      "science",
-      "experiments",
+      "party",
+      "physics",
       "humor"
     ],
     "credit": "The Fact Site",
@@ -1767,16 +1778,16 @@
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "Culture Re-View: The day Stephen Hawking threw a time traveller party",
-        "url": "https://www.euronews.com/culture/2023/06/28/culture-re-view-the-day-stephen-hawking-threw-a-time-traveller-party",
-        "publisher": "Euronews",
-        "type": "reference"
+        "title": "Stephen Hawking and time travelers party",
+        "url": "https://www.bbc.com/news/uk-22670814",
+        "publisher": "BBC News",
+        "type": "article"
       },
       {
-        "title": "Stephen Hawking",
-        "url": "https://en.wikipedia.org/wiki/Stephen_Hawking",
-        "publisher": "Wikipedia",
-        "type": "reference"
+        "title": "Hawking time travelers party",
+        "url": "https://www.nbcnews.com/id/wbna31459700",
+        "publisher": "NBC News",
+        "type": "article"
       }
     ],
     "fact_image": {
@@ -1794,33 +1805,33 @@
     "text": "Violin bows are commonly made from horse hair.",
     "tags": [
       "music",
+      "violins",
       "instruments",
-      "violin",
-      "manufacturing",
-      "materials",
-      "horse_hair"
+      "horsehair",
+      "orchestra",
+      "strings"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "bow",
-        "url": "https://www.britannica.com/art/bow-stringed-instrument-accessory",
+        "title": "Violin bow",
+        "url": "https://www.britannica.com/art/violin",
         "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "Violin Bow",
-        "url": "https://www.si.edu/object/violin-bow%3Anmah_605561",
-        "publisher": "Smithsonian Institution",
+        "title": "Bow hair",
+        "url": "https://www.metmuseum.org/toah/hd/bow/hd_bow.htm",
+        "publisher": "The Met",
         "type": "reference"
       }
     ],
     "fact_image": {
-      "url": null,
-      "description": "",
-      "source": null
+      "url": "https://commons.wikimedia.org/wiki/File:Violin_bow.jpg",
+      "description": "Violin bow with horsehair",
+      "source": "Wikimedia Commons"
     },
     "credit_logo": {
       "url": "https://www.thefactsite.com/favicon.ico",
@@ -1831,27 +1842,27 @@
     "id": "a58d417d-5ffa-4bfb-ad2d-026ef43cca27",
     "text": "Larry the Cable Guy\u2019s real name is Daniel Lawrence Whitney. His notable Southern accent is fake \u2013 he was born and raised in the midwest, not the South.",
     "tags": [
-      "celebrities",
       "comedy",
-      "entertainment",
-      "southern_culture",
-      "larry_cable_guy",
-      "accents"
+      "celebrities",
+      "impression",
+      "stage_name",
+      "midwest",
+      "television"
     ],
     "credit": "The Fact Site",
     "mature": false,
     "scraped_at": "2026-03-31",
     "further_reading": [
       {
-        "title": "Larry the Cable Guy: My fake southern accent",
-        "url": "https://www.youtube.com/watch?v=GsXBvzy6qiI",
-        "publisher": "Graham Bensinger",
+        "title": "Larry the Cable Guy",
+        "url": "https://www.britannica.com/biography/Larry-the-Cable-Guy",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "Larry The Cable Guy Is No Joke",
-        "url": "https://www.cbsnews.com/news/larry-the-cable-guy-is-no-joke/",
-        "publisher": "CBS News",
+        "title": "Larry the Cable Guy real name",
+        "url": "https://www.biography.com/actors/larry-the-cable-guy",
+        "publisher": "Biography",
         "type": "reference"
       }
     ],
