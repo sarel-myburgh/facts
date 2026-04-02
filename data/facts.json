@@ -16,7 +16,7 @@
     "link": "https://en.wikipedia.org/wiki/Cold-stimulus_headache",
     "further_reading": [
       {
-        "title": "Brain Freeze",
+        "title": "Cold-Stimulus Headache",
         "url": "https://my.clevelandclinic.org/health/diseases/21478-brain-freeze",
         "publisher": "Cleveland Clinic",
         "type": "article"
@@ -100,6 +100,12 @@
         "url": "https://science.nasa.gov/science-research/planetary-science/13oct_moonvolcano/",
         "publisher": "NASA Science",
         "type": "article"
+      },
+      {
+        "title": "NASA Mission Finds Widespread Evidence of Young Lunar Volcanism",
+        "url": "https://www.nasa.gov/news-release/nasa-mission-finds-widespread-evidence-of-young-lunar-volcanism/",
+        "publisher": "NASA",
+        "type": "article"
       }
     ],
     "fact_image": {
@@ -161,14 +167,14 @@
     "link": "https://www.psychologytoday.com/us/blog/evolution-the-self/202111/13-reasons-why-high-iq-can-make-you-less-happy",
     "further_reading": [
       {
-        "title": "13 Reasons Why High IQ Can Make You Less Happy",
-        "url": "https://www.psychologytoday.com/us/blog/evolution-the-self/202111/13-reasons-why-high-iq-can-make-you-less-happy",
-        "publisher": "Psychology Today",
-        "type": "article"
+        "title": "The relationship between happiness and intelligent quotient: the contribution of socioeconomic and clinical factors",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22998852/",
+        "publisher": "PubMed",
+        "type": "reference"
       },
       {
-        "title": "The relationship between happiness and intelligent quotient",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/22998852/",
+        "title": "Why is intelligence associated with stability of happiness?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24943404/",
         "publisher": "PubMed",
         "type": "reference"
       }
@@ -200,7 +206,7 @@
     "link": "https://en.wikipedia.org/wiki/Grizzly%E2%80%93polar_bear_hybrid",
     "further_reading": [
       {
-        "title": "Grizzly-Polar Bear Hybrid Found-But What Does It Mean?",
+        "title": "Grizzly-Polar Bear Hybrid Found\u2014But What Does It Mean?",
         "url": "https://www.nationalgeographic.com/animals/article/grizzly-polar-bear-hybrid-animals",
         "publisher": "National Geographic",
         "type": "article"
