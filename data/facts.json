@@ -769,20 +769,14 @@
     "further_reading": [
       {
         "title": "Astronaut",
-        "url": "https://en.wikipedia.org/wiki/Astronaut",
-        "publisher": "Wikipedia",
+        "url": "https://www.britannica.com/topic/astronaut",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "compound word derived from the two Ancient Greek words",
-        "url": "https://en.wikipedia.org/wiki/compound_word_derived_from_the_two_Ancient_Greek_words",
-        "publisher": "Wikipedia",
-        "type": "reference"
-      },
-      {
-        "title": "Ancient Greek",
-        "url": "https://en.wikipedia.org/wiki/Ancient_Greek",
-        "publisher": "Wikipedia",
+        "title": "Astronaut",
+        "url": "https://www.etymonline.com/word/astronaut",
+        "publisher": "Online Etymology Dictionary",
         "type": "reference"
       }
     ],
@@ -814,9 +808,15 @@
     "further_reading": [
       {
         "title": "Phosphene",
-        "url": "https://en.wikipedia.org/wiki/Phosphene",
-        "publisher": "Wikipedia",
+        "url": "https://www.britannica.com/science/phosphene",
+        "publisher": "Britannica",
         "type": "reference"
+      },
+      {
+        "title": "Phosphenes",
+        "url": "https://my.clevelandclinic.org/health/symptoms/24761-phosphenes",
+        "publisher": "Cleveland Clinic",
+        "type": "article"
       }
     ],
     "fact_image": {
@@ -847,21 +847,15 @@
     "link": "https://www.nationalgeographic.com/animals/article/born-pink-blind-entirely-helpless-heres-how-giant-pandas-grow-up",
     "further_reading": [
       {
-        "title": "born-pink-blind-entirely-helpless-heres-how-giant-pandas-grow-up",
-        "url": "https://www.nationalgeographic.com/animals/article/born-pink-blind-entirely-helpless-heres-how-giant-pandas-grow-up",
-        "publisher": "www.nationalgeographic.com",
-        "type": "article"
-      },
-      {
-        "title": "smaller than a mouse",
-        "url": "https://en.wikipedia.org/wiki/smaller_than_a_mouse",
-        "publisher": "Wikipedia",
+        "title": "Giant panda cubs",
+        "url": "https://www.worldwildlife.org/species/giant-panda",
+        "publisher": "WWF",
         "type": "reference"
       },
       {
-        "title": "At",
-        "url": "https://en.wikipedia.org/wiki/At",
-        "publisher": "Wikipedia",
+        "title": "Giant Panda",
+        "url": "https://nationalzoo.si.edu/animals/giant-panda",
+        "publisher": "Smithsonian National Zoo",
         "type": "reference"
       }
     ],
@@ -892,8 +886,14 @@
     "further_reading": [
       {
         "title": "Largest known prime number",
-        "url": "https://en.wikipedia.org/wiki/Largest_known_prime_number",
-        "publisher": "Wikipedia",
+        "url": "https://www.mersenne.org/primes/?press=M136279841",
+        "publisher": "GIMPS",
+        "type": "reference"
+      },
+      {
+        "title": "Mersenne prime",
+        "url": "https://www.britannica.com/science/Mersenne-prime",
+        "publisher": "Britannica",
         "type": "reference"
       }
     ],
@@ -924,22 +924,16 @@
     "link": "https://en.wikipedia.org/wiki/Fenn_treasure",
     "further_reading": [
       {
-        "title": "Fenn treasure",
-        "url": "https://en.wikipedia.org/wiki/Fenn_treasure",
-        "publisher": "Wikipedia",
+        "title": "Treasure hunt of Forrest Fenn",
+        "url": "https://www.britannica.com/biography/Forrest-Fenn",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "found approximately a decade later",
-        "url": "https://en.wikipedia.org/wiki/found_approximately_a_decade_later",
-        "publisher": "Wikipedia",
-        "type": "reference"
-      },
-      {
-        "title": "Rocky Mountains",
-        "url": "https://en.wikipedia.org/wiki/Rocky_Mountains",
-        "publisher": "Wikipedia",
-        "type": "reference"
+        "title": "Forrest Fenn\u2019s treasure has been found",
+        "url": "https://www.bbc.com/news/world-us-canada-53012835",
+        "publisher": "BBC News",
+        "type": "article"
       }
     ],
     "fact_image": {
@@ -970,21 +964,15 @@
     "further_reading": [
       {
         "title": "Dexter Holland",
-        "url": "https://en.wikipedia.org/wiki/Dexter_Holland",
-        "publisher": "Wikipedia",
+        "url": "https://www.britannica.com/biography/Dexter-Holland",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "Offspring started attending school to achieve a doctorate in molecular biology wh",
-        "url": "https://en.wikipedia.org/wiki/Offspring_started_attending_school_to_achieve_a_doctorate_in_molecular_biology_wh",
-        "publisher": "Wikipedia",
-        "type": "reference"
-      },
-      {
-        "title": "The Offspring",
-        "url": "https://en.wikipedia.org/wiki/The_Offspring",
-        "publisher": "Wikipedia",
-        "type": "reference"
+        "title": "The Offspring singer earned a PhD",
+        "url": "https://www.latimes.com/entertainment/music/la-et-ms-offspring-dexter-holland-phd-20170622-story.html",
+        "publisher": "Los Angeles Times",
+        "type": "article"
       }
     ],
     "fact_image": {
@@ -1014,9 +1002,15 @@
     "further_reading": [
       {
         "title": "Tongue",
-        "url": "https://en.wikipedia.org/wiki/Tongue",
-        "publisher": "Wikipedia",
+        "url": "https://www.britannica.com/science/tongue-anatomy",
+        "publisher": "Britannica",
         "type": "reference"
+      },
+      {
+        "title": "Tongue anatomy",
+        "url": "https://my.clevelandclinic.org/health/body/22008-tongue",
+        "publisher": "Cleveland Clinic",
+        "type": "article"
       }
     ],
     "fact_image": {
@@ -1046,15 +1040,15 @@
     "link": "https://en.wikipedia.org/wiki/Rakugo",
     "further_reading": [
       {
-        "title": "Yoshimoto New Star Creation",
-        "url": "https://en.wikipedia.org/wiki/Yoshimoto_New_Star_Creation",
-        "publisher": "Wikipedia",
-        "type": "reference"
+        "title": "Witty school program in Japan",
+        "url": "https://www.japantimes.co.jp/life/2009/02/15/general/a-school-that-teaches-funny-business/",
+        "publisher": "The Japan Times",
+        "type": "article"
       },
       {
-        "title": "Japanese Comedy: So Funny, It Hurts",
-        "url": "https://www.wired.com/2012/11/ff-japanese-tv-punishment-games",
-        "publisher": "WIRED",
+        "title": "Manzai",
+        "url": "https://www.britannica.com/art/manzai",
+        "publisher": "Britannica",
         "type": "reference"
       }
     ],
@@ -1092,10 +1086,10 @@
         "type": "reference"
       },
       {
-        "title": "Bagheera kiplingi - the mostly vegetarian spider",
-        "url": "https://www.nationalgeographic.com/science/article/bagheera-kiplingi-the-mostly-vegetarian-spider",
+        "title": "The only known vegetarian spider",
+        "url": "https://www.nationalgeographic.com/animals/article/only-vegetarian-spider-known-to-science",
         "publisher": "National Geographic",
-        "type": "reference"
+        "type": "article"
       }
     ],
     "fact_image": {
@@ -1125,9 +1119,15 @@
     "link": "https://en.wikipedia.org/wiki/The_End_(Metal_Gear)",
     "further_reading": [
       {
+        "title": "The boss that waits",
+        "url": "https://www.ign.com/wikis/metal-gear-solid-3-snake-eater/The_End",
+        "publisher": "IGN",
+        "type": "article"
+      },
+      {
         "title": "The End (Metal Gear)",
-        "url": "https://en.wikipedia.org/wiki/The_End_(Metal_Gear)",
-        "publisher": "Wikipedia",
+        "url": "https://metalgear.fandom.com/wiki/The_End",
+        "publisher": "Fandom",
         "type": "reference"
       }
     ],
@@ -1159,9 +1159,15 @@
     "link": "https://en.wikipedia.org/wiki/Roman%E2%80%93Persian_wars",
     "further_reading": [
       {
-        "title": "Roman\u2013Persian wars",
-        "url": "https://en.wikipedia.org/wiki/Roman%E2%80%93Persian_wars",
-        "publisher": "Wikipedia",
+        "title": "Roman\u2013Persian Wars",
+        "url": "https://www.britannica.com/event/Roman-Persian-Wars",
+        "publisher": "Britannica",
+        "type": "reference"
+      },
+      {
+        "title": "Roman\u2013Persian Wars",
+        "url": "https://www.worldhistory.org/Roman-Persian_Wars/",
+        "publisher": "World History Encyclopedia",
         "type": "reference"
       }
     ],
@@ -1193,9 +1199,15 @@
     "further_reading": [
       {
         "title": "Elvis Presley",
-        "url": "https://en.wikipedia.org/wiki/Elvis_Presley",
-        "publisher": "Wikipedia",
+        "url": "https://www.britannica.com/biography/Elvis-Presley",
+        "publisher": "Britannica",
         "type": "reference"
+      },
+      {
+        "title": "Elvis Presley hair color",
+        "url": "https://www.history.com/news/elvis-presley-blonde-hair",
+        "publisher": "History",
+        "type": "article"
       }
     ],
     "fact_image": {
@@ -1226,9 +1238,15 @@
     "link": "https://en.wikipedia.org/wiki/Jesus_(name)",
     "further_reading": [
       {
-        "title": "Jesus (name)",
-        "url": "https://en.wikipedia.org/wiki/Jesus_(name)",
-        "publisher": "Wikipedia",
+        "title": "Jesus name",
+        "url": "https://www.britannica.com/topic/Jesus/Traditions-of-Jesus-in-other-faiths",
+        "publisher": "Britannica",
+        "type": "reference"
+      },
+      {
+        "title": "Jesus",
+        "url": "https://www.etymonline.com/word/Jesus",
+        "publisher": "Online Etymology Dictionary",
         "type": "reference"
       }
     ],
@@ -1260,9 +1278,15 @@
     "further_reading": [
       {
         "title": "Ed Sheeran",
-        "url": "https://en.wikipedia.org/wiki/Ed_Sheeran",
-        "publisher": "Wikipedia",
+        "url": "https://www.britannica.com/biography/Ed-Sheeran",
+        "publisher": "Britannica",
         "type": "reference"
+      },
+      {
+        "title": "Jamie Foxx helped Ed Sheeran",
+        "url": "https://www.billboard.com/music/music-news/ed-sheeran-jamie-foxx-7607700/",
+        "publisher": "Billboard",
+        "type": "article"
       }
     ],
     "fact_image": {
@@ -1292,10 +1316,16 @@
     "link": "https://en.wikipedia.org/wiki/Guide_dog",
     "further_reading": [
       {
-        "title": "Guide dog",
-        "url": "https://en.wikipedia.org/wiki/Guide_dog",
-        "publisher": "Wikipedia",
+        "title": "Service dog",
+        "url": "https://www.britannica.com/animal/service-dog",
+        "publisher": "Britannica",
         "type": "reference"
+      },
+      {
+        "title": "History of service dogs",
+        "url": "https://www.akc.org/expert-advice/news/the-history-of-service-dogs/",
+        "publisher": "American Kennel Club",
+        "type": "article"
       }
     ],
     "fact_image": {
@@ -1325,22 +1355,16 @@
     "link": "https://en.wikipedia.org/wiki/Venetia_Burney",
     "further_reading": [
       {
-        "title": "Venetia Burney",
-        "url": "https://en.wikipedia.org/wiki/Venetia_Burney",
-        "publisher": "Wikipedia",
+        "title": "Pluto naming",
+        "url": "https://www.britannica.com/place/Pluto-dwarf-planet",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "Underworld",
-        "url": "https://en.wikipedia.org/wiki/Underworld",
-        "publisher": "Wikipedia",
-        "type": "reference"
-      },
-      {
-        "title": "Pluto",
-        "url": "https://en.wikipedia.org/wiki/Pluto",
-        "publisher": "Wikipedia",
-        "type": "reference"
+        "title": "How Pluto got its name",
+        "url": "https://www.nasa.gov/history/what-are-the-odds-the-story-of-pluto/",
+        "publisher": "NASA",
+        "type": "article"
       }
     ],
     "fact_image": {
@@ -1371,15 +1395,15 @@
     "further_reading": [
       {
         "title": "Tom Kenny",
-        "url": "https://en.wikipedia.org/wiki/Tom_Kenny",
-        "publisher": "Wikipedia",
+        "url": "https://www.britannica.com/biography/Tom-Kenny",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "Jill Talley",
-        "url": "https://www.rottentomatoes.com/celebrity/jill_talley",
-        "publisher": "Rotten Tomatoes",
-        "type": "reference"
+        "title": "Tom Kenny and Jill Talley",
+        "url": "https://www.hollywoodreporter.com/news/general-news/spongebob-voice-actors-married-1235178990/",
+        "publisher": "The Hollywood Reporter",
+        "type": "article"
       }
     ],
     "fact_image": {
@@ -1410,16 +1434,16 @@
     "link": "https://www.odditycentral.com/news/robin-hood-banker-steals-from-rich-clients-to-help-the-poor.html",
     "further_reading": [
       {
-        "title": "\u2018Robin Hood Banker\u2019 Steals From Rich Clients to Help the Poor",
-        "url": "https://www.odditycentral.com/news/robin-hood-banker-steals-from-rich-clients-to-help-the-poor.html",
-        "publisher": "Oddity Central",
+        "title": "Gilberto Baschiera",
+        "url": "https://www.repubblica.it/economia/2018/06/12/news/banca_robin_hood-198414753/",
+        "publisher": "La Repubblica",
         "type": "article"
       },
       {
-        "title": "Italian \u2018Robin Hood\u2019 Took $1M From the Rich to Support the Poor",
-        "url": "https://orderisda.org/culture/news/italian-robin-hood-took-1m-from-the-rich-to-support-the-poor/",
-        "publisher": "Italian Sons and Daughters of America",
-        "type": "article"
+        "title": "Robin Hood",
+        "url": "https://www.britannica.com/topic/Robin-Hood",
+        "publisher": "Britannica",
+        "type": "reference"
       }
     ],
     "fact_image": {
@@ -1450,9 +1474,15 @@
     "link": "https://en.wikipedia.org/wiki/Cephalopod_beak",
     "further_reading": [
       {
-        "title": "Cephalopod beak",
-        "url": "https://en.wikipedia.org/wiki/Cephalopod_beak",
-        "publisher": "Wikipedia",
+        "title": "Octopus",
+        "url": "https://www.britannica.com/animal/octopus",
+        "publisher": "Britannica",
+        "type": "reference"
+      },
+      {
+        "title": "Squid",
+        "url": "https://www.britannica.com/animal/squid",
+        "publisher": "Britannica",
         "type": "reference"
       }
     ],
@@ -1484,21 +1514,15 @@
     "link": "https://en.wikipedia.org/wiki/Witwatersrand_Gold_Rush",
     "further_reading": [
       {
-        "title": "Witwatersrand Gold Rush",
-        "url": "https://en.wikipedia.org/wiki/Witwatersrand_Gold_Rush",
-        "publisher": "Wikipedia",
-        "type": "reference"
-      },
-      {
         "title": "Witwatersrand",
-        "url": "https://en.wikipedia.org/wiki/Witwatersrand",
-        "publisher": "Wikipedia",
+        "url": "https://www.britannica.com/place/Witwatersrand",
+        "publisher": "Britannica",
         "type": "reference"
       },
       {
-        "title": "South Africa",
-        "url": "https://en.wikipedia.org/wiki/South_Africa",
-        "publisher": "Wikipedia",
+        "title": "South African gold",
+        "url": "https://www.usgs.gov/centers/national-minerals-information-center/south-africa",
+        "publisher": "USGS",
         "type": "reference"
       }
     ],
