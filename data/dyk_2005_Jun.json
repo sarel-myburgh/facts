@@ -1,0 +1,4381 @@
+{
+  "source": "dyk",
+  "period": "2005_Jun",
+  "facts": [
+    {
+      "id": "b302c235-10d3-4c01-a483-2f8eec2e12c0",
+      "hash": "86c1bb058dceb9c36f6dd5db8eb2d5a57f0e655ea5650090ebbf3a115c62449e",
+      "text": "Malian playwright and novelist Massa Makan Diabaté was the descendant of a long line of Malinké griots",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mali",
+          "title": "Mali",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Playwright",
+          "title": "Playwright",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Novelist",
+          "title": "Novelist",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Massa_Makan_Diabat%C3%A9",
+          "title": "Massa Makan Diabaté",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Malink%C3%A9",
+          "title": "Malinké",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Griot",
+          "title": "Griot",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "6cb1287b-418a-41db-9175-656a6635acdd",
+      "hash": "b76a1f347d2efda8992dd63fb2aa7fe60e9370c60991e016c4607d701b71476a",
+      "text": "Sabine Ehrenfeld, the Overstock.com spokesmodel, is fluent in German, French, English, and Italian and that she is an experienced pilot and equestrian",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Model_(person)",
+          "title": "Model (person)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/German_language",
+          "title": "German language",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/French_language",
+          "title": "French language",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/English_language",
+          "title": "English language",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Italian_language",
+          "title": "Italian language",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Aviator",
+          "title": "Aviator",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Equestrianism",
+          "title": "Equestrianism",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "11753e79-fe97-4608-83cd-e5146b426378",
+      "hash": "1fc6ab56ebade5b676f386a4b7f0e66b3520334af085e395e685e4a99238e16a",
+      "text": "Two widely-used maps of China's historical placenames independently published in Taiwan and China during the 1980s are both called Historical Atlas of China",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Map",
+          "title": "Map",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/History_of_China",
+          "title": "History of China",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Republic_of_China",
+          "title": "Republic of China",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/People%27s_Republic_of_China",
+          "title": "People's Republic of China",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1980s",
+          "title": "1980s",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Historical_Atlas_of_China",
+          "title": "Historical Atlas of China",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "d30f149d-6035-4a80-9974-284e92936b62",
+      "hash": "161e1026026b2d38c73aa5c50d278b016d2f50b637a436786f7129253ec05dc2",
+      "text": "In 1990, Czech and Slovak politicians \"fought\" the Hyphen War, a political battle over whether \" Czechoslovakia \" should be spelled with a hyphen",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1990",
+          "title": "1990",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Czech_Republic",
+          "title": "Czech Republic",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Slovakia",
+          "title": "Slovakia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hyphen_War",
+          "title": "Hyphen War",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Czechoslovakia",
+          "title": "Czechoslovakia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hyphen",
+          "title": "Hyphen",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "c4441e05-39cb-4a48-a93f-a40de183cd97",
+      "hash": "77f86fb74d620984d0cdcac159e808fda8c69dc8c443509fe195a1321a14e247",
+      "text": "The largest solar plant of the Alps was built on Loser mountain in Austria at 1,838 meters above sea level",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Solar_plant",
+          "title": "Solar plant",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alps",
+          "title": "Alps",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Loser_(mountain)",
+          "title": "Loser (mountain)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Austria",
+          "title": "Austria",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Meter",
+          "title": "Meter",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sea_level",
+          "title": "Sea level",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "e66f9c1f-1458-47ed-b791-8963bcaab15c",
+      "hash": "ea5e25edd072f6219ead130d8dc62f7d3b3e142e9de0bd63c59bc8c86be59f4d",
+      "text": "The Tibes Indigenous Ceremonial Center located in Ponce, Puerto Rico, is the oldest astronomical observatory in the Caribbean",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tibes_Indigenous_Ceremonial_Center",
+          "title": "Tibes Indigenous Ceremonial Center",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ponce,_Puerto_Rico",
+          "title": "Ponce, Puerto Rico",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "9daa1e98-c6cd-4da5-a802-387822c24564",
+      "hash": "cbe2af93c45dc2258ca5601e5c758a0b6f5a7d297b7d9b7d5cb3e11776aa15e1",
+      "text": "The Gaylord Opryland Resort & Convention Center in Nashville, Tennessee is the largest non-casino hotel in the world",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gaylord_Opryland_Resort_%26_Convention_Center",
+          "title": "Gaylord Opryland Resort & Convention Center",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nashville,_Tennessee",
+          "title": "Nashville, Tennessee",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "fbb16374-9a68-4471-b526-cb19a352e00e",
+      "hash": "908dff145c96c4cacf6685f5e062787d7d1840104d35be5818c7dd4107a2209f",
+      "text": "The late Shana Alexander was the first female columnist for Life magazine",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shana_Alexander",
+          "title": "Shana Alexander",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Life_(magazine)",
+          "title": "Life (magazine)",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "d8f46b44-5e6e-4ca5-b499-5662da75c94c",
+      "hash": "a505bc8b96f8a760469e6accef6fd3ffa560e9a2eb7dd47e4ed4f54c3e1f442e",
+      "text": "The Right Hegelians took the philosophy of Hegel in a politically and religiously conservative direction",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Right_Hegelians",
+          "title": "Right Hegelians",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Philosophy",
+          "title": "Philosophy",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+          "title": "Georg Wilhelm Friedrich Hegel",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Politics",
+          "title": "Politics",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Religion",
+          "title": "Religion",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Conservatism",
+          "title": "Conservatism",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "9c4520fc-2227-43c7-8ec6-2b03f57c0626",
+      "hash": "2738202cb382c3b8d60c998ede03532f80a85ea4517c843b734eff0dcd0b1ab3",
+      "text": "The Waterloo Vase is a massive marble urn, 15 feet (4.6 metres ) high and weighing 15 tons (13.6 metric tons ), which was commissioned by French leader Napoleon but ultimately became an ornament in the British monarch 's Buckingham Palace Gardens",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Waterloo_Vase",
+          "title": "Waterloo Vase",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marble",
+          "title": "Marble",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Urn",
+          "title": "Urn",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Foot_(unit_of_length)",
+          "title": "Foot (unit of length)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Metre",
+          "title": "Metre",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ton",
+          "title": "Ton",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Metric_ton",
+          "title": "Metric ton",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/France",
+          "title": "France",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Napoleon",
+          "title": "Napoleon",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/British_monarchy",
+          "title": "British monarchy",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Buckingham_Palace_Gardens",
+          "title": "Buckingham Palace Gardens",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "0a2e1933-ecda-43f5-8277-875a6a514931",
+      "hash": "72483a1a575b6928eadb04671db414acab37b5fa9c4daaf375ec757831972f16",
+      "text": "...that, in addition to hearing the landmark Napster and Bernstein cases, U.S. District Court Judge Marilyn Hall Patel vacated the World War II -era conviction of Japanese American Fred Korematsu",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Napster",
+          "title": "Napster",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bernstein_v._United_States",
+          "title": "Bernstein v. United States",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/U.S._District_Court_for_the_Northern_District_of_California",
+          "title": "U.S. District Court for the Northern District of California",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marilyn_Hall_Patel",
+          "title": "Marilyn Hall Patel",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/World_War_II",
+          "title": "World War II",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Japanese_American",
+          "title": "Japanese American",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Fred_Korematsu",
+          "title": "Fred Korematsu",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "61354c75-3597-42c9-896f-9d07bc7cb34d",
+      "hash": "44d3d0d24a9ab79157f4bf8583afdd062f2f8bcf98dd93833c000c7e7bdd55c1",
+      "text": "French Army soldiers killed between 15,000 and 45,000 Algerian civilians in the Setif massacre of May 8, 1945, the same day as V-E day in Europe",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/French_Army",
+          "title": "French Army",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Algeria",
+          "title": "Algeria",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Setif_massacre",
+          "title": "Setif massacre",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/May_8",
+          "title": "May 8",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1945",
+          "title": "1945",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Victory_in_Europe_Day",
+          "title": "Victory in Europe Day",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Europe",
+          "title": "Europe",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "22d6ed56-ac2d-4192-bb47-7e79bbc9f653",
+      "hash": "365ed2ab7d5683be5fb47f4470f75bc48e8a50aa42834c78642ea68dc53dde7e",
+      "text": "The 1984 Murray Head hit \" One Night In Bangkok,\" from the musical Chess, gained newfound popularity in 2005 due to a remix by the dance act Vinylshakerz",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1984",
+          "title": "1984",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Murray_Head",
+          "title": "Murray Head",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/One_Night_In_Bangkok",
+          "title": "One Night In Bangkok",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Musical",
+          "title": "Musical",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chess_(musical)",
+          "title": "Chess (musical)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2005",
+          "title": "2005",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dance_music",
+          "title": "Dance music",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Vinylshakerz",
+          "title": "Vinylshakerz",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "d0a03c86-3bd6-42d6-9ebd-cc1d55ee7410",
+      "hash": "83729735bb12e1088d7ea100900159a4e3a67265d7fd598250cc174b8c0c11f0",
+      "text": "The Canadian postage stamp of Acadian Deportation 1755-2005 encorporates a stamp of Grand Pré, Nova Scotia, from 1930",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Grand_Pr%C3%A9,_Nova_Scotia",
+          "title": "Grand Pré, Nova Scotia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1930",
+          "title": "1930",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "18423016-0c06-4d57-a247-569e0268b2f9",
+      "hash": "8354ba1350a80356f22528603da1fc0bace7a0ddba5a05145050cb4b7d6656bd",
+      "text": "Mastoiditis is an infection that can result from untreated middle ear infections",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mastoiditis",
+          "title": "Mastoiditis",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Infection",
+          "title": "Infection",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Otitis_media",
+          "title": "Otitis media",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "bf0a7a7d-b826-4d0f-aad7-5790ea3aa29b",
+      "hash": "bcff8b052b31aec6ae9ff2d70ac9c02f6112bc03cbec3379dbf097d086b23f39",
+      "text": "The Turin Papyrus, prepared about 1160 BC for Ramesses IV 's quarrying expedition to Wadi Hammamat near the Red Sea, is the earliest known geologic map",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Turin_Papyrus",
+          "title": "Turin Papyrus",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1160_BC",
+          "title": "1160 BC",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ramesses_IV",
+          "title": "Ramesses IV",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Red_Sea",
+          "title": "Red Sea",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Geologic_map",
+          "title": "Geologic map",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "09e7e5f9-e1a6-4939-892a-937e52aeed6f",
+      "hash": "3f3881e288d42c1cf413b5f04e111b2482712ae99eaa15cb1fcaca11b6f8c4f0",
+      "text": "Actor and amateur racing-car driver Skipp Sudduth performed almost all the high-speed driving done by his character in the movie Ronin",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Acting",
+          "title": "Acting",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Skipp_Sudduth",
+          "title": "Skipp Sudduth",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ronin_(movie)",
+          "title": "Ronin (movie)",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "23ebfbd5-0e29-48a6-8bcf-da469743d4f3",
+      "hash": "bd0578baf302fe003f5a02006334fe05b7d5abf34775bdefb0438e82df646844",
+      "text": "The Heart of Midlothian, the seventh of Sir Walter Scott's Waverley novels, was the first in the series to have a female protagonist",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Heart_of_Midlothian",
+          "title": "The Heart of Midlothian",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Walter_Scott",
+          "title": "Walter Scott",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Protagonist",
+          "title": "Protagonist",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "94c15176-dfcf-4a3f-a526-3dcd6704239c",
+      "hash": "28041c32acb5b1b1710bb99ea2e6fe6e894ac002bf3b353ff0b61cefaac90655",
+      "text": "In 1911, Charles Rosher, working for David Horsley 's production company, became Hollywood's first full-time cameraman",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1911",
+          "title": "1911",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Charles_Rosher",
+          "title": "Charles Rosher",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Horsley",
+          "title": "David Horsley",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hollywood",
+          "title": "Hollywood",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cameraman",
+          "title": "Cameraman",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "c57f33f4-eacd-43be-a520-b97ea0db89de",
+      "hash": "21341b9bd184e19fbea0c6ee05df6a3c04a6b651cf414c05b7cbf9b273653136",
+      "text": "Nickajack was the name of a proposed neutral state made up of Unionist areas of North Alabama and East Tennessee in the period leading up to the American Civil War",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nickajack",
+          "title": "Nickajack",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Neutral_country",
+          "title": "Neutral country",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Union_(American_Civil_War)",
+          "title": "Union (American Civil War)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/North_Alabama",
+          "title": "North Alabama",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/East_Tennessee",
+          "title": "East Tennessee",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Origins_of_the_American_Civil_War",
+          "title": "Origins of the American Civil War",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Civil_War",
+          "title": "American Civil War",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "6ac32df8-1d6c-4899-a144-664b0c56f81f",
+      "hash": "dc54edd0d5db514e8cb66a7ac9cd222c9cc6eee1a0e8d7f3f3bb87b01f4e2b54",
+      "text": "In the United States, a federal court can be classified as either an Article I or Article III tribunal",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States",
+          "title": "United States",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/U.S._federal_courts",
+          "title": "U.S. federal courts",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Article_I_and_Article_III_tribunals",
+          "title": "Article I and Article III tribunals",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "7d0496be-6c9f-4be4-9437-b6cdd774f0e5",
+      "hash": "01d168b05369391952c4741ded77c01250c051741cdb2e5bada0c7fea97feb66",
+      "text": "Japan and Poland are the world's largest krill fishing nations since Russia abandoned its operations in 1993",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Japan",
+          "title": "Japan",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Poland",
+          "title": "Poland",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Krill_fishery",
+          "title": "Krill fishery",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Russia",
+          "title": "Russia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1993",
+          "title": "1993",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "97dca838-5e0f-442a-998c-232a4ede81a3",
+      "hash": "5a3d0fac1b634b6b05b9e179bfd6c09eec7e9e7166176e156eda60547ab384ae",
+      "text": "Jockey Kent Desormeaux and his horse Real Quiet missed thoroughbred horse racing immortality by a few inches",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jockey",
+          "title": "Jockey",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kent_Desormeaux",
+          "title": "Kent Desormeaux",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Real_Quiet",
+          "title": "Real Quiet",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Thoroughbred_horse_racing",
+          "title": "Thoroughbred horse racing",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "7d1fbfe5-fa7d-4f86-ba63-142ee832c9e4",
+      "hash": "f7ff84add6f7d762c3e4e68ff46b069c6a6d688c236003fcac41cad4d2ce3b5e",
+      "text": "Norwegian football commentator Bjørge Lillelien famously taunted Margaret Thatcher after Norway 's victory over England in 1981",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Norway",
+          "title": "Norway",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Football_(soccer)",
+          "title": "Football (soccer)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Commentator",
+          "title": "Commentator",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bj%C3%B8rge_Lillelien",
+          "title": "Bjørge Lillelien",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+          "title": "Margaret Thatcher",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Norway_national_football_team",
+          "title": "Norway national football team",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/England_national_football_team",
+          "title": "England national football team",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1981",
+          "title": "1981",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "091f260e-dee5-42dc-80c6-579fc3d4b788",
+      "hash": "747767862d8450caf2c3b9fc63af70ea9ee33dfccdaff05d088a905414eded1f",
+      "text": "Love Israel, a cult in northern Washington, filed for bankruptcy and then sold their commune to the Union for Reform Judaism to become their 13th summer camp",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Love_Israel",
+          "title": "Love Israel",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cult",
+          "title": "Cult",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Washington",
+          "title": "Washington",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Commune",
+          "title": "Commune",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Union_for_Reform_Judaism",
+          "title": "Union for Reform Judaism",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "89033d56-316f-4ae8-a4b9-f30db310b649",
+      "hash": "47ada94703bcc452c84dc83ef12e0a1db58291122e3581c574042a0d522b17b7",
+      "text": "\" I Love to Singa, \" an Al Jolson song written by Harold Arlen and E.Y. Harburg, is also the title of a popular 1936 Merrie Melodies cartoon",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/I_Love_to_Singa",
+          "title": "I Love to Singa",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Al_Jolson",
+          "title": "Al Jolson",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Harold_Arlen",
+          "title": "Harold Arlen",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/E.Y._Harburg",
+          "title": "E.Y. Harburg",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1936",
+          "title": "1936",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Merrie_Melodies",
+          "title": "Merrie Melodies",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cartoon",
+          "title": "Cartoon",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "e970340d-dbaa-4cc4-ab4b-a0130641467d",
+      "hash": "ab29b9d9fd4b7f255f46220099a1f84c780c696c6dd6bdaa8a6c9735316d0bb6",
+      "text": "Franco-Japanese relations were initiated by the 1615 visit of the Japanese samurai Hasekura Tsunenaga to the city of Saint-Tropez in Southern France",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Franco-Japanese_relations",
+          "title": "Franco-Japanese relations",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1615",
+          "title": "1615",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Samurai",
+          "title": "Samurai",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hasekura_Tsunenaga",
+          "title": "Hasekura Tsunenaga",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Saint-Tropez",
+          "title": "Saint-Tropez",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Southern_France",
+          "title": "Southern France",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "6ef80412-54fc-47bc-9d2a-9c568ec08710",
+      "hash": "02139406fac3f086a0f7f025e77b073f5fb1fa2d4366ad4054327996cbc7a91e",
+      "text": "...that, after being defrocked as a Church of England priest, Harold Davidson became a seaside entertainer and was killed in 1937 by a lion when he trod on its tail",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Defrocking",
+          "title": "Defrocking",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Church_of_England",
+          "title": "Church of England",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Harold_Davidson",
+          "title": "Harold Davidson",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1937",
+          "title": "1937",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lion",
+          "title": "Lion",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "3bba7122-fc34-4738-8f3d-4b715535ddbd",
+      "hash": "7d80e27f1f8e558bbe65b1269b8a8acfd52bdacee0772b37dde6f003e8c26d8c",
+      "text": "Distinguished recipients of the Grawemeyer Award for music composition have included Witold Lutosławski, György Ligeti, Pierre Boulez and John Adams",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Grawemeyer_Award_(Music_Composition)",
+          "title": "Grawemeyer Award (Music Composition)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Music",
+          "title": "Music",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Composer",
+          "title": "Composer",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Witold_Lutoslawski",
+          "title": "Witold Lutoslawski",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti",
+          "title": "György Ligeti",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pierre_Boulez",
+          "title": "Pierre Boulez",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Coolidge_Adams",
+          "title": "John Coolidge Adams",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "71fc25b2-cb9f-4d64-bdd0-f8a835080086",
+      "hash": "b05f88936d7cd92cbcfabef6c3572e521b5c7d95d5fed75abb7fab64aa38005a",
+      "text": "The General Council of the Valleys, the parliament of Andorra, has only 28 members",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/General_Council_of_the_Valleys",
+          "title": "General Council of the Valleys",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Parliament",
+          "title": "Parliament",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Andorra",
+          "title": "Andorra",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "fcb3c878-8274-47fc-8c38-d6e6226f8899",
+      "hash": "40a6c260ce774b26be3a464dd50544cea535d0bcd92d41a3b283a9948bad96aa",
+      "text": "Jesuit priest John Nobili founded Santa Clara University in 1851",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Society_of_Jesus",
+          "title": "Society of Jesus",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Priest",
+          "title": "Priest",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Nobili",
+          "title": "John Nobili",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Santa_Clara_University",
+          "title": "Santa Clara University",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1851",
+          "title": "1851",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "dec50721-2e12-4468-832d-d1481047c709",
+      "hash": "20f4f6806c13399e99be079da6c20d29be3fa1b5a9d3ea01d7b9766a3eeb83cf",
+      "text": "Both the Silver Jubilee and Golden Jubilee of Elizabeth II fell on the official Queen's Birthday holiday",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Silver_Jubilee_of_Elizabeth_II",
+          "title": "Silver Jubilee of Elizabeth II",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Golden_Jubilee_of_Elizabeth_II",
+          "title": "Golden Jubilee of Elizabeth II",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Queen%27s_Birthday",
+          "title": "Queen's Birthday",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "ada43c37-8289-41b7-84af-7241d548a649",
+      "hash": "08c77abeba7d2d43f33f2f2e4fe8eefdcd7006771ddf1d59dad83a1e88247590",
+      "text": "Nathaniel \"Sweetwater\" Clifton was the first African American to sign a contract to play in the National Basketball Association",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nathaniel_%22Sweetwater%22_Clifton",
+          "title": "Nathaniel \"Sweetwater\" Clifton",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/African_American",
+          "title": "African American",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/National_Basketball_Association",
+          "title": "National Basketball Association",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "d4a14372-f9ce-45f6-a3e9-528a326a1c74",
+      "hash": "a3d45781dd43aa91fc14eedb506d0624e0d3602650534dd76b1540a9431e53a8",
+      "text": "Packet Storm is a non-profit organization comprised of computer security professionals whose goal is to provide the information necessary to secure computer networks",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Packet_Storm",
+          "title": "Packet Storm",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Non-profit_organization",
+          "title": "Non-profit organization",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Computer_security",
+          "title": "Computer security",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Computer_networks",
+          "title": "Computer networks",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "82dae6b8-9fe6-41e9-a61b-112955bafa6e",
+      "hash": "15f4e2e8c1e51b53a29aeaa6cf96654df0e06597dd015f3346b80005e759f1b3",
+      "text": "A postage stamp the United States Department of the Treasury issued in 1962 that commemorated the centennial of the Homestead Act featured art based on a photograph by Fred Hultstrand",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Postage_stamp",
+          "title": "Postage stamp",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury",
+          "title": "United States Department of the Treasury",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1962",
+          "title": "1962",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Homestead_Act",
+          "title": "Homestead Act",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Photograph",
+          "title": "Photograph",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Fred_Hultstrand",
+          "title": "Fred Hultstrand",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "3d0c1a8c-99e2-44e4-ac97-8d7e7a7b5b8b",
+      "hash": "96339026aae05b04082ba0107eed05fa48138b85e6a93b6fcc9d76ccbc86920e",
+      "text": "Prosector's wart is a skin lesion caused by contamination with tuberculosis of a diseased cadaver during its preparation for autopsy by a prosector, a preparator of dissections",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Prosector%27s_wart",
+          "title": "Prosector's wart",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Skin",
+          "title": "Skin",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tuberculosis",
+          "title": "Tuberculosis",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cadaver",
+          "title": "Cadaver",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Autopsy",
+          "title": "Autopsy",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Prosector",
+          "title": "Prosector",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dissection",
+          "title": "Dissection",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "7a263cff-ec0e-403b-b54f-77d55a024069",
+      "hash": "10e33b986ad498c778695833c92ca50548d3aabc047542f4290af6d6e3b32635",
+      "text": "Roza Robota was hanged for her role in the Sonderkommando revolt",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Roza_Robota",
+          "title": "Roza Robota",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sonderkommando",
+          "title": "Sonderkommando",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "0d359787-d3ff-4365-9888-7cab52eeed45",
+      "hash": "504397d7477de01a1cab226b3514a2aba37c5ec81ae8312de44c95ea23e3b4c9",
+      "text": "American statesman John Milledge named Athens, Georgia, the city surrounding the University of Georgia, after Athens, Greece, the city of Plato 's Academy",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States",
+          "title": "United States",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Milledge",
+          "title": "John Milledge",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Athens,_Georgia",
+          "title": "Athens, Georgia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/University_of_Georgia",
+          "title": "University of Georgia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Athens",
+          "title": "Athens",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Greece",
+          "title": "Greece",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Plato",
+          "title": "Plato",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Academy",
+          "title": "Academy",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "d5faa48b-aef9-4da8-9899-a0dc18b34d93",
+      "hash": "691bcf049ebd52fd3b0ece2c09b1d915d8b0a9d798d2af186910ff347e38f157",
+      "text": "The Australian Blue Ant is not an ant at all, but a large solitary wasp",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Australia",
+          "title": "Australia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Blue_Ant",
+          "title": "Blue Ant",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ant",
+          "title": "Ant",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wasp",
+          "title": "Wasp",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "9b9d4f0e-f0af-40a5-bb2a-b381a6cc98d9",
+      "hash": "a9dee30aae4d15f88ec5fa5c18f5f3e4f9e1be64b28f37b6f809169aaaeb0a30",
+      "text": "The light cruiser Oyodo of the Imperial Japanese Navy was Admiral Jisaburo Ozawa 's flagship after the aircraft carrier Zuikaku was sunk during WWII 's Battle of Leyte Gulf",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Light_cruiser",
+          "title": "Light cruiser",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Japanese_cruiser_Oyodo",
+          "title": "Japanese cruiser Oyodo",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Imperial_Japanese_Navy",
+          "title": "Imperial Japanese Navy",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jisaburo_Ozawa",
+          "title": "Jisaburo Ozawa",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Flagship",
+          "title": "Flagship",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Aircraft_carrier",
+          "title": "Aircraft carrier",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Japanese_aircraft_carrier_Zuikaku",
+          "title": "Japanese aircraft carrier Zuikaku",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/World_War_II",
+          "title": "World War II",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Leyte_Gulf",
+          "title": "Battle of Leyte Gulf",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "a43f8e11-4edb-422a-91e1-b7b8ff8148c3",
+      "hash": "bea39d3cb2d2288781f36e0315d1d6942f59ee872325625754c4998a810f1aff",
+      "text": "Bend It Like Beckham was a crowd favorite at the ninth Pyongyang Film Festival in 2004",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bend_It_Like_Beckham",
+          "title": "Bend It Like Beckham",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pyongyang_Film_Festival",
+          "title": "Pyongyang Film Festival",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2004",
+          "title": "2004",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "a4da3ceb-f0c9-412a-8d74-67638a1ea9ab",
+      "hash": "5bec954daa16dd2b0222d09a8153c9221f92c74859f1d2c10ec335805dfa610c",
+      "text": "Swiss cyclist Hugo Koblet, a Tour de France winner and the first non- Italian to win the Giro d'Italia, died at age 39 under mysterious circumstances",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Switzerland",
+          "title": "Switzerland",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cyclist",
+          "title": "Cyclist",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hugo_Koblet",
+          "title": "Hugo Koblet",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tour_de_France",
+          "title": "Tour de France",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Italy",
+          "title": "Italy",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Giro_d%27Italia",
+          "title": "Giro d'Italia",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "fa8eabe7-2b72-49e5-997e-0928bb9c6280",
+      "hash": "d7bdcd7a34f2a566ac34d5265f0cf4241006a54ddb5abc8fb718d45463955b4c",
+      "text": "HMS Adventure was the first ship to circumnavigate the globe from west to east",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/HMS_Adventure_(1771)",
+          "title": "HMS Adventure (1771)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Circumnavigate",
+          "title": "Circumnavigate",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "9b9a7f34-1f04-4410-b257-b32d3a02eef5",
+      "hash": "1184ac96905a191c7135ce0592cb5b471f0fe04f735bec292f8035ae4a66482c",
+      "text": "For actress KaDee Strickland's role in The Grudge, she was inspired by Jane Fonda 's Academy Award -winning performance in the 1971 film Klute",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Actress",
+          "title": "Actress",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/KaDee_Strickland",
+          "title": "KaDee Strickland",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Grudge",
+          "title": "The Grudge",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jane_Fonda",
+          "title": "Jane Fonda",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Academy_Award",
+          "title": "Academy Award",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1971_in_film",
+          "title": "1971 in film",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Klute",
+          "title": "Klute",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "0abc4981-a21f-48be-a181-d7d54f1a2dfa",
+      "hash": "76b1174252ee86f28da7f1b1cd7ebbcf37c25e55fc2a1be2a9dc16fcd93bd43e",
+      "text": "The Blondie song \" Call Me \" was only the third song from a soundtrack to be the highest-selling single in the United States",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blondie_(band)",
+          "title": "Blondie (band)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Call_Me_(Blondie_song)",
+          "title": "Call Me (Blondie song)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Soundtrack",
+          "title": "Soundtrack",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States",
+          "title": "United States",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "33f0a4ca-c032-4ad6-9255-b03498ac8a89",
+      "hash": "b6ac3b1051ea40474f3eb5c51233b66b5cdc0cb2f45fe73da10c32452991e122",
+      "text": "Classical compounds make up much of the technical and scientific lexicon of Western European languages",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Classical_compound",
+          "title": "Classical compound",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Technology",
+          "title": "Technology",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Science",
+          "title": "Science",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lexicon",
+          "title": "Lexicon",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Western_Europe",
+          "title": "Western Europe",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "cbf244ad-dbf0-4848-adcf-3fd728a90286",
+      "hash": "144cf169520a2a3e036d7780998f8ae7c69260ab18e69efb4b78fcbb4981d197",
+      "text": "Whole grains are often more expensive than refined grains because their higher oil content is susceptible to oxidation, complicating processing, storage, and transport",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Whole_grain",
+          "title": "Whole grain",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Oxidation",
+          "title": "Oxidation",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "fb44c43d-5519-44c9-89e0-0b8ff17db381",
+      "hash": "931242627ca05b5d1bc90f0661e7089afc3a074dfaf8922fd0c00991946219b6",
+      "text": "Austrian mathematician Wilhelm Wirtinger ( 1865 – 1945 ) showed how to compute the fundamental group of a knot",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Austria",
+          "title": "Austria",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mathematician",
+          "title": "Mathematician",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wilhelm_Wirtinger",
+          "title": "Wilhelm Wirtinger",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1865",
+          "title": "1865",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1945",
+          "title": "1945",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Knot_group",
+          "title": "Knot group",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Knot_theory",
+          "title": "Knot theory",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "e7daaaeb-bb21-4be5-935a-427d85b6e0bb",
+      "hash": "a51df53b3a553fee5827bfe162c306ce8c4fed6bc9b4fc6e995e85acaf5d21d2",
+      "text": "Unlike many of the Bee Gees ' singles, which were recorded in Miami, Florida, \" Stayin' Alive \" was recorded at the Chateau d'Herouville in Paris",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bee_Gees",
+          "title": "Bee Gees",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Single_(music)",
+          "title": "Single (music)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Miami,_Florida",
+          "title": "Miami, Florida",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stayin%27_Alive",
+          "title": "Stayin' Alive",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Paris",
+          "title": "Paris",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "6dfbbedd-45ab-4e05-b844-72da4852b4ae",
+      "hash": "06063debf7bab65c13cd9fc00742261dc2d05869f021f3a0241153ba805a5c38",
+      "text": "In the computer game Crush, Crumble and Chomp! the player controls a disaster movie monster and destroys cities",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Computer_game",
+          "title": "Computer game",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Crush,_Crumble_and_Chomp!",
+          "title": "Crush, Crumble and Chomp!",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Disaster_movie",
+          "title": "Disaster movie",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Monster",
+          "title": "Monster",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "2398d654-2647-4dd4-ac70-ec8b30c9cd9e",
+      "hash": "14b59c19b3be2d79d15252242b718dab28a8be70de3d48eee88299c99fc66db2",
+      "text": "The Minnesota State Constitution initially had two versions: one signed by Republicans and the other by Democrats",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Minnesota_State_Constitution",
+          "title": "Minnesota State Constitution",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Republican_Party_(United_States)",
+          "title": "Republican Party (United States)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Democratic_Party_(United_States)",
+          "title": "Democratic Party (United States)",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "114328db-c22d-45d1-a7a9-b3801384f27f",
+      "hash": "2cf802197d48ed33e511713574343a70c6ff2bd2e3d8c1905e5428cbc73aa501",
+      "text": "Doc Cheatham ( 1905 – 1997 ) has been described as the only jazz musician to create his best work after the age of 70",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Doc_Cheatham",
+          "title": "Doc Cheatham",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1905",
+          "title": "1905",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1997",
+          "title": "1997",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jazz",
+          "title": "Jazz",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "e988163c-af2d-4eee-96da-801a1f480c6c",
+      "hash": "06e90386bf943cd556cdc945a02e5b9834352ec69f3e0992164d0b4e39526e69",
+      "text": "Captain Henry Trollope ( 1756 – 1839 ) of the Royal Navy, commanding the frigate Glatton, defeated a French squadron that outnumbered him six to one",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Henry_Trollope",
+          "title": "Henry Trollope",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1756",
+          "title": "1756",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1839",
+          "title": "1839",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Royal_Navy",
+          "title": "Royal Navy",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Frigate",
+          "title": "Frigate",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/HMS_Glatton_(1795)",
+          "title": "HMS Glatton (1795)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/French_Navy",
+          "title": "French Navy",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "2890eb25-8aba-4d5f-b818-ee442869c94f",
+      "hash": "0b193038e09f93eefeff8ee401f0ccb9d928a7c6140e40529d4e17db51dbd4c1",
+      "text": "No Punch and Judy performer can consider himself a Professor until he has swallowed his swazzle at least twice",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Punch_and_Judy",
+          "title": "Punch and Judy",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Swazzle",
+          "title": "Swazzle",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "fe0c6835-b5e7-4dea-888c-fe3a2acac3c1",
+      "hash": "63b4d6f07c934f0be7d0c3db8763344632b63984da445153b00302490cf5ee09",
+      "text": "The 1318 Mamluk Qala'un Mosque was considered the most glamorous mosque in Cairo until its wooden dome collapsed in the 16th century",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1318",
+          "title": "1318",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mamluk",
+          "title": "Mamluk",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Qala%27un_Mosque",
+          "title": "Qala'un Mosque",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mosque",
+          "title": "Mosque",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cairo",
+          "title": "Cairo",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/16th_century",
+          "title": "16th century",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "9d8257e0-6fc7-4d73-a6f0-325040039dcb",
+      "hash": "12a777aed85264593b3db04598ab2432cea47a9e772a693ec173ac5463429887",
+      "text": "In 1978, Governor of Florida Reubin Askew gave the Bee Gees \"honorary citizenship\" after the success of their single \" Night Fever \"",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1978",
+          "title": "1978",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Governor_of_Florida",
+          "title": "Governor of Florida",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Reubin_O%27Donovan_Askew",
+          "title": "Reubin O'Donovan Askew",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bee_Gees",
+          "title": "Bee Gees",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Night_Fever",
+          "title": "Night Fever",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "cfde4444-86db-48df-b483-2e7c30620a94",
+      "hash": "42cab1ccae32a92066ebdfa8b8e43113be460f0b6cc5ed9945d7bb093946e265",
+      "text": "Chromoblastomycosis is a fungal skin infection that can be caught from a thorn or splinter",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chromoblastomycosis",
+          "title": "Chromoblastomycosis",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Fungi",
+          "title": "Fungi",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Infection",
+          "title": "Infection",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Thorn",
+          "title": "Thorn",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Splinter",
+          "title": "Splinter",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "ed0532bd-9a98-422a-b03e-d149143aa2ec",
+      "hash": "65a137a40c87b4f91e5e8c4a21317c51ac2a4279bf3ac0379601ccecb20201d7",
+      "text": "Alan Mullery became the first England association football player to be sent off in a full international match during the 1968 European Championship semi-final against Yugoslavia",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alan_Mullery",
+          "title": "Alan Mullery",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/England_national_football_team",
+          "title": "England national football team",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Association_football",
+          "title": "Association football",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Red_card",
+          "title": "Red card",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1968_European_Football_Championship",
+          "title": "1968 European Football Championship",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Yugoslavia_national_football_team",
+          "title": "Yugoslavia national football team",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "dad019df-8754-45c4-b8e0-30e00cb7938a",
+      "hash": "b9450fcb82dc573e1b440e0e8d4ac1d3b9b8102f79f0bee20d76b5ee391c97eb",
+      "text": "Samuel Green was jailed in 1857 for possessing a copy of the novel Uncle Tom's Cabin",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Samuel_Green_(freedman)",
+          "title": "Samuel Green (freedman)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1857",
+          "title": "1857",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Novel",
+          "title": "Novel",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Uncle_Tom%27s_Cabin",
+          "title": "Uncle Tom's Cabin",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "0c3e0389-abd9-4278-8ef3-9d0776fac795",
+      "hash": "a341b0049c8c9cc5e41e316a831bc0cd329d24b2da5b30fc99aac182746dfdd5",
+      "text": "The history of nuclear weapons and the United States includes around 1,054 nuclear tests between 1945 and 1992",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nuclear_weapons_and_the_United_States",
+          "title": "Nuclear weapons and the United States",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nuclear_testing",
+          "title": "Nuclear testing",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1945",
+          "title": "1945",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1992",
+          "title": "1992",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "d90f0188-fd7d-4e3e-b1fe-721699d31391",
+      "hash": "d1beb959eaae23a00e20e8bf2eb1a483edc3a41ab185c603f20057c1cd5a158a",
+      "text": "Philip of Poitou, Bishop of Durham from 1197 to 1208, quarrelled so fiercely with his monks that he tried to burn them out of a church, and later excommunicated the entire chapter",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Philip_of_Poitou",
+          "title": "Philip of Poitou",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bishop_of_Durham",
+          "title": "Bishop of Durham",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1197",
+          "title": "1197",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1208",
+          "title": "1208",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Monk",
+          "title": "Monk",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Excommunication",
+          "title": "Excommunication",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "a7492f85-d623-417e-99c7-c189372e62f9",
+      "hash": "0be6b3aeeae65810e650558dd5eeb51f83a67534aa54b089ee28d5665eb2c559",
+      "text": "Singer Maureen McGovern was a secretary before she was signed to perform the Academy Award -winning song \" The Morning After \"",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Maureen_McGovern",
+          "title": "Maureen McGovern",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Secretary",
+          "title": "Secretary",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Academy_Award",
+          "title": "Academy Award",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Morning_After_(Maureen_McGovern_song)",
+          "title": "The Morning After (Maureen McGovern song)",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "bc5965b5-a639-472a-b82c-4d6cbad6a6f9",
+      "hash": "28c57b2f0684251ee26e5aff73f10bec52845a43278d3b84c5d336b11da7828d",
+      "text": "The 1868 Aboriginal cricket tour of England predated, by 12 years, the first tour of England by white Australians",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1868_Aboriginal_cricket_tour_of_England",
+          "title": "1868 Aboriginal cricket tour of England",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/England",
+          "title": "England",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Australia",
+          "title": "Australia",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "f5804fe1-e28a-4a2a-b882-9f64360df9dc",
+      "hash": "944a4ce791bc16f165b8b4c8f7180e0fde037581f0bbd4aefc9742f97a86623f",
+      "text": "Otokichi ( 1818 – 1867 ) was a Japanese castaway, who circled the globe as he tried unsuccessfully to return to Japan",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Otokichi",
+          "title": "Otokichi",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1818",
+          "title": "1818",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1867",
+          "title": "1867",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Japanese",
+          "title": "Japanese",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Castaway",
+          "title": "Castaway",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Circumnavigation",
+          "title": "Circumnavigation",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Earth",
+          "title": "Earth",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Japan",
+          "title": "Japan",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "c57dce5a-d157-4e60-8a75-4a684a613bda",
+      "hash": "5fac9f7eef2aa9b1eb34db23cec51edbf99f6b59bf6943924fb9a0a1867728ce",
+      "text": "Xihoumen Bridge, a suspension bridge planned for the Zhoushan Archipelago in China will be the third largest suspension bridge in the world when completed",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Xihoumen_Bridge",
+          "title": "Xihoumen Bridge",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Suspension_bridge",
+          "title": "Suspension bridge",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Zhoushan_Archipelago",
+          "title": "Zhoushan Archipelago",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_largest_suspension_bridges",
+          "title": "List of largest suspension bridges",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "42c23948-83a5-46d7-b478-a30668cdbafe",
+      "hash": "1e2c0be6ad14ec9f17a7378f98b02a84a007f347c929e860def77a8859bca4e2",
+      "text": "After Peter the Great 's reform of the Russian military, serf recruits, and their children born after the recruitment, were liberated, with the boys being sent to specially created garrison schools",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_the_Great",
+          "title": "Peter the Great",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Imperial_Russia",
+          "title": "Imperial Russia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Russian_serfdom",
+          "title": "Russian serfdom",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Garrison_school",
+          "title": "Garrison school",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "19471b77-7635-4c3b-92cf-4ed7e40b3d1e",
+      "hash": "d87273d8c03097a9d9e8a124d4974f3bbc2154fdaf45da39ed058d896fe288b3",
+      "text": "The U.S. children's television series Romper Room aired for over 40 years",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Television_of_the_United_States",
+          "title": "Television of the United States",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Romper_Room",
+          "title": "Romper Room",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "c1da9095-e49e-4fa2-ba86-994fdb077ebb",
+      "hash": "bf407974c9eb374bac81a3525cda84665a1294865fbb60c9ed31d378b9666b48",
+      "text": "The song \" Nights in White Satin,\" largely ignored on its first release in 1967, reached #2 on the Billboard Hot 100 when it was re-released in 1972",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nights_in_White_Satin",
+          "title": "Nights in White Satin",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1967",
+          "title": "1967",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Billboard_Hot_100",
+          "title": "Billboard Hot 100",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1972",
+          "title": "1972",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "083d4b22-6eb1-4505-8cf5-c6a26d2f8935",
+      "hash": "16d5f7492793f9cdefe96a9653ece9edfca2388783d22826bf4a2894cd582007",
+      "text": "Dr. Acacio Gabriel Viegas was credited with the discovery of the outbreak of bubonic plague in Mumbai in 1896, and later became the president of the Bombay Municipal Corporation",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Acacio_Gabriel_Viegas",
+          "title": "Acacio Gabriel Viegas",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bubonic_plague",
+          "title": "Bubonic plague",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mumbai",
+          "title": "Mumbai",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1896",
+          "title": "1896",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bombay_Municipal_Corporation",
+          "title": "Bombay Municipal Corporation",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "d1f62ee5-3794-48e7-a65f-1b89f2f032a3",
+      "hash": "eca776a8f32698816a86694cb8520fde0234a40e677e72b810455385e9e32aba",
+      "text": "The 1985 film Into the Night is largely responsible for launching Michelle Pfeiffer to stardom",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1985_in_film",
+          "title": "1985 in film",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Into_the_Night",
+          "title": "Into the Night",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Michelle_Pfeiffer",
+          "title": "Michelle Pfeiffer",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "da6523dd-ddc2-4177-b1f8-3991bb2b8e92",
+      "hash": "c1b3de04b8bf75e475f8485f37b6508a2f4572bf02217e8a4a712332de6b27b0",
+      "text": "The race car driver Kurt Mollekens won three Formula Ford titles in 1992",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Race_car",
+          "title": "Race car",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Driving",
+          "title": "Driving",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kurt_Mollekens",
+          "title": "Kurt Mollekens",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Formula_Ford",
+          "title": "Formula Ford",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1992",
+          "title": "1992",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "dd481c1b-f607-4e69-8a75-08a6e133f775",
+      "hash": "b4895475362f6d7b008aed07c1085d2f36e906b0926f2f7adbd8490561257af4",
+      "text": "Union Bridge across the River Tweed between England and Scotland was once the longest suspension bridge in the world and is now the oldest surviving",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Union_Bridge_(Tweed)",
+          "title": "Union Bridge (Tweed)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/River_Tweed",
+          "title": "River Tweed",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/England",
+          "title": "England",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Scotland",
+          "title": "Scotland",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Suspension_bridge",
+          "title": "Suspension bridge",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "12ad3a29-a201-4a70-8e3e-c653cbce6681",
+      "hash": "6c0c231473ff5428824e999166c2237048e34143307f06902936b5421f6368b9",
+      "text": "MTV Canada will be converted into a digital television station called Razer, now that it is owned by CHUM Limited",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/MTV_Canada",
+          "title": "MTV Canada",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Razer",
+          "title": "Razer",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/CHUM_Limited",
+          "title": "CHUM Limited",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "c2bcb564-554e-4019-9283-7b302fe3a4d5",
+      "hash": "0cb4c2db3070aaeb6f98c0ded8524f545440880323847e94314d4465a9afefd9",
+      "text": "The virtual economy of massively multiplayer online games sometimes attracts virtual crime, which is punishable by real laws in some countries",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Virtual_economy",
+          "title": "Virtual economy",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Massively_multiplayer_online_game",
+          "title": "Massively multiplayer online game",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Virtual_crime",
+          "title": "Virtual crime",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "12f2fb85-22f9-4450-87a0-dcded3b69ea3",
+      "hash": "f7f6e6b94ff0b11348c322fa37fa4ab20c5c5936fac3c2b667764ef4ecbd441f",
+      "text": "James Glynn, captain of the USS Preble, was the first American to negotiate successfully with Sakoku (\"closed country\") Japan, in 1848",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Glynn",
+          "title": "James Glynn",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/USS_Preble_(1839)",
+          "title": "USS Preble (1839)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sakoku",
+          "title": "Sakoku",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Japan",
+          "title": "Japan",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1848",
+          "title": "1848",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "e9fae86c-4355-4c3c-9cc7-a896b042c968",
+      "hash": "afefb6a4e74f9e2f1f2a4a2b273504e143f82e9a7e546f3f6ee29aee09e36b1b",
+      "text": "The Tarim mummies indicate that Caucasoid populations lived in Xinjiang in western China during the 1st millennium BCE",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tarim_mummies",
+          "title": "Tarim mummies",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Caucasoid",
+          "title": "Caucasoid",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Xinjiang",
+          "title": "Xinjiang",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "title": "China",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1st_millennium_BCE",
+          "title": "1st millennium BCE",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "cdca6bc4-d31d-49dd-9502-f667eb7b0475",
+      "hash": "8e8fcbd3f5245225631a928187495ae029a2edc3101785da0be80f1545910ac4",
+      "text": "Cherrapunji in India is the wettest place in the world",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cherrapunji",
+          "title": "Cherrapunji",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "title": "India",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "1086bd6e-b248-4969-99b9-3f63145618ba",
+      "hash": "ab54c2f73737cd776edd4f1a9318e16c9b167ad5d2920c31ff88c7ab0067542a",
+      "text": "There are 17 candidates running in the June 14 Ohio second congressional district election to replace representative Rob Portman",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/June_14",
+          "title": "June 14",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ohio_Second_Congressional_District_Election,_2005",
+          "title": "Ohio Second Congressional District Election, 2005",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rob_Portman",
+          "title": "Rob Portman",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "282d6874-4cb2-4f70-9ce3-c74fffc30a4e",
+      "hash": "550ef7cb3f560e684182d8681178931502dce249101c5de4ac8d21336bdebb0b",
+      "text": "Mick Mills was made captain of the England national football team which started the 1982 World Cup because Kevin Keegan was unable to play through injury",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mick_Mills",
+          "title": "Mick Mills",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/England_national_football_team",
+          "title": "England national football team",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Football_World_Cup_1982",
+          "title": "Football World Cup 1982",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kevin_Keegan",
+          "title": "Kevin Keegan",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "439b3458-2cfd-4b83-a3aa-be18c8c7ea61",
+      "hash": "d3feda6f9faaee23e645432dd51b7532b8c3c76e922ba2873e14e995aaa5944a",
+      "text": "Irish chemist Robert Kane (1809–1890) showed that hydrogen is electropositive",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ireland",
+          "title": "Ireland",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chemistry",
+          "title": "Chemistry",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Kane_(chemist)",
+          "title": "Robert Kane (chemist)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hydrogen",
+          "title": "Hydrogen",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Electronegativity",
+          "title": "Electronegativity",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "243ba504-1035-41c4-90a6-9ecf9870a53b",
+      "hash": "eef4fb69e55ffad32053a6b44a179392ab6f6a3fac4d7551a4fac6fafd91445e",
+      "text": "1980s horror movie actress Ellie Cornell nearly broke out of her typecasting by appearing in the 1992 film A League of Their Own, but had to drop out because she became pregnant",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1980s",
+          "title": "1980s",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Horror_movie",
+          "title": "Horror movie",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Actress",
+          "title": "Actress",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ellie_Cornell",
+          "title": "Ellie Cornell",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Typecasting_(acting)",
+          "title": "Typecasting (acting)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1992_in_film",
+          "title": "1992 in film",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/A_League_of_Their_Own",
+          "title": "A League of Their Own",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pregnant",
+          "title": "Pregnant",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "fcbef62d-637e-42f5-87fe-4fb2707d2637",
+      "hash": "e1b56b23f88517ac005924dce845683de6a810d079780f50ad94121858824d6d",
+      "text": "American country music singer Mindy McCready was once engaged to actor Dean Cain",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States_of_America",
+          "title": "United States of America",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Country_music",
+          "title": "Country music",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mindy_McCready",
+          "title": "Mindy McCready",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dean_Cain",
+          "title": "Dean Cain",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "65398e4a-676b-477c-90f3-1723eee58c3b",
+      "hash": "06d056343776377acc73f41c54def598387896b87f0608548ff5340f39755751",
+      "text": "Valerius Anshelm (1475–c. 1546), a Swiss chronicler, wrote a history of Berne from the Burgundy Wars to 1536 that remained buried in the municipal archives of the city for 80 years",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Valerius_Anshelm",
+          "title": "Valerius Anshelm",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Switzerland",
+          "title": "Switzerland",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chronicle",
+          "title": "Chronicle",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bern",
+          "title": "Bern",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Burgundy_Wars",
+          "title": "Burgundy Wars",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1536",
+          "title": "1536",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "bb60a306-a193-47e6-b1e1-fc9ce377f090",
+      "hash": "af409893f749f1da5bfb0bcc836dff2e266ac5ad07d5ea3ee4e8783d82440ed2",
+      "text": "Anatomist Caspar Wistar (1761–1818) developed a set of anatomical models from human body parts by injecting them with wax",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Anatomy",
+          "title": "Anatomy",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Caspar_Wistar_(physician)",
+          "title": "Caspar Wistar (physician)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wax",
+          "title": "Wax",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "7b02026f-5aff-4276-b767-9b9bed4ccdb2",
+      "hash": "19b7813e21ced371f3330df7ad0ee76421a7491ac449a12ff9e00df319b9bedc",
+      "text": "Saki 's short story \" Sredni Vashtar \" plays an important role in Raymond Postgate 's 1940 mystery novel Verdict of Twelve",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Saki",
+          "title": "Saki",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sredni_Vashtar",
+          "title": "Sredni Vashtar",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Raymond_Postgate",
+          "title": "Raymond Postgate",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1940_in_literature",
+          "title": "1940 in literature",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Detective_fiction",
+          "title": "Detective fiction",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Verdict_of_Twelve",
+          "title": "Verdict of Twelve",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "da4c1666-7010-464f-9157-c228ccb01b47",
+      "hash": "ee3dea3b648ed34f88ed37cef86b72617eb83f472d7318e77f14f8b0f21573c8",
+      "text": "Kermit Roosevelt III, author of the 2005 legal thriller In the Shadow of the Law, is the great-great-grandson of U.S. President Theodore Roosevelt",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kermit_Roosevelt_III",
+          "title": "Kermit Roosevelt III",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2005",
+          "title": "2005",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Novel",
+          "title": "Novel",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/President_of_the_United_States",
+          "title": "President of the United States",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
+          "title": "Theodore Roosevelt",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "3f51257c-47b8-46e0-a9a9-64aae5fe96d4",
+      "hash": "3877b15732cd2e5ddcb4805525d31b86590cbdde6f3aacb4a345ebcb1886d1d2",
+      "text": "There are parts of Canadian airspace where compasses are not useful because they are too close to the magnetic north pole",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Canadian_airspace",
+          "title": "Canadian airspace",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/North_pole#Magnetic_North",
+          "title": "North pole",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "b4dcd7e6-8eda-4bbb-9542-45b62f34829a",
+      "hash": "90f6e65c80c138e78e94c671999ad689fa7a854ddb55b86936cc13b40d937ca7",
+      "text": "The scientific collections of Jacques Labillardière (1755–1834) were seized by the British in 1793 as spoils of war, but were returned after lobbying by Sir Joseph Banks",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jacques_Labillardi%C3%A8re",
+          "title": "Jacques Labillardière",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/French_Revolutionary_Wars",
+          "title": "French Revolutionary Wars",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joseph_Banks",
+          "title": "Joseph Banks",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "a6181aa2-2eef-4ba9-9d34-bfc853a22cb4",
+      "hash": "61809a104d848ed6e474c59f5f31442944ac084488b3cb09f406b0085e519bb9",
+      "text": "Bono Manso, the capital of Bono state, was an ancient Akan trading town in present-day Ghana, which was frequented by caravans from Djenné as part of the Trans-Saharan trade",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bono_Manso",
+          "title": "Bono Manso",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bono_state",
+          "title": "Bono state",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Akan",
+          "title": "Akan",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ghana",
+          "title": "Ghana",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Djenn%C3%A9",
+          "title": "Djenné",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Trans-Saharan_trade",
+          "title": "Trans-Saharan trade",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "aa7c4cc2-ff37-481d-84e4-ca9530865c0a",
+      "hash": "f6d9f9e2820e6f944b97940b272c101ef33b00339633516902197d8683673e02",
+      "text": "The 1960s singing duo Paul & Paula inspired such pairings as Marvin Gaye and Tammi Terrell",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1960s",
+          "title": "1960s",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Paul_%26_Paula",
+          "title": "Paul & Paula",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marvin_Gaye",
+          "title": "Marvin Gaye",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tammi_Terrell",
+          "title": "Tammi Terrell",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "e0485199-6757-4c55-a046-9d7ff742af41",
+      "hash": "c8ee21f508470d4c7f8216bf26d82f566b0dfe3720abe00ea3cc50f863c3da6c",
+      "text": "The Brimstone Moth has a variable life cycle of either one generation a year or two generations every three years",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Brimstone_Moth",
+          "title": "Brimstone Moth",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Biological_life_cycle",
+          "title": "Biological life cycle",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "1fe3bfbb-7d49-4d41-9082-65ee74b0f765",
+      "hash": "95786a6954c53dcb6a2b8c1962c4457a15492080dea29e925cb5fcd0d3ff043d",
+      "text": "Carolus Linnaeus the younger (1741–1783) was enrolled by his father at the University of Uppsala at the age of nine",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Carolus_Linnaeus_the_younger",
+          "title": "Carolus Linnaeus the younger",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carolus_Linnaeus",
+          "title": "Carolus Linnaeus",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/University_of_Uppsala",
+          "title": "University of Uppsala",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "8f40aa07-69d4-456b-986b-048fb052126c",
+      "hash": "0f92dbfc562b66a0ed1e2a5c757e0572a442b2a000c23493c1c77305688c0893",
+      "text": "The bending of starlight around the Sun during the solar eclipse of 1919 was a testimony to the predictive power of Albert Einstein 's theory of general relativity",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tests_of_general_relativity#Gravitational_deflection_of_light",
+          "title": "Tests of general relativity",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sun",
+          "title": "Sun",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Solar_eclipse",
+          "title": "Solar eclipse",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1919",
+          "title": "1919",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Predictive_power",
+          "title": "Predictive power",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+          "title": "Albert Einstein",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/General_relativity",
+          "title": "General relativity",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "271040f8-de39-4feb-9666-8085b13ddc76",
+      "hash": "b46b77bfaa632f8168dc9ce4b4ecaad4ae6580ed38e3b6524cc1c8b4bba3b686",
+      "text": "Niccolò Da Conti (1395–1469) was a Venetian merchant who traveled around the Indian Ocean for 25 years in the early 15th century, and was made to relate an account of his travels as a penance for converting to Islam",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Da_Conti",
+          "title": "Niccolò Da Conti",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Venetian",
+          "title": "Venetian",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Ocean",
+          "title": "Indian Ocean",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/15th_century",
+          "title": "15th century",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Penance",
+          "title": "Penance",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Islam",
+          "title": "Islam",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "af9c87bb-5e7f-482e-869e-efb98f1d6821",
+      "hash": "05bdd0d7c34b911176ddbbfdbb85548967707eedb1344c5a20f4439d86f81ea3",
+      "text": "Firpo Marberry was the first relief pitcher in Major League Baseball to record 100 saves in his career",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Firpo_Marberry",
+          "title": "Firpo Marberry",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Relief_pitcher",
+          "title": "Relief pitcher",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Major_League_Baseball",
+          "title": "Major League Baseball",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Save_(sport)",
+          "title": "Save (sport)",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "c4883a71-ee0b-4f28-a06b-be0dff18edbb",
+      "hash": "35d172a39f94e32167b52dadccc966b738d6bf72f30acf51c3376d6470ce57c4",
+      "text": "The grunion is a sardine -sized fish only found off the coast of California and Baja California that comes up on sandy beaches at very high tides (during the new and full moons ) to lay its eggs",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Grunion",
+          "title": "Grunion",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sardine",
+          "title": "Sardine",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Fish",
+          "title": "Fish",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/California",
+          "title": "California",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Baja_California",
+          "title": "Baja California",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/New_moon",
+          "title": "New moon",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Full_moon",
+          "title": "Full moon",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "cd4f58ba-b0c3-481d-9510-63b0d500ea30",
+      "hash": "753ff08a2a17c7a9c514074b1c9281987e56cb1d56fa1da8796da0723f3fa63d",
+      "text": "Bruce Webster was so burned out from writing the computer game SunDog: Frozen Legacy for the Apple II, that he gave up programming for four years",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bruce_Webster",
+          "title": "Bruce Webster",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Game_programming",
+          "title": "Game programming",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Computer_game",
+          "title": "Computer game",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/SunDog:_Frozen_Legacy",
+          "title": "SunDog: Frozen Legacy",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Apple_II_family",
+          "title": "Apple II family",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Computer_programming",
+          "title": "Computer programming",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "3a6721fe-043b-4b7a-a07e-a700c6ca1de7",
+      "hash": "5cd8c30df9d2a924be9dac8c7aa73f9be650c2530b3d8add087eea70343ae575",
+      "text": "Jack-Jack Attack is the first Pixar short not to be given a theatrical release",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jack-Jack_Attack",
+          "title": "Jack-Jack Attack",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pixar",
+          "title": "Pixar",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Short_film",
+          "title": "Short film",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "bbdab2fa-b798-4e3e-ad6a-3319f546405c",
+      "hash": "891ae963279903fa79dc094156e9029183643a731e5a416f0ce8496d328c05bd",
+      "text": "Pakistan Television Corporation (PTV) signed an agreement in 1963 with Japanese company NEC which gave the latter partial ownership of PTV's network",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pakistan_Television_Corporation",
+          "title": "Pakistan Television Corporation",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1963",
+          "title": "1963",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Japan",
+          "title": "Japan",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/NEC_Corporation",
+          "title": "NEC Corporation",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "a98238f5-d02f-4767-be1e-d0acbb87d3e4",
+      "hash": "160f9771f70190c38f7febf71a1c8a736a25384b32fb7c58561df1f127711957",
+      "text": "Barstow, California, and Strong City, Kansas, are both named in honour of William Barstow Strong, former president of Atchison, Topeka and Santa Fe Railway",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Barstow,_California",
+          "title": "Barstow, California",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Strong_City,_Kansas",
+          "title": "Strong City, Kansas",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Barstow_Strong",
+          "title": "William Barstow Strong",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Atchison,_Topeka_and_Santa_Fe_Railway",
+          "title": "Atchison, Topeka and Santa Fe Railway",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "516bd03d-d517-453b-9364-1e6818cdb397",
+      "hash": "d61a4f6fd39b31da3226c54950e6cb9c07caff02a7a9085613fdba9ae2ec4d52",
+      "text": "In the music video for the Crazy Frog song \" Axel F \", the frog's genitalia have been censored for broadcasting",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Music_video",
+          "title": "Music video",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Crazy_Frog",
+          "title": "Crazy Frog",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Axel_F_(Crazy_Frog_song)",
+          "title": "Axel F (Crazy Frog song)",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "f899a42c-c15f-4952-8158-1ef894d434c6",
+      "hash": "1c943a17d0db8f0b6d181822202cd6425bd8c96b1368c90017e9b79ca9466f2a",
+      "text": "Former England footballer Mick Channon is now a successful horse trainer",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/England_national_football_team",
+          "title": "England national football team",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Association_football",
+          "title": "Association football",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mick_Channon",
+          "title": "Mick Channon",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Horse_trainer",
+          "title": "Horse trainer",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "7da107df-4d81-4fff-8494-fe16c26818c4",
+      "hash": "ce8e998e660c096f526e33620ed5e996a8ff48498256c4ce237ff5d68377a5cf",
+      "text": "Chinese BASIC is the name given to several Chinese versions of the BASIC programming language",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chinese_BASIC",
+          "title": "Chinese BASIC",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chinese_language",
+          "title": "Chinese language",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Non-English-based_programming_languages",
+          "title": "Non-English-based programming languages",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/BASIC_programming_language",
+          "title": "BASIC programming language",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "711912d5-245d-4bed-95c3-ec116e71179f",
+      "hash": "76d91b4c167daca6fce522769da0ed8debca9d925b0cbb9692c33b5eba53a56b",
+      "text": "Suffragist Louisa Lawson (1848–1920), publisher of Australia 's first female-run journal, The Dawn, was also the mother of the great Australian poet Henry Lawson",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Suffragist",
+          "title": "Suffragist",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Louisa_Lawson",
+          "title": "Louisa Lawson",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Australia",
+          "title": "Australia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Henry_Lawson",
+          "title": "Henry Lawson",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "e3972f02-2f05-4537-b16a-50cab697b339",
+      "hash": "b3f6b2396a70d052ab3605ecc8be2cf85103b4e48def658fc53be279253a3029",
+      "text": "The Terik language of Kenya is classified as endangered by UNESCO because the Terik people have increasingly become assimilated to the Nandi people in recent decades",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kenya",
+          "title": "Kenya",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Endangered_language",
+          "title": "Endangered language",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_Nations_Educational,_Scientific_and_Cultural_Organization",
+          "title": "United Nations Educational, Scientific and Cultural Organization",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Terik_people",
+          "title": "Terik people",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Assimilation_(sociology)",
+          "title": "Assimilation (sociology)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nandi_people",
+          "title": "Nandi people",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "cd897d55-7eed-4ecc-b9b9-e5a7bd140ce2",
+      "hash": "db4455aee7951c3430abad4113c9f49415d9a99f508d6f08ea92cbfd35ffb1a4",
+      "text": "Facial symmetry is correlated with health, physical attractiveness, and beauty, and is a factor in interpersonal attraction",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Facial_symmetry",
+          "title": "Facial symmetry",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Health",
+          "title": "Health",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Physical_attractiveness",
+          "title": "Physical attractiveness",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Beauty",
+          "title": "Beauty",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Interpersonal_attraction",
+          "title": "Interpersonal attraction",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "63013507-e7d8-4feb-847d-7ba965695a88",
+      "hash": "d1e17a006319ed3ba0a35ddc11db92f95b3c36d2f43e5996191cc83ea50e1eb4",
+      "text": "A sideman is a professional musician who is hired to perform or record with a group of which he is not formally a member",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sideman",
+          "title": "Sideman",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Musician",
+          "title": "Musician",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Musical_band",
+          "title": "Musical band",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "93c25483-2d9a-47cc-b9fb-f54182c3fd54",
+      "hash": "a51ed0c063c733a520cfbbec68a9d51927a10ec56681f219bdffd2f2e7760314",
+      "text": "Ars moriendi (\"The Art of Dying\") was a popular 15th century text on the proper etiquette of how to die",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ars_moriendi",
+          "title": "Ars moriendi",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "9ec129f2-9b76-4d73-bf7b-e3e017b50503",
+      "hash": "6d5eddb3e72280a599228101a37e18ceb44596718592d5b2b35589aa1ca218cc",
+      "text": "MOMO syndrome is a very rare genetic disorder characterised by m acrosomia, o besity, m acrocephaly and o cular abnormalities",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/MOMO_syndrome",
+          "title": "MOMO syndrome",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Genetic_disorder",
+          "title": "Genetic disorder",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Macrosomia",
+          "title": "Macrosomia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Obesity",
+          "title": "Obesity",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cephalic_disorder",
+          "title": "Cephalic disorder",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Eye",
+          "title": "Eye",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "69324778-ab04-4915-bf6e-f29b5754598e",
+      "hash": "29ce6cb7d6df51a94c004e104a37507267f78a1d757aa34e59b574792c6b19f3",
+      "text": "The reality television series Dr. 90210 got its name from the zip code for part of the Los Angeles suburb of Beverly Hills",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Reality_television",
+          "title": "Reality television",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dr._90210",
+          "title": "Dr. 90210",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Zip_code",
+          "title": "Zip code",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Los_Angeles",
+          "title": "Los Angeles",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Beverly_Hills",
+          "title": "Beverly Hills",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "31bcc633-2a3b-49a7-850d-13f7a7a684ce",
+      "hash": "31238b4a0a45d15adf252411457db5dd82b8484a7833c926ef86087b15c6ebc1",
+      "text": "The U.S. airlifted 22,325 tons of military supplies to Israel for use in the Yom Kippur War under Operation Nickel Grass",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States_of_America",
+          "title": "United States of America",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Airlift",
+          "title": "Airlift",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Israel",
+          "title": "Israel",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Yom_Kippur_War",
+          "title": "Yom Kippur War",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Operation_Nickel_Grass",
+          "title": "Operation Nickel Grass",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "b9b27b38-551a-4f6f-a35a-b8f9fbe3e0a8",
+      "hash": "00a3297f039e93a654df13166199c3b9d53677297135acf6d3e7d3e6f6c61d74",
+      "text": "The Washington State Capitol has been hit by three major earthquakes since its construction",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Washington_State_Capitol",
+          "title": "Washington State Capitol",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Earthquake",
+          "title": "Earthquake",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "0b62e62a-b790-45d0-9408-f7a36b98ae2f",
+      "hash": "39cff3f058d0f7a04365056ec597799cc8b8855ab0dd8ed5a54f97c152233fbe",
+      "text": "David Penhaligon ( 1944 – 1986 ) was a promising Liberal Member of Parliament in the United Kingdom but was killed in a car crash at the age of 42",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Penhaligon",
+          "title": "David Penhaligon",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1944",
+          "title": "1944",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1986",
+          "title": "1986",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Liberal_Party_(UK)",
+          "title": "Liberal Party (UK)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Member_of_Parliament",
+          "title": "Member of Parliament",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "title": "United Kingdom",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "c90b24dd-72c9-4048-a237-e38abbd442d3",
+      "hash": "d5b3e90ec72fb75dcb3fb2c62db5b87bb3e51827d3e5f8420131b0ddfd272434",
+      "text": "The Defaka people of Nigeria are gradually abandoning their language in favour of the language of the Nkoroo, their close neighbours",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:14Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Defaka",
+          "title": "Defaka",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nigeria",
+          "title": "Nigeria",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Language_shift",
+          "title": "Language shift",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nkoroo",
+          "title": "Nkoroo",
+          "source": "Wikipedia"
+        }
+      ]
+    }
+  ]
+}

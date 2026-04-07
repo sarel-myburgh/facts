@@ -1,0 +1,5146 @@
+{
+  "source": "dyk",
+  "period": "2005_Aug",
+  "facts": [
+    {
+      "id": "bc0d21f4-ecc6-4e14-879d-7da22c14932a",
+      "hash": "b1b26eb25d8c2857eec943168e199f621ecc34561273f833c8c839454a6d968a",
+      "text": "The Bassein Fort was at the centre of Portuguese operations in India during the 16th century",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bassein_Fort",
+          "title": "Bassein Fort",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Portugal",
+          "title": "Portugal",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/16th_century",
+          "title": "16th century",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "ebf5468c-77d1-446c-ba1d-4c405a39a4b7",
+      "hash": "2493628f76b1768b43669ebbe804454df351f5e446e7c4f066f76893acdd853a",
+      "text": "Mount Pantokrator is the highest mountain on the island of Corfu at 914 metres tall",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pantokrator",
+          "title": "Pantokrator",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mountain",
+          "title": "Mountain",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Corfu",
+          "title": "Corfu",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "2b33b011-be89-4ee0-a07f-0dd05f9cb282",
+      "hash": "be4c1ac33d2250c9ecbcdcb28b72cfe517abcedab05ba6130ca71056263d13e4",
+      "text": "The Beehive House was constructed as a home for Brigham Young, a polygamist, and his wives",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Beehive_House",
+          "title": "Beehive House",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brigham_Young",
+          "title": "Brigham Young",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Polygyny",
+          "title": "Polygyny",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "4bcb4e1f-2376-4e12-aa6a-777acf620f9a",
+      "hash": "87b5963776bbd01b5a3540e3cbc98cb13b1ac6d51311083a9ac95f8bbd3910f6",
+      "text": "Manitoba politician Colin H. Campbell is said to have won his seat in the 1907 election by a margin of one vote",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Manitoba",
+          "title": "Manitoba",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Colin_H._Campbell",
+          "title": "Colin H. Campbell",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "9b777cab-f042-4d80-afee-2ffc68fab191",
+      "hash": "bf1412a173b46db9fa6eb746e75b8abef5d63a188b1e9fffeeace1cc124439f8",
+      "text": "The California Pacific Conference has school members that range from members of the California State University system to religious and liberal arts colleges",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/California_Pacific_Conference",
+          "title": "California Pacific Conference",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/California_State_University",
+          "title": "California State University",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Christian_school",
+          "title": "Christian school",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Liberal_arts",
+          "title": "Liberal arts",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/College",
+          "title": "College",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "bd8d8bf4-8852-4f78-a973-d5602fd4005d",
+      "hash": "49f35abf7d1e458aad614373b26c45716e3bc1e6835f7e7b8bb903a1f7ed71e7",
+      "text": "Simeon Solomon was a British painter who regularly had works displayed at the Royal Academy in the 1860s",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Simeon_Solomon",
+          "title": "Simeon Solomon",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "title": "United Kingdom",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Painter",
+          "title": "Painter",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Royal_Academy",
+          "title": "Royal Academy",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1860s",
+          "title": "1860s",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "24dbcec1-3c6e-4d93-99d8-662673b55580",
+      "hash": "2833b16652227176d8e1750b88dce422aabbcb88a0654dc7d0ca6280472cde29",
+      "text": "The jihad of Modibo Adama led to the spread of Islam and the Fulani ethnic group across northern Cameroon",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jihad",
+          "title": "Jihad",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Modibo_Adama",
+          "title": "Modibo Adama",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Islam",
+          "title": "Islam",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Fulani",
+          "title": "Fulani",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cameroon",
+          "title": "Cameroon",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "a4ff6848-04a6-4dbd-8af3-aa09b0221416",
+      "hash": "1afebb4c3cd49bfe498790b0fccef065bae163fa4941e62c958f4cc1eea907b4",
+      "text": "The Canadian Coast Guard icebreaker Labrador was the first ship to circumnavigate North America",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Canadian_Coast_Guard",
+          "title": "Canadian Coast Guard",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Icebreaker",
+          "title": "Icebreaker",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/CCGS_Labrador",
+          "title": "CCGS Labrador",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Circumnavigate",
+          "title": "Circumnavigate",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/North_America",
+          "title": "North America",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "a2d8f765-931d-4b92-a984-4b06388e36b1",
+      "hash": "f57d2f9358ff4cdc043b0be50e27d191bbbc699eca0a903698184b0365e0c1cf",
+      "text": "The last African American jockey to win the Kentucky Derby was James Winkfield in 1902",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/African_American",
+          "title": "African American",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jockey",
+          "title": "Jockey",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kentucky_Derby",
+          "title": "Kentucky Derby",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Winkfield",
+          "title": "James Winkfield",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1902",
+          "title": "1902",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "c227e7e9-a7bd-4e22-a297-03e6b60ebfe7",
+      "hash": "8c02c83ad3c765387011a576ed9bc42cd62a3ff13cc107f4102345b8ace2c5bc",
+      "text": "On 14 August 1936 Rainey Bethea was hanged in Owensboro, Kentucky, thus becoming the last person to be publicly executed in the United States",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/14_August",
+          "title": "14 August",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1936",
+          "title": "1936",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rainey_Bethea",
+          "title": "Rainey Bethea",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hanging",
+          "title": "Hanging",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Owensboro,_Kentucky",
+          "title": "Owensboro, Kentucky",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Capital_punishment_in_the_United_States",
+          "title": "Capital punishment in the United States",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "0a2a0dfc-06e5-4d8e-b482-3aa0c85a008d",
+      "hash": "01035cc557bc314f8b9dd9ce1b131f866362db34812dc0051bb8cc9a56af8573",
+      "text": "The Minchiate was a deck of playing cards similar to the tarot, but with forty trumps",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Minchiate",
+          "title": "Minchiate",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Playing_card",
+          "title": "Playing card",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tarot",
+          "title": "Tarot",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Trump",
+          "title": "Trump",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "c06c859a-78e3-45a5-ae0c-f5307c05083c",
+      "hash": "62d4922371d7f1a6664579057aec84194f6ef62e4e38dcc5138ffa619d71a1e7",
+      "text": "Bulk vending machine operators often spray Mike and Ikes and Hot Tamales with cooking spray to keep them from sticking together",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bulk_vending",
+          "title": "Bulk vending",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_and_Ike",
+          "title": "Mike and Ike",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hot_Tamales",
+          "title": "Hot Tamales",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "c7e239a5-dee9-4465-9c07-da1e9e3461e5",
+      "hash": "703ed0cc3a8023232ca03152f941bee3a6fe47d1d253c6e8ae8820ec08b938e6",
+      "text": "Yrausquin Airport in the Caribbean island of Saba has commercial air service despite prohibition for airline airplanes to land there",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Yrausquin_Airport",
+          "title": "Yrausquin Airport",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Caribbean",
+          "title": "Caribbean",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Saba_(island)",
+          "title": "Saba (island)",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "dea9adf3-1447-496d-8488-6a0060837c7b",
+      "hash": "11bd95d2f387a3e5e566003b038cf0f0d49ae7c794080ac974d469a5bbf843a6",
+      "text": "Minnesota congresswoman Coya Knutson sang and played her accordion at campaign events",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Minnesota",
+          "title": "Minnesota",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/U.S._House_of_Representatives",
+          "title": "U.S. House of Representatives",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Coya_Knutson",
+          "title": "Coya Knutson",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Accordion",
+          "title": "Accordion",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "454315a8-117d-45ed-9edf-c60c3d049ba4",
+      "hash": "2bc60778291cd96b38f933d6464dcafdccee66fabcdb262f61972afef5ed964b",
+      "text": "A Starets is a spiritual leader unique to the Russian Orthodox Church",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Starets",
+          "title": "Starets",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Russian_Orthodox_Church",
+          "title": "Russian Orthodox Church",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "6c056bd5-9eb3-4136-a199-86bbd0d54ac9",
+      "hash": "6ba92978597ae07d0de5ea4e388088f1074849284256eed57865202accccce63",
+      "text": "The only active volcano in South Asia is on Barren Island, one of India 's Andaman Islands",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Active_volcano",
+          "title": "Active volcano",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/South_Asia",
+          "title": "South Asia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Barren_Island_(Andaman_Islands)",
+          "title": "Barren Island (Andaman Islands)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "title": "India",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Andaman_Islands",
+          "title": "Andaman Islands",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "1694844e-e7c0-4e9f-ac81-a69fb16022b5",
+      "hash": "0c2309e158930a84274daadc4eb861d3b198da3efd5d3a8ab8cc079664429c05",
+      "text": "The Muslim state of Ifat was completely annexed by Ethiopia in 1415",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Islam",
+          "title": "Islam",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ifat",
+          "title": "Ifat",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ethiopia",
+          "title": "Ethiopia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1415",
+          "title": "1415",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "720b7a15-df99-49c0-b33d-f4af6b90b29b",
+      "hash": "12c5d1599319b6beb6269b2010bd800837be1d8b0615355a5057f461a3877ece",
+      "text": "The 1892 farce Charley's Aunt has been the basis of at least six different films, as well as the successful 1950s Broadway and West End musical, Where's Charley",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1892",
+          "title": "1892",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Farce",
+          "title": "Farce",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Charley%27s_Aunt",
+          "title": "Charley's Aunt",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Film",
+          "title": "Film",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1950s",
+          "title": "1950s",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Broadway",
+          "title": "Broadway",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/West_End",
+          "title": "West End",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Musical_theatre",
+          "title": "Musical theatre",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Where%27s_Charley%3F",
+          "title": "Where's Charley?",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "218d8a31-c10f-4f5f-81ed-f58af5b562af",
+      "hash": "2894547690c7b4f33099115d99c32abf4d5a090071ad134dc49188f8a9fc9d2b",
+      "text": "The Mongols, led by Genghis Khan 's grandson Hulegu Khan, executed Al-Musta'sim, the Abbasid caliph of the Islamic state, following the 1258 Battle of Baghdad",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mongols",
+          "title": "Mongols",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Genghis_Khan",
+          "title": "Genghis Khan",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hulegu_Khan",
+          "title": "Hulegu Khan",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Al-Musta%27sim",
+          "title": "Al-Musta'sim",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Abbasid",
+          "title": "Abbasid",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Caliph",
+          "title": "Caliph",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Islam",
+          "title": "Islam",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1258",
+          "title": "1258",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Baghdad_(1258)",
+          "title": "Battle of Baghdad (1258)",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "6bb86801-3a33-4a5f-ab6c-49a533d9a3e6",
+      "hash": "420e164b968ce7cacf5064e483566f697686f3293c6250100865bd54e23919f8",
+      "text": "The uncommon triangulated frame of Hearst Tower, currently under construction in New York City, requires about 20 percent less steel than a conventional perimeter frame",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hearst_Tower",
+          "title": "Hearst Tower",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/New_York_City",
+          "title": "New York City",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steel",
+          "title": "Steel",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "7d820838-f072-48d0-952e-6bed7b2535af",
+      "hash": "b6a77c90d516ae2f4eca2f70706959128af29fe7d2e173f5cb9e1f6f6d1f0b76",
+      "text": "Bryce State Mental Hospital in Tuscaloosa, Alabama, USA, has served as a model of both progressive and inhumane mental health treatment during its 144-year career",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bryce_State_Mental_Hospital",
+          "title": "Bryce State Mental Hospital",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tuscaloosa,_Alabama",
+          "title": "Tuscaloosa, Alabama",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States",
+          "title": "United States",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Progressive_Era",
+          "title": "Progressive Era",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mental_health",
+          "title": "Mental health",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "5279f8c4-6e93-4568-9207-f67e1b378261",
+      "hash": "d1fe62cb447638d2e4459b97e7db885974fdad99aa6a53365c7a943271e8b8b7",
+      "text": "The Delphic Hymns, written in stone between 138 and 128 BC in Ancient Greece, are the earliest surviving unambiguous notated music in the western world",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Delphic_Hymns",
+          "title": "Delphic Hymns",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/138_BC",
+          "title": "138 BC",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/128_BC",
+          "title": "128 BC",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ancient_Greece",
+          "title": "Ancient Greece",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Note_(music)",
+          "title": "Note (music)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Music",
+          "title": "Music",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "d1acb834-a643-4d95-a8f9-d99937b27277",
+      "hash": "0feb7f7d09695e2b11dfff2381d3e386324d6205ae18c1719680cf27ff26582e",
+      "text": "In Angola, almost two out of every ten newborns die within one year, making it the country with the highest infant mortality rate in the world",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Angola",
+          "title": "Angola",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Newborn",
+          "title": "Newborn",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Country",
+          "title": "Country",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate_(2005)",
+          "title": "List of countries by infant mortality rate (2005)",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "8edb9387-3c79-4a58-8670-09ae52039a65",
+      "hash": "0d639330cc10f243efc1aef615599b659b13b9584c72039dc28bdf80e2de3255",
+      "text": "Cherubina de Gabriak, subject of the famous duel between the two first-rank Russian poets Maximilian Voloshin and Nikolai Gumilyov, did not even exist",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cherubina_de_Gabriak",
+          "title": "Cherubina de Gabriak",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_famous_duels#Russian_Duels",
+          "title": "List of famous duels",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Russian_poetry",
+          "title": "Russian poetry",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Maximilian_Voloshin",
+          "title": "Maximilian Voloshin",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nikolai_Gumilyov",
+          "title": "Nikolai Gumilyov",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "37b39d62-0ecd-4f4a-9b25-0c4d560dd7a3",
+      "hash": "1be93561f349abc71b8670233322c6e9b876b91d0119c0bccb8d6fdb2beb07cb",
+      "text": "Charles Brooks, Jr., was the first person to be executed by lethal injection in the United States",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charles_Brooks,_Jr.",
+          "title": "Charles Brooks, Jr.",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Capital_punishment_in_the_United_States",
+          "title": "Capital punishment in the United States",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lethal_injection",
+          "title": "Lethal injection",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States",
+          "title": "United States",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "2ef8abca-ce96-4d36-a1c4-35c37d73bc09",
+      "hash": "8c11d5b7c5e65ccdb23f51c708b11835786a5acf62f5276a073bef2329d1889c",
+      "text": "Rodger Penzabene, co-author of the 1968 Temptations hit \" I Wish It Would Rain,\" used a real-life breakup as inspiration for the song and committed suicide when the song was released",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rodger_Penzabene",
+          "title": "Rodger Penzabene",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1968_in_music",
+          "title": "1968 in music",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Temptations",
+          "title": "The Temptations",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/I_Wish_It_Would_Rain",
+          "title": "I Wish It Would Rain",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Suicide",
+          "title": "Suicide",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "359f3cce-a4ff-414c-92d4-d34d13ea997f",
+      "hash": "5e91c472cd8333a7dcc2302fe993919b20d8003ea529bf087769cfada5afeeb0",
+      "text": "The Presidio of Santa Barbara, built by the Spanish in 1782, is the second-oldest European building in the U.S. state of California",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Presidio_of_Santa_Barbara",
+          "title": "Presidio of Santa Barbara",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/New_Spain",
+          "title": "New Spain",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1782",
+          "title": "1782",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/U.S._state",
+          "title": "U.S. state",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/California",
+          "title": "California",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "7de82bcf-a8a4-4a75-acfd-9c7206c598f0",
+      "hash": "fa62de7a5ecb7d28065933f3b7144bf37cff45c29e2ab081bf229053e2924c64",
+      "text": "Liugong Island is considered the \"birthplace of China 's first navy \" and is also the site of its defeat in the First Sino-Japanese War",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Liugong_Island",
+          "title": "Liugong Island",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "title": "China",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Navy",
+          "title": "Navy",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/First_Sino-Japanese_War",
+          "title": "First Sino-Japanese War",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "1565da1f-1cae-479b-b014-6e5ebade9b6b",
+      "hash": "af1321db6853c859721cb052957d6c907f97a9cdd27c7c2945bbf5b755d29aea",
+      "text": "Closer Economic Relations is a free trade agreement between the governments of New Zealand and Australia",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Closer_Economic_Relations",
+          "title": "Closer Economic Relations",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Free_trade",
+          "title": "Free trade",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/New_Zealand",
+          "title": "New Zealand",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Australia",
+          "title": "Australia",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "470ac871-7b25-4bd2-8336-8dde32a861d5",
+      "hash": "bf8e6ccb0f841a882101ee17952c90e90ff67697ad91a548ad1f949bd527f860",
+      "text": "In Elizabethan England anyone opening a message in a bottle without the approval of the Queen could face the death penalty",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Elizabethan",
+          "title": "Elizabethan",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Message_in_a_bottle",
+          "title": "Message in a bottle",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Capital_punishment",
+          "title": "Capital punishment",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "72a1a480-1ec7-47cd-9914-43bc902efcee",
+      "hash": "580cf3a4f5023f7ea5bc85f13e0e086a387793725c936bc79b2dbda819e74fff",
+      "text": "Antarctosaurus was one of the largest dinosaurs ever to live in South America",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Antarctosaurus",
+          "title": "Antarctosaurus",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dinosaur",
+          "title": "Dinosaur",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/South_America",
+          "title": "South America",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "21f6c4a5-fbda-4675-b8d6-5326fd7361ea",
+      "hash": "7b996725b09ee27809f6fd5e35f7f4fee226d2f072244cd8959d8166981b862d",
+      "text": "The Hungry i nightclub was instrumental in launching the careers of Lenny Bruce, Barbra Streisand and Woody Allen",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hungry_i",
+          "title": "Hungry i",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lenny_Bruce",
+          "title": "Lenny Bruce",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Barbra_Streisand",
+          "title": "Barbra Streisand",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Woody_Allen",
+          "title": "Woody Allen",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "e422fa21-4d0c-442b-8bef-eeebcef7f67d",
+      "hash": "e57cbb5a8f454f4aa314921af7587d292188f2ca358fd99f2c7603e10cbc6ec7",
+      "text": "The American toad is a common species of toad found throughout the eastern United States and Canada",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_toad",
+          "title": "American toad",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States",
+          "title": "United States",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Canada",
+          "title": "Canada",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "5f46e35c-8a06-4316-be94-cc483a72334d",
+      "hash": "9a8c921e6fee22f0d62ff307405cf18a01d8859bf1b46b27a7b1c7d08ab2cb7e",
+      "text": "In 2001 Watercolour Challenge won a Royal Television Society award in the category of Best Features - Daytime television",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2001",
+          "title": "2001",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Watercolour_Challenge",
+          "title": "Watercolour Challenge",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Royal_Television_Society",
+          "title": "Royal Television Society",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "9b56fc04-c6bf-465d-807f-d59966168cf5",
+      "hash": "a6a2c1081d2c9c34c8cb6ff52601f9a17754a9ba0bcd5e63b9f8612c3beeac3e",
+      "text": "Phil Spector considered the song \" River Deep - Mountain High \", his 1966 production for Ike & Tina Turner, his best work, despite its commercial failure in the United States",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Phil_Spector",
+          "title": "Phil Spector",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/River_Deep_-_Mountain_High",
+          "title": "River Deep - Mountain High",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1966",
+          "title": "1966",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ike_%26_Tina_Turner",
+          "title": "Ike & Tina Turner",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States",
+          "title": "United States",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "f436fca1-9e29-47df-b013-f8973729000f",
+      "hash": "16201ab1c58550093babe70a32612d362191495b3b111d0c33a5c435e50d2344",
+      "text": "The War of Canudos was an armed conflict in the 1890s in the Northeastern village of Canudos, Brazil, that was started by a Christian mystic and messianic leader Antônio Conselheiro and a band of fanatic followers and resulted in the death of more than 15,000 people",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/War_of_Canudos",
+          "title": "War of Canudos",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1890s",
+          "title": "1890s",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Canudos",
+          "title": "Canudos",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "title": "Brazil",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mystic",
+          "title": "Mystic",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Messianic",
+          "title": "Messianic",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ant%C3%B4nio_Conselheiro",
+          "title": "Antônio Conselheiro",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "70543b59-c289-4caf-aa99-a7dd18eebc6b",
+      "hash": "dc7f876ea30deebfccbddde277c79d2add69531d046a797144c966d31b32ab24",
+      "text": "Liberty Displaying the Arts and Sciences is a 1792 work of American art that depicts the Goddess of Liberty and is the first known painting to celebrate the emancipation of slaves in the United States",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Liberty_Displaying_the_Arts_and_Sciences",
+          "title": "Liberty Displaying the Arts and Sciences",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1792_in_art",
+          "title": "1792 in art",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Visual_arts_of_the_United_States",
+          "title": "Visual arts of the United States",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Goddess_of_Liberty",
+          "title": "Goddess of Liberty",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Painting",
+          "title": "Painting",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Emancipation",
+          "title": "Emancipation",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Slavery_in_the_United_States",
+          "title": "Slavery in the United States",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "5a8df8e7-f090-4ea1-9817-7d89aa4894cf",
+      "hash": "39baa7e5d432122fd1d101cf474960dc137c8ada5ef94afa9036d65536ac926f",
+      "text": "Although Archibald Leitch was the foremost football stadium architect in the United Kingdom in the early 20th century, only two of his works have been listed for preservation",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Archibald_Leitch",
+          "title": "Archibald Leitch",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Football_(soccer)",
+          "title": "Football (soccer)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stadium",
+          "title": "Stadium",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Architect",
+          "title": "Architect",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "title": "United Kingdom",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/20th_century",
+          "title": "20th century",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Listed_building",
+          "title": "Listed building",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "24e01a90-6b3d-458e-bc03-a9321f60e05d",
+      "hash": "e36cba198a2d8bcf5cf81ffb4334b7eea2552372c8361c2bad804cfbce41b719",
+      "text": "Men who practice snake charming often also use their skills as a form of pest control",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Snake_charming",
+          "title": "Snake charming",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pest_control",
+          "title": "Pest control",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "3b0b543a-02bd-4599-98db-cd3432073c8e",
+      "hash": "df85ccde90a387654e49b4bba757e39607a653712413c7b61b3df482974503a4",
+      "text": "Simone Niggli-Luder from Switzerland won all four women's competitions at the orienteering world championships 2005 in Aichi, Japan, repeating her performance of 2003",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Simone_Niggli-Luder",
+          "title": "Simone Niggli-Luder",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Switzerland",
+          "title": "Switzerland",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Orienteering",
+          "title": "Orienteering",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2005",
+          "title": "2005",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Aichi",
+          "title": "Aichi",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Japan",
+          "title": "Japan",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2003",
+          "title": "2003",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "5f552d35-49b7-4ec1-bf05-e9ecbe9edb20",
+      "hash": "e22efe3b279f435c75c0d0b55aab7aa82e0e32e730cec5977be6bf6cda5d2252",
+      "text": "The border between Nilo-Saharan and Bantu languages among the languages of Uganda roughly coincides with the Victoria Nile",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nilo-Saharan_languages",
+          "title": "Nilo-Saharan languages",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bantu_languages",
+          "title": "Bantu languages",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Languages_of_Uganda",
+          "title": "Languages of Uganda",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Victoria_Nile",
+          "title": "Victoria Nile",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "1a439e22-e695-4672-aeea-88cf6dd3b1ee",
+      "hash": "0e2bbaf01d4948c06cd4927c25bd81ce09bf89e182d15cf476eebe1978b34428",
+      "text": "The defeat of Vijayanagara Empire at the Battle of Talikota in 1565 ended one of the last great Hindu kingdoms in South India",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Vijayanagara_Empire",
+          "title": "Vijayanagara Empire",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Talikota",
+          "title": "Battle of Talikota",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1565",
+          "title": "1565",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hindu",
+          "title": "Hindu",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/South_India",
+          "title": "South India",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "fd7f3b2f-4942-4938-8146-6ea472485ce0",
+      "hash": "b11e54b6c816c816f6754b0a28211dcbebc816b1159c7c94778ee4cef3868b52",
+      "text": "The Taiyuan Satellite Launch Center, founded in 1968, is one of the three inaugural satellite launch sites of the People's Republic of China",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Taiyuan_Satellite_Launch_Center",
+          "title": "Taiyuan Satellite Launch Center",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1968",
+          "title": "1968",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Satellite",
+          "title": "Satellite",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/People%27s_Republic_of_China",
+          "title": "People's Republic of China",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "c0b5d67c-728d-41ff-8f7e-768145984f26",
+      "hash": "d553d596283913adc657906ad1dfd19ecb3c6393c48e3d3ff96d08077b562528",
+      "text": "Charles Atangana was the first Ewondo to be baptised Catholic in German Cameroon",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charles_Atangana",
+          "title": "Charles Atangana",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Beti-Pahuin",
+          "title": "Beti-Pahuin",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Baptism",
+          "title": "Baptism",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Catholicism",
+          "title": "Catholicism",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Germany",
+          "title": "Germany",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cameroon",
+          "title": "Cameroon",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "568ca425-eab4-401d-a838-f3f5849a3b1d",
+      "hash": "89ea9bfa1db2ee69a490332fa9e9aab44927bd0638ee5eb4794691f050b2a867",
+      "text": "The largest organism in the world is a honey fungus which covers more than 3.4 square miles (8.9 km²) and is thousands of years old",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Largest_organism",
+          "title": "Largest organism",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Honey_fungus",
+          "title": "Honey fungus",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "e7e183e0-863a-49c9-9649-163f29be356f",
+      "hash": "2a7e94a2eab6bd84232bc143b44bdfd562320f8761ea587aa85642a08892bff8",
+      "text": "A sea fan is a form of sessile colonial cnidarian, similar to a sea pen or a soft coral, found in tropical and subtropical seawater",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sea_fan",
+          "title": "Sea fan",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sessile",
+          "title": "Sessile",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Colony",
+          "title": "Colony",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cnidaria",
+          "title": "Cnidaria",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sea_pen",
+          "title": "Sea pen",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Coral",
+          "title": "Coral",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tropical",
+          "title": "Tropical",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Subtropical",
+          "title": "Subtropical",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "2082f003-ba5a-4d39-bd48-08497a9a5ecc",
+      "hash": "fb22c915ad34f20d5f1c118538b8e22f1998b60fbd0c0e6c9ee47f102f574c68",
+      "text": "The Finnish speed skater Clas Thunberg is the oldest Olympic speed skating champion, winning gold at the 1928 St Moritz games at the age of 35",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Finland",
+          "title": "Finland",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Speed_skating",
+          "title": "Speed skating",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Clas_Thunberg",
+          "title": "Clas Thunberg",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Olympic_Games",
+          "title": "Olympic Games",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1928_Winter_Olympic_Games",
+          "title": "1928 Winter Olympic Games",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "e2e98a99-5ce3-4952-9371-0d0bf35c3516",
+      "hash": "f75c980ca07a064b2ef2390bfdd59879e31a6c6e358a2ea172c8e4de8f4dd5d8",
+      "text": "Umchwasho is a traditional chastity rite in Swaziland that restricts the sexual relations of unmarried women",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Umchwasho",
+          "title": "Umchwasho",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tradition",
+          "title": "Tradition",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sexual_abstinence",
+          "title": "Sexual abstinence",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rite",
+          "title": "Rite",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Swaziland",
+          "title": "Swaziland",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "428bb372-610b-4853-8613-9ecd83e1de14",
+      "hash": "2c9bbba54317dceff106759a1ba6656f78cddce2d74e0958321c3d3d1656e291",
+      "text": "Detonating nuclear weapons is specifically forbidden in Britain under the Nuclear Explosions (Prohibition and Inspections) Act 1998",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nuclear_weapons",
+          "title": "Nuclear weapons",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Britain",
+          "title": "Britain",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nuclear_Explosions_(Prohibition_and_Inspections)_Act_1998",
+          "title": "Nuclear Explosions (Prohibition and Inspections) Act 1998",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "a84fed0d-37bb-4af8-ad15-0263d06d6bdc",
+      "hash": "34db77e2487d670a2042be25ffc834ba2711fe0626cb2dda88928250e58bb20a",
+      "text": "The 1888/9 South African cricket season marks the beginning of first-class cricket in South Africa",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1888/9_South_African_cricket_season",
+          "title": "1888/9 South African cricket season",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/First-class_cricket",
+          "title": "First-class cricket",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/South_African_cricket_team",
+          "title": "South African cricket team",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "aad511b6-2f97-433c-b97f-1ed6be97fc7a",
+      "hash": "fc49e899926ce8fcc200448f64384f4e5dea7a53f87ef28911ed4cc6ce00cdd9",
+      "text": "The Devil's Beef Tub was used to hide cattle stolen by the Border Reivers",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Devil%27s_Beef_Tub",
+          "title": "Devil's Beef Tub",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Border_Reivers",
+          "title": "Border Reivers",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "72504b5a-ac5b-4ec4-bc32-97fae5c907ae",
+      "hash": "8c2531e3b209f0050fbb04123922210de6593382e41f4063bd9ff5fa1248fffe",
+      "text": "Khashaba Dadasaheb Jadhav was independent India 's first individual Olympic medalist when he won the wrestling bronze medal at the 1952 Helsinki games",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Khashaba_Dadasaheb_Jadhav",
+          "title": "Khashaba Dadasaheb Jadhav",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "title": "India",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Olympic_Games",
+          "title": "Olympic Games",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1952_Summer_Olympics",
+          "title": "1952 Summer Olympics",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "b912a575-a70d-4ce3-9f97-dbecccb78f78",
+      "hash": "37507d5b082a87a20692a116105a929a93d5d12b5792f2705d5082e9975074ad",
+      "text": "Sergio Blass was the only singer to be a member of both Los Chicos and Menudo, Puerto Rican rival boy bands during the early 1980s",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sergio_Blass",
+          "title": "Sergio Blass",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Los_Chicos",
+          "title": "Los Chicos",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Menudo",
+          "title": "Menudo",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Puerto_Rican",
+          "title": "Puerto Rican",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Boy_band",
+          "title": "Boy band",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1980s",
+          "title": "1980s",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "74e325a7-db73-4d89-8732-834aafe43bd2",
+      "hash": "a3d66ca613bc167d6cd4552d9d0823dad8d636c802e80bf2cbe3b504953977af",
+      "text": "The Battle of Asal Uttar fought between India and Pakistan was the largest tank battle in the history of the Indian subcontinent",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Asal_Uttar",
+          "title": "Battle of Asal Uttar",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "title": "India",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pakistan",
+          "title": "Pakistan",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_subcontinent",
+          "title": "Indian subcontinent",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "83ce683d-547d-43ed-ad43-759292554b86",
+      "hash": "c907d0c9e78a2a03ccd9ee4b95446f68823469d4d444986965acc27715bee35a",
+      "text": "Lake Enriquillo is the only saltwater lake in the world inhabited by crocodiles",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lake_Enriquillo",
+          "title": "Lake Enriquillo",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Crocodiles",
+          "title": "Crocodiles",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "7e29d00c-0b2f-4fc6-afda-f5e8e07e8d5a",
+      "hash": "ddad2b370802fab818bdbfa5fa5e3f2cc47108b366d679d4c700c1d58c68d2f1",
+      "text": "About half of Ireland's citizens live outside of the Republic of Ireland",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Irish_nationality_law",
+          "title": "Irish nationality law",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "7a4e3c1d-f3ba-4aff-9379-6dfb6f5bad72",
+      "hash": "f2ca785e646213ec4702acc2b83649f596515d3d4f429e5cb04dc0efa3b9528a",
+      "text": "The Nurek Dam in Tajikistan is the tallest dam in the world, and in 1994 generated enough hydroelectric power to supply three-quarters of that country's generation capacity",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nurek_Dam",
+          "title": "Nurek Dam",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tajikistan",
+          "title": "Tajikistan",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hydroelectricity",
+          "title": "Hydroelectricity",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "a913e46c-9c9d-4d25-bbe8-a18328cae841",
+      "hash": "0f047126f7a7a1a39420189694ca9e95b60bf70b2bf77bb832e4d1334f8c9738",
+      "text": "Stalking Cat is a San Diego man who has spent more than 150,000 US dollars on tattoos and cosmetic surgery working towards his goal of resembling a live tiger",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stalking_Cat",
+          "title": "Stalking Cat",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/San_Diego,_California",
+          "title": "San Diego, California",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/US_dollar",
+          "title": "US dollar",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tattoo",
+          "title": "Tattoo",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cosmetic_surgery",
+          "title": "Cosmetic surgery",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tiger",
+          "title": "Tiger",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "579ee6c6-dc5c-40bf-b669-8f00bd18862a",
+      "hash": "7208bb26d047db4ef737435e1c12e90baf3337fe94d31db069385a0fedd6c016",
+      "text": "The Narita Shinkansen from Tokyo to Narita Airport, which took nine years to build 9 km of track bed, is the only bullet train line ever officially cancelled",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Narita_Shinkansen",
+          "title": "Narita Shinkansen",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tokyo",
+          "title": "Tokyo",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Narita_Airport",
+          "title": "Narita Airport",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shinkansen",
+          "title": "Shinkansen",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "33263ae1-6f8b-44e2-be3a-467cd808f8e7",
+      "hash": "18b30fcbced8f7c00777c732b9ec96049a0f91e97d96c37cad8df334fdad8eaa",
+      "text": "Canadian media cannot legally reprint their own stories mentioning the name of convicted school shooter Todd Cameron Smith",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Canadian",
+          "title": "Canadian",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Todd_Cameron_Smith",
+          "title": "Todd Cameron Smith",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "f7372b7a-8b04-4936-b985-0369db6132dc",
+      "hash": "635b925fb69574404ea2136d8e4bd03c3e641f4f3b86d51e59901ca819dea8c7",
+      "text": "Urushiol-induced contact dermatitis accounts for 10% of all lost-time injuries in the United States Forest Service",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Urushiol-induced_contact_dermatitis",
+          "title": "Urushiol-induced contact dermatitis",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States_Forest_Service",
+          "title": "United States Forest Service",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "8a3f36b6-4201-40d5-a4e5-d88fbe43ff06",
+      "hash": "e6e7bf0f3486916161e5b84c7e0eea1225ef19d825c1c44e65b0cf5975deb8ae",
+      "text": "Day beacons and other navigational aids vary in standard designation worldwide much like driving on the right or left",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Day_beacon",
+          "title": "Day beacon",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rules_of_the_road",
+          "title": "Rules of the road",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "cb3a19da-3c22-4534-8cbb-b6b983bc8684",
+      "hash": "bb8c9922a05c84bb38b4791c82e7b6285f307a554cfb8506c145704b9b925ad8",
+      "text": "Three of the stars named after people, often thought to have traditional Arabic names, were in fact named for members of the Apollo 1 crew",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stars_named_after_people",
+          "title": "Stars named after people",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Arabic_language",
+          "title": "Arabic language",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Apollo_1",
+          "title": "Apollo 1",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "63efccf2-8589-4345-b4e3-64440afa7a61",
+      "hash": "f048647f38cfa556133868b3a1809c7bc94955a67a261e046a69b09501b06f1f",
+      "text": "Driftless Area National Wildlife Refuge in Iowa has rare ice age snails that survive living on rock formations cooled from underground ice",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Driftless_Area_National_Wildlife_Refuge",
+          "title": "Driftless Area National Wildlife Refuge",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Iowa",
+          "title": "Iowa",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ice_age",
+          "title": "Ice age",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Discus_macclintocki",
+          "title": "Discus macclintocki",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Karst_topography",
+          "title": "Karst topography",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "00a8f714-45f3-4814-8e89-f54b10112504",
+      "hash": "cbfac245c7b06c9c1b96dec3f47c0293ad1d39da2c2047922a2992909ed364d0",
+      "text": "The definitive image of the African and Caribbean goddess Mami Wata was based on a poster of a Samoan snake charmer",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Africa",
+          "title": "Africa",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Caribbean",
+          "title": "Caribbean",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Goddess",
+          "title": "Goddess",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mami_Wata",
+          "title": "Mami Wata",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Samoa",
+          "title": "Samoa",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Snake",
+          "title": "Snake",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "4b0cbaad-b244-441e-9de4-ef41bb0e0044",
+      "hash": "78a32f50a90de676a4e1571686297c2a3ed2d17d0c426789ad9e3dc8d70e47b0",
+      "text": "The Khardungla Pass has been incorrectly claimed by Wikipedia to be the highest motorable road in the world",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Khardungla_Pass",
+          "title": "Khardungla Pass",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "890e1479-a390-4a8a-9ae4-663fe43d9ebe",
+      "hash": "51539246eb5e0bcca61b1af1dfcc8a71f8eaf433e5135e1228c6f2d7b670818e",
+      "text": "Brendon Kuruppu was the first Sri Lankan cricketer to score more than 200 runs (a double century ) in a Test innings",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Brendon_Kuruppu",
+          "title": "Brendon Kuruppu",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sri_Lankan_cricket_team",
+          "title": "Sri Lankan cricket team",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cricketer",
+          "title": "Cricketer",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Century_(cricket)",
+          "title": "Century (cricket)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Test_cricket",
+          "title": "Test cricket",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Innings",
+          "title": "Innings",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "d207ab46-aef2-4c18-8e21-d099f560d59b",
+      "hash": "0d5192cf9f062488e595ddb4f5401925ec35c43a7b2c89e15629dffea84b6318",
+      "text": "Foundation 9 Entertainment is the largest independent video game developer in North America",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Foundation_9_Entertainment",
+          "title": "Foundation 9 Entertainment",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Video_game_developer",
+          "title": "Video game developer",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/North_America",
+          "title": "North America",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "c1fa954d-34b2-4742-afd6-6aa0faf99949",
+      "hash": "e9a2bdb64213903faf4dbc95b948369e782868fd828d3d239b76f286a01ccda6",
+      "text": "The Indian Shaker Church is a Christian denomination founded by an American Indian in 1881 which incorporates Catholic, Protestant, and indigenous beliefs, but traditionally rejects the Bible and other written scriptures",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Shaker_Church",
+          "title": "Indian Shaker Church",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Christian_denomination",
+          "title": "Christian denomination",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Indian",
+          "title": "American Indian",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Catholic",
+          "title": "Catholic",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Protestant",
+          "title": "Protestant",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas",
+          "title": "Indigenous peoples of the Americas",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bible",
+          "title": "Bible",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "3ba983c0-501e-442f-8c45-39583349541d",
+      "hash": "c6f1ede6dc6ce49a9b1a3cdd52eb3b8b1f32201d42baa4f6a1feb213d8676063",
+      "text": "The Islamic Spaniard Judar Pasha led 4,000 Moroccans to victory against more than 40,000 Songhai troops at the Battle of Tondibi, putting an end to West Africa 's Songhai Empire",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Islam",
+          "title": "Islam",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Spain",
+          "title": "Spain",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Judar_Pasha",
+          "title": "Judar Pasha",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Moroccan",
+          "title": "Moroccan",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Songhai",
+          "title": "Songhai",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Tondibi",
+          "title": "Battle of Tondibi",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/West_Africa",
+          "title": "West Africa",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Songhai_Empire",
+          "title": "Songhai Empire",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "e5c72639-a20a-4a4c-80e4-83a31b6d024d",
+      "hash": "c4de481cc9b81e25705594f5d4ac7ddbf0df912dc46ac798cf6324d561c10f25",
+      "text": "The Cotswold Games were organized by Robert Dover as a protest against Puritanism in the early 17th century",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cotswold_Games",
+          "title": "Cotswold Games",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Dover",
+          "title": "Robert Dover",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Puritan",
+          "title": "Puritan",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/17th_century",
+          "title": "17th century",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "de8d7919-0b13-4591-9d0d-7879fa862cad",
+      "hash": "33a1f00947c65e09bf36f4f2b753d2cc1ac548094f16c234db498ea3f194fd77",
+      "text": "Lancashire cricketer Dick Barlow was immortalised in Francis Thompson 's poem \"At Lord's\"",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lancashire_County_Cricket_Club",
+          "title": "Lancashire County Cricket Club",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cricket",
+          "title": "Cricket",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dick_Barlow",
+          "title": "Dick Barlow",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Francis_Thompson",
+          "title": "Francis Thompson",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "908a8473-5970-42be-ac3c-0f7b44e9398c",
+      "hash": "afaeda122765a85aafc25304962e9f89f2ad7654670cc956e7bb3bccf1ef87eb",
+      "text": "Henri Blowitz, the Paris correspondent of the Times, averted a war between the French Third Republic and the German Empire in 1875",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Henri_Blowitz",
+          "title": "Henri Blowitz",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Paris",
+          "title": "Paris",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Times",
+          "title": "The Times",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/French_Third_Republic",
+          "title": "French Third Republic",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/German_Empire",
+          "title": "German Empire",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1875",
+          "title": "1875",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "dd29ab1c-467f-49df-b973-5e4726067e9c",
+      "hash": "c507050abdd131fb740600b376d0f979334287dc122b0ebd92694deac2bdf65d",
+      "text": "The African Grove theater was founded by free blacks in New York City in 1821 —when New York was still a slave state —and that it launched the career of the great black Shakespearean actor Ira Aldridge",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/African_Grove",
+          "title": "African Grove",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/New_York_City",
+          "title": "New York City",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1821",
+          "title": "1821",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/New_York",
+          "title": "New York",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Slave_state",
+          "title": "Slave state",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Shakespeare",
+          "title": "William Shakespeare",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ira_Aldridge",
+          "title": "Ira Aldridge",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "557e905e-d1f0-4261-b75f-183179782f37",
+      "hash": "8a0b3b6b5af04b399a8faf275cd4289145bc674db447d72ffe91a1225e6ff018",
+      "text": "Several countries, including Sweden and Germany have started a nuclear power phase-out, with the goal of gradually shutting down all nuclear power plants",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sweden",
+          "title": "Sweden",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Germany",
+          "title": "Germany",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nuclear_power_phase-out",
+          "title": "Nuclear power phase-out",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nuclear_power_plant",
+          "title": "Nuclear power plant",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "21c8717b-c5e9-4bf0-941a-f6308d3e0bee",
+      "hash": "5ba3d19fdeb27cf6d8479b891d626021ace90f4f36456e9b73c61a76bcea502b",
+      "text": "Sociocracy is a form of government relying on principles of consensus",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sociocracy",
+          "title": "Sociocracy",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Government",
+          "title": "Government",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Consensus",
+          "title": "Consensus",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "e59efbe8-efb0-477f-8ed7-735f658ef6f7",
+      "hash": "15740a19c59093df34de09459b8f50ed83ef1e7796549fab8cc7546fce27e8d2",
+      "text": "The Philadelphia Metro is a free daily newspaper that was first published in 2000",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Philadelphia_Metro",
+          "title": "Philadelphia Metro",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Newspaper",
+          "title": "Newspaper",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2000",
+          "title": "2000",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "bc948f19-922b-4307-a9d2-25bf5ace8d92",
+      "hash": "1649a78093f09d3ec64fd31fca5697712815245497f17d884e7cea10b833fd35",
+      "text": "The Ever Victorious Army, consisting of Chinese imperial forces led by a European officer corps, was instrumental in putting down the Taiping Rebellion",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ever_Victorious_Army",
+          "title": "Ever Victorious Army",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "title": "China",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Qing_Dynasty",
+          "title": "Qing Dynasty",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Europe",
+          "title": "Europe",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Officer_(armed_forces)",
+          "title": "Officer (armed forces)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
+          "title": "Taiping Rebellion",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "e0d065ad-6735-4da0-ab3f-32c37b8dde5b",
+      "hash": "3ae3aba96106cd1dcd4845683ac4ff7cbb41233106ef94969c0468ada61de97c",
+      "text": "Adjustable pedals as well as an adjustable driver's seat were luxury features of the Renault Spider",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pedal",
+          "title": "Pedal",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Renault_Spider",
+          "title": "Renault Spider",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "e77d3f5d-7714-4ba1-8ea3-fc897111182c",
+      "hash": "71995f9a05316c98a8c46c87044110da81cd2f22ce418c457d3c237208acbfc9",
+      "text": "The leg break bowled by Shane Warne to Mike Gatting that turned around the 1993 Ashes cricket series is widely known as the Ball of the Century",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Leg_break",
+          "title": "Leg break",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shane_Warne",
+          "title": "Shane Warne",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mike_Gatting",
+          "title": "Mike Gatting",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1993",
+          "title": "1993",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Ashes",
+          "title": "The Ashes",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cricket",
+          "title": "Cricket",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ball_of_the_Century",
+          "title": "Ball of the Century",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "0971b205-0ef2-4037-933e-d2e882788acd",
+      "hash": "39d54b04cbef5a3382a4639e912d10dae4e26f8a2c9b2be9b06d27096c48d3b2",
+      "text": "The most popular deity worshipped by the Duala peoples of Cameroon is a mermaid called a jengu",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Deity",
+          "title": "Deity",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Duala_peoples",
+          "title": "Duala peoples",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cameroon",
+          "title": "Cameroon",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mermaid",
+          "title": "Mermaid",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jengu",
+          "title": "Jengu",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "c3bd5251-e2e4-4bba-9831-13c50644adcc",
+      "hash": "9cb7c057834eacc72b423ef03bcd8e4e23ee7d797b4605a80ebb34bfbaf50e03",
+      "text": "Though only 14% of all U.S. nuclear testing was conducted at the Pacific Proving Grounds, they comprised nearly 80% of the total explosive yields of all U.S. tests",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nuclear_testing",
+          "title": "Nuclear testing",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pacific_Proving_Grounds",
+          "title": "Pacific Proving Grounds",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "7eaee24d-59ab-4bc0-89fb-9648dd3dbcbd",
+      "hash": "d335736becc0eb19fdec87a779b2f17590922d5800de30c74424435a0b0bd6b4",
+      "text": "The Mauritania Railway transports iron ore on trains up to three kilometers long",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mauritania_Railway",
+          "title": "Mauritania Railway",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Iron_ore",
+          "title": "Iron ore",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Train",
+          "title": "Train",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "9dedf5e9-3ded-442f-acee-483759e5f129",
+      "hash": "88bc61a641603c6f4b75f1f5854a30b47af392014978925d02d6516fc12440a4",
+      "text": "The Swan Bells is an 82.5m belltower in Perth, Western Australia containing the largest set of change ringing bells in the world, several of which are 280 years old",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Swan_Bells",
+          "title": "Swan Bells",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Belltower",
+          "title": "Belltower",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Perth",
+          "title": "Perth",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Western_Australia",
+          "title": "Western Australia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Change_ringing",
+          "title": "Change ringing",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "b2e67870-7e01-4c81-b861-27b4c4302ee6",
+      "hash": "7c446e7017ac3e158f120a27f115b961e4ed9674fbadfd7ad2f7976f3d6765b0",
+      "text": "Liberia is the only nation in the history of West Africa never to have been colonised",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Liberia",
+          "title": "Liberia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/History_of_West_Africa",
+          "title": "History of West Africa",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Colonization_of_Africa",
+          "title": "Colonization of Africa",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "5ef6fee1-5d4f-460f-b229-920b21bd60c5",
+      "hash": "facebcc4ab0a189583aa13be5542f96a67e87355d6ff8926949d2f61c385400d",
+      "text": "The Spined Loach is able to breathe through its intestine during times of oxygen scarcity, and can inflict an excruciating sting with the two-pointed spike under its eyes",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spined_Loach",
+          "title": "Spined Loach",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Intestine",
+          "title": "Intestine",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Oxygen",
+          "title": "Oxygen",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Eye",
+          "title": "Eye",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "68cfe135-7f3d-4b5a-9279-2332b572095d",
+      "hash": "0cc04c150b6781e082348c0c2456c14e22890920af1accef908a37e86e05e794",
+      "text": "DC Comics sued Fawcett Comics in 1941 over Fawcett's Captain Marvel being a Superman rip-off, and the resulting National Comics Publications v. Fawcett Publications lawsuit took thirteen years to settle",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/DC_Comics",
+          "title": "DC Comics",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Fawcett_Comics",
+          "title": "Fawcett Comics",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1941",
+          "title": "1941",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Captain_Marvel_(DC_Comics)",
+          "title": "Captain Marvel (DC Comics)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Superman",
+          "title": "Superman",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/National_Comics_Publications_v._Fawcett_Publications",
+          "title": "National Comics Publications v. Fawcett Publications",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Settlement_(law)",
+          "title": "Settlement (law)",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "d7e05ff5-93c8-499c-895e-3ed253d57b60",
+      "hash": "ba30b753c7933dc09be9aa65e69f7155795db7ba8f6a30e3d00979ec05954665",
+      "text": "Andrew Ellicott taught Meriwether Lewis the art of surveying",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Andrew_Ellicott",
+          "title": "Andrew Ellicott",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Meriwether_Lewis",
+          "title": "Meriwether Lewis",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Surveying",
+          "title": "Surveying",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "c37ddc92-5f39-4b0f-aa57-50fb05e6f2ee",
+      "hash": "4f73c78823a7d4d6fa061ea34663524ef37cb99cdb8c08dc644967d194037e33",
+      "text": "Juan Esteban Pedernera was interim President of Argentina in 1861, following the death of Santiago Derqui",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Juan_Esteban_Pedernera",
+          "title": "Juan Esteban Pedernera",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/President_of_Argentina",
+          "title": "President of Argentina",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1861",
+          "title": "1861",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Santiago_Derqui",
+          "title": "Santiago Derqui",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "7113d865-e073-4699-9d31-f0917a6edad8",
+      "hash": "6cb26c056ee57e1a0524a902fbbab6b8dd30b04af59986f859cd27562ec3bb01",
+      "text": "Plumpy'nut is a peanut -based food supplement that is being used to combat malnutrition in Niger",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Plumpy%27nut",
+          "title": "Plumpy'nut",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Peanut",
+          "title": "Peanut",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Malnutrition",
+          "title": "Malnutrition",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2005_Niger_food_crisis",
+          "title": "2005 Niger food crisis",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "8bcbc575-3bf1-47ab-933d-d70fcf9fc522",
+      "hash": "c9289c67cdbf63dd4d53f68cec3b3d279d409c78286a6dec1d17b38344127f34",
+      "text": "The Baltusrol Golf Club, the golf course that is the site of this week's PGA Championship, is a Certified Audubon Cooperative Sanctuary for its managing of its lands with concern to the environment",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Baltusrol_Golf_Club",
+          "title": "Baltusrol Golf Club",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Golf_course",
+          "title": "Golf course",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/PGA_Championship",
+          "title": "PGA Championship",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/National_Audubon_Society",
+          "title": "National Audubon Society",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Environment",
+          "title": "Environment",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "3d26786b-7355-4d87-af77-1048bd53cd7e",
+      "hash": "215f5494d8a0fca3670a55ee1be09e95647ca748b96e507d15487fcf75958d11",
+      "text": "John Brown's Fort in Harpers Ferry, West Virginia, was built there in 1848, moved to Chicago in 1891, and then returned to its original site in 1968",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Brown%27s_Fort",
+          "title": "John Brown's Fort",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Harpers_Ferry,_West_Virginia",
+          "title": "Harpers Ferry, West Virginia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1848",
+          "title": "1848",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chicago,_Illinois",
+          "title": "Chicago, Illinois",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1891",
+          "title": "1891",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1968",
+          "title": "1968",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "d22aa7c2-43e2-496f-8d00-00e2ee8afdc6",
+      "hash": "10b2bc5f11f9d9365be38cb8fe0c5335d2b7e85f2fad8eaf89728ac04d508dea",
+      "text": "Silvio O. Conte was a U.S. Congressman who once donned a pig mask in order to protest pork barrel spending",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Silvio_O._Conte",
+          "title": "Silvio O. Conte",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States_House_of_Representatives",
+          "title": "United States House of Representatives",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pig",
+          "title": "Pig",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mask",
+          "title": "Mask",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pork_barrel",
+          "title": "Pork barrel",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "0315eabe-5142-4b8e-affe-0ac8815d3299",
+      "hash": "8a253d6c694b91f7a27681f9f0febdc3fbe6bd50564dfb204c9942cde432e091",
+      "text": "The Kittlitz's Murrelet nests in isolated locations on inland mountaintops, unlike most other seabirds, which nest in seashore colonies",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kittlitz%27s_Murrelet",
+          "title": "Kittlitz's Murrelet",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mountain",
+          "title": "Mountain",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Seabird",
+          "title": "Seabird",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "a1772148-1a6e-4f93-988f-365017854234",
+      "hash": "ed1ac8b4d5c192e58db85eb5f405d8d1f4eef66bd450e83ab183ff1835e33e61",
+      "text": "Peter de Noronha was the first Indian to become an envoy of the Legion of Mary and was later knighted by Pope Paul VI",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_de_Noronha",
+          "title": "Peter de Noronha",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "title": "India",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Legion_of_Mary",
+          "title": "Legion of Mary",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Knighted",
+          "title": "Knighted",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pope_Paul_VI",
+          "title": "Pope Paul VI",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "211cdd35-bd60-41f1-9299-e46b13b85396",
+      "hash": "e80a218b53f1bbba497451f5c8c565c720170955f314cce634a7ca4cf2d0dba4",
+      "text": "The Capitoline Museums are housed in a complex of palazzi surrounding a piazza in Rome, designed by Michelangelo in 1536 but not fully completed until Mussolini ordered it in 1940",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Capitoline_Museums",
+          "title": "Capitoline Museums",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rome",
+          "title": "Rome",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Michelangelo_Buonarroti",
+          "title": "Michelangelo Buonarroti",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1536",
+          "title": "1536",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Benito_Mussolini",
+          "title": "Benito Mussolini",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1940",
+          "title": "1940",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "e70381b5-2fe6-43dc-9f42-ecd2f9bd0ac0",
+      "hash": "f9fb4f45a976355cd566ae0896a719ef6a73489f9ecd58923c649b1a4dcfc919",
+      "text": "1999 's Scooby Doo: Mystery of the Fun Park Phantom was the first commercial Scooby-Doo computer game for the Windows platform",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1999",
+          "title": "1999",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Scooby_Doo:_Mystery_of_the_Fun_Park_Phantom",
+          "title": "Scooby Doo: Mystery of the Fun Park Phantom",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Scooby-Doo",
+          "title": "Scooby-Doo",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Computer_game",
+          "title": "Computer game",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Microsoft_Windows",
+          "title": "Microsoft Windows",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Operating_system",
+          "title": "Operating system",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "ad3e46c6-d878-461d-b708-46a78ccc1791",
+      "hash": "feb7ec7da1158349f0cdb40d7c9bdfb928c1ae8f12f6cbc9d33d7f49ae13f170",
+      "text": "Saudi Prince Mohammed bin Fahd bin Abdul Aziz al-Saud is estimated to have lost tens of millions of U.S. dollars gambling in casinos",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/House_of_Saud",
+          "title": "House of Saud",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mohammed_bin_Fahd_bin_Abdul_Aziz_al-Saud",
+          "title": "Mohammed bin Fahd bin Abdul Aziz al-Saud",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/U.S._dollar",
+          "title": "U.S. dollar",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Casino",
+          "title": "Casino",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "76baedde-b4c9-4554-b7d8-6e3b0d933657",
+      "hash": "83ee17ab050af0da6c0db5cbac4f7ae5f6a2bc1149a12d4dcbb10726d7af86bf",
+      "text": "The Saskatchewan town of Macklin erected a 32-foot-high statue of a horse 's anklebone to commemorate the sport of Bunnock",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Saskatchewan",
+          "title": "Saskatchewan",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Horse",
+          "title": "Horse",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ankle",
+          "title": "Ankle",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bunnock",
+          "title": "Bunnock",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "9cf4c90c-03b2-436c-925b-217164b7633c",
+      "hash": "3fa179c6ac290c77ec0c3df87a497bf99b8f3e78f2aee32df93684ddc4f9caa3",
+      "text": "Margaret Roper, daughter of Thomas More, purchased his head after his execution and preserved it in spices until her own death",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Margaret_Roper",
+          "title": "Margaret Roper",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_More",
+          "title": "Thomas More",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Capital_punishment",
+          "title": "Capital punishment",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Spice",
+          "title": "Spice",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "0a74cbb0-c4c7-42dd-b4e2-3c2700303924",
+      "hash": "b62f0c3b4f1bfd6e159a6053babc797aa6c269d3b1c777748f2d9e36c8c08a73",
+      "text": "Iowa 's Black Hawk Purchase is named for the Sac chief Black Hawk, despite that fact that he was in prison when the land-transfer treaty was signed",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Iowa",
+          "title": "Iowa",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Black_Hawk_Purchase",
+          "title": "Black Hawk Purchase",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sac_(people)",
+          "title": "Sac (people)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Black_Hawk_(chief)",
+          "title": "Black Hawk (chief)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Treaty",
+          "title": "Treaty",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "0afdc6dd-398f-4b0d-8f24-7df277a8be29",
+      "hash": "3454efb315f3c0be2e00e46ffa99286af081bc06288919f617bcd3bbd7b90adf",
+      "text": "Oakmoss is a type of lichen used extensively in modern perfumery",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Oakmoss",
+          "title": "Oakmoss",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lichen",
+          "title": "Lichen",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Perfume",
+          "title": "Perfume",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "302e7068-837f-4658-984f-676b56fd8e71",
+      "hash": "56fac43ba6336c429def83bde88b7a226fc78a6d18db0dc02441f2252c2f50bf",
+      "text": "The recent massive flooding in Mumbai could have been avoided if the Municipal Corporation of Greater Mumbai had upgraded the city's drainage system by building the Brihanmumbai Storm Water Disposal System",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2005_Maharashtra_floods",
+          "title": "2005 Maharashtra floods",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mumbai",
+          "title": "Mumbai",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Municipal_Corporation_of_Greater_Mumbai",
+          "title": "Municipal Corporation of Greater Mumbai",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Drainage_system",
+          "title": "Drainage system",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brihanmumbai_Storm_Water_Disposal_System",
+          "title": "Brihanmumbai Storm Water Disposal System",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "0cb48da7-c212-4c2f-a5d7-c86a16f3256d",
+      "hash": "f361543bec55c5fca6bb16808c80ae81c2319cc1fc8e4d30e9a93a08c3c918a8",
+      "text": "An industrial process for making instant mashed potatoes was patented in 1912",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Instant_mashed_potato",
+          "title": "Instant mashed potato",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1912",
+          "title": "1912",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "1d073e73-80d7-4460-974a-cd2ee965bf5d",
+      "hash": "11945a3e4d66284fe4028b0c4ccb312212468b019c773786f88f2cf831984129",
+      "text": "The United States Army managed Yellowstone National Park for 32 years from Fort Yellowstone",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States_Army",
+          "title": "United States Army",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Yellowstone_National_Park",
+          "title": "Yellowstone National Park",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Fort_Yellowstone",
+          "title": "Fort Yellowstone",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "8e569a44-a914-45d7-ad9f-31fccfd2e353",
+      "hash": "a2cd26a2412d44b36d8cc417d173a4b754c9f27b92aa6060b62cace0a1378b2a",
+      "text": "The Liga Indonesia is the top football league in Indonesia",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Liga_Indonesia",
+          "title": "Liga Indonesia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Football_(soccer)",
+          "title": "Football (soccer)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Indonesia",
+          "title": "Indonesia",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "de2c9eb4-7d1c-4695-9393-304ee362a473",
+      "hash": "6d1c943196db51391c76aea989990b254f7c47679b73d8ab049b6c0d260253e3",
+      "text": "Vote-OK, a pro-fox hunting group, claimed to have helped defeat 29 Members of Parliament at the 2005 British general election",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Vote-OK",
+          "title": "Vote-OK",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Fox_hunting",
+          "title": "Fox hunting",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Member_of_Parliament",
+          "title": "Member of Parliament",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_Kingdom_general_election,_2005",
+          "title": "United Kingdom general election, 2005",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "c1bcf463-f3a9-4404-bcf9-6ce307facefc",
+      "hash": "5f4107b5b2a4aa2dee09e640f97349d7880768aba3ce8ddfb13e8875587917d9",
+      "text": "The Thunderdome, the home of the basketball and volleyball teams of the University of California, Santa Barbara, is famous for a tortilla -throwing incident in a men's basketball game televised on ESPN",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thunderdome",
+          "title": "Thunderdome",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/College_basketball",
+          "title": "College basketball",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Volleyball",
+          "title": "Volleyball",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/University_of_California,_Santa_Barbara",
+          "title": "University of California, Santa Barbara",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tortilla",
+          "title": "Tortilla",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ESPN",
+          "title": "ESPN",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "f4c0b0cc-88b3-4532-ae3f-fc3d8b1bf13f",
+      "hash": "00892130921baff2bb4cdb86991baf17146bf6cd1ac31d9142c73abc5ac50651",
+      "text": "Attempts have been made to produce rubber from Common Milkweed latex",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rubber",
+          "title": "Rubber",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Common_Milkweed",
+          "title": "Common Milkweed",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Latex",
+          "title": "Latex",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "ce0b77af-5527-4f67-bb3c-c07967083b13",
+      "hash": "848dd20b99d6a7dfa2149600cdbfa500d50d6878ab1df11e8e85508515396cda",
+      "text": "The Statute of Westminster Adoption Act 1942 was seen as formally demonstrating Australia 's independence to the world",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Statute_of_Westminster_Adoption_Act_1942",
+          "title": "Statute of Westminster Adoption Act 1942",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Australia",
+          "title": "Australia",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "10849f15-abf3-4f27-9fba-810ecce7c5b4",
+      "hash": "48e14b4c58c7905c5880516030c295a1c1aec5054985e2018ef478fd6f41b99f",
+      "text": "Mantle Hood was an ethnomusicologist known for the idea that students should learn to play the music from the cultures they study",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mantle_Hood",
+          "title": "Mantle Hood",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ethnomusicologist",
+          "title": "Ethnomusicologist",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "4411af6f-fdf1-4488-90f0-10a10ec70740",
+      "hash": "3e438bed34f122f7b014de3567e1f045aae070af72ee3202b9cdf43507c709c5",
+      "text": "Chuño is a freeze-dried potato product made since before the time of the Inca empire by a five-day process of alternately freezing, sun-drying, and trampling under foot",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chu%C3%B1o",
+          "title": "Chuño",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Freeze_drying",
+          "title": "Freeze drying",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Potato",
+          "title": "Potato",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Inca_empire",
+          "title": "Inca empire",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "f1ac3040-16d3-49a8-97c3-cc8a2d7ee200",
+      "hash": "bf3f0776b327c5b2c5a7ffc1e5099ef22f1272666ef936c70c12526c84a28639",
+      "text": "Saint Anthony's nut, popular with pigs as well as humans, is named for Anthony of Padua, patron saint of swineherds",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Conopodium_majus",
+          "title": "Conopodium majus",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pig",
+          "title": "Pig",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Human",
+          "title": "Human",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Anthony_of_Padua",
+          "title": "Anthony of Padua",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Patron_saint",
+          "title": "Patron saint",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Swineherd",
+          "title": "Swineherd",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "13a7f5d0-b62a-4f8a-9c41-d4f0f71b15c0",
+      "hash": "faceb0f05b345f530d7c4c809d323205bc3c4ab5da276fa83cf760cb227b20aa",
+      "text": "In response to the 1852 publication of Uncle Tom's Cabin, writers in the Southern United States produced a body of anti-Tom literature which attempted to show that slavery was not evil",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1852",
+          "title": "1852",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Uncle_Tom%27s_Cabin",
+          "title": "Uncle Tom's Cabin",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Southern_United_States",
+          "title": "Southern United States",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Anti-Tom_literature",
+          "title": "Anti-Tom literature",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "716c72d2-d871-4375-844e-b0e08253dc57",
+      "hash": "5aabfa7c2058a54e6b52f169596e294777ce5c9397fd94a610b6277ca634a6f3",
+      "text": "At the Battle of Cajamarca in 1532 the Inca Emperor Atahualpa was captured by Pizarro's conquistadors and that the battle was a decisive victory in the Spanish conquest of Peru",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Cajamarca",
+          "title": "Battle of Cajamarca",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1532",
+          "title": "1532",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Inca",
+          "title": "Inca",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Atahualpa",
+          "title": "Atahualpa",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Francisco_Pizarro",
+          "title": "Francisco Pizarro",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Conquistador",
+          "title": "Conquistador",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Spanish_conquest_of_Peru",
+          "title": "Spanish conquest of Peru",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "cc245ab7-6311-491d-a160-597dd572c314",
+      "hash": "0a1beea46708bd0ff3c3b7baa1a32fe3264920b3aa51c0fa3a08d6e329b90865",
+      "text": "Famine scales are the ways in which degrees of food security are measured, from situations in which an entire population has adequate food to full-scale famine",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Famine_scales",
+          "title": "Famine scales",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Food_security",
+          "title": "Food security",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Famine",
+          "title": "Famine",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "847defb7-9384-40c6-a156-ab0581587884",
+      "hash": "1921242847d490c161c641408526fefb8a54f485d1362f1a1a7028434ae6b5eb",
+      "text": "The height of clouds is measured using a ceiling balloon",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cloud",
+          "title": "Cloud",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ceiling_balloon",
+          "title": "Ceiling balloon",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "dd1c3951-266c-4485-97a2-bdaf603c5abf",
+      "hash": "6bee91ec7b334935661ee751748924aa3a6679ca01d8381fb7ce1f68d2b21377",
+      "text": "Maurine Brown Neuberger was the third woman elected to the U.S. Senate and that as a U.S. Senator she sponsored one of the first bills to require warning labels on cigarette packaging",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Maurine_Brown_Neuberger",
+          "title": "Maurine Brown Neuberger",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Women_in_the_United_States_Senate",
+          "title": "Women in the United States Senate",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+          "title": "United States Senate",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cigarette",
+          "title": "Cigarette",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "13f0e8c2-b615-4893-9b04-39088a8f5110",
+      "hash": "525e30ec751db139e5691afc5f8fea89e05fa707e6118ce519f7322f5840fd20",
+      "text": "The 1985 comedy film Head Office has established stars such as Danny DeVito starring in roles that are little more than bit parts",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/1985",
+          "title": "1985",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Comedy_film",
+          "title": "Comedy film",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Head_Office",
+          "title": "Head Office",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Danny_DeVito",
+          "title": "Danny DeVito",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bit_part",
+          "title": "Bit part",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "d7a90306-3bfb-43d3-a1e6-a1ffafc20079",
+      "hash": "0428e0ee1c43acb928b6796ca8656d75d586ea10bff616a1130270a5489eb2a9",
+      "text": "Republican California State Assemblyman Chuck DeVore wrote a book that was banned in the People's Republic of China",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Republican_Party_(United_States)",
+          "title": "Republican Party (United States)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/California_State_Assembly",
+          "title": "California State Assembly",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chuck_DeVore",
+          "title": "Chuck DeVore",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/People%27s_Republic_of_China",
+          "title": "People's Republic of China",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "98f40c71-82b8-4759-b74a-badeecf5bafb",
+      "hash": "cbc5c98e3270a85fe0325892cf89fd761d4025a3ffa48ef25d424b8596a91fe7",
+      "text": "The Revolt of the Comuneros, an uprising against Holy Roman Emperor Charles V, is considered by some to be the first modern revolution",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Revolt_of_the_Comuneros",
+          "title": "Revolt of the Comuneros",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Holy_Roman_Emperor",
+          "title": "Holy Roman Emperor",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor",
+          "title": "Charles V, Holy Roman Emperor",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Revolution",
+          "title": "Revolution",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "066f33a4-044a-4654-93af-0b6ff621107f",
+      "hash": "b9f95c2405d591eed0e164190df8b4357434b63cbb1cae96173f6dbd97afc8a1",
+      "text": "Comic-book writer Stan Lee, novelist/historian Winston Groom, and district attorney Jim Garrison have all been victims of Hollywood accounting",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stan_Lee",
+          "title": "Stan Lee",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Winston_Groom",
+          "title": "Winston Groom",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jim_Garrison",
+          "title": "Jim Garrison",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hollywood_accounting",
+          "title": "Hollywood accounting",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "65dacc81-72aa-467c-a569-2e14b4b6cf48",
+      "hash": "5c65be1d817cb734b07126c0cd1e7156f173c7ff05bcfcd2ff2b16d17f916c42",
+      "text": "The \" Victory Tests \" were a series of cricket matches between a team of Australian servicemen and an English national side played just two weeks after World War II ended",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Victory_Tests",
+          "title": "Victory Tests",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cricket",
+          "title": "Cricket",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Australia",
+          "title": "Australia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/England",
+          "title": "England",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/World_War_II",
+          "title": "World War II",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "985f3be0-00fd-4ba3-9c29-cc299f6c7928",
+      "hash": "61f9e967bf320bc3499af8625a6e5f5d527e6600a842fe531154d79cecc387cb",
+      "text": "Ronald E. Neumann the U.S. ambassador to Afghanistan is the first ambassador since John Q. Adams in 1817 to be appointed to the same country where his father was also ambassador",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ronald_E._Neumann",
+          "title": "Ronald E. Neumann",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States",
+          "title": "United States",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ambassador",
+          "title": "Ambassador",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Afghanistan",
+          "title": "Afghanistan",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
+          "title": "John Quincy Adams",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1817",
+          "title": "1817",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_G._Neumann",
+          "title": "Robert G. Neumann",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "ba69d785-f7cb-4df5-80ca-337cf9457446",
+      "hash": "597469cfa50a8b3d46eadfb5a1e8bd0975cdaff1267cc1f2ae1e517447b5e73f",
+      "text": "American Wimbledon champion Alice Marble was shot in the back while working as a spy in Switzerland during World War II",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States",
+          "title": "United States",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Championships,_Wimbledon",
+          "title": "The Championships, Wimbledon",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alice_Marble",
+          "title": "Alice Marble",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Switzerland",
+          "title": "Switzerland",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/World_War_II",
+          "title": "World War II",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "9ad8e19d-9fcd-4f05-a189-82e56cefe164",
+      "hash": "6dfb68a39a17beb1bdc3e8af3e821be5c5765e58d2c2e31d3e4791167954e539",
+      "text": "Nashville radio station WWTN launched the career of the nationally- syndicated financial advisor Dave Ramsey",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nashville,_Tennessee",
+          "title": "Nashville, Tennessee",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/WWTN",
+          "title": "WWTN",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Syndicate",
+          "title": "Syndicate",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dave_Ramsey",
+          "title": "Dave Ramsey",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "5e2736ad-f709-480f-a6dd-bcbc061b736c",
+      "hash": "2168a72eee4309fe9c90024559ecdcc1c14b59fb9eaab4b7bcebaa5ad975f9a5",
+      "text": "Hertfordshire puddingstone is a conglomerate rock named after its resemblance to Christmas pudding",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hertfordshire_puddingstone",
+          "title": "Hertfordshire puddingstone",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Conglomerate_(geology)",
+          "title": "Conglomerate (geology)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Christmas_pudding",
+          "title": "Christmas pudding",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "cafbee41-4f87-44d1-afaf-11d3185df58d",
+      "hash": "7400cab8cfe41a4ed0c5c8f1e914019e17b2d9026d234e42340417b43c2f37bc",
+      "text": "Wayne McLaren, an American model who portrayed the Marlboro Man in the famous cigarette advertising campaign, died of lung cancer",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wayne_McLaren",
+          "title": "Wayne McLaren",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States",
+          "title": "United States",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Model_(person)",
+          "title": "Model (person)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marlboro_Man",
+          "title": "Marlboro Man",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tobacco_advertising",
+          "title": "Tobacco advertising",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lung_cancer",
+          "title": "Lung cancer",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "63dbf7ef-cfda-44dd-8a80-a216b9994df6",
+      "hash": "51973d9d1827b7b4bdf7d341af83451c61d2735752066dfac8020b1d876c5223",
+      "text": "Republican California State Assemblyman Van Tran is the first Vietnamese-American to serve in a state legislature in U.S. history",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Republican_Party_(United_States)",
+          "title": "Republican Party (United States)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/California_State_Assembly",
+          "title": "California State Assembly",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Van_Tran",
+          "title": "Van Tran",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Vietnamese_American",
+          "title": "Vietnamese American",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States",
+          "title": "United States",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "80703f62-c376-410f-a6ba-5e36cb655ff3",
+      "hash": "6629627345d04d4e0fa151d595e69860f24597bbd15c4a9df19fbe83762b9b5b",
+      "text": "Johnson composed music for some of the most important motion pictures of Malayalam cinema, including Perumthachan and movies directed by Padmarajan",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Johnson_(composer)",
+          "title": "Johnson (composer)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Malayalam_cinema",
+          "title": "Malayalam cinema",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Perumthachan",
+          "title": "Perumthachan",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Padmarajan",
+          "title": "Padmarajan",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "d21979cd-f622-441d-9a21-cf3a95f8f108",
+      "hash": "3c77599dcb480c12903f7f7fded9d62f26536fbb29db53d1240d96a885d2bbec",
+      "text": "The American's Creed was written in 1917 as an entry into a patriotic contest, and was adopted by the U.S. House of Representatives the next year",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American%27s_Creed",
+          "title": "American's Creed",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1917",
+          "title": "1917",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/U.S._House_of_Representatives",
+          "title": "U.S. House of Representatives",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "eeb5ba5c-fd0a-4dfe-baec-b674bc58c822",
+      "hash": "c91c231965311be08856326bfb0660493e570a71a596eb30897edf7d6bcca696",
+      "text": "The Australian Giant burrowing frog does not croak, but rather hoots like an owl",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Australia",
+          "title": "Australia",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Giant_burrowing_frog",
+          "title": "Giant burrowing frog",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Owl",
+          "title": "Owl",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "cfae9a59-2635-497e-bbee-d762abe644a7",
+      "hash": "5aeeb4013209cc01acac39c25241bddd2a17c92d589a688d5bb754347fb551fa",
+      "text": "The opera King Arthur is unusual because the principal characters do not sing, rather they recite dialogue accompanied by music",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Opera",
+          "title": "Opera",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/King_Arthur_(opera)",
+          "title": "King Arthur (opera)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dialogue",
+          "title": "Dialogue",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Music",
+          "title": "Music",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "667234ba-a80b-4004-aee1-8179c479cb9e",
+      "hash": "1095e06b6f8f8de0899c7ee8d4865daf019c6cc35e6a9d546dfddbb31b964f66",
+      "text": "Alcohol advertising is heavily restricted in some countries to avoid associating the drinking of alcoholic beverages with sexual success and physical attractiveness",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alcohol_advertising",
+          "title": "Alcohol advertising",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Country",
+          "title": "Country",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alcoholic_beverage",
+          "title": "Alcoholic beverage",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Human_sexual_behavior",
+          "title": "Human sexual behavior",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Physical_attractiveness",
+          "title": "Physical attractiveness",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "d91d1f5b-15c8-471a-b52c-6f9700f58e45",
+      "hash": "d6353ba9e2789912e16b00e897bdd5f16b82c7084adf2f3c606786a385cac762",
+      "text": "During a flood in 1937, Brown Hotel in Louisville, Kentucky was partially submerged, and a worker caught a two-pound fish in the lobby",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Flood",
+          "title": "Flood",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1937",
+          "title": "1937",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brown_Hotel_(Louisville,_Kentucky)",
+          "title": "Brown Hotel (Louisville, Kentucky)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Louisville,_Kentucky",
+          "title": "Louisville, Kentucky",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kentucky",
+          "title": "Kentucky",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Fish",
+          "title": "Fish",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lobby",
+          "title": "Lobby",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "c0bd119d-2767-4b5e-ac46-31f2286235b5",
+      "hash": "b1c791818efca1580172f5d06eb5bee971e8193bce18048d085d1272ede30682",
+      "text": "Kabloona ( 1941 ) is a classic account of a Frenchman 's life among Canadian Inuit",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kabloona",
+          "title": "Kabloona",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/1941",
+          "title": "1941",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/France",
+          "title": "France",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Canada",
+          "title": "Canada",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Inuit",
+          "title": "Inuit",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "b138d319-1631-41a4-8d2f-3169a29e9f9c",
+      "hash": "6d30bfcc02703e6ca2d8e4ea386e37878d69e5b9134b2b015af49875f960dbef",
+      "text": "All of the publishing royalties the Bee Gees ' song \" Too Much Heaven \" earned went to UNICEF",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Royalty",
+          "title": "Royalty",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bee_Gees",
+          "title": "Bee Gees",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Too_Much_Heaven",
+          "title": "Too Much Heaven",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/UNICEF",
+          "title": "UNICEF",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "190ccaa8-816b-4214-be29-86d97e309609",
+      "hash": "7d835d2be949dd93382a777f745a7228b90e93a3cd518e929a84a92c35f21cd8",
+      "text": "The Houston Ballet has one of the largest endowments of any dance company in the U.S.",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Houston_Ballet",
+          "title": "Houston Ballet",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Endowment",
+          "title": "Endowment",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dance",
+          "title": "Dance",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States",
+          "title": "United States",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "ad7f4cf6-26b1-4699-b8f7-db225e8484ac",
+      "hash": "9084f74c993641de228bb8ad531f2bdfbbddf2d69011c03799cc7f578a21affa",
+      "text": "The sailors of the Santa María shipwrecked in Haiti were infected by the first reported cases of tungiasis, a disease caused by burrowing fleas",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(ship)",
+          "title": "Santa María (ship)",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Haiti",
+          "title": "Haiti",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Infection",
+          "title": "Infection",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tungiasis",
+          "title": "Tungiasis",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Flea",
+          "title": "Flea",
+          "source": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "id": "77cde050-1ad2-4468-9ed3-36a983fc2567",
+      "hash": "7206900a50ba615ef75251479b13681a80cd7f94120c84bb407841570379c72b",
+      "text": "The German prisoners of war built part of the Stade de Gerland stadium in Lyon, France, after the First World War",
+      "tags": [],
+      "image": {
+        "url": null,
+        "caption": null
+      },
+      "mature": false,
+      "source": "dyk",
+      "scraped_at": "2026-04-07T01:05:17Z",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Germany",
+          "title": "Germany",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/POW",
+          "title": "POW",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stade_de_Gerland",
+          "title": "Stade de Gerland",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stadium",
+          "title": "Stadium",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lyon",
+          "title": "Lyon",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/France",
+          "title": "France",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/First_World_War",
+          "title": "First World War",
+          "source": "Wikipedia"
+        }
+      ]
+    }
+  ]
+}

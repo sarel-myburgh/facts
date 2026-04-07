@@ -10,13 +10,23 @@ File naming:
   TIH  → data/tih_Jan.json        (one file per calendar month, scraped once)
 
 manifest.json format:
-  { "months": ["dyk_2004_Oct", "dyk_2004_Nov", ..., "tih_Jan", "tih_Feb"] }
+  {
+    "months": {
+      "dyk_2004_Oct": {"tags": false, "links": false},
+      "tih_Jan":      {"tags": false, "links": false},
+      ...
+    }
+  }
+  "tags" and "links" are set to true by the enrichment agents after they
+  have processed that month.  Agents can quickly filter for unenriched months
+  by checking which entries still have false values.
 
 Usage:
   python tools/scraper.py dyk          # DYK only (new months)
   python tools/scraper.py tih          # TIH only (new calendar months)
   python tools/scraper.py all          # Both (default)
   python tools/scraper.py all --no-images
+  python tools/scraper.py dyk --from-year 2010 --to-year 2026 --no-images
 
 Behaviour:
   - Reads manifest.json to find already-scraped months.
@@ -64,22 +74,27 @@ MONTHS_SHORT = [
 
 # ── Manifest helpers ──────────────────────────────────────────────────────────
 
-def load_manifest() -> set:
-    """Return the set of already-scraped month keys from manifest.json."""
+def load_manifest() -> dict:
+    """
+    Return a dict mapping month_key → enrichment flags from manifest.json.
+    Handles the old list format ({"months": [...]}) for backwards compatibility.
+    """
     if not MANIFEST_PATH.exists():
-        return set()
+        return {}
     with open(MANIFEST_PATH, encoding='utf-8') as f:
         data = json.load(f)
-    return set(data.get('months', []))
+    months = data.get('months', {})
+    # Old format was a plain list — migrate on the fly.
+    if isinstance(months, list):
+        return {key: {'tags': False, 'links': False} for key in months}
+    return months
 
 
-def save_manifest(scraped: set) -> None:
-    """Write the manifest, sorted for stable diffs."""
+def save_manifest(scraped: dict) -> None:
+    """Write the manifest sorted by key for stable diffs."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    tmp = MANIFEST_PATH.with_suffix('.tmp')
-    with open(tmp, 'w', encoding='utf-8') as f:
-        json.dump({'months': sorted(scraped)}, f, indent=2)
-    tmp.replace(MANIFEST_PATH)
+    with open(MANIFEST_PATH, 'w', encoding='utf-8') as f:
+        json.dump({'months': dict(sorted(scraped.items()))}, f, indent=2)
 
 
 def write_month_file(month_key: str, source: str, period: str, facts: list) -> None:
@@ -91,10 +106,13 @@ def write_month_file(month_key: str, source: str, period: str, facts: list) -> N
         'period': period,
         'facts':  facts,
     }
-    tmp = path.with_suffix('.tmp')
-    with open(tmp, 'w', encoding='utf-8') as f:
+    with open(path, 'w', encoding='utf-8') as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
-    tmp.replace(path)
+
+
+def month_file_exists(month_key: str) -> bool:
+    """Return True when the expected month JSON exists on disk."""
+    return (DATA_DIR / f'{month_key}.json').exists()
 
 # ── HTTP helpers ──────────────────────────────────────────────────────────────
 
@@ -177,8 +195,9 @@ def extract_wiki_links(tag) -> list:
 
 # ── Text cleaners ─────────────────────────────────────────────────────────────
 
-_PICTURED_RE = re.compile(r'\([^)]*\bpictured\b[^)]*\)', re.IGNORECASE)
-_SPACE_RE    = re.compile(r'  +')
+_PICTURED_RE  = re.compile(r'\([^)]*\bpictured\b[^)]*\)', re.IGNORECASE)
+_SPACE_RE     = re.compile(r'  +')
+_PUNCT_SPACE  = re.compile(r' ([,;:!?.])')
 
 
 def clean_hook(raw: str) -> str:
@@ -186,6 +205,7 @@ def clean_hook(raw: str) -> str:
     t = re.sub(r'^\.\.\.\s*that\s+', '', t, flags=re.IGNORECASE)
     t = _PICTURED_RE.sub('', t)
     t = _SPACE_RE.sub(' ', t).strip()
+    t = _PUNCT_SPACE.sub(r'\1', t)
     t = t.rstrip('?').strip()
     if t:
         t = t[0].upper() + t[1:]
@@ -197,6 +217,7 @@ def clean_tih(raw: str) -> str:
     t = re.sub(r'^\d{1,4}\s*[–—\-]+\s*', '', t)
     t = _PICTURED_RE.sub('', t)
     t = _SPACE_RE.sub(' ', t).strip()
+    t = _PUNCT_SPACE.sub(r'\1', t)
     return t
 
 
@@ -228,7 +249,12 @@ def dyk_month_key(year: int, month_idx: int) -> str:
     return f'dyk_{year}_{MONTHS_SHORT[month_idx - 1]}'
 
 
-def dyk_months_to_scrape(scraped: set, only_year: int | None = None) -> list:
+def dyk_months_to_scrape(
+    scraped: set,
+    only_year: int | None = None,
+    from_year: int | None = None,
+    to_year: int | None = None,
+) -> list:
     """
     Return a list of (year, month_idx, month_key) tuples for DYK months that
     have not yet been scraped, from Oct 2004 up to (but not including) the
@@ -242,10 +268,16 @@ def dyk_months_to_scrape(scraped: set, only_year: int | None = None) -> list:
     prev_year  = today.year if today.month > 1 else today.year - 1
     prev_month = today.month - 1 if today.month > 1 else 12
 
+    start_year = 2004 if from_year is None else max(2004, from_year)
+    end_year = prev_year if to_year is None else min(prev_year, to_year)
+
     if only_year is not None:
-        year_range = range(only_year, only_year + 1)
-    else:
-        year_range = range(2004, prev_year + 1)
+        start_year = end_year = only_year
+
+    if start_year > end_year:
+        return []
+
+    year_range = range(start_year, end_year + 1)
 
     result = []
     for year in year_range:
@@ -253,7 +285,7 @@ def dyk_months_to_scrape(scraped: set, only_year: int | None = None) -> list:
         end_m   = prev_month if year == prev_year else 12
         for m in range(start_m, end_m + 1):
             key = dyk_month_key(year, m)
-            if key not in scraped:
+            if key not in scraped or not month_file_exists(key):
                 result.append((year, m, key))
     return result
 
@@ -297,9 +329,20 @@ def scrape_dyk_page(url: str, fetch_images: bool) -> list:
     return facts
 
 
-def scrape_dyk(scraped: set, fetch_images: bool, only_year: int | None = None) -> set:
+def scrape_dyk(
+    scraped: set,
+    fetch_images: bool,
+    only_year: int | None = None,
+    from_year: int | None = None,
+    to_year: int | None = None,
+) -> set:
     """Scrape missing DYK months. Returns updated scraped set."""
-    months = dyk_months_to_scrape(scraped, only_year=only_year)
+    months = dyk_months_to_scrape(
+        scraped,
+        only_year=only_year,
+        from_year=from_year,
+        to_year=to_year,
+    )
     if not months:
         print('DYK: nothing new to scrape.', flush=True)
         return scraped
@@ -310,7 +353,7 @@ def scrape_dyk(scraped: set, fetch_images: bool, only_year: int | None = None) -
         url  = f'{WIKI_BASE}/wiki/Wikipedia:Did_you_know_archive/{year}/{month_name}'
         facts = scrape_dyk_page(url, fetch_images)
         write_month_file(key, 'dyk', f'{year}_{MONTHS_SHORT[m - 1]}', facts)
-        scraped.add(key)
+        scraped[key] = {'tags': False, 'links': False}
         save_manifest(scraped)   # save after each month so progress is kept on crash
         print(f'  {key:<20}  {len(facts)} facts', flush=True)
 
@@ -340,7 +383,7 @@ def tih_months_to_scrape(scraped: set) -> list:
     result = []
     for full, short in zip(MONTHS_FULL, MONTHS_SHORT):
         key = tih_month_key(short)
-        if key not in scraped:
+        if key not in scraped or not month_file_exists(key):
             result.append((full, short, key))
     return result
 
@@ -424,7 +467,7 @@ def scrape_tih(scraped: set, fetch_images: bool) -> set:
     for month_full, month_short, key in months:
         facts = scrape_tih_month(month_full, month_short, fetch_images)
         write_month_file(key, 'tih', month_short, facts)
-        scraped.add(key)
+        scraped[key] = {'tags': False, 'links': False}
         save_manifest(scraped)
         print(f'  {key:<12}  {len(facts)} facts written', flush=True)
 
@@ -445,17 +488,37 @@ def main():
             only_year = int(args[i + 1])
             break
 
+    from_year: int | None = None
+    to_year: int | None = None
+    for i, a in enumerate(args):
+        if a.lower() == '--from-year' and i + 1 < len(args):
+            from_year = int(args[i + 1])
+        if a.lower() == '--to-year' and i + 1 < len(args):
+            to_year = int(args[i + 1])
+
     print(f'Images: {"ON" if fetch_images else "OFF"}', flush=True)
     print(f'Mode:   {mode}', flush=True)
     if only_year:
         print(f'Year:   {only_year} only', flush=True)
+    if from_year is not None or to_year is not None:
+        print(
+            f'Range:  {from_year if from_year is not None else "start"} '
+            f'to {to_year if to_year is not None else "current"}',
+            flush=True,
+        )
 
     scraped = load_manifest()
     print(f'Manifest: {len(scraped)} months already scraped\n', flush=True)
 
     t0 = time.time()
     if mode in ('dyk', 'all'):
-        scraped = scrape_dyk(scraped, fetch_images, only_year=only_year)
+        scraped = scrape_dyk(
+            scraped,
+            fetch_images,
+            only_year=only_year,
+            from_year=from_year,
+            to_year=to_year,
+        )
     if mode in ('tih', 'all') and only_year is None:
         scraped = scrape_tih(scraped, fetch_images)
 

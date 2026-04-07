@@ -1,16 +1,1084 @@
 {
-  "months": [
-    "dyk_2025_Apr",
-    "dyk_2025_Aug",
-    "dyk_2025_Dec",
-    "dyk_2025_Feb",
-    "dyk_2025_Jan",
-    "dyk_2025_Jul",
-    "dyk_2025_Jun",
-    "dyk_2025_Mar",
-    "dyk_2025_May",
-    "dyk_2025_Nov",
-    "dyk_2025_Oct",
-    "dyk_2025_Sep"
-  ]
+  "months": {
+    "dyk_2004_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2004_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2004_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2005_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2005_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2005_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2005_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2005_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2005_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2005_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2005_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2005_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2005_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2005_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2005_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2006_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2006_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2006_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2006_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2006_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2006_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2006_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2006_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2006_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2006_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2006_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2006_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2007_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2007_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2007_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2007_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2007_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2007_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2007_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2007_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2007_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2007_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2007_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2007_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2008_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2008_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2008_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2008_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2008_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2008_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2008_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2008_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2008_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2008_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2008_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2008_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2009_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2009_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2009_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2009_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2009_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2009_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2009_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2009_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2009_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2009_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2009_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2009_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2010_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2010_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2010_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2010_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2010_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2010_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2010_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2010_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2010_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2010_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2010_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2010_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2011_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2011_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2011_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2011_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2011_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2011_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2011_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2011_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2011_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2011_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2011_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2011_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2012_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2012_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2012_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2012_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2012_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2012_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2012_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2012_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2012_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2012_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2012_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2012_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2013_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2013_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2013_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2013_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2013_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2013_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2013_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2013_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2013_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2013_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2013_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2013_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2014_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2014_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2014_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2014_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2014_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2014_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2014_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2014_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2014_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2014_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2014_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2014_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2015_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2015_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2015_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2015_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2015_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2015_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2015_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2015_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2015_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2015_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2015_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2015_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2016_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2016_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2016_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2016_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2016_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2016_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2016_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2016_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2016_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2016_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2016_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2016_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2017_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2017_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2017_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2017_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2017_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2017_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2017_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2017_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2017_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2017_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2017_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2017_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2018_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2018_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2018_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2018_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2018_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2018_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2018_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2018_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2018_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2018_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2018_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2018_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2019_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2019_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2019_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2019_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2019_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2019_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2019_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2019_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2019_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2019_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2019_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2019_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2020_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2020_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2020_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2020_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2020_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2020_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2020_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2020_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2020_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2020_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2020_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2020_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2021_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2021_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2021_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2021_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2021_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2021_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2021_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2021_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2021_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2021_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2021_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2021_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2022_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2022_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2022_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2022_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2022_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2022_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2022_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2022_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2022_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2022_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2022_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2022_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2023_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2023_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2023_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2023_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2023_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2023_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2023_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2023_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2023_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2023_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2023_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2023_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2024_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2024_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2024_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2024_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2024_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2024_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2024_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2024_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2024_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2024_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2024_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2024_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2025_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2025_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2025_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2025_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2025_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2025_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2025_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2025_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2025_May": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2025_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2025_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2025_Sep": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2026_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2026_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "dyk_2026_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "tih_Apr": {
+      "tags": false,
+      "links": false
+    },
+    "tih_Aug": {
+      "tags": false,
+      "links": false
+    },
+    "tih_Dec": {
+      "tags": false,
+      "links": false
+    },
+    "tih_Feb": {
+      "tags": false,
+      "links": false
+    },
+    "tih_Jan": {
+      "tags": false,
+      "links": false
+    },
+    "tih_Jul": {
+      "tags": false,
+      "links": false
+    },
+    "tih_Jun": {
+      "tags": false,
+      "links": false
+    },
+    "tih_Mar": {
+      "tags": false,
+      "links": false
+    },
+    "tih_May": {
+      "tags": false,
+      "links": false
+    },
+    "tih_Nov": {
+      "tags": false,
+      "links": false
+    },
+    "tih_Oct": {
+      "tags": false,
+      "links": false
+    },
+    "tih_Sep": {
+      "tags": false,
+      "links": false
+    }
+  }
 }
