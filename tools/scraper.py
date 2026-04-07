@@ -225,13 +225,27 @@ def make_hash(text: str) -> str:
     return hashlib.sha256(text.strip().lower().encode()).hexdigest()
 
 
-def make_fact(text: str, links: list, image: tuple[str, str | None] | None, source: str) -> dict:
+def make_fact(
+    text: str,
+    links: list,
+    image: tuple[str, str | None] | None,
+    source: str,
+    period: str,
+    tih_month: int | None = None,
+    tih_day: int | None = None,
+) -> dict:
     """
-    image: (url, caption) tuple returned by get_infobox_image(), or None.
-    tags:  empty list — filled in later by the AI tagger agent.
+    image:     (url, caption) tuple returned by get_infobox_image(), or None.
+    period:    the month period string used as an ID prefix (e.g. '2025_Jan', 'Apr').
+    tih_month: calendar month number (1–12) for TIH facts; None for DYK.
+    tih_day:   day of month (1–31) for TIH facts; None for DYK.
+    tags:      empty list — filled in later by the AI tagger agent.
+
+    ID format: {source}_{period}_{12 hex chars}  e.g. dyk_2025_Jan_a1b2c3d4e5f6
     """
-    return {
-        'id':         str(uuid.uuid4()),
+    uid = uuid.uuid4().hex[:12]
+    fact: dict = {
+        'id':         f'{source}_{period}_{uid}',
         'hash':       make_hash(text),
         'text':       text,
         'tags':       [],
@@ -241,6 +255,10 @@ def make_fact(text: str, links: list, image: tuple[str, str | None] | None, sour
         'scraped_at': datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ'),
         'links':      links,
     }
+    if tih_month is not None:
+        fact['tih_month'] = tih_month
+        fact['tih_day']   = tih_day
+    return fact
 
 # ── DYK scraper ───────────────────────────────────────────────────────────────
 
@@ -290,7 +308,7 @@ def dyk_months_to_scrape(
     return result
 
 
-def scrape_dyk_page(url: str, fetch_images: bool) -> list:
+def scrape_dyk_page(url: str, fetch_images: bool, period: str = '') -> list:
     """Scrape one DYK archive page. Returns a list of fact dicts (no dedup)."""
     soup = get_soup(url)
     if not soup:
@@ -324,7 +342,7 @@ def scrape_dyk_page(url: str, fetch_images: bool) -> list:
                 image = get_infobox_image(bold_a['href'])
 
         links = extract_wiki_links(li)
-        facts.append(make_fact(text, links, image, 'dyk'))
+        facts.append(make_fact(text, links, image, 'dyk', period=period))
 
     return facts
 
@@ -350,10 +368,11 @@ def scrape_dyk(
     print(f'DYK: {len(months)} new months to scrape', flush=True)
     for year, m, key in months:
         month_name = MONTHS_FULL[m - 1]
-        url  = f'{WIKI_BASE}/wiki/Wikipedia:Did_you_know_archive/{year}/{month_name}'
-        facts = scrape_dyk_page(url, fetch_images)
+        url    = f'{WIKI_BASE}/wiki/Wikipedia:Did_you_know_archive/{year}/{month_name}'
+        period = f'{year}_{MONTHS_SHORT[m - 1]}'
+        facts  = scrape_dyk_page(url, fetch_images, period=period)
         write_month_file(key, 'dyk', f'{year}_{MONTHS_SHORT[m - 1]}', facts)
-        scraped[key] = {'tags': False, 'links': False}
+        scraped[key] = {'tags': False, 'links': False, 'version': 1}
         save_manifest(scraped)   # save after each month so progress is kept on crash
         print(f'  {key:<20}  {len(facts)} facts', flush=True)
 
@@ -388,7 +407,7 @@ def tih_months_to_scrape(scraped: set) -> list:
     return result
 
 
-def scrape_tih_page(url: str, fetch_images: bool) -> list:
+def scrape_tih_page(url: str, fetch_images: bool, tih_month: int, tih_day: int, period: str = '') -> list:
     """Scrape one TIH daily page. Returns a list of fact dicts."""
     soup = get_soup(url)
     if not soup:
@@ -435,7 +454,7 @@ def scrape_tih_page(url: str, fetch_images: bool) -> list:
                 image = get_infobox_image(bold_a['href'])
 
         links = extract_wiki_links(el)
-        facts.append(make_fact(text, links, image, 'tih'))
+        facts.append(make_fact(text, links, image, 'tih', period=period, tih_month=tih_month, tih_day=tih_day))
 
     return facts
 
@@ -443,12 +462,13 @@ def scrape_tih_page(url: str, fetch_images: bool) -> list:
 def scrape_tih_month(month_full: str, month_short: str, fetch_images: bool) -> list:
     """Scrape all daily pages for one calendar month. Returns deduplicated facts."""
     days = MONTH_DAYS[month_full]
+    month_num = MONTHS_FULL.index(month_full) + 1  # 1-based
     all_facts = []
     seen_hashes = set()
     print(f'  TIH {month_full}: {days} pages', flush=True)
     for day in range(1, days + 1):
         url   = f'{WIKI_BASE}/wiki/Wikipedia:Selected_anniversaries/{month_full}_{day}'
-        daily = scrape_tih_page(url, fetch_images)
+        daily = scrape_tih_page(url, fetch_images, tih_month=month_num, tih_day=day, period=month_short)
         for f in daily:
             if f['hash'] not in seen_hashes:
                 seen_hashes.add(f['hash'])
@@ -456,8 +476,15 @@ def scrape_tih_month(month_full: str, month_short: str, fetch_images: bool) -> l
     return all_facts
 
 
-def scrape_tih(scraped: set, fetch_images: bool) -> set:
-    """Scrape all missing TIH calendar months. Returns updated scraped set."""
+def scrape_tih(scraped: set, fetch_images: bool, force: bool = False) -> set:
+    """Scrape all missing TIH calendar months. Returns updated scraped set.
+
+    If force=True, re-scrapes all 12 months regardless of manifest state,
+    replacing existing files (picks up new facts added to Wikipedia).
+    """
+    if force:
+        # Drop tih entries so tih_months_to_scrape returns all 12.
+        scraped = {k: v for k, v in scraped.items() if not k.startswith('tih_')}
     months = tih_months_to_scrape(scraped)
     if not months:
         print('TIH: nothing new to scrape.', flush=True)
@@ -467,7 +494,7 @@ def scrape_tih(scraped: set, fetch_images: bool) -> set:
     for month_full, month_short, key in months:
         facts = scrape_tih_month(month_full, month_short, fetch_images)
         write_month_file(key, 'tih', month_short, facts)
-        scraped[key] = {'tags': False, 'links': False}
+        scraped[key] = {'tags': False, 'links': False, 'version': 1}
         save_manifest(scraped)
         print(f'  {key:<12}  {len(facts)} facts written', flush=True)
 
@@ -496,8 +523,12 @@ def main():
         if a.lower() == '--to-year' and i + 1 < len(args):
             to_year = int(args[i + 1])
 
+    force_tih = '--force-tih' in args_lower
+
     print(f'Images: {"ON" if fetch_images else "OFF"}', flush=True)
     print(f'Mode:   {mode}', flush=True)
+    if force_tih:
+        print('TIH:    force re-scrape', flush=True)
     if only_year:
         print(f'Year:   {only_year} only', flush=True)
     if from_year is not None or to_year is not None:
@@ -520,7 +551,7 @@ def main():
             to_year=to_year,
         )
     if mode in ('tih', 'all') and only_year is None:
-        scraped = scrape_tih(scraped, fetch_images)
+        scraped = scrape_tih(scraped, fetch_images, force=force_tih)
 
     elapsed = time.time() - t0
     print(f'\nDone — {len(scraped)} total months in manifest  |  elapsed: {elapsed:.0f}s')

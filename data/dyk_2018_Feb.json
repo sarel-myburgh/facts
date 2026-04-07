@@ -3,17 +3,17 @@
   "period": "2018_Feb",
   "facts": [
     {
-      "id": "15ed2df8-9a6a-4a23-9857-9c86b7059fbb",
+      "id": "dyk_2018_Feb_62bdb512a6f9",
       "hash": "c3a425c2e5d8f4ebe0a16427f7c3c8a97f827ebdab879830173bcbd6faeb76d9",
       "text": "African-American civil rights leader Fannie Lou Hamer was brutally beaten on the orders of police in Mississippi for standing up against racial segregation",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Fannie_Lou_Hamer_1964-08-22.png",
+        "caption": "Born Fannie Lou Townsend ( 1917-10-06 ) October 6, 1917 Montgomery County, Mississippi , U.S."
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:22:58Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Civil_rights_movement",
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "id": "735e0470-3618-4189-9f18-4effb1b3d4cf",
+      "id": "dyk_2018_Feb_2b461211064c",
       "hash": "d2a37bf87ef72eb6b74b8e35de87bef43743d3722f578f0f7a77300786e80232",
       "text": "The French Constitutional Council triggered a by-election in a constituency where the winning candidate avoided a second round by 16 votes",
       "tags": [],
@@ -53,7 +53,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:22:58Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Constitutional_Council_(France)",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "id": "ef43e98d-fba3-480b-b33e-04b91dff740d",
+      "id": "dyk_2018_Feb_311889f09284",
       "hash": "dd030fed8b402d9044a612f8663475d512daaf7cf2b2ef74fbe59d63e51feffe",
       "text": "Harpsichordist Pieter-Jan Belder recorded the complete Fitzwilliam Virginal Book, and Telemann 's complete Tafelmusik with his ensemble Musica Amphion",
       "tags": [],
@@ -83,7 +83,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:22:58Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Pieter-Jan_Belder",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "938a3a6f-6a30-4628-9639-795e66111762",
+      "id": "dyk_2018_Feb_d70149f91d29",
       "hash": "292c024c89b109f75d929ad614e76cc8475e5fed00a836126a6cbcd555aa675e",
       "text": "The anime series C was inspired by the bankruptcy of Lehman Brothers",
       "tags": [],
@@ -118,7 +118,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:22:58Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/C_(anime)",
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "id": "0e8958b0-bfb6-4f49-a7f6-d09d2705ada3",
+      "id": "dyk_2018_Feb_f4829e74fa90",
       "hash": "cb9adea435ff9ba88c2e640cc89825a1856076a1202ec3da6cdc7a71094d293a",
       "text": "Henry V. Plummer was a chaplain with the US Army Buffalo Soldiers, while his son H. Vinton Plummer was a leader in Marcus Garvey 's secret service and militia",
       "tags": [],
@@ -143,7 +143,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:22:58Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Henry_V._Plummer",
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "id": "261ef572-ca36-47b8-b902-6755d1c77ef4",
+      "id": "dyk_2018_Feb_f9d67a728840",
       "hash": "4dde0f0c7c64b4e98f9c4624193cddd07eb63f39af98fee1b44f200385c9633a",
       "text": "Warming's lantern fish spends the day at depths and ascends at night to feed on mats of diatoms near the sea surface",
       "tags": [],
@@ -178,7 +178,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:22:58Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Warming%27s_lantern_fish",
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "id": "384d54cd-ef62-41fd-9848-5ce1a59be8a0",
+      "id": "dyk_2018_Feb_5179f014f6bc",
       "hash": "16a5e439d85aa47f8e6d5682181f46e1c7d4d1616d6d19d47dde73dd515ef3c3",
       "text": "Kenneth Cairns won four gold medals and one silver in his first Paralympic Games",
       "tags": [],
@@ -203,7 +203,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:22:58Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Kenneth_Cairns",
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "id": "d5864ce4-6358-4a61-a6de-e17e056aebc8",
+      "id": "dyk_2018_Feb_6d04fe476d2e",
       "hash": "d5db2d6342286c67afb86d15933029f6f0e077da6a0df2762d10a391bbcfcae3",
       "text": "The jazz club Bop City was the site of the only meeting between Louis Armstrong and Charlie Parker",
       "tags": [],
@@ -228,7 +228,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:22:58Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Bop_City",
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "id": "aee34aa2-287c-4cee-abeb-a3f0c3c5aa46",
+      "id": "dyk_2018_Feb_2c3054aa644f",
       "hash": "9eb328ee9e3986ea4615e669777d1010b6d1fde10186c1a2f70eaac5e2590729",
       "text": "John Johnson and Alfred Meeson designed the Alexandra Palace in north London",
       "tags": [],
@@ -258,7 +258,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:00Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/John_Johnson_(architect,_born_1807)",
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "id": "306b4f0e-5664-4620-b7e5-8db30a2a40b5",
+      "id": "dyk_2018_Feb_a506ae84c256",
       "hash": "f6a711fba5d3a2e58cabcdff38bda80a7d128284f4884a11eddfd322b33ade5d",
       "text": "Findings at Laili Cave show that Timor was colonised at least 44,600 years ago, making it the oldest known habitation of modern humans in Wallacea",
       "tags": [],
@@ -288,7 +288,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:00Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Laili_(cave)",
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "id": "fb4a1275-ac0d-4661-81ee-c345959cadb4",
+      "id": "dyk_2018_Feb_a13e33565e0d",
       "hash": "22ee050684f9be368d16ea14259ef749980f024bc19911d732dd8c3bb8cec18c",
       "text": "After J. Charles Jones led an anti-segregation sit-in with hundreds of activists at a Woolworth counter in Charlotte, North Carolina, the store closed its counter to prevent further integration",
       "tags": [],
@@ -323,7 +323,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:00Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/J._Charles_Jones",
@@ -358,7 +358,7 @@
       ]
     },
     {
-      "id": "cd0fe540-c567-4836-af57-48aa15e68fdb",
+      "id": "dyk_2018_Feb_5b8e87eb4e70",
       "hash": "0abaac41631f234f1688b2dc4bd74eb87ab01c894b594df62b854332d9d59471",
       "text": "Bach's motet Komm, Jesu, komm, BWV 229 (Come, Jesus, come) sets lyrics by Paul Thymich, scored for a double choir",
       "tags": [],
@@ -368,7 +368,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:00Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_motets_by_Johann_Sebastian_Bach",
@@ -388,7 +388,7 @@
       ]
     },
     {
-      "id": "b1d87339-e5fc-401c-a722-b446f72f926e",
+      "id": "dyk_2018_Feb_5f03f1b37089",
       "hash": "389d87001a6496d8721d8272c1fbc26cec5a29cba480bd29568c2d5b55979f0c",
       "text": "Abolitionist Richard Foster was an officer of the 1st Missouri Regiment of Colored Infantry in the civil war and, with his regiment, established the Lincoln Institute as a school for African Americans",
       "tags": [],
@@ -398,7 +398,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:00Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Richard_Foster_(abolitionist)",
@@ -418,7 +418,7 @@
       ]
     },
     {
-      "id": "60c96b24-a69a-4d00-9b9c-462ddedec1c4",
+      "id": "dyk_2018_Feb_44b7f7d30adf",
       "hash": "81b42ef5afae115d551f9d4047e7db80de76ba66e0e51a215860125f001013de",
       "text": "The youngest bell of St. Lubentius, Dietkirchen, a Romanesque church on a rock, was consecrated by Pope John Paul II",
       "tags": [],
@@ -428,7 +428,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:00Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/St._Lubentius,_Dietkirchen",
@@ -448,7 +448,7 @@
       ]
     },
     {
-      "id": "af8d6c1a-b362-46bd-8c1f-c9fa118dd01b",
+      "id": "dyk_2018_Feb_2b0da17fc5da",
       "hash": "07944d092f9b2a6efdccf6ec7f95a6cff486b9ace1711f955bc174bdde3c0434",
       "text": "16-year-old Hailie Deegan is the only female driver in the NASCAR K&N Pro Series West",
       "tags": [],
@@ -458,7 +458,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:00Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Hailie_Deegan",
@@ -473,7 +473,7 @@
       ]
     },
     {
-      "id": "7535fdcf-5cdc-4728-ac3f-13b8cdc647e1",
+      "id": "dyk_2018_Feb_14120547b74d",
       "hash": "1d6b76822d20c4971835c37471251583b6f329481466341eb2d355ff1479531c",
       "text": "Nominations for the UK Picture Editors' Guild awards have included photographs of battlefield conflict, German figure skaters, and Theresa May laughing",
       "tags": [],
@@ -483,7 +483,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:00Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/UK_Picture_Editors%27_Guild",
@@ -498,17 +498,17 @@
       ]
     },
     {
-      "id": "7efd0a20-d6b1-4973-91c5-310569e2e8e3",
+      "id": "dyk_2018_Feb_f690230d5617",
       "hash": "27498dbad67023b6ee775695b4a6bb9af032b3dd0984e72fb0aeb6e134e9127f",
       "text": "The Austin United States Courthouse was given an abundance of windows and natural lighting to represent the importance of transparency in the judiciary",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Federal_Courthouse%2C_Austin%2C_TX_IMG_6339.JPG",
+        "caption": "Austin Location within Texas Show map of Texas Austin Austin (the United States) Show map of the United States"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:01Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/United_States_Courthouse_(Austin,_Texas,_2012)",
@@ -523,7 +523,7 @@
       ]
     },
     {
-      "id": "320b4800-1984-423d-8ada-1a765514b91d",
+      "id": "dyk_2018_Feb_cd01c90be1fa",
       "hash": "5d111b53eb19960069ea40138622b2cbca874a766f70d4dc4c7c60e0ef4ba080",
       "text": "Arsenal reached today's 2018 EFL Cup Final against Manchester City without playing a game outside London",
       "tags": [],
@@ -533,7 +533,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:01Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Arsenal_F.C.",
@@ -553,7 +553,7 @@
       ]
     },
     {
-      "id": "9b648092-4608-44c4-914c-a088ead0f5a8",
+      "id": "dyk_2018_Feb_a8dd14b4ab01",
       "hash": "5c9cea370f6bdf6296431e1337ff7f7aba341999d39fbe5bfc8cdf5b5e82d4a6",
       "text": "40 years ago, Gary Mathias disappeared after leaving a working automobile to walk into California's Plumas National Forest without winter clothing or food, along with four men later found dead",
       "tags": [],
@@ -563,7 +563,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:01Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Disappearance_of_Gary_Mathias",
@@ -578,7 +578,7 @@
       ]
     },
     {
-      "id": "a1883518-fb8d-44f3-944b-d327968dac76",
+      "id": "dyk_2018_Feb_81c5e9c08a8e",
       "hash": "05b2fc5b70fe1afbba723b620c9acfc19b8c358401bdc43b15b250b11debd69f",
       "text": "Sudden Rush was the first group to record nā mele paleoleo (Hawaiian hip hop )",
       "tags": [],
@@ -588,7 +588,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:01Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Sudden_Rush",
@@ -608,7 +608,7 @@
       ]
     },
     {
-      "id": "d0dc2a89-0c8e-4da5-be91-c9650906ae93",
+      "id": "dyk_2018_Feb_428b1844f538",
       "hash": "183132b841a6d9b84430719cac0e9d8dcf15fddba9710efe27bec63f7e4685ab",
       "text": "In 1955, a white supremacist organization claimed the racial integration of schools in the United States was a plot devised in Moscow to \"mongrelize\" White Americans",
       "tags": [],
@@ -618,7 +618,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:01Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/White_America,_Inc.",
@@ -638,7 +638,7 @@
       ]
     },
     {
-      "id": "e5210a30-bf12-4528-a83d-b37469c5d0c5",
+      "id": "dyk_2018_Feb_79a52d1eea38",
       "hash": "edcb5f340a519f8a74ed7454b944ba6a3c0b935052f66122a6c16e32a56f994d",
       "text": "Pianist Christopher White arranged four movements of Mahler's unfinished Tenth Symphony for his instrument and made a recording at Rosslyn Hill Unitarian Chapel, Hampstead",
       "tags": [],
@@ -648,7 +648,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:01Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Christopher_White_(pianist)",
@@ -668,7 +668,7 @@
       ]
     },
     {
-      "id": "e4189b0d-0a4e-40fb-88c8-bfb8364d1dd7",
+      "id": "dyk_2018_Feb_550adf437f26",
       "hash": "c213368241d82a2019d3e6747969f17d1b387c4bdc0f3a6856817fb3b83d30ac",
       "text": "Wat Phra Dhammakaya contains a large monument with a million Buddha statues",
       "tags": [],
@@ -678,7 +678,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:01Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Wat_Phra_Dhammakaya",
@@ -688,7 +688,7 @@
       ]
     },
     {
-      "id": "0d43adde-9937-492f-9aef-85cf864b7b38",
+      "id": "dyk_2018_Feb_319e8cfdec86",
       "hash": "0553366ac1423e1cb14e353e42f642b670a7ba02044076ea2fa601fc21748454",
       "text": "In 1977, hostages on board a hijacked airliner escaped when their captors fell asleep",
       "tags": [],
@@ -698,7 +698,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:01Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/1977_Aeroflot_Tupolev_Tu-134_hijacking",
@@ -708,17 +708,17 @@
       ]
     },
     {
-      "id": "ebd42755-da7f-4ecc-8043-79c774a9f84c",
+      "id": "dyk_2018_Feb_a4ccbd1913a4",
       "hash": "b9e73a0c9c9aea2b32f343988e1c181f1aac5915ae8f6eba63c9545be76253e4",
       "text": "John W. Overton was killed in World War I, a year after setting the world track and field records in the indoor mile and indoor 1000 yard (910 m) races in 1917",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/John_W._Overton.jpg",
+        "caption": "Personal information"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:04Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/John_W._Overton",
@@ -728,7 +728,7 @@
       ]
     },
     {
-      "id": "2a8805d8-e288-4e48-849b-4e870670e3a2",
+      "id": "dyk_2018_Feb_b0d66f4d7e54",
       "hash": "04374def5abfe12b2dccdc19c52a5e9f8d8ab66a2a6bdfc44145d82433131bdb",
       "text": "The organizers of FESTIMA, a festival in Burkina Faso celebrating traditional African masks, estimate that 100,000 people attended in 2016",
       "tags": [],
@@ -738,7 +738,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:04Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/FESTIMA",
@@ -758,7 +758,7 @@
       ]
     },
     {
-      "id": "6dae45f1-5987-442c-9578-2cd59a53023a",
+      "id": "dyk_2018_Feb_c34c6c34df44",
       "hash": "840656e3687376c213d48211631b95c7376e7381f4553b492de8dfe6d5308772",
       "text": "After the shooting of Trayvon Martin, Seattle author Ijeoma Oluo started writing about her social concerns on a blog that she had previously devoted to food",
       "tags": [],
@@ -768,7 +768,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:04Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Shooting_of_Trayvon_Martin",
@@ -783,7 +783,7 @@
       ]
     },
     {
-      "id": "07af3c5c-7bf3-42e7-805b-5c6fdaba7499",
+      "id": "dyk_2018_Feb_9e21689c89ee",
       "hash": "b55bd48013c949ea5cce99f7c7e47a29e9c7728bc06ef76a7043e1caa7e8d5d0",
       "text": "What at first sight appears to be a single Oedera capensis flowerhead, is in fact typically a group of nine densely cropped heads",
       "tags": [],
@@ -793,7 +793,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:04Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Oedera_capensis",
@@ -803,7 +803,7 @@
       ]
     },
     {
-      "id": "0b3d1788-e067-4dec-a08d-e9409fb717a4",
+      "id": "dyk_2018_Feb_6dbd19c00e46",
       "hash": "aad373f61c2e2f660c80dcd15ce1f769d2a77cb4e17fa777d33e170a211785a9",
       "text": "Because she felt she lacked acting experience, Japanese voice actress Tomori Kusunoki initially auditioned as a singer",
       "tags": [],
@@ -813,7 +813,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:04Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Tomori_Kusunoki",
@@ -823,7 +823,7 @@
       ]
     },
     {
-      "id": "d7f5a455-0619-4a29-892d-1f456da3d82e",
+      "id": "dyk_2018_Feb_bc44f9cf97f5",
       "hash": "1dc4f2f72d06c31f6192cdb64a58e3aaf0febc37ff36e0d6b1e6ce665f3b8775",
       "text": "The killings at the Alem Bekagn prison were visible from the windows of the Organisation of African Unity headquarters, but were never mentioned by the OAU",
       "tags": [],
@@ -833,7 +833,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:04Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Alem_Bekagn",
@@ -848,7 +848,7 @@
       ]
     },
     {
-      "id": "6630e712-89fa-4aed-b392-bbf89825c120",
+      "id": "dyk_2018_Feb_2a0c07dd4bd5",
       "hash": "d2829881c2b9348d093494286be9d6f03e26cf6b9fb98e06a730a8aa7665702b",
       "text": "The Yellow River put an end to Wanting in 1168",
       "tags": [],
@@ -858,7 +858,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:04Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Yuanqu_County_(Shandong)",
@@ -868,17 +868,17 @@
       ]
     },
     {
-      "id": "2efd2858-7735-476a-a2da-c8c8e2e70ace",
+      "id": "dyk_2018_Feb_b05c36e695c4",
       "hash": "c1056bd588d01c7fabac4a2724182a7dc096edc025a8ebc4d2f028aee28e89ae",
       "text": "Su Bai, the first head of Peking University 's archaeology department, is considered a pioneer in the archaeology of Buddhism",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Su_Bai.jpg",
+        "caption": "Born ( 1922-08-03 ) 3 August 1922 Shenyang , Liaoning"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:05Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Su_Bai",
@@ -893,7 +893,7 @@
       ]
     },
     {
-      "id": "f7153c79-dd81-496a-bcab-82247d2042b2",
+      "id": "dyk_2018_Feb_69c399814ac3",
       "hash": "15ea55c9a340b83f3aae4229300f21c4fcda6d433fa4778002bf24910f516573",
       "text": "The deep water squat lobster Eumunida picta is often associated with the coldwater coral Lophelia pertusa",
       "tags": [],
@@ -903,7 +903,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:05Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Squat_lobster",
@@ -928,7 +928,7 @@
       ]
     },
     {
-      "id": "0f4c7b53-2e6d-43b7-a595-682ff7b70a48",
+      "id": "dyk_2018_Feb_3d393a289f47",
       "hash": "4c67e1d5ee2eb4a0f231b7cf03eb5d3e92f3e160db7529da8dcf7c7fa990ec9d",
       "text": "Satan frequently appeared as a comic relief figure in late medieval mystery plays, in which he \"frolicked, fell, and farted in the background\"",
       "tags": [],
@@ -938,7 +938,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:05Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Satan",
@@ -953,7 +953,7 @@
       ]
     },
     {
-      "id": "9e3d0a16-bad0-44b3-ac11-f98974bb4073",
+      "id": "dyk_2018_Feb_8f58e9843b1a",
       "hash": "fa4e8583ec59a7c50c200c03357dce845c6f32b20d38282a4eff2e8cb06e11af",
       "text": "During the first U.S. government shutdown in 1980, the Carter administration dispatched U.S. Marshals to Federal Trade Commission facilities to enforce the shutdown",
       "tags": [],
@@ -963,7 +963,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:05Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/United_States_federal_government_shutdown_of_1980",
@@ -983,7 +983,7 @@
       ]
     },
     {
-      "id": "a2e74a4e-e735-4a6e-a806-8bcb51fe0975",
+      "id": "dyk_2018_Feb_02353ef5c678",
       "hash": "80612d89458573fb4e32e130e48991340b5929c645b0d2320569f5fa732e1c9f",
       "text": "Evelyn Terhune, a member of the U.S. fencing team at the 1960 Summer Olympics, took up the sport on a dare",
       "tags": [],
@@ -993,7 +993,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:05Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Evelyn_Terhune",
@@ -1013,7 +1013,7 @@
       ]
     },
     {
-      "id": "cb053012-951e-4c1f-b0ef-33fb555f336d",
+      "id": "dyk_2018_Feb_c1548b7c81ba",
       "hash": "00d70b1a041959264e904b682537397f15312c799fd19ef5f7f7e0187b784bc7",
       "text": "HMG Heat and Waterproof Adhesive was used to adhere the 100–200 fragments of the Pioneer helmet",
       "tags": [],
@@ -1023,7 +1023,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:05Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/HMG_Heat_and_Waterproof_Adhesive",
@@ -1038,7 +1038,7 @@
       ]
     },
     {
-      "id": "17bc95a4-d122-4c85-a99d-310bb20f8261",
+      "id": "dyk_2018_Feb_f0b97583e1fe",
       "hash": "ede880a49a81a17c318616f091965254f174ae5ed397903c41c2a7c99ef4ece6",
       "text": "Jaroslav Eminger, an officer in the German Protectorate of Bohemia and Moravia during World War II, was acquitted of charges of collaboration and declared a \"loyal Bohemian and a brave man\"",
       "tags": [],
@@ -1048,7 +1048,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:05Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Jaroslav_Eminger",
@@ -1068,7 +1068,7 @@
       ]
     },
     {
-      "id": "fe558322-07ba-4f54-b846-aa21968f5560",
+      "id": "dyk_2018_Feb_a6c72ab94218",
       "hash": "d1c13fa0c7a9a51bd28b3b743f1f7f9e795496b7ca13bd99e9c06f7009310b98",
       "text": "The Macon Whoopees were named after Doris Day 's rendition of the song \" Makin' Whoopee \"",
       "tags": [],
@@ -1078,7 +1078,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:05Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Macon_Whoopees_(SHL)",
@@ -1098,17 +1098,17 @@
       ]
     },
     {
-      "id": "4ea764e5-1b59-4b74-af1d-5d3e5df784b4",
+      "id": "dyk_2018_Feb_1e49141f4fe0",
       "hash": "aaba3dcbe1b8ca45cbf6bdd221474827deb24d27bf265ac17708f538b318e27c",
       "text": "John Trumbull, the painter of General George Washington Resigning His Commission, considered Washington's resignation \"one of the highest moral lessons ever given to the world\"",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/General_George_Washington_Resigning_his_Commission.jpg",
+        "caption": "Artist John Trumbull"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:07Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/John_Trumbull",
@@ -1128,7 +1128,7 @@
       ]
     },
     {
-      "id": "841ac7cf-35fe-4ee6-9158-154268809e58",
+      "id": "dyk_2018_Feb_6ac75ac8ab4b",
       "hash": "4a8b00a7c23767b56172cc38eb1cc178b1c32dc9eaa1ced551fc5208fe955d11",
       "text": "In Sumerian mythology, a group of gods known as the Anunnaki put the goddess Inanna on trial for her attempt to conquer the Underworld",
       "tags": [],
@@ -1138,7 +1138,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:07Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Sumerian_religion",
@@ -1163,7 +1163,7 @@
       ]
     },
     {
-      "id": "efb024a4-0e6a-430f-802b-63f27033d202",
+      "id": "dyk_2018_Feb_053a78f1517f",
       "hash": "c38f4d479e726d8fd481e9b56d64a8c8322a41cad3ab5606a45b9aba969d43f2",
       "text": "Jean-Jack Queyranne proposed that the regional council of Auvergne-Rhône-Alpes, like the European Parliament, hold alternating sessions in two cities",
       "tags": [],
@@ -1173,7 +1173,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:07Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Jean-Jack_Queyranne",
@@ -1188,7 +1188,7 @@
       ]
     },
     {
-      "id": "0768bc7c-c1b5-4542-ae31-1f7132fecd3f",
+      "id": "dyk_2018_Feb_c230e9eb1429",
       "hash": "b0badc2c76176861988274317db0a79269479fe49bdebbc68ad69ecf8a65872b",
       "text": "In 1910, Monroe Morton constructed the Morton Theatre in the \"Hot Corner\", a center of African American business and culture in Athens, Georgia",
       "tags": [],
@@ -1198,7 +1198,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:07Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Monroe_Morton",
@@ -1218,7 +1218,7 @@
       ]
     },
     {
-      "id": "86aa3990-c02e-434b-a443-c2e130d1242e",
+      "id": "dyk_2018_Feb_1a2915504899",
       "hash": "52ed334ce69d801fb298efbc29c9e3bade2789a7d930301a0efbbcae244eff35",
       "text": "The proposed Major Road Network designation would comprise just 4 percent of England's road length but carry 43 percent of its traffic",
       "tags": [],
@@ -1228,7 +1228,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:07Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Major_Road_Network",
@@ -1238,7 +1238,7 @@
       ]
     },
     {
-      "id": "e4a817bf-82ec-4325-a84c-7d43dc7583f0",
+      "id": "dyk_2018_Feb_586f7249859d",
       "hash": "e97c1fc0fe456821adb06cf7bee9cfca2b1f48131f95042f081ba9c5bc1f0933",
       "text": "Indianapolis Colts defensive back D. J. White forced at least one fumble in each of his four years at Georgia Tech",
       "tags": [],
@@ -1248,7 +1248,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:07Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Indianapolis_Colts",
@@ -1278,7 +1278,7 @@
       ]
     },
     {
-      "id": "0e4abf29-dd2d-4e9e-8cf6-968153e57cd8",
+      "id": "dyk_2018_Feb_832a6b73e6bd",
       "hash": "1c67b9278cdf6b2e0ad1769c46c829ccf81c0db4dde99dad3b260a9b6769568a",
       "text": "The Taiwan bush warbler was described in 1917, but was not named as a distinct species until 2000",
       "tags": [],
@@ -1288,7 +1288,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:07Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Taiwan_bush_warbler",
@@ -1298,17 +1298,17 @@
       ]
     },
     {
-      "id": "884d1177-3baa-4b91-a38f-f25ecc3f053d",
+      "id": "dyk_2018_Feb_71af8bf48134",
       "hash": "b512cc3f138ea7b2bdf0ec09c7d38359b51b38152025f225531c89b6c6c90b79",
       "text": "The 1928 Charles Demuth painting I Saw the Figure 5 in Gold appeared on a US postage stamp in 2013",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/NY_Met_demuth_figure_5_gold.JPG",
+        "caption": "Artist Charles Demuth"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:08Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Charles_Demuth",
@@ -1323,7 +1323,7 @@
       ]
     },
     {
-      "id": "57d0a4d0-61aa-4fa4-a43d-98f5697f9cb6",
+      "id": "dyk_2018_Feb_5d325f67910b",
       "hash": "454392b7245e33f7ff97cb35cffdc43621a3a7dff6db2a14a37b700feeeb45fa",
       "text": "The marine paradox worm may resemble the common ancestor of humans and mollusks",
       "tags": [],
@@ -1333,7 +1333,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:08Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Xenoturbella_bocki",
@@ -1343,7 +1343,7 @@
       ]
     },
     {
-      "id": "50025d01-08d6-4351-9bb5-d1abf306621f",
+      "id": "dyk_2018_Feb_19addfcf0743",
       "hash": "111de550b485f83d51fb2de76fb13ee2cf85fffd0acc7d6512576557938b721a",
       "text": "Susanna Innes-Ker, Duchess of Roxburghe, was one of Queen Victoria 's longest serving ladies-in-waiting",
       "tags": [],
@@ -1353,7 +1353,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:08Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Susanna_Innes-Ker,_Duchess_of_Roxburghe",
@@ -1368,7 +1368,7 @@
       ]
     },
     {
-      "id": "6f09c8eb-eace-4d24-9807-768f36450f05",
+      "id": "dyk_2018_Feb_025ff5f84e24",
       "hash": "25b914bdc64f1bf311318cac1bd38c316c6ac8ec9abf77e48e793667c6906345",
       "text": "At the 2018 Winter Olympics, Dom Parsons won the first medal for a British male in skeleton in 70 years",
       "tags": [],
@@ -1378,7 +1378,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:08Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/2018_Winter_Olympics",
@@ -1398,7 +1398,7 @@
       ]
     },
     {
-      "id": "3d6168ad-5471-4925-bff7-adc2c64b9217",
+      "id": "dyk_2018_Feb_ebb0a02d4270",
       "hash": "76efb6b1f4ef48306ca52d0b560b769ea9f6aab91b2d96bd829643fea6fb0987",
       "text": "A light rail line in Seattle will become the first to use a floating bridge",
       "tags": [],
@@ -1408,7 +1408,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:08Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/East_Link_Extension",
@@ -1428,7 +1428,7 @@
       ]
     },
     {
-      "id": "bf6c774f-4908-417f-8ff0-8edd5682e8ca",
+      "id": "dyk_2018_Feb_277a51ca523f",
       "hash": "ae415f11393fd6307fb1702a7e1f8ddae0d1ee44ebf122837a069a2b1833c372",
       "text": "Armando Ríos Piter declined his own party's nomination for Governor of Guerrero because it wanted him to sign a pact with the former governor",
       "tags": [],
@@ -1438,7 +1438,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:08Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Armando_R%C3%ADos_Piter",
@@ -1458,7 +1458,7 @@
       ]
     },
     {
-      "id": "d6586169-9d6d-46dd-bebc-08e2ae58c5b7",
+      "id": "dyk_2018_Feb_963fd95dc9d5",
       "hash": "46b20033e693c9d9858fe1433041c2799ed58c04f117f25eb20dc78efeea3865",
       "text": "Quinta Market in Manila is believed to be the birthplace of the Filipino dessert halo-halo",
       "tags": [],
@@ -1468,7 +1468,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:08Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Quinta_Market",
@@ -1483,7 +1483,7 @@
       ]
     },
     {
-      "id": "3bc21430-e7d7-49dd-a540-bb56a5b90366",
+      "id": "dyk_2018_Feb_234ba7458e40",
       "hash": "2b6b71de9b77e472645d37aec15dc4ba5a5fcab22487fb63dd89e035118c9e72",
       "text": "In South Dakota v. Wayfair, the U.S. Supreme Court will decide whether to \"kill Quill \"",
       "tags": [],
@@ -1493,7 +1493,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:08Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/South_Dakota_v._Wayfair,_Inc.",
@@ -1508,7 +1508,7 @@
       ]
     },
     {
-      "id": "ec8080a0-2a33-40da-9502-549d580e0248",
+      "id": "dyk_2018_Feb_1e0346ad0e23",
       "hash": "66b196f0bec143869ed5b7c4691b4f09303fbcc97a3a0d66914e5eda34b15c10",
       "text": "The Fagersta airspace surveillance tower has been compared to both a minaret and the tower of a fairy tale castle",
       "tags": [],
@@ -1518,7 +1518,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:09Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Fagersta_airspace_surveillance_tower",
@@ -1533,7 +1533,7 @@
       ]
     },
     {
-      "id": "e93b1698-6901-43f6-9ccf-4f0df851616d",
+      "id": "dyk_2018_Feb_a787138b9f5d",
       "hash": "1186a5ab4065b8c44f02145f78337f613172f8ca94d1ca6362fd41fee96ab548",
       "text": "Bobsleigh duo Mica McNeill and Mica Moore crowdfunded £30,000 to compete at 2017–18 Bobsleigh World Cup events",
       "tags": [],
@@ -1543,7 +1543,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:09Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Bobsleigh",
@@ -1568,7 +1568,7 @@
       ]
     },
     {
-      "id": "c6f58945-1e27-4a9a-a494-890c300336d7",
+      "id": "dyk_2018_Feb_c4a479edbbd8",
       "hash": "018da295ca1f9b7c7be5c9ed637cbdbc1de084131375e1e8f6f272fc7f3d789a",
       "text": "The island of Ruffle Bar was isolated from the rest of New York City for three months each year due to the surrounding bay being frozen over",
       "tags": [],
@@ -1578,7 +1578,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:09Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Ruffle_Bar",
@@ -1588,7 +1588,7 @@
       ]
     },
     {
-      "id": "55dd61df-f0ed-41ea-859a-d74f94254c26",
+      "id": "dyk_2018_Feb_27890c862729",
       "hash": "b838291f206931d9f2f3bb224498d1c45f43b500163664b393f3f0fca48a6f4a",
       "text": "Huang Zongying and her husband Zhao Dan were both named among the best 100 actors in the history of Chinese cinema",
       "tags": [],
@@ -1598,7 +1598,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:09Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Huang_Zongying",
@@ -1613,7 +1613,7 @@
       ]
     },
     {
-      "id": "ea15fb5c-2351-48bf-8470-9dcbbd3a5e7a",
+      "id": "dyk_2018_Feb_0dad8a2415e8",
       "hash": "853e5b4c3708e874a216c908c0767795e5aad1d40b820974ec4524160a60dab9",
       "text": "The shrub Banksia blechnifolia got its name because its leaves resembled those of ferns",
       "tags": [],
@@ -1623,7 +1623,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:09Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Banksia_blechnifolia",
@@ -1633,7 +1633,7 @@
       ]
     },
     {
-      "id": "8aa8dfb3-ca2b-4d88-84c5-471ff95c6445",
+      "id": "dyk_2018_Feb_c3b3f56d31f5",
       "hash": "10c5ead2c04dd9c6b82ec65bb26754d00181aa9e307a70563ac99b411b85829d",
       "text": "Superintendent Marcus Ames resigned in protest after plans were announced to introduce workhouses to the Lancaster Industrial School for Girls in Massachusetts",
       "tags": [],
@@ -1643,7 +1643,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:09Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Marcus_Ames",
@@ -1658,7 +1658,7 @@
       ]
     },
     {
-      "id": "0b2d49cd-f0ca-45d5-9356-381fa25d9af7",
+      "id": "dyk_2018_Feb_5e0559ee3dd4",
       "hash": "403fc72eb8070608624d5272aa9307d6e4f2547c672d72a86b38c4157eb2ca32",
       "text": "The People's Liberation Army captured Nanjing, the capital of the Republic of China, three days after launching the Yangtze River Crossing Campaign",
       "tags": [],
@@ -1668,7 +1668,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:09Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/People%27s_Liberation_Army",
@@ -1693,7 +1693,7 @@
       ]
     },
     {
-      "id": "66a354a2-162f-49d7-a445-2865f8e8590a",
+      "id": "dyk_2018_Feb_0b9159103493",
       "hash": "39b2d53de40fc9f65c9383abbcbc3fe679eb577cb80efdafab7aea645e196109",
       "text": "Melecstrate, Melchstrate, Melkestrate, Melcstrate, Melkstrete, Milkstrate, Milcstrate, Milkestretende, and Milkstrete are all the same place",
       "tags": [],
@@ -1703,7 +1703,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:09Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Milk_Street,_London",
@@ -1713,17 +1713,17 @@
       ]
     },
     {
-      "id": "38eae727-3ebf-427a-bbb2-fec971c0fb82",
+      "id": "dyk_2018_Feb_ccdcfbaed575",
       "hash": "787920f4f131dabb6632501a4f7180c15c312017631512ccc07dea9ef1829317",
       "text": "In 2011, the National Coalition Party became the largest political party in the Finnish parliament for the first time in its history",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Nationale_Sammlungspartei_%28Finnland%29_logo.svg",
+        "caption": "Abbreviation Finnish : Kok Swedish : Saml"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:11Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/National_Coalition_Party",
@@ -1738,7 +1738,7 @@
       ]
     },
     {
-      "id": "e1d2b076-f85c-4481-962b-1d1bc4cc44f9",
+      "id": "dyk_2018_Feb_85233a8d0f94",
       "hash": "0edef32d6ab2ccb4f49a7b0a26419535013034d4db51f506b1989366dfdcb7d2",
       "text": "British Army researchers developed SLC radar in their spare time after they grew tired of watching how \"searchlight beams swung wildly about the sky but rarely found and held a target\"",
       "tags": [],
@@ -1748,7 +1748,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:11Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/British_Army",
@@ -1763,7 +1763,7 @@
       ]
     },
     {
-      "id": "d653420c-05b1-4d99-8fef-d27de29d20cf",
+      "id": "dyk_2018_Feb_09590fc09e10",
       "hash": "e6f1c1f8dd61f11d1227932f6cbbc2bed94f0ddab88310ea868714beb9502386",
       "text": "Africa's large population of youths and children makes it the youngest continent, with 60% of residents younger than twenty-five",
       "tags": [],
@@ -1773,7 +1773,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:11Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Youth_in_Africa",
@@ -1783,7 +1783,7 @@
       ]
     },
     {
-      "id": "e2c15144-0b09-407d-bdfe-52528a1034fb",
+      "id": "dyk_2018_Feb_5bc64fbbee46",
       "hash": "cce90dfde87f2173b32b9035be6c935a319b335287d9326078965f1a0ebf2d4f",
       "text": "Joseph Stamler allowed a lawsuit opposing mandatory school sex education to proceed, stating that the U.S. Constitution protects \"the one person who is sincere in a conscientious religious conviction\"",
       "tags": [],
@@ -1793,7 +1793,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:11Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Joseph_Stamler",
@@ -1808,7 +1808,7 @@
       ]
     },
     {
-      "id": "16f87cdb-8d48-4bf1-a537-9856a871814d",
+      "id": "dyk_2018_Feb_31806aa552d0",
       "hash": "370670ddb0e04578d59e5cc286aac44465eee24b72d719b5573aa7fcb1929aa3",
       "text": "In 1976, an air traffic controller error caused two aircraft to collide over Anapa in the Soviet Union, killing all 70 people on board both planes",
       "tags": [],
@@ -1818,7 +1818,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:11Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Air_traffic_controller",
@@ -1838,7 +1838,7 @@
       ]
     },
     {
-      "id": "0a684d77-400c-4166-836b-9b9490fdc67d",
+      "id": "dyk_2018_Feb_ddd4bd04f4c1",
       "hash": "451f90748f442c854c358fae1380bfe7d5969c98b1446b1dc9c1d65218c335df",
       "text": "Amazon 's spherical employee lounge in Seattle was opened with an Alexa voice command",
       "tags": [],
@@ -1848,7 +1848,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:11Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
@@ -1868,7 +1868,7 @@
       ]
     },
     {
-      "id": "773bf78d-3553-4fae-a5bd-3eda0d9b5602",
+      "id": "dyk_2018_Feb_21f2029b4325",
       "hash": "34f9995a822c454ea4bcf9ca300c5d0ad93adab7d858f38638929e25176a5c1a",
       "text": "The Atlantic batfish uses its pectoral and pelvic fins to \"walk\" over the seabed",
       "tags": [],
@@ -1878,7 +1878,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:11Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Dibranchus_atlanticus",
@@ -1888,7 +1888,7 @@
       ]
     },
     {
-      "id": "b2f7186d-4079-4256-a335-9999f4ce9b6a",
+      "id": "dyk_2018_Feb_7a7584b16fb1",
       "hash": "c49d718307b4e819344aae7034f3c50e20756b14712e68d88e07b8405394fae0",
       "text": "War correspondent Philip Jacobson placed bets on horse races while reporting from the battlefield",
       "tags": [],
@@ -1898,7 +1898,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:11Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Philip_Jacobson",
@@ -1908,17 +1908,17 @@
       ]
     },
     {
-      "id": "3f2a1685-d687-4b91-ac70-d85587fa0a55",
+      "id": "dyk_2018_Feb_77cd5133cc96",
       "hash": "206617784b2090871a971ea324be8bc8f7e4f299f88bf2c4c63197fe825c443a",
       "text": "Phoenix Arising for bassoon and piano was composed by Graham Waterhouse in memory of his father, the bassoonist William Waterhouse, who believed in his instrument's \"broad expressive possibilities\"",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Graham_Waterhouse.jpg",
+        "caption": "Period contemporary"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:12Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Phoenix_Arising",
@@ -1943,7 +1943,7 @@
       ]
     },
     {
-      "id": "89146b88-1459-42e6-ad6a-de99b334eeb6",
+      "id": "dyk_2018_Feb_50d2f9203070",
       "hash": "190fd75fb06759f74c3db220ca44aa48ce7d86ee24d9d36b14c21a3d4e75e632",
       "text": "Asa Miller, one of only two athletes competing for the Philippines at the 2018 Winter Olympics, was born and raised in Portland, Oregon, and still lives there",
       "tags": [],
@@ -1953,7 +1953,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:12Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Asa_Miller",
@@ -1978,7 +1978,7 @@
       ]
     },
     {
-      "id": "d4534712-1080-49d7-9aa8-530ae04d5d5f",
+      "id": "dyk_2018_Feb_631daa999736",
       "hash": "0e1c8a20aaee5e470ea7c86b69631274ccd9c0733e71a80b6298c3454f728528",
       "text": "The greater thornbird builds a cone-shaped nest, usually over water, while the freckle-breasted thornbird makes a gourd-shaped nest with a long entrance tunnel",
       "tags": [],
@@ -1988,7 +1988,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:12Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Greater_thornbird",
@@ -2003,7 +2003,7 @@
       ]
     },
     {
-      "id": "c300d67c-462a-49b6-ac96-b2b832c4c9f4",
+      "id": "dyk_2018_Feb_69282073dfc7",
       "hash": "06a8bac5c040cfb528acd6d02516a5b46dc0776c2ba802dc75bfbe8b718ecf7d",
       "text": "109 years ago today, William Howard Taft was made a Mason at sight",
       "tags": [],
@@ -2013,7 +2013,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:12Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/William_Howard_Taft",
@@ -2028,7 +2028,7 @@
       ]
     },
     {
-      "id": "2b8578a2-9352-4685-b07d-4e96fe3e2bd4",
+      "id": "dyk_2018_Feb_555e0336b4f6",
       "hash": "9b07fd3da6454900c97b28c40611f37e6e2d0c02efaf2eb6591b4f96d4abe707",
       "text": "The French Constitutional Council triggered a by-election in a constituency representing French nationals in Spain, Portugal, Andorra, and Monaco",
       "tags": [],
@@ -2038,7 +2038,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:12Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Constitutional_Council_(France)",
@@ -2053,7 +2053,7 @@
       ]
     },
     {
-      "id": "5a75fe68-353a-4ec5-a45a-a71044be4e75",
+      "id": "dyk_2018_Feb_26695664931d",
       "hash": "ebf115c5618b4628c59ae0946637bfef0ce6196fbb8fc94bf3e8f1be58fae645",
       "text": "Australian mathematician Katherine Heinrich was the first female president of the Canadian Mathematical Society",
       "tags": [],
@@ -2063,7 +2063,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:12Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Katherine_Heinrich",
@@ -2078,7 +2078,7 @@
       ]
     },
     {
-      "id": "7814435a-6dd8-4743-a1a3-c49649130e64",
+      "id": "dyk_2018_Feb_96d4f8b4978b",
       "hash": "56ba94c668c7bebb3b71a808beed883b0ae7b5ab3416da9431f07191803ef94b",
       "text": "In July 1918, Jagdgeschwader III faced the problem of self-igniting ammunition",
       "tags": [],
@@ -2088,7 +2088,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:12Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Jagdgeschwader_III",
@@ -2098,7 +2098,7 @@
       ]
     },
     {
-      "id": "390b042a-977a-4a6e-bd93-ceb79d9e65e5",
+      "id": "dyk_2018_Feb_2b74357cf31d",
       "hash": "b7d7c9e095477d1293cc959ff53debe013b77e619f256251077021d2639629d3",
       "text": "The setting of the film Interstellar was inspired by the Dust Bowl that occurred in 1930s America during the Great Depression",
       "tags": [],
@@ -2108,7 +2108,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:12Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Interstellar_(film)",
@@ -2128,7 +2128,7 @@
       ]
     },
     {
-      "id": "9b4aa3e5-4c9e-4d3d-9a35-33c05a4a0311",
+      "id": "dyk_2018_Feb_c39715e090e5",
       "hash": "245bd2f26261725a135d1015c77a63224a3e2836f61a4d96492ab816d9ae9ad4",
       "text": "In the poll for China's 100 major archaeological discoveries in the 20th century, the Shang dynasty capital Yinxu received the highest number of votes",
       "tags": [],
@@ -2138,7 +2138,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:13Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/China%27s_100_major_archaeological_discoveries_in_the_20th_century",
@@ -2158,7 +2158,7 @@
       ]
     },
     {
-      "id": "943951c6-6035-4810-ab81-9d6ce25dad62",
+      "id": "dyk_2018_Feb_214c1b90b67b",
       "hash": "9ccff1c53770583ac72d3d6410495292a80ae37381cceb00dd9ee45982865f24",
       "text": "Before a distraught Marilyn Bergeron disappeared ten years ago today, a friend says she told him what was bothering her was worse than witnessing a murder or being raped, but would not say what",
       "tags": [],
@@ -2168,7 +2168,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:13Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Disappearance_of_Marilyn_Bergeron",
@@ -2178,7 +2178,7 @@
       ]
     },
     {
-      "id": "fcb5ac40-c0ec-4a79-ac7c-20da3a5cf88b",
+      "id": "dyk_2018_Feb_a21c79bde65e",
       "hash": "0e656042e03fca924a77118b63ec1488d86da77a0a42b57ccef62511f6fbeb39",
       "text": "Long face syndrome may be associated with sleep apnea",
       "tags": [],
@@ -2188,7 +2188,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:13Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Long_face_syndrome",
@@ -2203,7 +2203,7 @@
       ]
     },
     {
-      "id": "198d9296-52e6-40e1-b347-241252dec837",
+      "id": "dyk_2018_Feb_e95967c03c63",
       "hash": "ef51def869ff7b6e8a619b4bdbc5d817199a87186665195f58c7be5ea23748cb",
       "text": "Siblings Thomas, Glen, and Eve Muirhead are all competing in curling for Great Britain at the 2018 Winter Olympics",
       "tags": [],
@@ -2213,7 +2213,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:13Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Thomas_Muirhead_(curler)",
@@ -2243,7 +2243,7 @@
       ]
     },
     {
-      "id": "35e693a5-8c30-4838-b709-4bd0afea201a",
+      "id": "dyk_2018_Feb_e3492f99f7b8",
       "hash": "27380724ee4058a9eba50ab2b6925b0801c5fd932449878d4c7313daa77268fd",
       "text": "During the Vietnam War, Pacific Architects and Engineers provided cover for the CIA 's Phoenix Program",
       "tags": [],
@@ -2253,7 +2253,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:13Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Vietnam_War",
@@ -2278,7 +2278,7 @@
       ]
     },
     {
-      "id": "5009365a-a10a-41de-b15f-cc34bd92c24d",
+      "id": "dyk_2018_Feb_ffe4a9ebc6c4",
       "hash": "f550242c36e4f621b85dd2bece147d4022bce8a0304957d182655c102ea3fda6",
       "text": "The announcement of the reopening of the Embassy of Poland in Manila coincided with Poland's decision to expand its economic involvement in Asia",
       "tags": [],
@@ -2288,7 +2288,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:13Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Embassy_of_Poland,_Manila",
@@ -2298,7 +2298,7 @@
       ]
     },
     {
-      "id": "8b0194d6-5d8a-45e2-8289-55c5dfbc37d8",
+      "id": "dyk_2018_Feb_3608acafddbc",
       "hash": "473539648b482fcf3a2219d9eaec7f44c3ef390f2345875dddddd01977601257",
       "text": "Mu-ming Poo led a team of scientists that created the world's first primate clones with the same technique used to create Dolly the sheep",
       "tags": [],
@@ -2308,7 +2308,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:13Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Mu-ming_Poo",
@@ -2333,7 +2333,7 @@
       ]
     },
     {
-      "id": "01a7c53e-1e48-40d6-98ee-7e560cb7277f",
+      "id": "dyk_2018_Feb_e2471ca8605e",
       "hash": "6df806660390c3691d14095e19583f6aa002d06878326e24aaf18d7df48216ea",
       "text": "Vadstena Town Hall once contained a jail, and the town executioner lived next door",
       "tags": [],
@@ -2343,7 +2343,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:14Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Vadstena_Town_Hall",
@@ -2363,7 +2363,7 @@
       ]
     },
     {
-      "id": "11fd213b-af93-43d3-81ff-a80b5a467cc4",
+      "id": "dyk_2018_Feb_19c584383c17",
       "hash": "520a6c32af691499c73c9fe751ce84d5fb16d241ccdc04ad1d634df23eee5ecb",
       "text": "The 2017 Finnish film The Unknown Soldier set the Guinness World Record for most high explosives detonated in a single film take",
       "tags": [],
@@ -2373,7 +2373,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:14Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Unknown_Soldier_(2017_film)",
@@ -2388,7 +2388,7 @@
       ]
     },
     {
-      "id": "e80d1b91-2f94-4eac-aba8-2b03d2395292",
+      "id": "dyk_2018_Feb_d757ff955b3c",
       "hash": "2fcaa364f7a62c74b79090b78569b18e0fc8c6da6b3c74236b85cb316eed33d2",
       "text": "Green Bay Packers cornerback Kevin King played most of his first season with an injury to his shoulder which dislocated several times and left him unable to lift his arm over his head",
       "tags": [],
@@ -2398,7 +2398,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:14Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Green_Bay_Packers",
@@ -2418,7 +2418,7 @@
       ]
     },
     {
-      "id": "b9442c46-e689-4833-b8fd-6de35c0c125f",
+      "id": "dyk_2018_Feb_1ecb2235cb18",
       "hash": "d06a21c21d950503e59c9a50a35d40087cb71a6b4f48d710129c6e16cc2d2057",
       "text": "Aplerbeck, now part of Dortmund, is associated with two legendary martyrs and a regional psychiatric clinic founded in 1890",
       "tags": [],
@@ -2428,7 +2428,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:14Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Aplerbeck",
@@ -2448,7 +2448,7 @@
       ]
     },
     {
-      "id": "1fa531d4-d4fb-4db6-b5d9-b93b9152db58",
+      "id": "dyk_2018_Feb_5464f238f980",
       "hash": "a8fcae66bd706d788ef12c87f5ce927ae9d146afea2a8b5105940f6c7968aece",
       "text": "The Japanese names of the fireflies Luciola cruciata and Aquatica lateralis may derive from two early Japanese novels or the two clans that fought the Genpei War",
       "tags": [],
@@ -2458,7 +2458,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:14Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Luciola_cruciata",
@@ -2478,7 +2478,7 @@
       ]
     },
     {
-      "id": "a5a358cb-5515-4fab-90a2-f47c36239937",
+      "id": "dyk_2018_Feb_dccb69c714af",
       "hash": "e092b23e7842804ef9ae2cd1e7475724ef52297d2569a569a7c46a3c9b1c201b",
       "text": "A housewife, Bhogeswari Phukanani, played a part in the Quit India Movement and lost her life in doing so",
       "tags": [],
@@ -2488,7 +2488,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:14Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Bhogeswari_Phukanani",
@@ -2503,7 +2503,7 @@
       ]
     },
     {
-      "id": "9ea50338-3121-48d2-925d-cb669975fecd",
+      "id": "dyk_2018_Feb_94863b7031f5",
       "hash": "a68be6b4bd9d7af2314c1461acb415e38d4fc304576d4a324336071388232177",
       "text": "The Typhon surface-to-air missile was developed as part of a system to replace the United States Navy 's \"3T\"s",
       "tags": [],
@@ -2513,7 +2513,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:14Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/RIM-50_Typhon",
@@ -2528,7 +2528,7 @@
       ]
     },
     {
-      "id": "60e29d79-12c6-49e3-92b2-1d2bfbfc306f",
+      "id": "dyk_2018_Feb_f7b84457122c",
       "hash": "912f5d438a166e74f735f92484d32366d6987375dcd105b7f9a37407c80e1c28",
       "text": "Many modern Bible scholars consider the story of the prophet Jonah a work of satire",
       "tags": [],
@@ -2538,7 +2538,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:14Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Biblical_criticism",
@@ -2558,17 +2558,17 @@
       ]
     },
     {
-      "id": "e0c32eaf-d168-47ca-bb16-97fc091ebd90",
+      "id": "dyk_2018_Feb_2500a0b506c4",
       "hash": "aefe938314cb31a9d199b560b91604bde13cda7cdc7a05c3489070ca2e8d848b",
       "text": "The Fifth Dynasty Pyramid of Neferirkare was originally conceived as a step pyramid, a design which had been deprecated at the end of the Third Dynasty more than a century prior",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Neferirkare5.JPG",
+        "caption": "Location within Lower Egypt"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:16Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Pyramid_of_Neferirkare",
@@ -2583,7 +2583,7 @@
       ]
     },
     {
-      "id": "8c97d264-cd3c-42a6-9958-6db7e3d3debe",
+      "id": "dyk_2018_Feb_8f7558de8a43",
       "hash": "e0e6add9dedf5269870757707c2c5f122703e2e62974bcc15c325d53699e88d9",
       "text": "In 1912, Granville Pearl Aikman, a judge of the 13th District Court of Kansas, appointed the first female bailiff in US history",
       "tags": [],
@@ -2593,7 +2593,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:16Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Granville_Pearl_Aikman",
@@ -2608,7 +2608,7 @@
       ]
     },
     {
-      "id": "029a861f-161d-4f33-a357-0e80b133e119",
+      "id": "dyk_2018_Feb_65fd30a34b32",
       "hash": "1d2928232421666eacd87ee07afb2791a83446bcfd7db241776740d115a62e64",
       "text": "The critically endangered Tuncurry midge orchid is threatened by rabbits and urban developments",
       "tags": [],
@@ -2618,7 +2618,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:16Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Genoplesium_littorale",
@@ -2628,7 +2628,7 @@
       ]
     },
     {
-      "id": "23ed828b-a8e3-4b0f-afa5-aaa46b6b61c1",
+      "id": "dyk_2018_Feb_778c0d57b644",
       "hash": "a70e1db7075af943efdf1b0c9de17da9a729aedc4ec3414994831ed391d9d0d3",
       "text": "French politician Ian Boucard was the announcer at ASM Belfort home matches",
       "tags": [],
@@ -2638,7 +2638,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:16Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Ian_Boucard",
@@ -2653,7 +2653,7 @@
       ]
     },
     {
-      "id": "6a88db79-b041-4ad3-9fed-6ebcf971c9c9",
+      "id": "dyk_2018_Feb_c1f2a483aaa4",
       "hash": "6617b7c13c9da078766f919cb715378d036c585f0cc2d9ad217db449895156ab",
       "text": "The Los Frailes ignimbrite plateau has a volume of about 2,000 cubic kilometres (480 cu mi), and volcanism may have continued into the Holocene",
       "tags": [],
@@ -2663,7 +2663,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:16Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Los_Frailes_ignimbrite_plateau",
@@ -2678,7 +2678,7 @@
       ]
     },
     {
-      "id": "d2f70ff2-5717-4755-94a8-ebc1b83119f9",
+      "id": "dyk_2018_Feb_c5a2c0a5967e",
       "hash": "a98adf8337b563ced5b136d9016334cd237dedb4f065b2c153b00c9ef8612158",
       "text": "Claims have been made that the headquarters of the African Union, donated by the Chinese government, was bugged by the Chinese",
       "tags": [],
@@ -2688,7 +2688,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:16Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/AU_Conference_Center_and_Office_Complex",
@@ -2703,7 +2703,7 @@
       ]
     },
     {
-      "id": "97e911a6-c4e7-4116-a52f-812058f8decc",
+      "id": "dyk_2018_Feb_788ae4201b1b",
       "hash": "628c9877e1c7d31a7fb9552dc7fad2838193edd6897360a487de0ea63c46f823",
       "text": "The longest-serving woman in the House of Commons of Northern Ireland was also the grandmother of two prime ministers",
       "tags": [],
@@ -2713,7 +2713,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:16Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_women_members_of_the_House_of_Commons_of_Northern_Ireland",
@@ -2723,7 +2723,7 @@
       ]
     },
     {
-      "id": "2df8c0bc-e952-4177-a7fe-2a977f9c9f7a",
+      "id": "dyk_2018_Feb_fe26f529b3c9",
       "hash": "ab34d4a28a7778194da654d69827dd62909ce281803ef0f41084226af2b9b57b",
       "text": "There is a conspiracy theory about the presence of an abandoned subway station in New York City east of Euclid Avenue",
       "tags": [],
@@ -2733,7 +2733,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:16Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Conspiracy_theory",
@@ -2753,17 +2753,17 @@
       ]
     },
     {
-      "id": "92398f56-ea66-4299-8a82-97758108f623",
+      "id": "dyk_2018_Feb_74f4cae198b4",
       "hash": "bb25a37ba6c851c00e219a6906c34c539167ee130cc52155ea9aeebff6e7c28a",
       "text": "The Lenten rose is named after its flowering period being in Lent",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Helleborus_orientalis._Lenteroos_04.JPG",
+        "caption": "Scientific classification"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:17Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Helleborus_orientalis",
@@ -2778,7 +2778,7 @@
       ]
     },
     {
-      "id": "40f99abd-b286-4cfc-a355-d4e12a281a72",
+      "id": "dyk_2018_Feb_b30047ef1fe7",
       "hash": "aa8e1ac89f8e7f48e94491dbf2f7d8f177bbd63506719fcc0aaa703ddee747b1",
       "text": "A Women's Night is still celebrated by a group of indigenous people in Taiwan as a legacy of their centuries-long matrilineal practice",
       "tags": [],
@@ -2788,7 +2788,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:17Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Taivoan_people",
@@ -2798,7 +2798,7 @@
       ]
     },
     {
-      "id": "eea4e732-e1d4-437e-802f-652fb22a79b6",
+      "id": "dyk_2018_Feb_9a7868c588d8",
       "hash": "8d393e22eea62e997118cf581734b3ceafc3ab73090cd34558a196cf089b8e5b",
       "text": "Holy Trinity, Cork, is the only church dedicated to Father Mathew",
       "tags": [],
@@ -2808,7 +2808,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:17Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Holy_Trinity_Church,_Cork",
@@ -2823,7 +2823,7 @@
       ]
     },
     {
-      "id": "3fcb98bf-7f9f-4299-8529-f5ff429f6039",
+      "id": "dyk_2018_Feb_058118bfdaa5",
       "hash": "e66e6b418b5383d050275eafd35cbc894c61aaac6f9344c53dfcc876937bba5f",
       "text": "The General Alliance against Racism and for Respect for French and Christian Identity sued Le Figaro for defamation against Catholics",
       "tags": [],
@@ -2833,7 +2833,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:17Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/General_Alliance_against_Racism_and_for_Respect_for_French_and_Christian_Identity",
@@ -2853,7 +2853,7 @@
       ]
     },
     {
-      "id": "3d77c49f-b5f1-498b-bca9-c517b76c1203",
+      "id": "dyk_2018_Feb_c221a3f7175d",
       "hash": "71b2fc860199f44593b28d8fb6b73e4a35377e6e22873ff2e3f1efdcb49d9c3d",
       "text": "Captain G. S. Salaria is the only United Nations peacekeeper to have been awarded the Param Vir Chakra, India's highest wartime military decoration",
       "tags": [],
@@ -2863,7 +2863,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:17Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Gurbachan_Singh_Salaria",
@@ -2883,7 +2883,7 @@
       ]
     },
     {
-      "id": "943966d7-3379-4450-b67d-aa3a0906caac",
+      "id": "dyk_2018_Feb_fbe2fb5758b3",
       "hash": "842222d4dd451548b65daeed7de3ab7d6706450505080997273f8451c2564e91",
       "text": "The effects of Hurricane Irma in Florida resulted in at least $50 billion in damage, far surpassing Hurricane Andrew as the state's costliest tropical cyclone",
       "tags": [],
@@ -2893,7 +2893,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:17Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Effects_of_Hurricane_Irma_in_Florida",
@@ -2908,7 +2908,7 @@
       ]
     },
     {
-      "id": "af9ef817-f368-40fb-8e99-e086b6a6cd2c",
+      "id": "dyk_2018_Feb_adecd1797159",
       "hash": "7d033d80b6729ac9c536f1f06b8153905ee362ea839d1918e894d629159802f0",
       "text": "There was a 58-year gap between the terms of office of the first and second women cabinet ministers of the Republic of Ireland",
       "tags": [],
@@ -2918,7 +2918,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:17Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_women_cabinet_ministers_of_the_Republic_of_Ireland",
@@ -2928,7 +2928,7 @@
       ]
     },
     {
-      "id": "a62d012c-2412-4062-83f0-bf6ea6a14672",
+      "id": "dyk_2018_Feb_4c12cb4c97ac",
       "hash": "84504114acf7b4be7418a4087f52c5e5c23ca81f03e373ec730a294a48704b4e",
       "text": "The original lyrics of Maurice Chevalier 's song \" Valentine \" were changed so as not to shock the American public",
       "tags": [],
@@ -2938,7 +2938,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:17Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Maurice_Chevalier",
@@ -2953,7 +2953,7 @@
       ]
     },
     {
-      "id": "ac4bf765-4398-4d34-8406-019da6ebd3e5",
+      "id": "dyk_2018_Feb_ebf0674a6333",
       "hash": "8979c2c5ddd6cb6905302ebbfd2f6e3949c7e064e6137a37daf23c3e7537b0fa",
       "text": "Both small pleasure boats and ships can be listed as historic vessels in Sweden",
       "tags": [],
@@ -2963,7 +2963,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:18Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Listing_of_historic_ships_in_Sweden",
@@ -2973,7 +2973,7 @@
       ]
     },
     {
-      "id": "e22f50ce-7999-4276-a5bc-b0b4b87dd185",
+      "id": "dyk_2018_Feb_f0e7362d9b53",
       "hash": "ca1bc4bebc835dfbbd086ccd579717e9b9875a6fd16a16417b619ef45ff36e44",
       "text": "One of the stained glass windows in the Duluth Public Library was exhibited at the 1893 World's Columbian Exposition",
       "tags": [],
@@ -2983,7 +2983,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:18Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Duluth_Public_Library_(historic)",
@@ -2998,7 +2998,7 @@
       ]
     },
     {
-      "id": "91db39dd-caf7-4554-a18d-837a7fc71c52",
+      "id": "dyk_2018_Feb_c69dd07a84b8",
       "hash": "7c668af5ef61b104b2dfba691f98a365289ef3f85a5550850dcc0131883e572c",
       "text": "Bambang Soesatyo lost four elections before being elected to the People's Representative Council of Indonesia on his fifth attempt",
       "tags": [],
@@ -3008,7 +3008,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:18Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Bambang_Soesatyo",
@@ -3023,7 +3023,7 @@
       ]
     },
     {
-      "id": "a6b31475-d4b1-4698-941c-5c0b7ef179b3",
+      "id": "dyk_2018_Feb_640e47ca8283",
       "hash": "ba1fd7f884c951b8d989a2258997a788c7e3be75c9646953bfa889c225c2dd83",
       "text": "Prototypes of the JB-3 Tiamat air-to-air missile were the first missiles to be launched at the Wallops Flight Facility by the Langley Research Center",
       "tags": [],
@@ -3033,7 +3033,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:18Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/JB-3_Tiamat",
@@ -3053,7 +3053,7 @@
       ]
     },
     {
-      "id": "84089b0f-f72a-49d3-ba3e-343129379b00",
+      "id": "dyk_2018_Feb_04625086855b",
       "hash": "9a79f8f50f8391206da62792467b98b15515b5242144c602daec4cd72da99c77",
       "text": "Saw Ganesan founded the Kamban Kazhagam to promote the epic poem Kamba Ramayanam, written by the medieval Tamil poet Kambar",
       "tags": [],
@@ -3063,7 +3063,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:18Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Saw_Ganesan",
@@ -3088,7 +3088,7 @@
       ]
     },
     {
-      "id": "2c934f52-b737-4316-9876-f3859e1c8507",
+      "id": "dyk_2018_Feb_8170546c162b",
       "hash": "5feb832229e277cb68e6cdc9ae4865fc6ffb50bdababfcdd5ee214ece54ca825",
       "text": "While five of the states of the US observe a variation of Disability History Month in October, it is unofficially observed in the United Kingdom from November to December",
       "tags": [],
@@ -3098,7 +3098,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:18Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Disability_History_Month",
@@ -3108,7 +3108,7 @@
       ]
     },
     {
-      "id": "5f096004-7e7d-4978-80a8-b74fed5f30cf",
+      "id": "dyk_2018_Feb_5b0b8440708c",
       "hash": "aad3f13f2c5372a59ca7b6f7386daa570bcf0825c69c4166b78fcfc3142c7b72",
       "text": "Pandri is the first decentralized solar-powered village in India",
       "tags": [],
@@ -3118,7 +3118,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:18Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Pandri,_Purulia_district",
@@ -3133,7 +3133,7 @@
       ]
     },
     {
-      "id": "5c6c7bf4-ae07-4ed3-8d85-9b8c920c5eaa",
+      "id": "dyk_2018_Feb_9000a29531c2",
       "hash": "9bea7d0536a5b3326582d1d935322ae536a1b78e4223c9801bcabec73d579bab",
       "text": "American historian William Chaney would pretend to shiver and look the other way whenever he walked by a statue of General Sherman",
       "tags": [],
@@ -3143,7 +3143,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:18Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/William_Chaney",
@@ -3158,17 +3158,17 @@
       ]
     },
     {
-      "id": "44f0235a-8cf6-4b20-8052-bceaa835a204",
+      "id": "dyk_2018_Feb_2804972c9561",
       "hash": "8b781cc540287931c95a8db4846f741178d34a4f9751338194d256a20a8e5c27",
       "text": "The Summer Lake Hot Springs bathhouse, built in 1928, is a timber and tin structure with a 15-by-30-foot (4.6 m × 9.1 m) bathing pool inside",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Summer_Lake_Hot_Springs%2C_Oregon%2C_2016.jpg",
+        "caption": "Location Lake County, Oregon"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:19Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Summer_Lake_Hot_Springs",
@@ -3178,7 +3178,7 @@
       ]
     },
     {
-      "id": "e32ee304-d0d4-4872-8e03-4fa7e3bbe7aa",
+      "id": "dyk_2018_Feb_b5e564335fc2",
       "hash": "71f58bcd66fbfe008e66fe2cb0616dc9ff645627ee634d59f93421361c76c6e1",
       "text": "The Zulu festival Umkhosi Wokweshwama was a partial inspiration for the African-American holiday of Kwanzaa",
       "tags": [],
@@ -3188,7 +3188,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:19Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Zulu_people",
@@ -3208,7 +3208,7 @@
       ]
     },
     {
-      "id": "9067ceec-70f8-44e4-990c-cf51febb8415",
+      "id": "dyk_2018_Feb_9abe8bba35a6",
       "hash": "555971da1c24a2b235a140537973b0356110d2c50fd5b2a603438bb97c263c0e",
       "text": "American psychiatrist Bandy X. Lee briefed 12 members of the U.S. Congress on the mental health of President Donald Trump, although she had never met him",
       "tags": [],
@@ -3218,7 +3218,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:19Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Bandy_X._Lee",
@@ -3233,7 +3233,7 @@
       ]
     },
     {
-      "id": "7e625c87-6206-419b-a013-a4ae4c28ea6e",
+      "id": "dyk_2018_Feb_9440e1306a96",
       "hash": "46e111069e9585df2355c77bb87afab980d3c9c7c536462eecde61aa58954235",
       "text": "Despite being considered obsolete, the yacht Voortrekker placed second in the 1982/83 BOC Challenge, beaten only by a yacht purpose-built for the race",
       "tags": [],
@@ -3243,7 +3243,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:19Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Voortrekker_(yacht)",
@@ -3258,7 +3258,7 @@
       ]
     },
     {
-      "id": "eb740d9e-d497-43b5-b2b7-527155f93440",
+      "id": "dyk_2018_Feb_61249f2424c6",
       "hash": "3e5a66d52407fcf477c47c18d18e209a86f08bf96a1298eda02dbcd521f5be6a",
       "text": "Viking expert David M. Wilson became just the 17th Director of the British Museum in its 224 years",
       "tags": [],
@@ -3268,7 +3268,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:19Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Vikings",
@@ -3293,7 +3293,7 @@
       ]
     },
     {
-      "id": "94b29a94-b9f9-46e7-bca2-e56e9d19fad3",
+      "id": "dyk_2018_Feb_7f48c0584cbd",
       "hash": "5be5d8045359eb7075fd62cc13dae54165c4f7c388c1ae90b86769a8e0d4f738",
       "text": "The history of speciation largely began with Charles Darwin 's publication of On the Origin of Species",
       "tags": [],
@@ -3303,7 +3303,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:19Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/History_of_speciation",
@@ -3323,7 +3323,7 @@
       ]
     },
     {
-      "id": "14151699-857f-40eb-a6fe-1d3fa404c9a5",
+      "id": "dyk_2018_Feb_6a75af0f4f22",
       "hash": "dab54335561d9fa027cd158f58a37d34ba2152f5b736a0b13f87166a04a20b0b",
       "text": "Siegfried Lorenz, the first lyrical baritone of the Berlin State Opera, recorded 151 songs by Schubert and sang \"with an enviable control of line and dynamics\", according to Alan Blyth",
       "tags": [],
@@ -3333,7 +3333,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:19Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Siegfried_Lorenz_(baritone)",
@@ -3363,7 +3363,7 @@
       ]
     },
     {
-      "id": "5c588e63-912b-4bf8-a2b3-d9bdd8721bc1",
+      "id": "dyk_2018_Feb_175e0201feef",
       "hash": "01008efc05198b89c7ec9acec33fe5a468ebe5b57fcf812369a5df94b389d782",
       "text": "The director of the Noyes Museum of Art said it \"was in a beautiful location but it was in the middle of nowhere\"",
       "tags": [],
@@ -3373,7 +3373,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:19Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Noyes_Museum",
@@ -3383,17 +3383,17 @@
       ]
     },
     {
-      "id": "458f2fda-f993-4ddd-8953-23f13997fe49",
+      "id": "dyk_2018_Feb_2ad77bba3ac8",
       "hash": "81336924ca5a8129f5f750fbc8f06559bdec9a64c08e3e8f3f346c3388b63d2c",
       "text": "The Carolwood Pacific Railroad was a ridable miniature railroad run by Walt Disney in his backyard",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Walt_Disney%27s_Carolwood_Barn_-_CPRR_Logo.jpg",
+        "caption": "Overview"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:20Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Carolwood_Pacific_Railroad",
@@ -3413,7 +3413,7 @@
       ]
     },
     {
-      "id": "31fb7327-21f0-4689-a8be-0d0fb6f52847",
+      "id": "dyk_2018_Feb_4dbea997ef67",
       "hash": "bb9de9e70b8d615c07c5e78c2befe6d7d23aa3e96aa8448fc5da5694d012282c",
       "text": "John Clemm built the first church organ in America",
       "tags": [],
@@ -3423,11 +3423,11 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:20Z",
       "links": []
     },
     {
-      "id": "349ed639-3680-4dab-aabd-ed0736a18fad",
+      "id": "dyk_2018_Feb_1b0dd3e3afdc",
       "hash": "ee0956986773ab417f484f7d5660181205c1a553f557bf7ab561b5b301f554db",
       "text": "Sufjan Stevens wrote both \" Mystery of Love \" and \"Visions of Gideon\" for the 2017 film Call Me by Your Name, even though he was only asked to write one song",
       "tags": [],
@@ -3437,7 +3437,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:20Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Sufjan_Stevens",
@@ -3457,7 +3457,7 @@
       ]
     },
     {
-      "id": "c134864f-e918-4ab6-aeaa-2a5f92b5364c",
+      "id": "dyk_2018_Feb_cddd82f65599",
       "hash": "80a472f0f0f614253eb5f426aa01d0e14dcbdd7e8f1cfd198901a4f0a3316df1",
       "text": "The small town of Mintaro, South Australia, produces world-class slate from what is believed to be the oldest continuing operating quarry in Australia",
       "tags": [],
@@ -3467,7 +3467,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:20Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Mintaro,_South_Australia",
@@ -3482,7 +3482,7 @@
       ]
     },
     {
-      "id": "444d197d-7865-474d-92d2-1e99ae1e9311",
+      "id": "dyk_2018_Feb_dd3063145fcd",
       "hash": "56d4803ab4ede5519058f945f03f69fead2a02bdebc6575c75f74fb62629b10b",
       "text": "Illinois -born basketball player Erin Lawless played for Slovakia, despite not being able to speak the language",
       "tags": [],
@@ -3492,7 +3492,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:20Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Illinois",
@@ -3517,7 +3517,7 @@
       ]
     },
     {
-      "id": "948b3221-d013-4625-9a53-6df024a2f9cb",
+      "id": "dyk_2018_Feb_267c30b5990c",
       "hash": "35d304f4055244f981af72e8e3f6a026b021b4b25df2cce00eb612662273f1dc",
       "text": "Hardware-based encryption is probably in your computer",
       "tags": [],
@@ -3527,7 +3527,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:20Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Hardware-based_encryption",
@@ -3537,7 +3537,7 @@
       ]
     },
     {
-      "id": "6b0f7f3f-4012-4c09-9ae2-e80fd3b4b927",
+      "id": "dyk_2018_Feb_df43e388fc2d",
       "hash": "4bf6e12203541410b0d42efdc6b9ddbd3a5adc50562bcc0feebdc7a954bb13a1",
       "text": "The third opera by Alessandro Solbiati, Il suono giallo, is based on Wassily Kandinsky 's experimental play The Yellow Sound and premiered in Bologna in 2015",
       "tags": [],
@@ -3547,7 +3547,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:20Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Alessandro_Solbiati",
@@ -3567,7 +3567,7 @@
       ]
     },
     {
-      "id": "d70df90f-252a-45ee-b870-573ad799a1d2",
+      "id": "dyk_2018_Feb_873670aa9197",
       "hash": "88add93632189e1e099ae5885a4d7b368f91f33cbd253d7d53a54d134e1b675f",
       "text": "A tripwire can be used to deter salami attacks",
       "tags": [],
@@ -3577,7 +3577,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:20Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Tripwire_force",
@@ -3592,17 +3592,17 @@
       ]
     },
     {
-      "id": "35bbc0ac-4e8e-434f-a893-760eb74809e9",
+      "id": "dyk_2018_Feb_6ab04903404f",
       "hash": "1f27eef374e015c525ad38467eb5919cb018d1274ac7d75e6dcc767721d55880",
       "text": "The AAM-N-10 Eagle air-to-air missile was intended to be tested using an aircraft nicknamed \" Snoopy \"",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/AAM-N-10_Eagle_drawing_NAN12-60.jpg",
+        "caption": "Type Long-range Air-to-air missile"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:21Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/AAM-N-10_Eagle",
@@ -3622,7 +3622,7 @@
       ]
     },
     {
-      "id": "0094034d-7398-4306-893f-a3e855f2057d",
+      "id": "dyk_2018_Feb_d059376c33d4",
       "hash": "db02110d019e07b1a06a6c7b5b53dde34efd37a047606ea9bccbdb2cbf05e50d",
       "text": "Jérémie Azou was unbeaten in men's lightweight double sculls races from 2015 to October 2017",
       "tags": [],
@@ -3632,7 +3632,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:21Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/J%C3%A9r%C3%A9mie_Azou",
@@ -3652,7 +3652,7 @@
       ]
     },
     {
-      "id": "72008fa5-61a0-4e23-85df-914db3d8ff93",
+      "id": "dyk_2018_Feb_bbcc893c77eb",
       "hash": "78f9ed28ddfc0a462ffb80d892309275d84de5e491d6edb49420fe24b5d52aeb",
       "text": "\"Irish villagers\" and \"girls in clinging lace costumes\" could once be seen along the boardwalk of Bergen Beach, a residential neighborhood in New York City",
       "tags": [],
@@ -3662,7 +3662,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:21Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Bergen_Beach,_Brooklyn",
@@ -3677,7 +3677,7 @@
       ]
     },
     {
-      "id": "0974b5c3-fefd-4664-a327-eddf5540804a",
+      "id": "dyk_2018_Feb_d492c0ea310c",
       "hash": "c307af942f6681fd75b1016a92031e562da4a5024055ca8be054abd67abd8eb7",
       "text": "Elad Chakrina initially won Mayotte's 1st constituency by 12 votes, lost by 54 votes after a counting error was corrected, then forced a by-election after an appeal",
       "tags": [],
@@ -3687,7 +3687,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:21Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Mayotte%27s_1st_constituency",
@@ -3702,7 +3702,7 @@
       ]
     },
     {
-      "id": "6578771e-238a-4da0-8f18-15b185969ebd",
+      "id": "dyk_2018_Feb_7a0f1b71ac2c",
       "hash": "14721035ccd09fa6293eea41e8d24481154d91fcc733ac99f8fa29e3591adc7a",
       "text": "Robin Lee Wilson project-managed the installation of an Archimedes' screw water turbine at the 18th-century Coultershaw Wharf and Beam Pump to supply electricity to the National Grid",
       "tags": [],
@@ -3712,7 +3712,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:21Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Robin_Lee_Wilson",
@@ -3742,7 +3742,7 @@
       ]
     },
     {
-      "id": "2f38fc69-3cd1-489b-a127-b2fa6274a725",
+      "id": "dyk_2018_Feb_dec6261a713e",
       "hash": "de88ae5c5ac418942a751edc4beb0571afd054abc34c66f8c7e259b3b56d31a9",
       "text": "The crab hacker barnacle is a parasite of crabs and manipulates its host into caring for its eggs",
       "tags": [],
@@ -3752,7 +3752,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:21Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Sacculina_carcini",
@@ -3762,7 +3762,7 @@
       ]
     },
     {
-      "id": "4ca71ed3-c2fa-41d9-b665-36d4460342e7",
+      "id": "dyk_2018_Feb_a3deccbbe85b",
       "hash": "d3b3e71b9ac283ee59588acf0ac270fbed22da82e60cc5ff0e43de74af49d9a4",
       "text": "The song \"Gallan Goodiyaan\" from the 2015 Indian comedy-drama Dil Dhadakne Do was apparently filmed in a single five-minute take",
       "tags": [],
@@ -3772,7 +3772,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:21Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Dil_Dhadakne_Do",
@@ -3782,7 +3782,7 @@
       ]
     },
     {
-      "id": "925e603a-67d6-4d55-ae96-4e7abb717ea9",
+      "id": "dyk_2018_Feb_fabda0f0c2ef",
       "hash": "e0cf8019d4b0ab0553b5d26d8cd4ad37bb351cb8ab32a3d5aed68142880bcdfb",
       "text": "The Australian yachtsman Vinny Lauwers circumnavigated the globe solo with his \"mistress\"",
       "tags": [],
@@ -3792,7 +3792,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:21Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Vinny_Lauwers",
@@ -3802,7 +3802,7 @@
       ]
     },
     {
-      "id": "ffb40df1-6ceb-46e1-bbc5-24ae16c07007",
+      "id": "dyk_2018_Feb_8f1e4f02fef7",
       "hash": "67c5581c2d8f231f6d77de1cb6322cd1a66309c2c1b907c769292030c49bf547",
       "text": "New York-style pizza is most commonly ordered by the slice in New York City",
       "tags": [],
@@ -3812,7 +3812,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:22Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/New_York-style_pizza",
@@ -3827,7 +3827,7 @@
       ]
     },
     {
-      "id": "29005750-f279-442f-8c3d-4d8cfe9395a1",
+      "id": "dyk_2018_Feb_996a4dd8e035",
       "hash": "adb949e5fd27601f9058e87d34bcdb48317b68e74059347ea5014001121832fc",
       "text": "At age 12, Edin Šehić became the youngest footballer to sign a scholarship contract with NK Zagreb",
       "tags": [],
@@ -3837,7 +3837,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:22Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Edin_%C5%A0ehi%C4%87",
@@ -3857,7 +3857,7 @@
       ]
     },
     {
-      "id": "7becaabf-7cce-4e6d-bf3e-db48e3328e75",
+      "id": "dyk_2018_Feb_8c3d9cd9debd",
       "hash": "3c1fd87e48a7b0d97a1b764775b21d0f57667941a62b00ec28ae254be74817e6",
       "text": "The Evangelical Heritage Version of the Bible was translated by a group of Lutheran volunteers",
       "tags": [],
@@ -3867,7 +3867,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:22Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Evangelical_Heritage_Version",
@@ -3877,7 +3877,7 @@
       ]
     },
     {
-      "id": "3addbc7a-3d69-44d8-a051-fcf0c32686ed",
+      "id": "dyk_2018_Feb_0455c354e547",
       "hash": "17d1648554ce8f1aa163be8ab566e0e966f1cb2f0948f0b2f9ac5284af57a8ca",
       "text": "In 1953, the council architect 's department of the London County Council employed more than 1,500 people",
       "tags": [],
@@ -3887,7 +3887,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:22Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Council_architect",
@@ -3902,7 +3902,7 @@
       ]
     },
     {
-      "id": "50e07d3f-5692-4324-8488-b90d4f5e9d4b",
+      "id": "dyk_2018_Feb_0cca8d9e8d5f",
       "hash": "ed18784b1584dfba249884cf23fda44120da08c70d6fc91d8efe63947022193e",
       "text": "The North American fungus Boletus aurantiosplendens has been found in only seven distinct locations",
       "tags": [],
@@ -3912,7 +3912,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:22Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Boletus_aurantiosplendens",
@@ -3922,7 +3922,7 @@
       ]
     },
     {
-      "id": "672f0c06-08b2-4c02-bbda-39d0287d1825",
+      "id": "dyk_2018_Feb_2dd255f1d27c",
       "hash": "2772ea6039b5485531d7ca7a738378b5d40acccb7ab3024ad4c5c7d7ef5c06b7",
       "text": "Aileen Hernandez was once told that she would have to hire a \"black\" taxi if she was going to travel to the traditionally African-American Howard University",
       "tags": [],
@@ -3932,7 +3932,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:22Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Aileen_Hernandez",
@@ -3947,7 +3947,7 @@
       ]
     },
     {
-      "id": "04a21dce-a6b7-486e-901e-66481a188823",
+      "id": "dyk_2018_Feb_18c48568dc6b",
       "hash": "0b69edca73e478b02ad0b934f465666c4e78551f646e55c9c982ee2ab5c4f872",
       "text": "The Mediterranean Sea may have been filled by a giant flood with a discharge rate about 1,000 times larger than that of the Amazon River",
       "tags": [],
@@ -3957,7 +3957,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:22Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
@@ -3977,7 +3977,7 @@
       ]
     },
     {
-      "id": "8c4dfcc2-00f8-4679-af2d-05a422bc695f",
+      "id": "dyk_2018_Feb_028cd5fabed8",
       "hash": "95dbad2213e8dbbbbc73209a196b2e0f255e10f81418cdf3f043d4e0fdee09d7",
       "text": "In Nazi Germany, Karl Maria Zwißler conducted major works by composer Igor Stravinsky regarded as degenerate music, including the ballet The Firebird and the German premiere of Dumbarton Oaks",
       "tags": [],
@@ -3987,7 +3987,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:22Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Nazi_Germany",
@@ -4022,17 +4022,17 @@
       ]
     },
     {
-      "id": "347ceb90-31f3-4585-a3a6-8b17b30397a2",
+      "id": "dyk_2018_Feb_1a40bb630a58",
       "hash": "420d945e074c4134cf394cd77dfcd2b95c600a410f68af5667c6a04c9ad737b3",
       "text": "The Chrysler Turbine Car could burn a variety of unusual fuels, ranging from furnace, peanut, and soybean oils to tequila",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Chrysler_027.jpg",
+        "caption": "Overview"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:23Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Chrysler_Turbine_Car",
@@ -4062,7 +4062,7 @@
       ]
     },
     {
-      "id": "34d8f882-86e2-483b-8714-70c8d8aaecde",
+      "id": "dyk_2018_Feb_c705ef147525",
       "hash": "67a6ca7cb493e98389ea5c53c82134497240e73d48ef883d172c006d81076fd0",
       "text": "Russian serial killer Mikhail Popkov has confessed to murdering more people than either Andrei Chikatilo or Alexander Pichushkin",
       "tags": [],
@@ -4072,7 +4072,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:23Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Mikhail_Popkov",
@@ -4092,7 +4092,7 @@
       ]
     },
     {
-      "id": "e83b7158-87c0-498a-946b-0cb704aa9974",
+      "id": "dyk_2018_Feb_2025f7998a00",
       "hash": "d9f19739998cae957ffc26886b6ccd1a94d844d0b17c97d8ebad8b329a3eb51c",
       "text": "The seeds of the Bredasdorp sceptre are carried underground by ants",
       "tags": [],
@@ -4102,7 +4102,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:23Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Paranomus_abrotanifolius",
@@ -4117,7 +4117,7 @@
       ]
     },
     {
-      "id": "a5fff87a-2bf0-40d1-b54c-870f29cfb360",
+      "id": "dyk_2018_Feb_3b30cf39beb4",
       "hash": "b62d6b7dba2864ed19c4cd0e8cb0523a6ab43a83967728ad8ff9446e985db660",
       "text": "... that, from 1966 to 1991, the Yearbook on International Communist Affairs was the most comprehensive annual survey of Communist activities worldwide",
       "tags": [],
@@ -4127,7 +4127,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:23Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Yearbook_on_International_Communist_Affairs",
@@ -4137,7 +4137,7 @@
       ]
     },
     {
-      "id": "f9f3a4cb-af56-4474-9c3a-99970438424f",
+      "id": "dyk_2018_Feb_21fa465fbd15",
       "hash": "c3bee0cee2b5c424fb2b100ab14e330e96031dc645ec700a5147340d71cf1ec1",
       "text": "Blanche Georgiana Vulliamy was fond of portraying bats, goblins, and other reclusive and grotesque creatures",
       "tags": [],
@@ -4147,7 +4147,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:23Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Blanche_Georgiana_Vulliamy",
@@ -4167,7 +4167,7 @@
       ]
     },
     {
-      "id": "21328643-0bb8-4fe7-a554-6adcf8ba4ed7",
+      "id": "dyk_2018_Feb_a577da894051",
       "hash": "0d7228090fbb65f3570c256ab91dacd8137da272d51af26c9f2203e4500e6201",
       "text": "In a recent court case, the Minnesota Supreme Court resolved a dispute between the state's legislative and executive branches for the first time in its history",
       "tags": [],
@@ -4177,7 +4177,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:23Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Ninetieth_Minnesota_State_Senate_v._Dayton",
@@ -4202,7 +4202,7 @@
       ]
     },
     {
-      "id": "14cc3d70-f084-4f5a-abb5-d970dad8ad1e",
+      "id": "dyk_2018_Feb_89d2c78a7ffb",
       "hash": "6a79944599b329dfba5e245328377796d24d835a3010f56990deb04802995986",
       "text": "The Church of St. Lambertus in Immerath, Germany, withstood artillery fire in World War II, but not the expansion of a lignite mine in 2018",
       "tags": [],
@@ -4212,7 +4212,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:23Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Church_of_St._Lambertus,_Immerath",
@@ -4227,7 +4227,7 @@
       ]
     },
     {
-      "id": "01375318-63ea-4139-9c0d-80c7b1a0fd65",
+      "id": "dyk_2018_Feb_bbe1b82f974a",
       "hash": "e7c94d4fa7ee7f692b083719bb7a0c1bac35cf1d0e6ea1d55869200280e0184a",
       "text": "People described a carry-on manufactured by Away as \"the little black dress of luggage\"",
       "tags": [],
@@ -4237,7 +4237,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:23Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/People_(magazine)",
@@ -4262,17 +4262,17 @@
       ]
     },
     {
-      "id": "60235522-c6d6-424c-8995-c9ee3d1895a7",
+      "id": "dyk_2018_Feb_d5ed44f547f3",
       "hash": "680e4156d71ba54aae64c6c79f264b5745174f9c1229ad0c5e09eed4a8f3eb69",
       "text": "... that, in Māori mythology, the severed tail of a taniwha which fell at the base of the Wainui Falls is thought to be responsible for staining the rocks downstream reddish-brown with its blood",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Wainui_Falls.jpg",
+        "caption": "Wainui Falls"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:24Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Taniwha",
@@ -4287,7 +4287,7 @@
       ]
     },
     {
-      "id": "88d3ee19-c567-4ceb-a556-eece66cecf1d",
+      "id": "dyk_2018_Feb_d1219aada6d3",
       "hash": "b845853792f37f3b152e92ee86332a3140cb962e8d8eaee4da997d1397c3feeb",
       "text": "A \"near-riot\" broke out after Cory Booker cast the deciding vote to seat Shanique Speight as a member of the Newark, New Jersey city council",
       "tags": [],
@@ -4297,7 +4297,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:24Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Cory_Booker",
@@ -4317,7 +4317,7 @@
       ]
     },
     {
-      "id": "99636f5b-3b39-4e78-8c55-0b0e56357386",
+      "id": "dyk_2018_Feb_81ee9c399d70",
       "hash": "b140fd22af1efb843a62e9b7fe0b8588f5cfcb10edd81fa13e77db1d123ef127",
       "text": "HPgV-2 is the second human pegivirus ever discovered",
       "tags": [],
@@ -4327,7 +4327,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:24Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/HPgV-2",
@@ -4342,7 +4342,7 @@
       ]
     },
     {
-      "id": "cf097bfa-4511-447b-9ce8-0790f0ddadfd",
+      "id": "dyk_2018_Feb_2b65c551b1dc",
       "hash": "e2d5ccc0046543d5cdf876438d29570de94410d2ee02ea45bf543bf08ac09a56",
       "text": "The Easton Area Public Library holds what is believed to be the original Flag of Easton that was flown in the town during the first public reading of the Declaration of Independence",
       "tags": [],
@@ -4352,7 +4352,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:24Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Easton_Area_Public_Library",
@@ -4372,7 +4372,7 @@
       ]
     },
     {
-      "id": "3af63ab8-d345-45aa-8958-1c44fcd3419c",
+      "id": "dyk_2018_Feb_4031f6df71cc",
       "hash": "548240dec2217c426b3201420622378378b2e6668402188c247585ceef54d55a",
       "text": "Fourteen players have scored an international hat-trick for the Wales national football team",
       "tags": [],
@@ -4382,7 +4382,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:24Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_Wales_national_football_team_hat-tricks",
@@ -4397,7 +4397,7 @@
       ]
     },
     {
-      "id": "968144cc-7470-4e72-b8f7-920529727507",
+      "id": "dyk_2018_Feb_9e7b67fba2d0",
       "hash": "69305123abf48e738b77455da34add5e0b4a1b48adfae63f755114e928aa2d4d",
       "text": "King Abdullah II of Jordan, who claims to be a 41st-generation direct descendant of Muhammad, funded the restoration of the Church of the Holy Sepulchre in 2017",
       "tags": [],
@@ -4407,7 +4407,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:24Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Abdullah_II_of_Jordan",
@@ -4432,7 +4432,7 @@
       ]
     },
     {
-      "id": "8cae9e7f-04b9-4d0c-9796-7e10e8022a0f",
+      "id": "dyk_2018_Feb_9270374903ba",
       "hash": "37db0339cc317eba21db263d30928380e93a0127e2022bc162d0bd191a2b5af9",
       "text": "Stuart Mustow recommended that Birmingham City Council lose responsibility for maintaining the city's Inner Ring Road due to construction defects",
       "tags": [],
@@ -4442,7 +4442,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:24Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Stuart_Mustow",
@@ -4462,7 +4462,7 @@
       ]
     },
     {
-      "id": "4039ed4e-e932-4810-8cdb-45675bfc2449",
+      "id": "dyk_2018_Feb_6eeabe8375ae",
       "hash": "1933a0fb71e391cc89613bdaa42d36a2fc116a57f857b657ddec657d0650757b",
       "text": "Despite director John Frankenheimer 's preference for the first ending he had shot for Ronin, the test audience \"hated it\"",
       "tags": [],
@@ -4472,7 +4472,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:24Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/John_Frankenheimer",
@@ -4487,17 +4487,17 @@
       ]
     },
     {
-      "id": "1d058dd4-f409-4860-8f72-003b8ac27b77",
+      "id": "dyk_2018_Feb_6b94090665fa",
       "hash": "f23b90a3e60596578c9d66aac8a349f68171e9e2504dd0e5812c66204d292f75",
       "text": "New Zealand 's founding document, the Treaty of Waitangi, barely escaped burning in a fire, was lost for decades, and then was found in a damp basement heavily water damaged and chewed by rodents",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Treatyofwaitangi.jpg",
+        "caption": "Context Treaty to establish a British Governor of New Zealand , proclaim the exclusive Māori ownership of their lands and other properties undisturbed by the Crown, and ensure Māori would also enjoy equal rights of British subjects in British fora."
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:25Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/New_Zealand",
@@ -4512,7 +4512,7 @@
       ]
     },
     {
-      "id": "5bc0bfb4-e393-4c81-af5f-91866e39db71",
+      "id": "dyk_2018_Feb_4f139ec1dc61",
       "hash": "97c7b8709fc39c01247ebe16d7a38aa850746c4e370211dd24d6fc2826c31da7",
       "text": "German author Natalie Grams set out to write a scientific defense of homeopathy, but instead discontinued her homeopathic practice and wrote a book called Homeopathy Reconsidered",
       "tags": [],
@@ -4522,7 +4522,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:25Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Natalie_Grams",
@@ -4537,7 +4537,7 @@
       ]
     },
     {
-      "id": "651607a2-13af-4512-a800-1c50b0c31267",
+      "id": "dyk_2018_Feb_1f054e65d271",
       "hash": "680c97a4907c65413e69edd182ee5a0f94046d43296225b2f2ce54dba0128eba",
       "text": "Four years ago today, 2,000 passengers stranded in China's Zhengzhou Xinzheng International Airport during a snowstorm rioted over delayed flights, destroying check-in desks and assaulting staff",
       "tags": [],
@@ -4547,7 +4547,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:25Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Zhengzhou_Xinzheng_International_Airport",
@@ -4562,7 +4562,7 @@
       ]
     },
     {
-      "id": "953fbb30-bfc4-4252-8956-97cf54909d7e",
+      "id": "dyk_2018_Feb_453643789c6c",
       "hash": "112dee065fcc3629dac7dd985cc052fe3a15ff1a9280a2cc1095f4e6215d63f6",
       "text": "The M60 and Q70 bus routes in New York City were upgraded because LaGuardia Airport had no other rapid transit options",
       "tags": [],
@@ -4572,7 +4572,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:25Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/M60_(New_York_City_bus)",
@@ -4597,7 +4597,7 @@
       ]
     },
     {
-      "id": "33b281e9-a93a-4944-8abe-31bdfbd2f561",
+      "id": "dyk_2018_Feb_5d84e33daded",
       "hash": "7708a1d747dbd2363a79884e69a1dd83f38cd575b94d43c71bf12819d109ac40",
       "text": "The Republic SD-4 and Fairchild SD-5 reconnaissance drones were designed to provide targeting data for tactical ballistic missiles",
       "tags": [],
@@ -4607,7 +4607,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:25Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Republic_SD-4_Swallow",
@@ -4627,7 +4627,7 @@
       ]
     },
     {
-      "id": "47a6a3ea-f537-465e-96fd-ac4bb7cd2068",
+      "id": "dyk_2018_Feb_19bd1fa5d035",
       "hash": "ee769bf98160a3ba558cfdcb34fa210d9baa550dbf227fe9c54d4d9f5d789c5a",
       "text": "General Sir Brian Robertson said: \"General Montgomery does not cheat – whether that is due to his innate honesty or the fact that I watch him like a cat does not matter\"",
       "tags": [],
@@ -4637,7 +4637,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:25Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Brian_Robertson,_1st_Baron_Robertson_of_Oakridge",
@@ -4652,7 +4652,7 @@
       ]
     },
     {
-      "id": "52ec87de-7141-47ed-8967-05d990be926d",
+      "id": "dyk_2018_Feb_9d20fbba8b02",
       "hash": "bbdb924856a6a613af49b9f9e5bafcce328bfcaaa4ace5c450b00ddfe8dc4b4f",
       "text": "Though the Saleh Kamboh Mosque of Lahore was built during Mughal emperor Aurangzeb 's reign, it has architectural features of the Shah Jahani era",
       "tags": [],
@@ -4662,7 +4662,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:25Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Saleh_Kamboh_Mosque",
@@ -4687,7 +4687,7 @@
       ]
     },
     {
-      "id": "449c3b81-499f-4754-91db-7244ebb5e935",
+      "id": "dyk_2018_Feb_f9059af3052c",
       "hash": "46cc529de985d25370163336b36a3f349b002ec2f5a5c8739346574d9df67674",
       "text": "The New Zealand Māori folk song \" Tūtira Mai Ngā Iwi \" was hijacked by British and Irish Lions rugby fans",
       "tags": [],
@@ -4697,7 +4697,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:25Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/T%C5%ABtira_Mai_Ng%C4%81_Iwi",
@@ -4712,17 +4712,17 @@
       ]
     },
     {
-      "id": "38a483c7-a4f5-455a-95c3-3e6afb1bae70",
+      "id": "dyk_2018_Feb_60bd0f3f9216",
       "hash": "ddac3ad826064f0659a82885914b95eaedf8a1d9716b5121e18d2c7c1494c1d7",
       "text": "Humphrey IV of Toron married Isabella of Jerusalem in Kerak Castle in 1183, but a siege by Saladin disturbed the wedding",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Humphrey_IV_of_Toron_Isabela.jpg",
+        "caption": "Lord of Toron"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:26Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Humphrey_IV_of_Toron",
@@ -4752,7 +4752,7 @@
       ]
     },
     {
-      "id": "ee67b890-79e1-4f11-b995-08a0d827805b",
+      "id": "dyk_2018_Feb_1a36f0f9cba3",
       "hash": "d673f79ff1e735f279c309d1eae9272abc45908872cf535aa73c3c1ed26fa5b7",
       "text": "Prickly felicia belongs to the daisy family and is found on sand dunes in the Cape Floristic Region of South Africa",
       "tags": [],
@@ -4762,7 +4762,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:26Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Felicia_echinata",
@@ -4782,7 +4782,7 @@
       ]
     },
     {
-      "id": "cc0ce8b8-f309-42ce-9b36-f66bf60f39f1",
+      "id": "dyk_2018_Feb_0eb776083244",
       "hash": "0d63e1abbda82c08712395dbc34d20594675357f509250ebc1f6e6c9812a75a9",
       "text": "Celia M. Burleigh became the first woman pastor ordained into the Unitarian ministry",
       "tags": [],
@@ -4792,7 +4792,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:26Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Celia_M._Burleigh",
@@ -4807,7 +4807,7 @@
       ]
     },
     {
-      "id": "de810ee7-f173-4833-82de-ed209c9ac746",
+      "id": "dyk_2018_Feb_e9815d47e476",
       "hash": "6db6586c83e29b961aa31c465172c7f566c5f5c6f013b23e075a133862d320ca",
       "text": "An archaeological find identified as a 10th-century Viking helmet has been alleged to actually be a World War II Luftwaffe helmet",
       "tags": [],
@@ -4817,7 +4817,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:26Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Viking_Age",
@@ -4832,7 +4832,7 @@
       ]
     },
     {
-      "id": "977b5552-8b9f-47e0-a128-891d0faa1389",
+      "id": "dyk_2018_Feb_7c472dc40213",
       "hash": "68123d1eb3702030514f32116a378f31285b5a915e3e4375f08248507feea3d8",
       "text": "All of the proposals to honor Michael Jackson at New York City's Hoyt–Schermerhorn Streets subway station have been declined",
       "tags": [],
@@ -4842,7 +4842,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:26Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Michael_Jackson",
@@ -4857,7 +4857,7 @@
       ]
     },
     {
-      "id": "719b8f51-ae2d-4d7d-b683-cb077e0ac7fa",
+      "id": "dyk_2018_Feb_bacb8b7c9fba",
       "hash": "6f0eb2d323304457a292e9844fed0360decd3f0861e23fe478f9c193e4e7243a",
       "text": "Chinese naval commander Zhang Wendan exchanged information on pirate activity with the Japanese, in a rare occasion of military cooperation between the two countries",
       "tags": [],
@@ -4867,7 +4867,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:26Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Zhang_Wendan",
@@ -4877,7 +4877,7 @@
       ]
     },
     {
-      "id": "1e8ea4ef-9e3f-4663-9719-43279fe32c14",
+      "id": "dyk_2018_Feb_21f6764bc960",
       "hash": "ab712ee1c173a6e47a6e7df7f664825a78197056a271f8ca2793a2fddd49d9a7",
       "text": "The Rahway River Parkway, designed by Olmsted Brothers in the 1920s, was a project of the newly-formed Union County parks commission",
       "tags": [],
@@ -4887,7 +4887,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:26Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Rahway_River_Parkway",
@@ -4907,7 +4907,7 @@
       ]
     },
     {
-      "id": "d12d5a36-7c30-4072-824c-3bdd489aa48f",
+      "id": "dyk_2018_Feb_dac4422ff875",
       "hash": "5a775a57f02995c365ce21b15d5f625ef8cc5bab742316b2d688f2121379f044",
       "text": "... that, according to Lord Mountbatten, Queen Elizabeth II planned to hit Idi Amin with the Pearl Sword if he came to her Silver Jubilee",
       "tags": [],
@@ -4917,7 +4917,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:26Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma",
@@ -4947,17 +4947,17 @@
       ]
     },
     {
-      "id": "ec752a9e-ed4e-438d-b775-b8db2fceb29c",
+      "id": "dyk_2018_Feb_e16fe738fb94",
       "hash": "7e54ac2d45b42de2b51bd9228698e9513f00382508c9d3d7593b893344049b9e",
       "text": "The Skydart target rocket used the same launching rails as the missiles used to shoot it down",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/TDU-12_Skydart.jpg",
+        "caption": "Type Target rocket"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:27Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/TDU-12/B_Skydart",
@@ -4972,7 +4972,7 @@
       ]
     },
     {
-      "id": "53174de2-ea9a-4d1b-85ff-536b13f94731",
+      "id": "dyk_2018_Feb_4eadfc353694",
       "hash": "9e336eb6dd0a98b246a14d78f611b94601f6e191543a289d18fb98da597bc96d",
       "text": "Donna Kennedy became the world's most-capped women's rugby player in 2004, and by 2007 was also the most-capped player in Scotland, retiring in 2010 with 115 caps",
       "tags": [],
@@ -4982,7 +4982,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:27Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Donna_Kennedy",
@@ -4997,7 +4997,7 @@
       ]
     },
     {
-      "id": "77ca9a7d-67b4-4dc7-86b0-74868e46aa54",
+      "id": "dyk_2018_Feb_f398354aca81",
       "hash": "df55d34e518a4afb6ecaaf90e5d32d0ba2817f7114c9217e39c7c72cf3c84025",
       "text": "Before one pharaoh could construct his own monument, the Pyramid of Nyuserre, he had to complete the three monuments to his mother, father, and elder brother",
       "tags": [],
@@ -5007,7 +5007,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:27Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Nyuserre_Ini",
@@ -5022,7 +5022,7 @@
       ]
     },
     {
-      "id": "ec132396-1d3f-4d8d-8e32-7643533a4be7",
+      "id": "dyk_2018_Feb_9ae34988d2a8",
       "hash": "f52bce714c81670b15cdb4e74df9e40a047e3f0c0bea039c075b36782a751320",
       "text": "The upcoming film Paul, Apostle of Christ features Jim Caviezel 's first appearance in a biblical film since he portrayed Jesus in The Passion of the Christ",
       "tags": [],
@@ -5032,7 +5032,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:27Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Paul,_Apostle_of_Christ",
@@ -5052,7 +5052,7 @@
       ]
     },
     {
-      "id": "509b1459-c0e7-4d32-926a-952a3499df48",
+      "id": "dyk_2018_Feb_abdd9ec86fe2",
       "hash": "c8dfda9b3644732a145524d7c732f7a6cdaec3db47dc2d1a76cfbe0999821920",
       "text": "The African weaver ant has been used to control the coconut bug",
       "tags": [],
@@ -5062,7 +5062,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:27Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Oecophylla_longinoda",
@@ -5077,7 +5077,7 @@
       ]
     },
     {
-      "id": "c1693924-0e25-4db4-b431-a418b74e4be8",
+      "id": "dyk_2018_Feb_18571049f65c",
       "hash": "3c5562440b6c49e0585b7032f0e23d69da893a2d27c0dc38361ad435d48c1b5e",
       "text": "In one 1858 baseball game, Frank Pidgeon threw more than 400 pitches",
       "tags": [],
@@ -5087,7 +5087,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:27Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Frank_Pidgeon",
@@ -5097,7 +5097,7 @@
       ]
     },
     {
-      "id": "edd8f15f-60db-4b3b-9646-0a5c16d260ea",
+      "id": "dyk_2018_Feb_9a9c42bb70d0",
       "hash": "051c021093ef13013efb26f86f09add3825cec31ce9c99ddf8807ea3bb46d0b1",
       "text": "A BBC executive boasts that actors of the Corporation ' s Radio Drama Company can be \"mice, ants, naiads or dryads, men morphing into hares, maggots in a fisherman's sack, or even a tray of fancy cakes\"",
       "tags": [],
@@ -5107,7 +5107,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:27Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Radio_Drama_Company",
@@ -5132,7 +5132,7 @@
       ]
     },
     {
-      "id": "3f186c86-e066-4cf8-bd7e-4997cf3432ea",
+      "id": "dyk_2018_Feb_96eb0b4b5163",
       "hash": "6d4a05a0d4708cb2521848c93d3a37ff73baa7fae40fbdc742ef0026be51af05",
       "text": "The first time Ethel Page met her husband – a future Australian prime minister – he accidentally set her on fire",
       "tags": [],
@@ -5142,7 +5142,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:27Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Ethel_Page",
@@ -5157,17 +5157,17 @@
       ]
     },
     {
-      "id": "d023bb13-22c1-4f1e-898e-4db8483dba8f",
+      "id": "dyk_2018_Feb_af6b511bbe97",
       "hash": "b321385a19e1f40dd003f7d1dd7b2c5c4adc6f36d28e1a9f14907f9dc371ed4e",
       "text": "A portrait of the Cavalier Viscount Grandison caused a sensation at Detroit, but later turned out to be that of another man",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/William_Villiers%2C_2nd_Viscount_Grandison_%28cropped%29.jpeg",
+        "caption": "Personal details"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:30Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Cavalier",
@@ -5192,7 +5192,7 @@
       ]
     },
     {
-      "id": "88a3c14a-90a0-47cc-9c4e-4d14d509d48a",
+      "id": "dyk_2018_Feb_81a6b4b9f275",
       "hash": "d98696f1af7f3052ac03bf7f277c1e8e46783353189460282a19cef48495899c",
       "text": "Filming of the two-episode event \" Gorilla City \" on the third season of the 2014 television series The Flash was moved south of the original filming location, due to prolonged snowfall in Vancouver",
       "tags": [],
@@ -5202,7 +5202,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:30Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Gorilla_City_(The_Flash)",
@@ -5227,7 +5227,7 @@
       ]
     },
     {
-      "id": "bb8d63e4-59ab-4112-826f-485467131314",
+      "id": "dyk_2018_Feb_6b5f8da32607",
       "hash": "1f5f22297021c3a7199163fa12e987fdeceda170f28961e3b0f203cc7aeafd0b",
       "text": "Savannah Jordan was the first soccer player in the history of the Southeastern Conference to be named SEC Offensive Player of the Year as a freshman",
       "tags": [],
@@ -5237,7 +5237,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:30Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Savannah_Jordan",
@@ -5252,7 +5252,7 @@
       ]
     },
     {
-      "id": "380aee8e-2e2e-4275-9b83-b13596600580",
+      "id": "dyk_2018_Feb_11b50453bf26",
       "hash": "2c65731a9c8eef52528892b020f1f376dd8dd7b37ccd2efda85820c831fe163c",
       "text": "Cortinarius metallicus got its name from its bluish metallic sheen",
       "tags": [],
@@ -5262,7 +5262,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:30Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Cortinarius_metallicus",
@@ -5272,7 +5272,7 @@
       ]
     },
     {
-      "id": "668641eb-5a15-4317-bd72-60d5a258b67a",
+      "id": "dyk_2018_Feb_741874025943",
       "hash": "a43fcc4fb5e9cfb9ba9c867cb8a560f98ea70efe4796d4ee5ab556107b68be02",
       "text": "During the Siege of Katsurayama, the castle garrison poured rice from their walls to fool the besiegers into thinking they had ample water",
       "tags": [],
@@ -5282,7 +5282,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:30Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Siege_of_Katsurayama",
@@ -5292,7 +5292,7 @@
       ]
     },
     {
-      "id": "fa8036e2-432d-49bb-85ef-c4807ea4f83e",
+      "id": "dyk_2018_Feb_12a5ce073861",
       "hash": "8be05d1fa3d6630d36917a863193a5e01cb2bc2c349fba9b966b86bb5bd3c0ba",
       "text": "At 0.7 miles (1.1 km) long, Interstate 878 is the shortest interstate highway in the U.S.",
       "tags": [],
@@ -5302,7 +5302,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:30Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/New_York_State_Route_878",
@@ -5312,7 +5312,7 @@
       ]
     },
     {
-      "id": "9f69032e-7ceb-47fd-a3fe-e4c8e5b99338",
+      "id": "dyk_2018_Feb_9d0881b202da",
       "hash": "a03b4632b2f2675e05a4f679da52ead69905db7d3c6a94a84892922e411f4aca",
       "text": "When soprano Lucy Crowe became ill, her replacement Sabina Puértolas had only three hours to rehearse before performing at the Royal Opera House in London",
       "tags": [],
@@ -5322,7 +5322,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:30Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Lucy_Crowe",
@@ -5342,7 +5342,7 @@
       ]
     },
     {
-      "id": "f7d56eef-e31e-43e8-ab24-6da75c4cff81",
+      "id": "dyk_2018_Feb_d32d47ec3a9e",
       "hash": "50990ded44671701c6660b1a73ccdf0d5a3f4622424d92879d2d636c605de721",
       "text": "Palazzo Corpi, the longtime United States consulate in Istanbul, was acquired by the American government in a poker game",
       "tags": [],
@@ -5352,7 +5352,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:30Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Palazzo_Corpi",
@@ -5372,7 +5372,7 @@
       ]
     },
     {
-      "id": "24e9e7dd-c5b7-420d-91ee-ffa6ec2211e2",
+      "id": "dyk_2018_Feb_8459cafa29fe",
       "hash": "9b72d361cc1094b61c6d4b9626e7a493431cc3c3f0a41e82e3be814a16a7ba74",
       "text": "Rick Kirby 's Sutton Hoo Helmet is 360 times heavier than the original",
       "tags": [],
@@ -5382,7 +5382,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:31Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Rick_Kirby",
@@ -5402,7 +5402,7 @@
       ]
     },
     {
-      "id": "eaea6760-abcc-4680-8d65-8cfdaad2efcd",
+      "id": "dyk_2018_Feb_95a6bab156ca",
       "hash": "6fcd5effb008de9fad47d9e3e9cf6661f0849380725a90f5b36660f1f61aa117",
       "text": "The night before the 2003 Football League Second Division play-off Final, the Queens Park Rangers ' team hotel was targeted by a malicious false fire alarm",
       "tags": [],
@@ -5412,7 +5412,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:31Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/2003_Football_League_Second_Division_play-off_Final",
@@ -5427,7 +5427,7 @@
       ]
     },
     {
-      "id": "f2da44f8-0416-430b-b44f-fb29f26f933f",
+      "id": "dyk_2018_Feb_b71c053fefb1",
       "hash": "2d57adcc45097ae510a6fc3675fd5f1cbeff166956f18186c9afa2fb973acc7d",
       "text": "The first Edison incandescent lamp-illuminated home was James Hood Wright 's residence in New York City in 1881",
       "tags": [],
@@ -5437,7 +5437,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:31Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/James_Hood_Wright",
@@ -5452,7 +5452,7 @@
       ]
     },
     {
-      "id": "dffc8ae4-15cb-42cc-807e-03d8b74dd9cb",
+      "id": "dyk_2018_Feb_c96b6bb764e3",
       "hash": "eaae6852284e63f2bc2ec810175c1cc498822f9cd1b7b5d4e4e170a2cbf53cc4",
       "text": "The Swan with Two Necks was one of the principal departure points for coach travel to the north of England from London",
       "tags": [],
@@ -5462,7 +5462,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:31Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Swan_with_Two_Necks,_London",
@@ -5477,7 +5477,7 @@
       ]
     },
     {
-      "id": "d3b31df0-ca8a-4f56-b2c1-e4e68353f019",
+      "id": "dyk_2018_Feb_8b7a75ab009d",
       "hash": "0593db9e824dd47f4258cc3ed820bb9efcc3fb3c84baec23d755b9ae15821182",
       "text": "Janet Napolitano, a former U.S. Secretary of Homeland Security, sued her own agency",
       "tags": [],
@@ -5487,7 +5487,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:31Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Janet_Napolitano",
@@ -5507,7 +5507,7 @@
       ]
     },
     {
-      "id": "3aeb21f5-f6e2-430b-89b1-5156f9ba8130",
+      "id": "dyk_2018_Feb_8dfb0721ef54",
       "hash": "431c932f200ee0f01735258e466d4cb90d7b4d7bed8b5d4e767f1671aae98a40",
       "text": "The horseshoe shrimp Hutchinsoniella macracantha is the first example of a new class of crustaceans that was given the name Cephalocarida",
       "tags": [],
@@ -5517,7 +5517,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:31Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Hutchinsoniella",
@@ -5532,7 +5532,7 @@
       ]
     },
     {
-      "id": "73255fc1-aecc-4bab-b898-534e90313d7a",
+      "id": "dyk_2018_Feb_8867e8d74e77",
       "hash": "153cd1a5a9240e9e37603d1b818ecd69b0fea7563ff70f18599efa85105e3ed4",
       "text": "Montana lieutenant governor Archibald E. Spriggs participated in a secret scheme to allow William A. Clark to retain his Senate seat",
       "tags": [],
@@ -5542,7 +5542,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:31Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Montana",
@@ -5562,7 +5562,7 @@
       ]
     },
     {
-      "id": "0505fbcf-22bd-45d0-abe0-803e28eeeed9",
+      "id": "dyk_2018_Feb_d732ff7d501e",
       "hash": "07145b808dd0cbf5a16f25ea29f42abd84d75489b5d77a3d7a43cbbc93a70920",
       "text": "After making a portrait bust of Giuseppe Garibaldi, sculptor Elisabet Ney is thought to have provided him with military intelligence during the Third Italian War of Independence",
       "tags": [],
@@ -5572,7 +5572,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:31Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Giuseppe_Garibaldi_(Ney)",
@@ -5592,17 +5592,17 @@
       ]
     },
     {
-      "id": "2af309be-2708-438e-b71f-925af319bf74",
+      "id": "dyk_2018_Feb_aa2ba16ed06b",
       "hash": "db6a800f6f64a7a6749696819b9213361e6bd9f162228350860524eefc596d85",
       "text": "Ollagüe has a vigorous steam plume that is visible from tens of kilometres away",
       "tags": [],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Ollague_Volcano_from_Chile.jpg",
+        "caption": "Highest point"
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:32Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Ollag%C3%BCe",
@@ -5617,7 +5617,7 @@
       ]
     },
     {
-      "id": "1364578c-89fe-4162-8507-8d9d426635eb",
+      "id": "dyk_2018_Feb_41b08145fb29",
       "hash": "0f2f9bec2eb26db18ca9c92913f7011eeda8871d14e42c7128ac6202b7106745",
       "text": "The Twinnies would play accordion and sing while rollerblading",
       "tags": [],
@@ -5627,7 +5627,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:32Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Twinnies_(duo)",
@@ -5642,7 +5642,7 @@
       ]
     },
     {
-      "id": "6ec52290-0ea5-4ee2-8b72-711362846603",
+      "id": "dyk_2018_Feb_0784f9f9f7ea",
       "hash": "4253c646afcac2b9e7738f9e3f8d20e0c67bfb5e4759aedf0456479dd2fde8ff",
       "text": "The Seattle Sounders FC were second-to-last when they hired coach Brian Schmetzer, but finished the season by winning the MLS Cup",
       "tags": [],
@@ -5652,7 +5652,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:32Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Seattle_Sounders_FC",
@@ -5672,7 +5672,7 @@
       ]
     },
     {
-      "id": "965713a8-e2ea-4a66-81cc-d65030d233cf",
+      "id": "dyk_2018_Feb_1283e2dc2802",
       "hash": "97865151210ccb2cb1af337e4d4fa33168d59654a707492447184ade1191ebc2",
       "text": "After a bitter dispute over its curriculum in 1890, the High School of Montreal was destroyed by fire",
       "tags": [],
@@ -5682,7 +5682,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:32Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/High_School_of_Montreal",
@@ -5692,7 +5692,7 @@
       ]
     },
     {
-      "id": "e0333eaa-07cb-4bc9-ba89-ce419e11cc9e",
+      "id": "dyk_2018_Feb_bb52816b5110",
       "hash": "97bcf544c2aab34610abd2d9b7a98c93dada50c7c163043927b9ed7d74b68459",
       "text": "Nikolaus Herman based the melody of his Christmas carol \" Lobt Gott, ihr Christen alle gleich \" on the Gregorian hymn \" Puer natus est nobis \"",
       "tags": [],
@@ -5702,7 +5702,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:32Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Nikolaus_Herman",
@@ -5732,7 +5732,7 @@
       ]
     },
     {
-      "id": "7ed782f0-622d-4ab5-9ea8-eef20a71c056",
+      "id": "dyk_2018_Feb_6a8a04947df3",
       "hash": "3ed3c0c8f35efe8830f707b87776dd1a975f76783d454bbc6a1e611f1a3c0ff1",
       "text": "Chiang Kai-shek and Mao Zedong met for the last time during the Chongqing Negotiations",
       "tags": [],
@@ -5742,7 +5742,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:32Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Chiang_Kai-shek",
@@ -5762,7 +5762,7 @@
       ]
     },
     {
-      "id": "41112d31-7162-4df0-98a9-f71ada7770fa",
+      "id": "dyk_2018_Feb_9f06314acd5d",
       "hash": "a1a8a6957e528b92088eae7a5a7a8336106feb28559479c47a999851b34cdc88",
       "text": "Isaiah Livers won the closest Mr. Basketball of Michigan vote in history",
       "tags": [],
@@ -5772,7 +5772,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:32Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Isaiah_Livers",
@@ -5787,7 +5787,7 @@
       ]
     },
     {
-      "id": "b4a94913-3302-4aa7-8484-a7068a59f8d1",
+      "id": "dyk_2018_Feb_d25c210e0feb",
       "hash": "beed64102d6b3d64320a6d4d6cfde0039bb6a9906663d056701a5dfa1d2e82bf",
       "text": "While pushing for the repeal of New Jersey 's obscenity laws, Assemblyman Walter Kern argued that \"adults should be able to purchase whatever their perverted hearts desire\"",
       "tags": [],
@@ -5797,7 +5797,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:32Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/New_Jersey",
@@ -5817,17 +5817,17 @@
       ]
     },
     {
-      "id": "8233da31-c081-41e0-9ed0-25e0f94ed70b",
+      "id": "dyk_2018_Feb_6f2cedb67148",
       "hash": "71e666a65f8ceaa9a6b99abd250a413f6f8006fa72b43b2fceb0295769a33d64",
       "text": "In 1918, infected crew members aboard HMS Mantua inadvertently spread the Spanish Flu to Africa",
       "tags": [],
       "image": {
-        "url": null,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/HMS_Mantua_profile.jpg",
         "caption": null
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:32Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/HMS_Mantua",
@@ -5842,7 +5842,7 @@
       ]
     },
     {
-      "id": "0ab4c5f4-9607-4588-bc62-a11aaa842268",
+      "id": "dyk_2018_Feb_f97786a472c4",
       "hash": "f4e3a3c91d08ba634c26e6f651d6b8028fd30e88fba760461844f5bd3e69bb42",
       "text": "The footballer Robin Turner scored twice on his home debut for Swansea City, equalling the number of league goals he scored for former club Ipswich Town in nine seasons",
       "tags": [],
@@ -5852,7 +5852,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:32Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Association_football",
@@ -5877,7 +5877,7 @@
       ]
     },
     {
-      "id": "4af70789-70e3-4aaf-8952-a0b0bcaee411",
+      "id": "dyk_2018_Feb_3b93fe3c962a",
       "hash": "28ba572f9b708b653416833f7e735f7308da1dded2b389417d3650e8cac2353c",
       "text": "When Cristo Rey OKC high school opens in fall 2018, students will be able to work for Boeing, Love's Travel Stops, and more than 30 other employers as part of work-study",
       "tags": [],
@@ -5887,7 +5887,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:32Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Cristo_Rey_OKC",
@@ -5912,7 +5912,7 @@
       ]
     },
     {
-      "id": "2f6a57dd-478d-485f-a073-2cb0635f99f6",
+      "id": "dyk_2018_Feb_d8ef5c1c0c17",
       "hash": "3936cb086eb1af1027360aaedeab21d46aae4c091174b9b1852ca2ca81c03ad7",
       "text": "French politician Véronique Hammerer, a member of La République En Marche!, said it was \"terrible\" that her husband could not buy a Porsche Cayenne for fear of public criticism",
       "tags": [],
@@ -5922,7 +5922,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:32Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/V%C3%A9ronique_Hammerer",
@@ -5942,7 +5942,7 @@
       ]
     },
     {
-      "id": "6db609e9-aed0-4a2c-89d6-5f85f7e56e67",
+      "id": "dyk_2018_Feb_a882fefcd5dc",
       "hash": "9c60568720c871e43b0880f346e37047a40202a0d26a7ded0aa6321e2cfe986a",
       "text": "Thyonicola dogieli, a parasite of sea cucumbers, is the longest gastropod in the world",
       "tags": [],
@@ -5952,7 +5952,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:32Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Thyonicola_dogieli",
@@ -5967,7 +5967,7 @@
       ]
     },
     {
-      "id": "f4c85179-b4e4-41f6-a138-3db8d80c7a01",
+      "id": "dyk_2018_Feb_188f812e43b4",
       "hash": "c94636141c8168e38c70318eb94d0f7f098dfd3cf4d9e60101cd7fd8cc329437",
       "text": "Yves Volel was Anderson Cooper 's math teacher at the Dalton School in Manhattan before returning to Haiti to run for president, where he was assassinated",
       "tags": [],
@@ -5977,7 +5977,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:32Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Yves_Volel",
@@ -5997,7 +5997,7 @@
       ]
     },
     {
-      "id": "ccce23b5-58ab-4eb2-8f80-cb53a583f24d",
+      "id": "dyk_2018_Feb_d29e181d0dbc",
       "hash": "4142f5d8dedbdc558dd184e39bf913c2bc6e948f0d61af438f746376c6240e9b",
       "text": "The Colossus of Rhodes, a painting by Salvador Dalí, is heavily influenced by an article by the sculptor Herbert Maryon",
       "tags": [],
@@ -6007,7 +6007,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:32Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Colossus_of_Rhodes_(Dal%C3%AD)",
@@ -6027,7 +6027,7 @@
       ]
     },
     {
-      "id": "f22070d1-e772-4ab5-b3c0-21af48fff5f2",
+      "id": "dyk_2018_Feb_9360dad11aa2",
       "hash": "8d436091cdb34e7fe6cfe7b613a949b147627e4d9be3f8c64fe9fad2a75239de",
       "text": "At two million words, Men of Good Will by Jules Romains is one of the longest novels ever written",
       "tags": [],
@@ -6037,7 +6037,7 @@
       },
       "mature": false,
       "source": "dyk",
-      "scraped_at": "2026-04-07T02:50:15Z",
+      "scraped_at": "2026-04-07T05:23:32Z",
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Men_of_Good_Will",
