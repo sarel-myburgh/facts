@@ -1950,7 +1950,7 @@
       "tagged_facts": 267,
       "linked_facts": 267,
       "total_facts": 267,
-      "version": 1
+      "version": 2
     },
     "dyk_2025_Aug": {
       "tags": true,
@@ -1966,7 +1966,7 @@
       "tagged_facts": 276,
       "linked_facts": 276,
       "total_facts": 276,
-      "version": 1
+      "version": 2
     },
     "dyk_2025_Feb": {
       "tags": true,
@@ -1982,7 +1982,7 @@
       "tagged_facts": 432,
       "linked_facts": 432,
       "total_facts": 432,
-      "version": 1
+      "version": 2
     },
     "dyk_2025_Jul": {
       "tags": true,
@@ -1998,7 +1998,7 @@
       "tagged_facts": 381,
       "linked_facts": 381,
       "total_facts": 381,
-      "version": 1
+      "version": 2
     },
     "dyk_2025_Mar": {
       "tags": true,
@@ -2014,7 +2014,7 @@
       "tagged_facts": 301,
       "linked_facts": 301,
       "total_facts": 301,
-      "version": 1
+      "version": 2
     },
     "dyk_2025_Nov": {
       "tags": true,
@@ -2030,7 +2030,7 @@
       "tagged_facts": 285,
       "linked_facts": 285,
       "total_facts": 285,
-      "version": 1
+      "version": 2
     },
     "dyk_2025_Sep": {
       "tags": true,
