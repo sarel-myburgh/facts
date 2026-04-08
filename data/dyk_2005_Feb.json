@@ -6,10 +6,21 @@
       "id": "dyk_2005_Feb_ae974f11ad78",
       "hash": "8ab9e0d974c60466fe5088930d32e2398500baaabfc102b8568637bb0e146358",
       "text": "School bus yellow is a specific shade of yellow formally adopted as the standard color for school buses in the United States in 1939, following a conference funded by the Rockefeller Foundation",
-      "tags": [],
+      "tags": [
+        "color",
+        "transportation",
+        "school-bus",
+        "united-states",
+        "1939",
+        "safety",
+        "design-standard",
+        "history",
+        "education",
+        "industrial-design"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/IC_CE_school_bus_%28shortened_chassis%29.jpg",
+        "caption": "Yellow school bus, standard color 1939"
       },
       "mature": false,
       "source": "dyk",
@@ -49,17 +60,34 @@
           "url": "https://en.wikipedia.org/wiki/Rockefeller_Foundation",
           "title": "Rockefeller Foundation",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.smithsonianmag.com/history/history-how-school-buses-became-yellow-180973041/",
+          "title": "History of School Bus Yellow",
+          "source": "Smithsonian Magazine"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_d81daf9292ff",
       "hash": "284c54d9a12dac1ca3246da31dc9ec87404e5979aabeee247c0d2abbae774a78",
       "text": "An amateur baseball tournament held on August 16, 1933 in the Christie Pits, ended with Nazi -sympathisers unveiling a flag depicting a swastika",
-      "tags": [],
+      "tags": [
+        "baseball",
+        "1933",
+        "toronto",
+        "canada",
+        "anti-semitism",
+        "nazi",
+        "ethnic-violence",
+        "history",
+        "canadian-history",
+        "sports"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Christie_Pits_riot.jpg",
+        "caption": "Christie Pits riot, Toronto, 1933"
       },
       "mature": false,
       "source": "dyk",
@@ -94,17 +122,34 @@
           "url": "https://en.wikipedia.org/wiki/Swastika",
           "title": "Swastika",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.thecanadianencyclopedia.ca/en/article/christie-pits-riot",
+          "title": "Christie Pits Riot",
+          "source": "Canadian Encyclopedia"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_27ca3e837951",
       "hash": "ea6baf099121d36c0cdbbc3edf7f3b20383351a1ec7f5a15871d1d00f8c9ee1e",
       "text": "During the \"dawn-to-dusk\" publicity run for the CB&Q's Pioneer Zephyr on May 26 1934, the train reached a top speed of 112.5 mph (181 kph )",
-      "tags": [],
+      "tags": [
+        "railroad",
+        "train",
+        "1934",
+        "speed-record",
+        "denver",
+        "chicago",
+        "streamliner",
+        "diesel-electric",
+        "transportation",
+        "united-states"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Zephyr_train_01.jpg",
+        "caption": "Pioneer Zephyr streamliner train 1934"
       },
       "mature": false,
       "source": "dyk",
@@ -139,17 +184,34 @@
           "url": "https://en.wikipedia.org/wiki/Kilometres_per_hour",
           "title": "Kilometres per hour",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.pbs.org/wgbh/americanexperience/features/streamliners-burlington/",
+          "title": "Burlington Zephyr - PBS",
+          "source": "PBS"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_670aa845458a",
       "hash": "ffbe5d7188d33a369135b78d6c2e3a03634267dd4d0b7ab6c67ca139cd94a96f",
       "text": "The Yiddish King Lear by Jacob Gordin is not a translation of Shakespeare's King Lear, but that the title is an acknowledgement of the roots of the plot",
-      "tags": [],
+      "tags": [
+        "shakespeare",
+        "yiddish",
+        "literature",
+        "theater",
+        "adaptation",
+        "jewish-culture",
+        "drama",
+        "19th-century",
+        "america",
+        "new-york"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Jacob_Adler.jpg",
+        "caption": "Jacob Adler, Yiddish King Lear performer"
       },
       "mature": false,
       "source": "dyk",
@@ -184,17 +246,34 @@
           "url": "https://en.wikipedia.org/wiki/Plot",
           "title": "Plot",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.shakespearetheatre.org/events/jewish-king-lear/",
+          "title": "Jewish King Lear",
+          "source": "Shakespeare Theatre Company"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_b2a27199e84b",
       "hash": "9ff1fb4a246c59248a18349dbe4beceafe88dbcee9cb9aa38e230b5b687b186f",
       "text": "Ulysses S. Grant awarded Bolama to Portugal, who made it the first capital of Portuguese Guinea",
-      "tags": [],
+      "tags": [
+        "island",
+        "portugal",
+        "guinea-bissau",
+        "africa",
+        "ulysses-grant",
+        "arbitration",
+        "colonial-history",
+        "capital",
+        "diplomacy",
+        "history"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bolama_aerial.jpg",
+        "caption": "Bolama Island aerial view"
       },
       "mature": false,
       "source": "dyk",
@@ -219,17 +298,34 @@
           "url": "https://en.wikipedia.org/wiki/Portuguese_Guinea",
           "title": "Portuguese Guinea",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/place/Bolama-Guinea-Bissau",
+          "title": "Bolama",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_574599c8dfda",
       "hash": "087c84da303a2163630ab0a4e498d48b85ca97b3f9237438f4a3694ed5531c41",
       "text": "When he was promoted to president of the Great Northern Railway in 1919, Ralph Budd was the youngest American railroad president up to that date",
-      "tags": [],
+      "tags": [
+        "railroad",
+        "great-northern-railway",
+        "james-hill",
+        "1919",
+        "business",
+        "transportation",
+        "railways",
+        "president",
+        "america",
+        "industry"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/James_J_Hill.jpg",
+        "caption": "James J. Hill, Great Northern Railway president"
       },
       "mature": false,
       "source": "dyk",
@@ -259,14 +355,31 @@
           "url": "https://en.wikipedia.org/wiki/Railroad",
           "title": "Railroad",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/money/James-J-Hill",
+          "title": "James J. Hill",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_9abfd15d69eb",
       "hash": "bf6d2db9d754b75a1923d12aff026f5ac2d88b75f114f54208fd67c965c5d12a",
       "text": "Boxcar is an Australian electronic band that sometimes performed wearing gas masks",
-      "tags": [],
+      "tags": [
+        "electronic-music",
+        "australian-band",
+        "1980s",
+        "dance-pop",
+        "experimental",
+        "music",
+        "brisbane",
+        "synth",
+        "new-wave",
+        "australia"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -294,17 +407,34 @@
           "url": "https://en.wikipedia.org/wiki/Gas_mask",
           "title": "Gas mask",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.discogs.com/artist/26211-Boxcar",
+          "title": "Boxcar Discography",
+          "source": "Discogs"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_001a1418e426",
       "hash": "81c7d1e4f18c155e263c6713e94eb2cc83b10bcaf64f6dccd874c22a9b0c09a8",
-      "text": "The Slovak National Theatre hosted its first performance, the Czech opera Hubička by Bedřich Smetana, at its opening on March 1, 1920",
-      "tags": [],
+      "text": "The Slovak National Theatre hosted its first performance, the Czech opera Hubi\u010dka by Bed\u0159ich Smetana, at its opening on March 1, 1920",
+      "tags": [
+        "theatre",
+        "slovakia",
+        "bratislava",
+        "1886",
+        "opera",
+        "hungarian-opera",
+        "architecture",
+        "performing-arts",
+        "history",
+        "national-theater"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Slovak_national_theatre.jpg",
+        "caption": "Slovak National Theatre building"
       },
       "mature": false,
       "source": "dyk",
@@ -334,17 +464,34 @@
           "url": "https://en.wikipedia.org/wiki/1920",
           "title": "1920",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Slovak-National-Theatre",
+          "title": "Slovak National Theatre",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_71bc23c628b4",
       "hash": "477a9cf47012d372fc1695a9eb0400717963a0c55dde7ff0d1ecd41a7d0592bb",
       "text": "In the history of neurology, Ancient Egyptians described the effect of high transection of the spinal cord in humans",
-      "tags": [],
+      "tags": [
+        "neurology",
+        "ancient-egypt",
+        "medicine",
+        "brain",
+        "papyrus",
+        "history-of-medicine",
+        "medical-history",
+        "edwin-smith",
+        "history",
+        "science"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Edwin_Smith_Papyrus_v2.jpg",
+        "caption": "Edwin Smith Papyrus ancient neurology"
       },
       "mature": false,
       "source": "dyk",
@@ -369,14 +516,31 @@
           "url": "https://en.wikipedia.org/wiki/Human",
           "title": "Human",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://blogs.ucl.ac.uk/researchers-in-museums/2018/02/21/neuroscience-in-ancient-egypt/",
+          "title": "Neuroscience in Ancient Egypt",
+          "source": "UCL"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_0f3d0db4d650",
       "hash": "61ec83d014bddd124c1c3db7692020ede247a4d421c582408a338de140205a8f",
       "text": "Empty nest syndrome is a form of depression that affects parents when a child leaves home",
-      "tags": [],
+      "tags": [
+        "depression",
+        "psychology",
+        "family",
+        "parenting",
+        "empty-nest",
+        "mental-health",
+        "grief",
+        "life-stages",
+        "sociology",
+        "well-being"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -404,17 +568,34 @@
           "url": "https://en.wikipedia.org/wiki/Child",
           "title": "Child",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://health.clevelandclinic.org/empty-nest-syndrome",
+          "title": "Empty Nest Syndrome",
+          "source": "Cleveland Clinic"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_b8068cb91931",
       "hash": "87fe9f6beb759a5d98c68b55c1263e3d21f9118c252a2f815ee5bae10ce7f409",
       "text": "Sue Rubin, the subject of the documentary film Autism Is a World, was considered mentally challenged until she learned to communicate with a keyboard",
-      "tags": [],
+      "tags": [
+        "autism",
+        "documentary",
+        "disability",
+        "film",
+        "communication",
+        "neurodiversity",
+        "facilitated-communication",
+        "award",
+        "neurological",
+        "media"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Autism_is_a_World_poster.jpg",
+        "caption": "Autism Is a World documentary"
       },
       "mature": false,
       "source": "dyk",
@@ -444,14 +625,31 @@
           "url": "https://en.wikipedia.org/wiki/Keyboard",
           "title": "Keyboard",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0443434/",
+          "title": "Autism Is a World",
+          "source": "IMDb"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_f568cbaddda2",
       "hash": "0042db45280306b25e7364975a12bdee110e6a259d45e53e67361d60c942cf44",
       "text": "The Slovakia Summit 2005 between Presidents Bush and Putin will mark the first occasion when a sitting President of the United States visits Slovakia",
-      "tags": [],
+      "tags": [
+        "slovakia",
+        "summit",
+        "bush",
+        "putin",
+        "2005",
+        "diplomacy",
+        "politics",
+        "international-relations",
+        "bratislava",
+        "meeting"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -484,17 +682,34 @@
           "url": "https://en.wikipedia.org/wiki/Slovakia",
           "title": "Slovakia",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/place/Slovakia",
+          "title": "Slovakia",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_55126a055673",
       "hash": "33f2fe4a5dbce5b642feef2d486efa31a840712d320c890cbc11182e81703a59",
       "text": "Representative Edith Nourse Rogers sponsored the G.I. Bill and the legislation that created the Women's Army Corps before becoming the longest-serving woman in the U.S. Congress",
-      "tags": [],
+      "tags": [
+        "politics",
+        "g-i-bill",
+        "veterans",
+        "legislation",
+        "representative",
+        "congress",
+        "military",
+        "education",
+        "american-history",
+        "women-politics"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Edith_Nourse_Rogers.jpg",
+        "caption": "Edith Nourse Rogers, G.I. Bill sponsor"
       },
       "mature": false,
       "source": "dyk",
@@ -529,17 +744,34 @@
           "url": "https://en.wikipedia.org/wiki/Congress_of_the_United_States",
           "title": "Congress of the United States",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Edith-Nourse-Rogers",
+          "title": "Edith Nourse Rogers",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_e656cc24ea45",
       "hash": "bb46af0b7d721bcd195519b3a648473fc5d3285831c01c32de0f78dd9b7f2de9",
       "text": "The Patty Duke Show challenged the scope of special effects on television in the 1960s, with Patty Duke playing two roles",
-      "tags": [],
+      "tags": [
+        "television",
+        "1960s",
+        "patty-duke",
+        "special-effects",
+        "drama",
+        "disability",
+        "deaf-character",
+        "tv-series",
+        "acting",
+        "history"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Patty_Duke_Show_title_card.jpg",
+        "caption": "The Patty Duke Show title card"
       },
       "mature": false,
       "source": "dyk",
@@ -564,17 +796,34 @@
           "url": "https://en.wikipedia.org/wiki/Patty_Duke",
           "title": "Patty Duke",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/The-Patty-Duke-Show",
+          "title": "Patty Duke Show",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_ea2b6827f713",
       "hash": "d875d1d86a3a05713a07c8d949a243e220ae2ef2be5bb04f312ef4d9e8a1a89a",
       "text": "John Frederick Sackville, 3rd Duke of Dorset was one of the most noted cricketers of the mid-to-late 18th century",
-      "tags": [],
+      "tags": [
+        "cricket",
+        "duke",
+        "nobility",
+        "english-history",
+        "sports",
+        "3rd-duke-dorset",
+        "aristocrat",
+        "18th-century",
+        "cricketer",
+        "england"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/3rd_Duke_of_Dorset.jpg",
+        "caption": "3rd Duke of Dorset"
       },
       "mature": false,
       "source": "dyk",
@@ -589,17 +838,34 @@
           "url": "https://en.wikipedia.org/wiki/Cricket",
           "title": "Cricket",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/cricket",
+          "title": "Cricket",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_f10e86245efc",
       "hash": "b29a9bae876cb97da22d3c5e3a524fc1a38f1905af2461d439116cc00d0da8fe",
       "text": "Elmer Robinson was the 33rd mayor of San Francisco",
-      "tags": [],
+      "tags": [
+        "mayor",
+        "san-francisco",
+        "california",
+        "politics",
+        "city-government",
+        "33rd-mayor",
+        "history",
+        "american-politics",
+        "municipal",
+        "leadership"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Elmer_Robinson_mayor.jpg",
+        "caption": "Elmer Robinson, San Francisco mayor"
       },
       "mature": false,
       "source": "dyk",
@@ -619,17 +885,34 @@
           "url": "https://en.wikipedia.org/wiki/San_Francisco",
           "title": "San Francisco",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/place/San-Francisco",
+          "title": "San Francisco",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_159724fdd35f",
       "hash": "5756c20fe724544f9bf249df18c008f05c4dc225a6c9e1540a27e0331a7c0795",
       "text": "Ferdinandea was a volcanic island near Sicily which was claimed by four countries when it appeared in 1831, but was destroyed by erosion less than a year later",
-      "tags": [],
+      "tags": [
+        "volcano",
+        "island",
+        "sicily",
+        "mediterranean",
+        "geological",
+        "maritime",
+        "disputed-territory",
+        "italy",
+        "africa",
+        "geology"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Graham_Island_%28Ferdinandea%29.jpg",
+        "caption": "Ferdinandea volcanic island"
       },
       "mature": false,
       "source": "dyk",
@@ -664,14 +947,31 @@
           "url": "https://en.wikipedia.org/wiki/Erosion",
           "title": "Erosion",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Ferdinandea",
+          "title": "Ferdinandea",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_05f2e7a436e5",
       "hash": "77760b6b0e3ad31917bfa62fca5664ec68ffdd02795440ffdf053d364bd4ad4c",
       "text": "Andy the Clown performed at Chicago White Sox games for 30 years, outlasting an attempt to replace him with two new mascots",
-      "tags": [],
+      "tags": [
+        "baseball",
+        "chicago-white-sox",
+        "clown",
+        "sports",
+        "mascot",
+        "entertainment",
+        "30-years",
+        "baseball-history",
+        "sports-entertainment",
+        "tradition"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -694,14 +994,31 @@
           "url": "https://en.wikipedia.org/wiki/Mascot",
           "title": "Mascot",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Chicago-White-Sox",
+          "title": "Chicago White Sox",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_0c78c486d559",
       "hash": "3358eac1732fc2fd1bfcc165c13c98265cd7d4b47cdabfeac73b5b28be91d0e8",
-      "text": "Arthur Ronald Nall Nall-Cain, 2nd Baron Brocket —grandfather of British TV celebrity Lord Brocket —was a known Nazi sympathiser",
-      "tags": [],
+      "text": "Arthur Ronald Nall Nall-Cain, 2nd Baron Brocket \u2014grandfather of British TV celebrity Lord Brocket \u2014was a known Nazi sympathiser",
+      "tags": [
+        "baron",
+        "british-television",
+        "reality-tv",
+        "aristocracy",
+        "nobility",
+        "british-peers",
+        "grandson",
+        "uk",
+        "television",
+        "british-culture"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -729,17 +1046,34 @@
           "url": "https://en.wikipedia.org/wiki/Nazi",
           "title": "Nazi",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/peerage-of-the-united-kingdom",
+          "title": "British Peerage",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_05dce88c12af",
       "hash": "53ba8b5b5177fecaffb5e9cf470e514bf606d120d2f95bf89910689b36e6e3d7",
       "text": "Devils & Dust, the upcoming folk album from Bruce Springsteen, will be his nineteenth released album",
-      "tags": [],
+      "tags": [
+        "bruce-springsteen",
+        "album",
+        "folk",
+        "music",
+        "2005",
+        "american-musician",
+        "rock-music",
+        "nebraska-album",
+        "acoustic",
+        "folk-rock"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bruce_Springsteen_concert.jpg",
+        "caption": "Bruce Springsteen performing"
       },
       "mature": false,
       "source": "dyk",
@@ -759,17 +1093,34 @@
           "url": "https://en.wikipedia.org/wiki/Bruce_Springsteen",
           "title": "Bruce Springsteen",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Bruce-Springsteen",
+          "title": "Bruce Springsteen",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_9a1e14184459",
       "hash": "cc68fee3da80c7a44e61bb68b35882db6c7999bdcb9d659e66f82212b565b9fc",
-      "text": "Hungarian -born composer Mátyás Seiber was killed in a car crash while on a lecture tour of South Africa",
-      "tags": [],
+      "text": "Hungarian -born composer M\u00e1ty\u00e1s Seiber was killed in a car crash while on a lecture tour of South Africa",
+      "tags": [
+        "composer",
+        "hungarian",
+        "classical-music",
+        "car-crash",
+        "musician",
+        "death",
+        "20th-century",
+        "music-history",
+        "composition",
+        "hungarian-culture"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Matyas_Seiber.jpg",
+        "caption": "M\u00e1ty\u00e1s Seiber, Hungarian composer"
       },
       "mature": false,
       "source": "dyk",
@@ -787,7 +1138,7 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/M%C3%A1ty%C3%A1s_Seiber",
-          "title": "Mátyás Seiber",
+          "title": "M\u00e1ty\u00e1s Seiber",
           "source": "Wikipedia"
         },
         {
@@ -804,14 +1155,31 @@
           "url": "https://en.wikipedia.org/wiki/South_Africa",
           "title": "South Africa",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Matyas-Seiber",
+          "title": "M\u00e1ty\u00e1s Seiber",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_d59e42c89c05",
       "hash": "ca8a6ff46fa0c5028962742461a44e5e6eb9e862031a0f63b2b612cb246397b4",
       "text": "A Pd/H 2 electrode is a reference electrode similar to a standard hydrogen electrode (with platinum ), but with the added ability to absorb molecular hydrogen",
-      "tags": [],
+      "tags": [
+        "chemistry",
+        "electrode",
+        "hydrogen",
+        "palladium",
+        "reference-electrode",
+        "electrochemistry",
+        "laboratory",
+        "science",
+        "physics",
+        "materials"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -844,17 +1212,34 @@
           "url": "https://en.wikipedia.org/wiki/Hydrogen",
           "title": "Hydrogen",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/technology/electrode",
+          "title": "Electrode",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_d1209f0c9d95",
       "hash": "e6e13a30146af1486c483619bca7355fe1391ca8d6570505045a3f23c55723e3",
       "text": "Hamilton Palace in Scotland was lent for use as a naval hospital during World War I, by Alfred Douglas-Hamilton, 13th Duke of Hamilton",
-      "tags": [],
+      "tags": [
+        "scotland",
+        "palace",
+        "world-war-ii",
+        "history",
+        "military",
+        "hospital",
+        "architecture",
+        "british-history",
+        "wartime",
+        "estate"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Hamilton_Palace.jpg",
+        "caption": "Hamilton Palace, Scotland"
       },
       "mature": false,
       "source": "dyk",
@@ -889,14 +1274,31 @@
           "url": "https://en.wikipedia.org/wiki/Alfred_Douglas-Hamilton,_13th_Duke_of_Hamilton",
           "title": "Alfred Douglas-Hamilton, 13th Duke of Hamilton",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Hamilton-Palace",
+          "title": "Hamilton Palace",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_4e02eaa0334b",
       "hash": "627306bdfd1fec3697ed381370bf05f23d858d4eca942a3bcbbd67ebb3c1698d",
       "text": "Obolon CJSC, the largest Ukrainian brewer based in Kiev, was the first private company of the independent Ukraine",
-      "tags": [],
+      "tags": [
+        "ukraine",
+        "beer",
+        "brewery",
+        "kiev",
+        "privatization",
+        "ukrainian-business",
+        "food-and-drink",
+        "history",
+        "ukraine-industry",
+        "corporation"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -929,14 +1331,31 @@
           "url": "https://en.wikipedia.org/wiki/Private_company",
           "title": "Private company",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/place/Ukraine",
+          "title": "Ukraine",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_8f4447161f83",
       "hash": "08b6dd336493cbecf29bb6d85f8665440e60f8698c573542e537c31fb88cb59d",
       "text": "The ancient marketplace of Rhapta on the east African coast is believed to have been an important link in bringing the spices cinnamon and cassia west by merchants",
-      "tags": [],
+      "tags": [
+        "ancient",
+        "marketplace",
+        "africa",
+        "east-africa",
+        "trade",
+        "archaeological",
+        "history",
+        "swahili",
+        "coastal",
+        "commerce"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -969,17 +1388,34 @@
           "url": "https://en.wikipedia.org/wiki/Cassia",
           "title": "Cassia",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/ancient-trade",
+          "title": "Ancient Trade",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_1f8e89eddae5",
       "hash": "1686e2252e29c60ee8cd31dad6b6568a5a1cef41d6024f7dccc2ef161274bd82",
       "text": "Leonid Kadeniuk, the first astronaut of the independent Ukraine, made his first space flight on NASA's space shuttle Columbia in 1997, and had been training for such a mission since 1976",
-      "tags": [],
+      "tags": [
+        "astronaut",
+        "ukraine",
+        "space",
+        "space-exploration",
+        "independent-ukraine",
+        "space-travel",
+        "astronauts",
+        "international-space-station",
+        "history",
+        "aerospace"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Leonid_Kadeniuk.jpg",
+        "caption": "Leonid Kadeniuk, Ukrainian astronaut"
       },
       "mature": false,
       "source": "dyk",
@@ -1024,14 +1460,31 @@
           "url": "https://en.wikipedia.org/wiki/1976",
           "title": "1976",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Leonid-Kadeniuk",
+          "title": "Leonid Kadeniuk",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_9bab8a168249",
       "hash": "0422fbbb84a53fd8db631d70c6c5902f50de584b120177927ad2e50ed0f5ad7e",
       "text": "Godfrey Ho, a Hong-Kong based filmmaker, has been credited under more than 20 different pseudonyms",
-      "tags": [],
+      "tags": [
+        "filmmaker",
+        "hong-kong",
+        "cinema",
+        "film-director",
+        "exploitation-film",
+        "hong-kong-cinema",
+        "film-credits",
+        "movie",
+        "asia",
+        "production"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1054,14 +1507,31 @@
           "url": "https://en.wikipedia.org/wiki/Pseudonym",
           "title": "Pseudonym",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/film",
+          "title": "Film",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_27c9ab537072",
       "hash": "43a2785dfec9987d86dc9c3b6662ebb256f41dc8bfd5cd77f89b0de126d15baa",
       "text": "The clapping game Mary Mack may refer to the Battle of Hampton Roads",
-      "tags": [],
+      "tags": [
+        "children-games",
+        "clapping",
+        "folk-game",
+        "maritime-history",
+        "battle",
+        "hampton-roads",
+        "american-culture",
+        "folk-tradition",
+        "games",
+        "naval-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1084,14 +1554,31 @@
           "url": "https://en.wikipedia.org/wiki/Battle_of_Hampton_Roads",
           "title": "Battle of Hampton Roads",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Battle-of-Hampton-Roads",
+          "title": "Battle of Hampton Roads",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_a03b5cb9f121",
       "hash": "d51d6d95ee007e1e0d4c56754d160cc46d33c7faf800a6eaaf0219fbf5a3a2cc",
       "text": "The Western Railway Corridor, built in the late 1800s, links Limerick to Sligo through the West of Ireland",
-      "tags": [],
+      "tags": [
+        "railway",
+        "ireland",
+        "limerick",
+        "limerick-sligo",
+        "railroad",
+        "irish-history",
+        "transportation",
+        "infrastructure",
+        "19th-century",
+        "ireland-railroad"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1124,14 +1611,31 @@
           "url": "https://en.wikipedia.org/wiki/Ireland",
           "title": "Ireland",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/place/Ireland",
+          "title": "Ireland",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_e23c825c9443",
       "hash": "710e184b74e84855ede0bcf46bba7e05246385652940810a29fdebadef970314",
       "text": "Scotopic sensitivity syndrome is a form of dyslexia which makes it very difficult for a person to read black text on white paper",
-      "tags": [],
+      "tags": [
+        "dyslexia",
+        "scotopic-sensitivity",
+        "reading-disability",
+        "vision",
+        "neurology",
+        "learning-disability",
+        "visual-perception",
+        "medical",
+        "syndrome",
+        "disability"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1149,17 +1653,34 @@
           "url": "https://en.wikipedia.org/wiki/Dyslexia",
           "title": "Dyslexia",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/dyslexia",
+          "title": "Dyslexia",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_b7a224c79ae5",
       "hash": "607c9f1117725088c3febda6b8c9faf80e28ac23e23bcc5f755d1f50fc062290",
       "text": "Playland, often called Rye Playland, is America's only government owned and operated amusement park",
-      "tags": [],
+      "tags": [
+        "amusement-park",
+        "new-york",
+        "rye",
+        "government-owned",
+        "historic",
+        "playland",
+        "theme-park",
+        "new-york-history",
+        "recreation",
+        "entertainment"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Rye_Playland.jpg",
+        "caption": "Rye Playland amusement park"
       },
       "mature": false,
       "source": "dyk",
@@ -1184,17 +1705,34 @@
           "url": "https://en.wikipedia.org/wiki/Amusement_park",
           "title": "Amusement park",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/amusement-park",
+          "title": "Amusement Park",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_0f7c061cb7b6",
       "hash": "744a7f6c62d7588c103e628c0e1095a5310abb787d8d548b76e524a1f430d52a",
       "text": "Faculty members at the Stanford Institute for International Studies include Condoleezza Rice and William Perry",
-      "tags": [],
+      "tags": [
+        "stanford",
+        "international-studies",
+        "research",
+        "california",
+        "university",
+        "education",
+        "policy",
+        "academia",
+        "think-tank",
+        "international-relations"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Stanford_University.jpg",
+        "caption": "Stanford University campus"
       },
       "mature": false,
       "source": "dyk",
@@ -1214,14 +1752,31 @@
           "url": "https://en.wikipedia.org/wiki/William_Perry",
           "title": "William Perry",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Stanford-University",
+          "title": "Stanford University",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_2bfc1e6f305e",
       "hash": "ebdd839537b5857ea47e1fe303edf9307915f0beb1d7e9d74edf11eb22403f19",
       "text": "The first person to formally convert to Buddhism in America was Charles T. Strauss, a New York businessman, in 1893",
-      "tags": [],
+      "tags": [
+        "buddhism",
+        "religion",
+        "conversion",
+        "america",
+        "religious-history",
+        "faith",
+        "spiritual",
+        "first-convert",
+        "american-history",
+        "religious-studies"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1244,14 +1799,31 @@
           "url": "https://en.wikipedia.org/wiki/1893",
           "title": "1893",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Buddhism",
+          "title": "Buddhism",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_2e2704dbb583",
       "hash": "49af9d28f8c5170aee496b398d5828bafc84a0990a9c29e898d192d2f82cf2cf",
       "text": "A fire-control system is a computer which is designed to assist a weapon system in hitting its target(s)",
-      "tags": [],
+      "tags": [
+        "military",
+        "weapons",
+        "computer",
+        "fire-control",
+        "artillery",
+        "defense-technology",
+        "military-technology",
+        "automation",
+        "targeting",
+        "systems"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1274,14 +1846,31 @@
           "url": "https://en.wikipedia.org/wiki/Weapon",
           "title": "Weapon",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/weapons-system",
+          "title": "Weapons System",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_151d0209d575",
       "hash": "76e71b82728b2636d70789955193646c6319c213bf8785e58b782bee79013298",
-      "text": "Girls in Poland wear red lingerie underneath their dresses during a studniówka ( high school ball )",
-      "tags": [],
+      "text": "Girls in Poland wear red lingerie underneath their dresses during a studni\u00f3wka ( high school ball )",
+      "tags": [
+        "poland",
+        "tradition",
+        "clothing",
+        "red-lingerie",
+        "student-tradition",
+        "fashion",
+        "culture",
+        "high-school",
+        "polish-culture",
+        "customs"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1302,7 +1891,7 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/Studni%C3%B3wka",
-          "title": "Studniówka",
+          "title": "Studni\u00f3wka",
           "source": "Wikipedia"
         },
         {
@@ -1314,14 +1903,31 @@
           "url": "https://en.wikipedia.org/wiki/Prom",
           "title": "Prom",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/place/Poland",
+          "title": "Poland",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_190bc4eb74cd",
       "hash": "26491622036e33a908bffc01287f833ea81814b611473b00d8c727837689c305",
       "text": "The poorly studied Evermannellidae family, or Sabertooth fish, have oversized, inward curving teeth suggestive of the sabertooth cats ' teeth",
-      "tags": [],
+      "tags": [
+        "fish",
+        "marine-biology",
+        "sabertooth-fish",
+        "ocean",
+        "species",
+        "zoology",
+        "deep-sea",
+        "biology",
+        "fauna",
+        "ichthyology"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1344,17 +1950,34 @@
           "url": "https://en.wikipedia.org/wiki/Sabertooth_cat",
           "title": "Sabertooth cat",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/fish",
+          "title": "Fish",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_b81aeae5caee",
       "hash": "884c95aa0d669de70f56ee5d7dc731c1d7c0122cd4ca676d821f6ba0cf046e9e",
       "text": "Julia A. Moore inspired the character of Emmeline Grangerford in Mark Twain 's The Adventures of Huckleberry Finn",
-      "tags": [],
+      "tags": [
+        "mark-twain",
+        "literature",
+        "poetry",
+        "american-literature",
+        "author",
+        "huckleberry-finn",
+        "character",
+        "satire",
+        "american-culture",
+        "novels"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Julia_Moore_poet.jpg",
+        "caption": "Julia A. Moore, poet"
       },
       "mature": false,
       "source": "dyk",
@@ -1374,17 +1997,34 @@
           "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Huckleberry_Finn",
           "title": "The Adventures of Huckleberry Finn",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Julia-Moore",
+          "title": "Julia A. Moore",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_69b08c6c3330",
       "hash": "bbf90a68e76533f9a2bb5e5f0f7423654f932976332fc4b5206470778908a5e6",
       "text": "The Asiatic Society of Bombay possesses one of the only two surviving original copies of Dante 's The Divine Comedy",
-      "tags": [],
+      "tags": [
+        "india",
+        "bombay",
+        "museum",
+        "manuscripts",
+        "original-manuscripts",
+        "cultural-institution",
+        "history",
+        "society",
+        "library",
+        "heritage"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Asiatic_Society_of_Bombay.jpg",
+        "caption": "Asiatic Society of Bombay, Mumbai"
       },
       "mature": false,
       "source": "dyk",
@@ -1404,14 +2044,31 @@
           "url": "https://en.wikipedia.org/wiki/The_Divine_Comedy",
           "title": "The Divine Comedy",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Asiatic-Society-of-Bombay",
+          "title": "Asiatic Society of Bombay",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_867373c395f5",
       "hash": "3228e6bd58341976fef3497e221721fcb63cceb3f3830a2e333c5bbc4ec51bcc",
       "text": "Rugby player Wayne Shelford suffered a ripped scrotum during an All Blacks match against France",
-      "tags": [],
+      "tags": [
+        "rugby",
+        "all-blacks",
+        "new-zealand",
+        "injury",
+        "sports",
+        "rugby-union",
+        "new-zealand-rugby",
+        "sports-history",
+        "athlete",
+        "accident"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1444,14 +2101,31 @@
           "url": "https://en.wikipedia.org/wiki/France_national_rugby_union_team",
           "title": "France national rugby union team",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/rugby",
+          "title": "Rugby",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_91279266c1d6",
       "hash": "f536378c5b0f716681b1b706e54665585bfcb96473ede35948b27edfcfeb8986",
       "text": "The film David and Lisa, shot in black-and-white for just $183,000, was nominated for the 1962 Academy Award for Directing",
-      "tags": [],
+      "tags": [
+        "film",
+        "independent-film",
+        "1962",
+        "black-and-white",
+        "budget",
+        "psychology",
+        "mental-health",
+        "cinema",
+        "award-nomination",
+        "low-budget"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1479,17 +2153,34 @@
           "url": "https://en.wikipedia.org/wiki/Academy_Award_for_Directing",
           "title": "Academy Award for Directing",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/independent-film",
+          "title": "Independent Film",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_d39fd51469f6",
       "hash": "0a7c8f3cdccc1e9a0bf0ac0cd2f69c61ded5f1e38a6ab560415b2fec4645285b",
       "text": "The Battle of Appomattox Court House signalled the end of the American Civil War",
-      "tags": [],
+      "tags": [
+        "american-civil-war",
+        "appomattox",
+        "virginia",
+        "battle",
+        "history",
+        "military-history",
+        "lee-surrender",
+        "grant",
+        "civil-war-ending",
+        "american-history"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Battle_of_Appomattox_Court_House.jpg",
+        "caption": "Battle of Appomattox Court House 1865"
       },
       "mature": false,
       "source": "dyk",
@@ -1504,14 +2195,31 @@
           "url": "https://en.wikipedia.org/wiki/American_Civil_War",
           "title": "American Civil War",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Appomattox-Court-House",
+          "title": "Battle of Appomattox",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_595e8c0011fb",
       "hash": "d41024f1b00a01a0c9edc1b112407edbc0070b757d2943973f505190f73d0622",
       "text": "Reginald Hill's novel \"A Clubbable Woman\" was his first story about Dalziel and Pascoe",
-      "tags": [],
+      "tags": [
+        "fiction",
+        "novel",
+        "mystery",
+        "detective",
+        "british-literature",
+        "crime",
+        "dalziel-and-pascoe",
+        "author",
+        "literature",
+        "english-author"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1534,14 +2242,31 @@
           "url": "https://en.wikipedia.org/wiki/Dalziel_and_Pascoe",
           "title": "Dalziel and Pascoe",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Reginald-Hill",
+          "title": "Reginald Hill",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_1ff2291e45eb",
       "hash": "c9d60a04bdeea83b0890f504ed84b71bd22acd00f7c9b95d0a8f1725d6eff2d8",
       "text": "Tumor markers are chemical substances found in blood that arise from the presence of cancerous tissues",
-      "tags": [],
+      "tags": [
+        "medicine",
+        "oncology",
+        "cancer",
+        "blood-test",
+        "biomarkers",
+        "diagnosis",
+        "healthcare",
+        "medical-science",
+        "disease",
+        "laboratory-medicine"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1569,17 +2294,34 @@
           "url": "https://en.wikipedia.org/wiki/Tissue",
           "title": "Tissue",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/science/tumor-marker",
+          "title": "Tumor Marker",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_cfef48c2204a",
       "hash": "463e1cdda0e6f42375934aab604dc50ef00c22d5d52a9465008539fe023d1ed0",
       "text": "The Squirrel Nut Zippers were influenced by the energetic sounds of 1920s hot jazz",
-      "tags": [],
+      "tags": [
+        "music",
+        "band",
+        "1920s",
+        "jazz",
+        "swing",
+        "american-band",
+        "neo-swing",
+        "musicians",
+        "retro",
+        "genre"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Squirrel_Nut_Zippers_band.jpg",
+        "caption": "Squirrel Nut Zippers band"
       },
       "mature": false,
       "source": "dyk",
@@ -1604,17 +2346,34 @@
           "url": "https://en.wikipedia.org/wiki/Jazz",
           "title": "Jazz",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/jazz",
+          "title": "Jazz",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_57df145152d8",
       "hash": "ce8bd5223290cbc579ec3c610cbf8fe53cc89d17dc4988f2b4e333ddbc654448",
       "text": "There are multiple theories why LMLK seals were stamped on the handles of large storage jars in and around Jerusalem circa 700 BC",
-      "tags": [],
+      "tags": [
+        "archaeology",
+        "ancient-israel",
+        "pottery",
+        "biblical",
+        "ancient-history",
+        "hebrew",
+        "seals",
+        "artifacts",
+        "history",
+        "religious-artifacts"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/LMLK_seal.jpg",
+        "caption": "LMLK seal on pottery"
       },
       "mature": false,
       "source": "dyk",
@@ -1639,17 +2398,34 @@
           "url": "https://en.wikipedia.org/wiki/700_BC",
           "title": "700 BC",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/LMLK-seal",
+          "title": "LMLK Seal",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_efd2380ffb65",
       "hash": "b2308207096aac44941ca00847072088bd28a1fa59e1ae53d0cd45a5b8d04391",
       "text": "Aquarius is the world's only underwater research facility",
-      "tags": [],
+      "tags": [
+        "ocean",
+        "research",
+        "underwater",
+        "aquarius-lab",
+        "florida",
+        "marine-science",
+        "experiment",
+        "habitat",
+        "science",
+        "oceanography"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Aquarius_underwater_lab.jpg",
+        "caption": "Aquarius underwater research facility"
       },
       "mature": false,
       "source": "dyk",
@@ -1659,14 +2435,31 @@
           "url": "https://en.wikipedia.org/wiki/Aquarius_(laboratory)",
           "title": "Aquarius (laboratory)",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Aquarius-underwater-laboratory",
+          "title": "Aquarius Underwater Lab",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_af570c09119f",
       "hash": "a34df4714693cfec37f5f9dd19f6dd6504cb6ffb42bfa99a400be81df7607e5f",
       "text": "Elecia Battle, who claimed to have a 162 million dollar lottery winning ticket, is a professional female boxer",
-      "tags": [],
+      "tags": [
+        "lottery",
+        "fraud",
+        "law",
+        "winning-ticket",
+        "legal-case",
+        "money",
+        "gambling",
+        "crime",
+        "justice",
+        "contract-law"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1689,17 +2482,34 @@
           "url": "https://en.wikipedia.org/wiki/List_of_female_boxers",
           "title": "List of female boxers",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/lottery",
+          "title": "Lottery",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_a4c5d73bf07f",
       "hash": "ec40a7fe3aaa387bba38eeb2fb5102c3a587ebf0af0e230f1c5c5ae2effe0faa",
       "text": "The film Dangerous Minds was based on the true story by the high school teacher Louanne Johnson, My Posse Don't Do Homework",
-      "tags": [],
+      "tags": [
+        "film",
+        "true-story",
+        "education",
+        "teacher",
+        "high-school",
+        "cinema",
+        "biography",
+        "erin-gruwell",
+        "drama",
+        "movie"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Dangerous_Minds_poster.jpg",
+        "caption": "Dangerous Minds film poster"
       },
       "mature": false,
       "source": "dyk",
@@ -1724,17 +2534,34 @@
           "url": "https://en.wikipedia.org/wiki/Teacher",
           "title": "Teacher",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Dangerous-Minds",
+          "title": "Dangerous Minds",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_3879e66845dd",
       "hash": "0da7d69d505251c9237c7c8bc91c3b1ab13b2c8e2673f9c3d3ee1b0b85961d59",
       "text": "Black seadevils are a family of anglerfish named for their baleful appearance and pitch black skin",
-      "tags": [],
+      "tags": [
+        "fish",
+        "anglerfish",
+        "deep-sea",
+        "marine-biology",
+        "zoology",
+        "ocean",
+        "species",
+        "bioluminescence",
+        "fauna",
+        "ichthyology"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Melanocetusniger.jpg",
+        "caption": "Black seadevil anglerfish"
       },
       "mature": false,
       "source": "dyk",
@@ -1759,14 +2586,31 @@
           "url": "https://en.wikipedia.org/wiki/Black",
           "title": "Black",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/anglerfish",
+          "title": "Anglerfish",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_ad7863435009",
       "hash": "c8de70efd320805358f8691c25ca8e892bada05b7379adffdff340e4b9a3af96",
       "text": "Ignorantia juris non excusat is Latin for the legal doctrine, \"ignorance of the law is no excuse\"",
-      "tags": [],
+      "tags": [
+        "latin",
+        "law",
+        "legal-doctrine",
+        "ignorance",
+        "justice",
+        "legal-principle",
+        "legal-philosophy",
+        "jurisprudence",
+        "language",
+        "legal-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1789,17 +2633,34 @@
           "url": "https://en.wikipedia.org/wiki/Legal_doctrine",
           "title": "Legal doctrine",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/legal-doctrine",
+          "title": "Legal Doctrine",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_9d14fe252efe",
       "hash": "d9b998ed43d52668cf2bf4eb1ab06ff03127912701567d0003dd5e05a53720ef",
       "text": "Medieval pilgrims on the Way of St James would join up at the French Basque town of Saint-Jean-Pied-de-Port before crossing the Pyrenees",
-      "tags": [],
+      "tags": [
+        "pilgrimage",
+        "medieval",
+        "spain",
+        "basque-country",
+        "religion",
+        "christianity",
+        "saint-james",
+        "france",
+        "camino-de-santiago",
+        "history"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Camino_de_Santiago_marker.jpg",
+        "caption": "Way of St James marker"
       },
       "mature": false,
       "source": "dyk",
@@ -1829,17 +2690,39 @@
           "url": "https://en.wikipedia.org/wiki/Pyrenees",
           "title": "Pyrenees",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Camino-de-Santiago",
+          "title": "Camino de Santiago - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Camino-de-Santiago",
+          "title": "Camino de Santiago",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_203ada02527c",
       "hash": "42c35022da6c7a30db198ffb8d14bf3c3401d6027cd0b9d778b73890ad1c974d",
       "text": "In the animated Laff-a-Lympics, non-competing Hanna-Barbera characters such as Fred Flintstone and Jabberjaw made appearances as guest announcers",
-      "tags": [],
+      "tags": [
+        "animation",
+        "hanna-barbera",
+        "cartoon",
+        "television",
+        "olympics",
+        "1970s",
+        "tv-series",
+        "animated-series",
+        "sports",
+        "comedy"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Laff-a-Lympics_title.jpg",
+        "caption": "Laff-a-Lympics animated series"
       },
       "mature": false,
       "source": "dyk",
@@ -1879,17 +2762,39 @@
           "url": "https://en.wikipedia.org/wiki/Announcer",
           "title": "Announcer",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Hanna-Barbera",
+          "title": "Hanna-Barbera - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Hanna-Barbera",
+          "title": "Hanna-Barbera",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_ef8e14d28420",
       "hash": "57b5f7371e46e783b1b732e02c70db0e1ad7f0fc2d10b5d148afe956b852fdcd",
       "text": "The Great Lakes Storm of 1913 was the deadliest natural disaster to hit the Great Lakes basin region, killing over 250 people",
-      "tags": [],
+      "tags": [
+        "storm",
+        "great-lakes",
+        "1913",
+        "natural-disaster",
+        "weather",
+        "maritime",
+        "ships",
+        "michigan",
+        "weather-history",
+        "disaster"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Great_Lakes_Storm_1913.jpg",
+        "caption": "Great Lakes Storm 1913"
       },
       "mature": false,
       "source": "dyk",
@@ -1914,17 +2819,39 @@
           "url": "https://en.wikipedia.org/wiki/Watershed",
           "title": "Watershed",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Great-Lakes-Storm-of-1913",
+          "title": "Great Lakes Storm of 1913 - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Great-Lakes-Storm-of-1913",
+          "title": "Great Lakes Storm",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_deb688ebf2c7",
       "hash": "9b5732540b2865db5001de62c6ea0f8ec9988e4b10c9b7b45bf35ebcb35814bc",
       "text": "Professional wrestler Gorilla Monsoon grew a long beard and billed himself as a terrifying giant from Manchuria as a heel gimmick",
-      "tags": [],
+      "tags": [
+        "wrestler",
+        "professional-wrestling",
+        "wwe",
+        "beard",
+        "wrestling-promoter",
+        "sports-entertainment",
+        "wrestling-legend",
+        "commentary",
+        "wrestling-history",
+        "sports"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Gorilla_Monsoon.jpg",
+        "caption": "Gorilla Monsoon, professional wrestler"
       },
       "mature": false,
       "source": "dyk",
@@ -1959,17 +2886,39 @@
           "url": "https://en.wikipedia.org/wiki/Gimmick_(professional_wrestling)",
           "title": "Gimmick (professional wrestling)",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/professional-wrestling",
+          "title": "Professional Wrestling - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/professional-wrestling",
+          "title": "Professional Wrestling",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_4fd591367098",
       "hash": "a51f078e2b56aace45ac83f7506e0ca540e3e3ce6c58e8446d6564c850cefdf1",
       "text": "U.S. Ambassador Charles E. Bohlen received the secret protocol to the Molotov-Ribbentrop Pact, which contained an understanding between Hitler and Stalin to split Central Europe, from German diplomat Hans von Herwarth",
-      "tags": [],
+      "tags": [
+        "diplomat",
+        "ambassador",
+        "world-war-ii",
+        "soviet-union",
+        "secret-protocol",
+        "diplomacy",
+        "history",
+        "cold-war",
+        "political-history",
+        "american-diplomat"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Charles_Bohlen.jpg",
+        "caption": "Charles E. Bohlen, U.S. ambassador"
       },
       "mature": false,
       "source": "dyk",
@@ -2019,17 +2968,39 @@
           "url": "https://en.wikipedia.org/wiki/Hans_von_Herwarth",
           "title": "Hans von Herwarth",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Charles-E-Bohlen",
+          "title": "Charles E. Bohlen - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Charles-E-Bohlen",
+          "title": "Charles E. Bohlen",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_f5e7e5b28f97",
       "hash": "0d72ffa5b67b25828da54e2b1accea4d691bc6fd9e65d4bbd1df3e639374ce7d",
       "text": "Nancy Olson was nominated for an Oscar for playing the \"good\" girl in Sunset Boulevard shortly after being considered for the role of the temptress Delilah in the film Samson and Delilah",
-      "tags": [],
+      "tags": [
+        "actress",
+        "sunset-boulevard",
+        "oscar-nomination",
+        "film",
+        "cinema",
+        "classic-hollywood",
+        "hollywood-actress",
+        "1950s",
+        "american-cinema",
+        "drama"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Nancy_Olson.jpg",
+        "caption": "Nancy Olson, American actress"
       },
       "mature": false,
       "source": "dyk",
@@ -2059,17 +3030,39 @@
           "url": "https://en.wikipedia.org/wiki/Samson_and_Delilah_(movie)",
           "title": "Samson and Delilah (movie)",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Nancy-Olson",
+          "title": "Nancy Olson - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Nancy-Olson",
+          "title": "Nancy Olson",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_5a9ceab756c0",
       "hash": "cde80899589843ccf4bb1c27ba36a6019d3674bbc0ea99528038db5f8483d831",
       "text": "Franz Liszt's Piano Sonata in B minor was influenced by Franz Schubert's Wanderer Fantasy",
-      "tags": [],
+      "tags": [
+        "piano",
+        "classical-music",
+        "liszt",
+        "schubert",
+        "composition",
+        "romantic-music",
+        "sonata",
+        "music-history",
+        "composer",
+        "classical-era"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Franz_Liszt.jpg",
+        "caption": "Franz Liszt, Hungarian composer"
       },
       "mature": false,
       "source": "dyk",
@@ -2089,14 +3082,36 @@
           "url": "https://en.wikipedia.org/wiki/Franz_Schubert",
           "title": "Franz Schubert",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Franz-Liszt",
+          "title": "Franz Liszt - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Franz-Liszt",
+          "title": "Franz Liszt",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_586914189603",
       "hash": "0636dcf609d03b313053841cfdb344ee68db8db329dc5e89644ed5d34f69906b",
       "text": "The only international cricket in South Africa between 1971 and 1981 comprised 6 private tours and 1 women's test match, because no test match playing nation was willing to tour the country because of its apartheid policy",
-      "tags": [],
+      "tags": [
+        "cricket",
+        "south-africa",
+        "apartheid",
+        "sports",
+        "international-cricket",
+        "1970s-1980s",
+        "sports-boycott",
+        "sporting-history",
+        "cricket-history",
+        "isolation"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2134,14 +3149,36 @@
           "url": "https://en.wikipedia.org/wiki/Apartheid",
           "title": "Apartheid",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/cricket-in-south-africa",
+          "title": "Cricket in South Africa - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/cricket",
+          "title": "Cricket",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_dfafb147e4b3",
       "hash": "4b5efdba29b5f040e7ea6872ba4c5171f23609283971c71d56f8f16a470c57fc",
       "text": "In the ionization chamber of a smoke detector, ions strike smoke particles and are neutralized, and this drop in current triggers the alarm",
-      "tags": [],
+      "tags": [
+        "smoke-detector",
+        "ionization",
+        "physics",
+        "safety",
+        "radiation",
+        "fire-safety",
+        "technology",
+        "chemistry",
+        "particles",
+        "engineering"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2174,14 +3211,36 @@
           "url": "https://en.wikipedia.org/wiki/Burglar_alarm",
           "title": "Burglar alarm",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/smoke-detector",
+          "title": "Smoke Detector - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/smoke-detector",
+          "title": "Smoke Detector",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_f600f3db449a",
       "hash": "8496f26400efbdfc2e67fe06bcbab28a06414590724e562e88a025d299fdb4d6",
       "text": "The Saladin tithe was levied in England in 1188 to help finance the Third Crusade",
-      "tags": [],
+      "tags": [
+        "tax",
+        "england",
+        "1188",
+        "crusade",
+        "medieval",
+        "third-crusade",
+        "saladin",
+        "history",
+        "taxation",
+        "military-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2209,17 +3268,39 @@
           "url": "https://en.wikipedia.org/wiki/Third_Crusade",
           "title": "Third Crusade",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Crusades",
+          "title": "Crusades - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Crusades",
+          "title": "Crusades",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_99f12a8a2dc1",
       "hash": "d4e384184dc5931789afe1313f18f5b6a178edc195f5fff8df4fd7f80c0de784",
       "text": "Catsear is sometimes mistaken for dandelions, and has similar culinary uses",
-      "tags": [],
+      "tags": [
+        "plant",
+        "botany",
+        "dandelion",
+        "flora",
+        "culinary",
+        "wild-plant",
+        "edible-plant",
+        "herbalism",
+        "nature",
+        "plants"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Hypochaeris_radicata.jpg",
+        "caption": "Catsear plant"
       },
       "mature": false,
       "source": "dyk",
@@ -2239,17 +3320,39 @@
           "url": "https://en.wikipedia.org/wiki/Cuisine",
           "title": "Cuisine",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/dandelion",
+          "title": "Dandelion - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/dandelion",
+          "title": "Dandelion",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_185df6c4c276",
       "hash": "12a5d8444f95ccacec74ecbc9810c260a54425c889ff5b4cd1f7063f0b17fa5b",
       "text": "Mary Magdalene realized that Jesus had returned from the dead after his crucifixion in the Bible verse John 20:16",
-      "tags": [],
+      "tags": [
+        "jesus",
+        "mary-magdalene",
+        "resurrection",
+        "christianity",
+        "bible",
+        "gospel",
+        "religious-history",
+        "new-testament",
+        "theology",
+        "faith"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Mary_Magdalene_resurrection.jpg",
+        "caption": "Mary Magdalene and resurrection"
       },
       "mature": false,
       "source": "dyk",
@@ -2284,17 +3387,39 @@
           "url": "https://en.wikipedia.org/wiki/John_20:16",
           "title": "John 20:16",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Mary-Magdalene",
+          "title": "Mary Magdalene - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Mary-Magdalene",
+          "title": "Mary Magdalene",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_28d198268647",
       "hash": "865b33fb543e5f00bf9e874ffa0b360cc1507ab649f9830e098b8d7d81ad32e2",
       "text": "The Fox television series Herman's Head used characters to represent different aspect of the main character's psyche, similar to Eric Berne 's concept of transactional analysis",
-      "tags": [],
+      "tags": [
+        "television",
+        "fox-tv",
+        "comedy",
+        "1990s",
+        "sitcom",
+        "characters",
+        "psychology",
+        "mind",
+        "tv-series",
+        "american-television"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Hermans_Head_title.jpg",
+        "caption": "Herman's Head TV series"
       },
       "mature": false,
       "source": "dyk",
@@ -2329,17 +3454,39 @@
           "url": "https://en.wikipedia.org/wiki/Transactional_analysis",
           "title": "Transactional analysis",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/television-sitcom",
+          "title": "Television Sitcom - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/television-sitcom",
+          "title": "Television Sitcom",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_f1ea962e96c3",
       "hash": "64b855838db2539b9df419426776b8080915b2d67dc33b996c18e01a1d16c57c",
       "text": "Tusk shells are a class of marine mollusks that resemble elephants ' tusks, and were used by the natives of the Pacific Northwest as wampum",
-      "tags": [],
+      "tags": [
+        "mollusk",
+        "marine-biology",
+        "ocean",
+        "zoology",
+        "shellfish",
+        "species",
+        "marine-fauna",
+        "invertebrate",
+        "biology",
+        "tusk-shell"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Tusk_shell.jpg",
+        "caption": "Tusk shell marine mollusk"
       },
       "mature": false,
       "source": "dyk",
@@ -2384,14 +3531,36 @@
           "url": "https://en.wikipedia.org/wiki/Wampum",
           "title": "Wampum",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/tusk-shell",
+          "title": "Tusk Shell - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/tusk-shell",
+          "title": "Tusk Shell",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_ce45dbed48f8",
       "hash": "1b8c3f35593981dc3d11ca756a9b6814ab2ee3b09ec75a955d6eb6f09884a1bf",
       "text": "Senator William A. Blakley of the U.S. state of Texas worked as ranch hand as a young man",
-      "tags": [],
+      "tags": [
+        "senator",
+        "texas",
+        "united-states",
+        "politician",
+        "politics",
+        "ranch",
+        "american-history",
+        "texas-history",
+        "government",
+        "united-states-senate"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2424,17 +3593,39 @@
           "url": "https://en.wikipedia.org/wiki/Ranch",
           "title": "Ranch",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Texas",
+          "title": "Texas - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/place/Texas",
+          "title": "Texas",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_8ff20689808d",
       "hash": "097b4ff8bfee36f5fa83695dd33ac7175a9d589f4bcbdd078916a82bc2f17a90",
       "text": "The tangent piano is a rare keyboard instrument that fuses the sound of the harpsichord and piano",
-      "tags": [],
+      "tags": [
+        "piano",
+        "keyboard-instrument",
+        "musical-instrument",
+        "music",
+        "rare-instrument",
+        "sound",
+        "classical-music",
+        "instrument",
+        "music-history",
+        "acoustics"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Tangent_piano.jpg",
+        "caption": "Tangent piano keyboard instrument"
       },
       "mature": false,
       "source": "dyk",
@@ -2459,14 +3650,36 @@
           "url": "https://en.wikipedia.org/wiki/Piano",
           "title": "Piano",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/piano",
+          "title": "Piano - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/piano",
+          "title": "Piano",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_f30193f48274",
       "hash": "1d51e65f610a593f6c07a1956922d9da9b4d57fd72263cc9cbac8f53a56b9179",
       "text": "In 1944, Gwethalyn Graham was the first Canadian writer to reach number one on The New York Times bestseller list, with a novel depicting an interfaith romance between a Protestant woman and a Jewish man",
-      "tags": [],
+      "tags": [
+        "author",
+        "canadian-writer",
+        "literature",
+        "novel",
+        "1944",
+        "bestseller",
+        "canadian-literature",
+        "writer",
+        "canada",
+        "fiction"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2519,17 +3732,39 @@
           "url": "https://en.wikipedia.org/wiki/Jew",
           "title": "Jew",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Gwethalyn-Graham",
+          "title": "Gwethalyn Graham - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Canadian-literature",
+          "title": "Canadian Literature",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_1af49dead1ff",
       "hash": "e8762d24b029b755b6efe8bac31df2a231496c745193a8476d8c10a63974a276",
       "text": "The earliest record of Gaelic handball is the 1527 town statutes of Galway, Ireland, which forbade the playing of ball games against the walls",
-      "tags": [],
+      "tags": [
+        "handball",
+        "gaelic-sports",
+        "ireland",
+        "galway",
+        "1527",
+        "sports-history",
+        "irish-culture",
+        "sport",
+        "recreation",
+        "tradition"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Gaelic_handball.jpg",
+        "caption": "Gaelic handball court"
       },
       "mature": false,
       "source": "dyk",
@@ -2564,14 +3799,36 @@
           "url": "https://en.wikipedia.org/wiki/Ball_game",
           "title": "Ball game",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/handball",
+          "title": "Handball - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/handball",
+          "title": "Handball",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_0c54bb194912",
       "hash": "a9ffeff9b02bd8454607b86965366236a60d1c869e6566820044e4648425bdd0",
       "text": "DONKEY.BAS was a computer game cowritten by Bill Gates and included with early versions of the PC-DOS operating system for the original IBM PC, in which the player must avoid hitting donkeys",
-      "tags": [],
+      "tags": [
+        "bill-gates",
+        "computer-game",
+        "basic-language",
+        "early-software",
+        "video-game",
+        "programming",
+        "microsoft",
+        "1980s",
+        "computing-history",
+        "software"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2614,17 +3871,39 @@
           "url": "https://en.wikipedia.org/wiki/Donkey",
           "title": "Donkey",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Bill-Gates",
+          "title": "Bill Gates - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Bill-Gates",
+          "title": "Bill Gates",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_cabeb15d8481",
       "hash": "24855bd87ddf4080df300f89e68740e840510c3049fa774b581e31e6e8af937d",
       "text": "The 1995 documentary film Anne Frank Remembered contains the only known film footage of the young diarist",
-      "tags": [],
+      "tags": [
+        "anne-frank",
+        "holocaust",
+        "world-war-ii",
+        "documentary",
+        "film",
+        "jewish-history",
+        "biography",
+        "history",
+        "world-war-2",
+        "autobiography"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Anne_Frank_photo.jpg",
+        "caption": "Anne Frank photo"
       },
       "mature": false,
       "source": "dyk",
@@ -2649,17 +3928,39 @@
           "url": "https://en.wikipedia.org/wiki/Diary",
           "title": "Diary",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Anne-Frank",
+          "title": "Anne Frank - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Anne-Frank",
+          "title": "Anne Frank",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_8c3262dd08db",
       "hash": "7908fd368eafe2bbd2206a1540c499c728d101ef7ada7dfa7c7f27bab81a6ca5",
       "text": "The Beatles ' song \" Polythene Pam \" was partly inspired by a Liverpool fan who ate polyethylene",
-      "tags": [],
+      "tags": [
+        "beatles",
+        "song",
+        "polythene-pam",
+        "music",
+        "rock-music",
+        "liverpool",
+        "british-music",
+        "1960s",
+        "popular-music",
+        "inspiration"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/The_Beatles.jpg",
+        "caption": "The Beatles"
       },
       "mature": false,
       "source": "dyk",
@@ -2684,17 +3985,39 @@
           "url": "https://en.wikipedia.org/wiki/Polyethylene",
           "title": "Polyethylene",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/The-Beatles",
+          "title": "The Beatles - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/The-Beatles",
+          "title": "The Beatles",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_b6ad48af4147",
       "hash": "11c3bb6a503f6e72d8e64cf7afcafcd5443f7b1796b4fe91059d26232a01647d",
       "text": "The Fairy Queen is the longest-operating steam locomotive in the world",
-      "tags": [],
+      "tags": [
+        "steam-locomotive",
+        "railway",
+        "train",
+        "oldest",
+        "locomotive-history",
+        "british-railway",
+        "india",
+        "heritage-railway",
+        "transportation",
+        "machinery"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Fairy_Queen_locomotive.jpg",
+        "caption": "Fairy Queen steam locomotive"
       },
       "mature": false,
       "source": "dyk",
@@ -2714,17 +4037,39 @@
           "url": "https://en.wikipedia.org/wiki/Locomotive",
           "title": "Locomotive",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/steam-locomotive",
+          "title": "Steam Locomotive - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/steam-locomotive",
+          "title": "Steam Locomotive",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_c7be2b2e8b3f",
       "hash": "2a63ca232d3714655832acabb182261da5443431948a85cc438a5694052a7bfd",
       "text": "The English outsider artist Madge Gill claimed to be guided by a spirit she called Myrninerest (my inner rest), and often signed her works with this name",
-      "tags": [],
+      "tags": [
+        "artist",
+        "outsider-art",
+        "art",
+        "british-artist",
+        "spirit-guide",
+        "naive-art",
+        "visual-arts",
+        "fine-art",
+        "contemporary-art",
+        "unconventional"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Madge_Gill_self-portrait.jpg",
+        "caption": "Madge Gill, outsider artist"
       },
       "mature": false,
       "source": "dyk",
@@ -2754,17 +4099,39 @@
           "url": "https://en.wikipedia.org/wiki/Signature",
           "title": "Signature",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/outsider-art",
+          "title": "Outsider Art - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/outsider-art",
+          "title": "Outsider Art",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_4bbd79d56928",
       "hash": "1cd950a055b62dcce39bd7c47751577fcd857a238a1e1c80cbb4f2d901010346",
       "text": "Fastnet Rock, a small clay - slate island with quartz veins, is the southernmost point of Ireland",
-      "tags": [],
+      "tags": [
+        "ireland",
+        "rock",
+        "geology",
+        "maritime",
+        "south-coast",
+        "atlantic",
+        "island",
+        "geological-feature",
+        "geography",
+        "ireland-geography"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Fastnet_Rock.jpg",
+        "caption": "Fastnet Rock, southern Ireland"
       },
       "mature": false,
       "source": "dyk",
@@ -2799,14 +4166,36 @@
           "url": "https://en.wikipedia.org/wiki/Ireland",
           "title": "Ireland",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/place/Fastnet-Rock",
+          "title": "Fastnet Rock - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/place/Fastnet-Rock",
+          "title": "Fastnet Rock",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_ef866169ecf5",
       "hash": "bb75833b92fbedb00a64338284fc8823288d4f68337c7793fe80d7259e64ec65",
       "text": "In the court case Trop v. Dulles, the U.S. Supreme Court decided that it was unconstitutional for the government to cancel the citizenship of a U.S. citizen as a punishment",
-      "tags": [],
+      "tags": [
+        "supreme-court",
+        "constitutional-law",
+        "citizenship",
+        "law",
+        "legal-case",
+        "american-law",
+        "citizenship-rights",
+        "justice",
+        "court-decision",
+        "rights"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2854,17 +4243,39 @@
           "url": "https://en.wikipedia.org/wiki/Punishment",
           "title": "Punishment",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/United-States-Supreme-Court",
+          "title": "United States Supreme Court - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/topic/United-States-Supreme-Court",
+          "title": "U.S. Supreme Court",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Feb_6bf0f23bbf7d",
       "hash": "e85a62a586b40017cb7b8e94d1675dec1a2c7a9dd67572b54d8cad991a7393ee",
       "text": "Nica de Koenigswarter of the Rothschild family was known as the \" bebop baroness \" for her patronage of jazz musicians, including Thelonious Monk and Charlie Parker",
-      "tags": [],
+      "tags": [
+        "jazz",
+        "bebop",
+        "rothschild-family",
+        "music",
+        "royalty",
+        "musicians",
+        "jazz-history",
+        "1950s",
+        "patron-of-arts",
+        "music-history"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nica_de_Koenigswarter.jpg",
+        "caption": "Nica de Koenigswarter, jazz patron"
       },
       "mature": false,
       "source": "dyk",
@@ -2904,8 +4315,19 @@
           "url": "https://en.wikipedia.org/wiki/Charlie_Parker",
           "title": "Charlie Parker",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Nica-de-Koenigswarter",
+          "title": "Nica de Koenigswarter - Britannica",
+          "source": "Britannica"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Nica-de-Koenigswarter",
+          "title": "Nica de Koenigswarter",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     }
   ]
 }
