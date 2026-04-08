@@ -62,17 +62,15 @@
       "tagged_facts": 83,
       "linked_facts": 83,
       "total_facts": 83,
-      "version": 2,
-      "images": true,
-      "images_found": 54
+      "version": 2
     },
     "dyk_2005_Jul": {
-      "tags": false,
-      "links": false,
-      "tagged_facts": 0,
-      "linked_facts": 0,
+      "tags": true,
+      "links": true,
+      "tagged_facts": 112,
+      "linked_facts": 112,
       "total_facts": 112,
-      "version": 1
+      "version": 2
     },
     "dyk_2005_Jun": {
       "tags": false,
@@ -83,12 +81,12 @@
       "version": 1
     },
     "dyk_2005_Mar": {
-      "tags": false,
-      "links": false,
-      "tagged_facts": 0,
-      "linked_facts": 0,
+      "tags": true,
+      "links": true,
+      "tagged_facts": 99,
+      "linked_facts": 99,
       "total_facts": 99,
-      "version": 1
+      "version": 2
     },
     "dyk_2005_May": {
       "tags": false,

@@ -6,7 +6,18 @@
       "id": "dyk_2005_Jul_0a864358a5c8",
       "hash": "a519d6a5ec68486d0a19319ec04708bcd9cb66dbdc3ffce135056fe04504439c",
       "text": "John Dryden created the genre of heroic drama as a way of reconciling plays with epic poetry",
-      "tags": [],
+      "tags": [
+        "english-literature",
+        "drama",
+        "heroic-drama",
+        "17th-century",
+        "poetry",
+        "playwright",
+        "literary-genre",
+        "restoration-era",
+        "theatrical",
+        "culture"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -36,13 +47,24 @@
           "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_259efc4bbc65",
       "hash": "8fd91d496e601e737dc2145fb5674198c718ed12519215803c4e0b035b8251f2",
-      "text": "Augustiner Bräu is Munich 's only German -owned brewery",
-      "tags": [],
+      "text": "Augustiner Br\u00e4u is Munich 's only German -owned brewery",
+      "tags": [
+        "beer",
+        "brewery",
+        "munich",
+        "germany",
+        "bavarian-culture",
+        "food-drink",
+        "business-history",
+        "family-business",
+        "tradition",
+        "europe"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -53,7 +75,7 @@
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Augustiner_Br%C3%A4u",
-          "title": "Augustiner Bräu",
+          "title": "Augustiner Br\u00e4u",
           "source": "Wikipedia"
         },
         {
@@ -68,17 +90,28 @@
         },
         {
           "url": "https://www.augustiner-braeu.de/en/brewery/",
-          "title": "Augustiner Bräu: Munich beer culture",
-          "source": "Augustiner Bräu"
+          "title": "Augustiner Br\u00e4u: Munich beer culture",
+          "source": "Augustiner Br\u00e4u"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_fb1f9f4db7e3",
       "hash": "ec9b5f24ea9f3c55349874bd489d91e13f84911a64731f2c303abb9ef835fa85",
-      "text": "Alexander Selkirk was travelling on the British galleon Cinque Ports when he was abandoned on the uninhabited Pacific island of Juan Fernández in 1704 and that his tale inspired the story of Robinson Crusoe",
-      "tags": [],
+      "text": "Alexander Selkirk was travelling on the British galleon Cinque Ports when he was abandoned on the uninhabited Pacific island of Juan Fern\u00e1ndez in 1704 and that his tale inspired the story of Robinson Crusoe",
+      "tags": [
+        "maritime-history",
+        "robinson-crusoe",
+        "shipwreck",
+        "caribbean",
+        "survival",
+        "castaway",
+        "sea-faring",
+        "adventure",
+        "literature",
+        "real-stories"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -114,7 +147,7 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/Juan_Fern%C3%A1ndez",
-          "title": "Juan Fernández",
+          "title": "Juan Fern\u00e1ndez",
           "source": "Wikipedia"
         },
         {
@@ -128,13 +161,24 @@
           "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_d833b5d05e6b",
       "hash": "175c0f2051470b20bb6e6cd1cc03aab188ce4d64d6131ef1298dc59dd2210c65",
       "text": "Suudu is a culture-specific syndrome of painful urination and pelvic \"heat\" familiar in south India, especially in the Tamil culture",
-      "tags": [],
+      "tags": [
+        "medicine",
+        "health-condition",
+        "culture-specific-syndrome",
+        "anthropology",
+        "india",
+        "psychosomatic",
+        "medical-anthropology",
+        "indigenous-health",
+        "wellness",
+        "unusual-conditions"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -167,15 +211,31 @@
           "url": "https://en.wikipedia.org/wiki/Tamil_people",
           "title": "Tamil people",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/science/culture-bound-syndrome",
+          "title": "Culture-Bound Syndrome \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_fe9b2916b6c3",
       "hash": "f13d4cf13c407b7cab9d955e11bfc932662c5fb5f4b9ba09a2b5995a12fe8aa2",
       "text": "Despite apparently predicting that future naval warfare would rely on boarding actions, Kipling 's satirical poem The Ballad of the \"Clampherdown\", was taken seriously when published in 1892",
-      "tags": [],
+      "tags": [
+        "military-history",
+        "naval-warfare",
+        "prediction",
+        "literature",
+        "poetry",
+        "strategic-thinking",
+        "weapons",
+        "sea-battles",
+        "maritime-military",
+        "technology"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -208,15 +268,31 @@
           "url": "https://en.wikipedia.org/wiki/The_Ballad_of_the_%22Clampherdown%22",
           "title": "The Ballad of the \"Clampherdown\"",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Rudyard-Kipling",
+          "title": "Rudyard Kipling \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_68f6553cdffb",
       "hash": "510d889a5f3b18fe963a4ece0db81f5495bf604719d0fc33c2bf58be4a33bf0a",
-      "text": "The Ampelmännchen ( German: little men on the traffic signal ) of East Germany had a confident stride, thought to evoke enthusiasm in moving toward an ideal socialist future",
-      "tags": [],
+      "text": "The Ampelm\u00e4nnchen ( German: little men on the traffic signal ) of East Germany had a confident stride, thought to evoke enthusiasm in moving toward an ideal socialist future",
+      "tags": [
+        "german-culture",
+        "east-germany",
+        "design",
+        "symbol",
+        "iconic-symbol",
+        "cold-war",
+        "berlin",
+        "urban-design",
+        "history",
+        "visual-culture"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -227,7 +303,7 @@
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Ampelm%C3%A4nnchen",
-          "title": "Ampelmännchen",
+          "title": "Ampelm\u00e4nnchen",
           "source": "Wikipedia"
         },
         {
@@ -244,15 +320,31 @@
           "url": "https://en.wikipedia.org/wiki/Socialist",
           "title": "Socialist",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.bbc.com/culture/article/20151105-east-germanys-smiling-icon",
+          "title": "East Germany's Smiling Icon \u2014 BBC",
+          "source": "BBC"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_02acfb78d086",
       "hash": "12486c24e192b911442264c060f0571c9c4163a40566aaa4b6fc92d6a77b93e2",
       "text": "There are at least 60 different human and alien technologies in the fictional Stargate universe",
-      "tags": [],
+      "tags": [
+        "star-wars",
+        "stargate",
+        "science-fiction",
+        "fictional-universes",
+        "popular-culture",
+        "movies",
+        "television",
+        "worldbuilding",
+        "science-fiction-technology",
+        "entertainment"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -270,15 +362,31 @@
           "url": "https://en.wikipedia.org/wiki/Alien",
           "title": "Alien",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Stargate",
+          "title": "Stargate \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_2622bc4c4cd8",
       "hash": "16a0fb5f90dc6b176d4abf8a38e12487e5c1fc429d5894d6a5b374271f6ed4b0",
       "text": "Marn Grook is the name of ball game played by Australian Aborginals which is thought to be the basis for the modern game of Australian Rules Football",
-      "tags": [],
+      "tags": [
+        "australian-aboriginal",
+        "sports-history",
+        "indigenous-culture",
+        "game-origins",
+        "cultural-heritage",
+        "history",
+        "aboriginal-australia",
+        "traditional-games",
+        "football-origins",
+        "anthropology"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -301,15 +409,31 @@
           "url": "https://en.wikipedia.org/wiki/Australian_Rules_Football",
           "title": "Australian Rules Football",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/sports/Australian-Rules-Football",
+          "title": "Australian Rules Football \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_7c4aee41979a",
       "hash": "e2ddd2730cc9714c55e9b978bed920aad4329b882a24f772d3b464af91725f15",
       "text": "Superfecundation is the fertilization of two or more ova by sperm from separate acts of sexual intercourse and can lead to twins with different fathers",
-      "tags": [],
+      "tags": [
+        "biology",
+        "reproduction",
+        "medical-science",
+        "genetics",
+        "human-biology",
+        "pregnancy",
+        "rare-phenomenon",
+        "unusual-biology",
+        "obstetrics",
+        "science-facts"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -347,15 +471,31 @@
           "url": "https://en.wikipedia.org/wiki/Twin",
           "title": "Twin",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/science/superfecundation",
+          "title": "Superfecundation \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_3fc437034787",
       "hash": "8c416475cb641983e32d411fac9114b01cc0982cd9dc88f43ed97fa1c1f86867",
       "text": "Toktogul Satilganov was the most famous of the Kyrgyz Akyn storytellers",
-      "tags": [],
+      "tags": [
+        "kyrgyzstan",
+        "oral-tradition",
+        "central-asia",
+        "folklore",
+        "literature",
+        "storytelling",
+        "culture",
+        "asian-history",
+        "traditional-art",
+        "historical-figures"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -378,15 +518,31 @@
           "url": "https://en.wikipedia.org/wiki/Akyn",
           "title": "Akyn",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Toktogul-Satilganov",
+          "title": "Toktogul Satilganov \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_ae326eae6648",
       "hash": "cb7fd8b8b831a4a2054d0914e46987db919eef1d8a06c55ddfaece7491bee6b8",
       "text": "California State Senator Abel Maldonado ran for election to the Santa Maria City Council in 1994 after being involved in a building dispute",
-      "tags": [],
+      "tags": [
+        "politics",
+        "california",
+        "government",
+        "elections",
+        "united-states",
+        "political-figures",
+        "public-service",
+        "american-politics",
+        "local-government",
+        "political-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -419,15 +575,31 @@
           "url": "https://en.wikipedia.org/wiki/City_Council",
           "title": "City Council",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://ballotpedia.org/Abel_Maldonado",
+          "title": "Abel Maldonado \u2014 Ballotpedia",
+          "source": "Ballotpedia"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_c4aa90429c4d",
       "hash": "a2a02559b666560ff083c68f68ecb94737dbefc921be8ae1b27ccc3b9af078e6",
-      "text": "The Dakar-Niger Railway was the site of a 1947 strike celebrated by author Ousmane Sembène as a turning point in West Africa 's anti- colonial struggle",
-      "tags": [],
+      "text": "The Dakar-Niger Railway was the site of a 1947 strike celebrated by author Ousmane Semb\u00e8ne as a turning point in West Africa 's anti- colonial struggle",
+      "tags": [
+        "railway-history",
+        "labor-history",
+        "strike",
+        "africa",
+        "senegal",
+        "literature",
+        "colonialism",
+        "transportation-history",
+        "social-movements",
+        "workers-rights"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -448,7 +620,7 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/Ousmane_Semb%C3%A8ne",
-          "title": "Ousmane Sembène",
+          "title": "Ousmane Semb\u00e8ne",
           "source": "Wikipedia"
         },
         {
@@ -460,15 +632,31 @@
           "url": "https://en.wikipedia.org/wiki/Colonialism",
           "title": "Colonialism",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Ousmane-Sembene",
+          "title": "Ousmane Semb\u00e8ne \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_c48875429472",
       "hash": "f28cedb28b728f212e4d63a60a5711f4bde0ea4846976c8f6961685df8cedeec",
       "text": "The Mokola virus is a relative of the rabies virus and was first isolated in tree shrews",
-      "tags": [],
+      "tags": [
+        "virology",
+        "disease",
+        "biology",
+        "medicine",
+        "animal-disease",
+        "virus",
+        "tropical-medicine",
+        "infectious-disease",
+        "science-facts",
+        "zoology"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -491,15 +679,31 @@
           "url": "https://en.wikipedia.org/wiki/Tree_shrew",
           "title": "Tree shrew",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/science/Mokola-virus",
+          "title": "Mokola Virus \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_4458bdbbb3a0",
       "hash": "123ae77611dec1c8c5940969375e98116299e971f6a64e0ac7f794739f9dff3d",
       "text": "There have only been two tied Tests in the 128 years of Test cricket, both involving the Australian cricket team",
-      "tags": [],
+      "tags": [
+        "cricket",
+        "sports-history",
+        "sports-records",
+        "unusual-sports-facts",
+        "test-cricket",
+        "australia",
+        "sports-tie",
+        "cricket-history",
+        "sports-trivia",
+        "sporting-achievement"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -522,15 +726,31 @@
           "url": "https://en.wikipedia.org/wiki/Australian_cricket_team",
           "title": "Australian cricket team",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/sports/Test-cricket",
+          "title": "Test Cricket \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_8c551c3d1e07",
       "hash": "cbda423254f4a9ab2d5c6f7089c254da4c16ebf9c4dd48aedee32b4b7e256d9a",
       "text": "Misdirected letters are a common plot twist in the 19th century genre of theatre called the Well-Made Play",
-      "tags": [],
+      "tags": [
+        "theatre",
+        "literature",
+        "dramatic-genres",
+        "well-made-play",
+        "19th-century",
+        "drama",
+        "plot-tropes",
+        "theatrical-history",
+        "literature-analysis",
+        "playwriting"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -563,15 +783,31 @@
           "url": "https://en.wikipedia.org/wiki/Well-Made_Play",
           "title": "Well-Made Play",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/art/well-made-play",
+          "title": "Well-Made Play \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_2e3738482775",
       "hash": "835db79362c8fe21e34f13fe30ada7305286a3ba415afd87fc29203313409a49",
       "text": "The Tatara Bridge in Japan has the longest span of any cable-stayed bridge in the world",
-      "tags": [],
+      "tags": [
+        "bridge-engineering",
+        "architecture",
+        "japan",
+        "engineering-records",
+        "cable-stayed-bridge",
+        "infrastructure",
+        "transportation",
+        "technology",
+        "record-breaking",
+        "civil-engineering"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -594,15 +830,31 @@
           "url": "https://en.wikipedia.org/wiki/Cable-stayed_bridge",
           "title": "Cable-stayed bridge",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/technology/cable-stayed-bridge",
+          "title": "Cable-Stayed Bridge \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_901b615bb6cd",
       "hash": "b7f421bb7e62a6faae01e94b0544d18dc2923c794d46ebc7c4d056bd50c92f29",
       "text": "California's current State Senate Minority Leader Dick Ackerman ran for State Attorney General in 2002",
-      "tags": [],
+      "tags": [
+        "california-politics",
+        "elections",
+        "government",
+        "united-states",
+        "political-figures",
+        "american-politics",
+        "legal-office",
+        "political-history",
+        "candidates",
+        "public-service"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -635,15 +887,31 @@
           "url": "https://en.wikipedia.org/wiki/Attorney_General",
           "title": "Attorney General",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://ballotpedia.org/Dick_Ackerman",
+          "title": "Dick Ackerman \u2014 Ballotpedia",
+          "source": "Ballotpedia"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_504d2df4aec7",
       "hash": "2606ec18dd00a10a65593e90c03ceb615df4d010ef22b0ee67691d5b13dd1200",
       "text": "The Reconstructionist Rabbinical College is a rabbinical seminary established by Mordecai Kaplan, the founder of the Reconstructionist Judaism movement",
-      "tags": [],
+      "tags": [
+        "judaism",
+        "rabbinical-education",
+        "reconstructionist-judaism",
+        "religion",
+        "religious-history",
+        "seminary",
+        "jewish-history",
+        "philosophy",
+        "theological-education",
+        "religious-education"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -676,15 +944,31 @@
           "url": "https://en.wikipedia.org/wiki/Reconstructionist_Judaism",
           "title": "Reconstructionist Judaism",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Reconstructionist-Judaism",
+          "title": "Reconstructionist Judaism \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_79fb5963c1d9",
       "hash": "086ca7630f2bd42ffd45e56cac2c0b7a8f9f7a30fda9f4e10a92a07ffea19048",
       "text": "The BBC1 sitcom Grace & Favour was the sequel series to the long-running programme Are You Being Served",
-      "tags": [],
+      "tags": [
+        "television",
+        "comedy",
+        "sitcom",
+        "bbc",
+        "britain",
+        "television-history",
+        "entertainment",
+        "british-tv",
+        "sequel-series",
+        "popular-culture"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -717,15 +1001,31 @@
           "url": "https://en.wikipedia.org/wiki/Are_You_Being_Served",
           "title": "Are You Being Served",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.bbc.com/programmes/b00847g9",
+          "title": "Grace & Favour \u2014 BBC",
+          "source": "BBC"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_6d8ae065e46e",
       "hash": "088d7b96daf16e6c760cab1f055b626aaf9d552453f8c8a83b7f305e0d1e2805",
       "text": "1980 's Rescue at Rigel by Epyx was one of the first science fiction computer role-playing games",
-      "tags": [],
+      "tags": [
+        "video-games",
+        "science-fiction",
+        "role-playing-games",
+        "computer-games",
+        "game-history",
+        "1980s",
+        "technology",
+        "gaming-history",
+        "early-computer-games",
+        "rpg"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -753,15 +1053,31 @@
           "url": "https://en.wikipedia.org/wiki/Computer_role-playing_game",
           "title": "Computer role-playing game",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/technology/role-playing-game",
+          "title": "Role-Playing Game \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_2a8071a9f0bc",
       "hash": "658de19f3373839f70fe068bdb4667d8db8534e94ff8809615ee71b246b521fd",
       "text": "The Carte Orange is a pass for the public transportation system in Paris and the surrounding region",
-      "tags": [],
+      "tags": [
+        "public-transportation",
+        "paris",
+        "france",
+        "transportation",
+        "rail-transit",
+        "urban-transport",
+        "paris-metro",
+        "travel",
+        "infrastructure",
+        "transportation-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -787,17 +1103,33 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/%C3%8Ele_de_France",
-          "title": "Île de France",
+          "title": "\u00cele de France",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/place/Paris",
+          "title": "Paris \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_7cfc351501cf",
       "hash": "261d73b43d0da36fedb65e3dd8dd66eab3c5b5fed0543e666cad25be848c40af",
       "text": "Department S was an ITC Entertainment production which not only led to a successful spin-off, Jason King, but was also a large source of inspiration for Austin Powers",
-      "tags": [],
+      "tags": [
+        "television",
+        "entertainment",
+        "british-television",
+        "sitcom",
+        "spin-off",
+        "itc-production",
+        "television-history",
+        "popular-culture",
+        "comedy",
+        "britain"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -830,15 +1162,31 @@
           "url": "https://en.wikipedia.org/wiki/Austin_Powers",
           "title": "Austin Powers",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.bbc.com/programmes/b0073jst",
+          "title": "Department S \u2014 BBC",
+          "source": "BBC"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_35883c386674",
       "hash": "9e297c890e20aa0faa83120f55179aa0395391518c37ec0ec650aa4255244b1a",
       "text": "Patients with acrocyanosis have dark or bluish hands and feet but are otherwise normal",
-      "tags": [],
+      "tags": [
+        "medicine",
+        "health-condition",
+        "medical-diagnosis",
+        "rare-condition",
+        "circulation-disorder",
+        "skin-condition",
+        "medical-science",
+        "health",
+        "unusual-conditions",
+        "science-facts"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -861,15 +1209,31 @@
           "url": "https://en.wikipedia.org/wiki/Foot",
           "title": "Foot",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/science/acrocyanosis",
+          "title": "Acrocyanosis \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_569133eae5ff",
       "hash": "708bcc43e49d1a389f4b27049c1a2d50281fbeec9538eb772ddc0c6cd9017072",
       "text": "Andy Ducat suffered a heart attack and died whilst playing in a wartime cricket match and is the only person to have died during a cricket match on the Lord's Cricket Ground",
-      "tags": [],
+      "tags": [
+        "cricket",
+        "sports-history",
+        "sports-tragedy",
+        "wartime-sports",
+        "unusual-sports-facts",
+        "sporting-achievement",
+        "cricket-history",
+        "sports-deaths",
+        "cricket-records",
+        "extraordinary-events"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -897,15 +1261,31 @@
           "url": "https://en.wikipedia.org/wiki/Lord%27s_Cricket_Ground",
           "title": "Lord's Cricket Ground",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/sports/cricket",
+          "title": "Cricket \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_e55907eae813",
       "hash": "039a47845c7030e4658745d2294df718f570ac8cb5fcbfb8bdefc23e3263420d",
       "text": "Frank Ryan earned a Ph.D. in mathematics while playing quarterback for the Cleveland Browns",
-      "tags": [],
+      "tags": [
+        "american-football",
+        "education",
+        "nfl",
+        "sports-history",
+        "quarterback",
+        "mathematics",
+        "unusual-sports-facts",
+        "scholars-athletes",
+        "education-sports",
+        "multi-talented-people"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -938,15 +1318,31 @@
           "url": "https://en.wikipedia.org/wiki/Cleveland_Browns",
           "title": "Cleveland Browns",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Frank-Ryan",
+          "title": "Frank Ryan \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_a2e7b36850f0",
       "hash": "1941e9480884d310d427c0da262e0bac529f05f296a66b3712da1c58a1501a71",
       "text": "Country -comedian and Hee Haw star Archie Campbell's childhood home has been preserved as a \"tourism complex and museum\" in Bulls Gap, Tennessee",
-      "tags": [],
+      "tags": [
+        "country-music",
+        "comedian",
+        "hee-haw",
+        "entertainment",
+        "american-culture",
+        "popular-culture",
+        "music-history",
+        "television-personality",
+        "childhood-home",
+        "cultural-preservation"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -974,15 +1370,31 @@
           "url": "https://en.wikipedia.org/wiki/Bulls_Gap,_Tennessee",
           "title": "Bulls Gap, Tennessee",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Archie-Campbell",
+          "title": "Archie Campbell \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_272cad9646e1",
       "hash": "9f76021a0d6e5e37e601421b57fbf7d16cecc9bbd68782828f7d0763c01ecc7a",
       "text": "The Teller-Ulam design is considered \"the secret of the hydrogen bomb \"",
-      "tags": [],
+      "tags": [
+        "nuclear-weapons",
+        "weapons-technology",
+        "military-history",
+        "teller-ulam",
+        "hydrogen-bomb",
+        "weapons-of-mass-destruction",
+        "military-technology",
+        "classified-information",
+        "history",
+        "science"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1000,15 +1412,31 @@
           "url": "https://en.wikipedia.org/wiki/Hydrogen_bomb",
           "title": "Hydrogen bomb",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/technology/nuclear-weapon",
+          "title": "Nuclear Weapon \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_62b873bcc215",
       "hash": "998588c2fb58f70541da6119b0eb251e3da14391a8ee476766981cc1629f8503",
       "text": "Children's book The Gruffalo was made into a play and was performed at the National Theater and on Broadway",
-      "tags": [],
+      "tags": [
+        "children-books",
+        "literature",
+        "gruffalo",
+        "theatre",
+        "children-literature",
+        "book-adaptation",
+        "theatre-production",
+        "national-theater",
+        "bbc",
+        "popular-culture"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1031,15 +1459,31 @@
           "url": "https://en.wikipedia.org/wiki/Broadway_(Manhattan)",
           "title": "Broadway (Manhattan)",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/The-Gruffalo",
+          "title": "The Gruffalo \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_616f2233f1b0",
       "hash": "cb277f8b478dee4140e994483b9ab3accbcd31a1217a7dcfb2b312ee388d6630",
       "text": "The powerful ancient Egyptian courtier Yuya is thought by some scholars to have been the historical Joseph of Genesis",
-      "tags": [],
+      "tags": [
+        "ancient-egypt",
+        "history",
+        "egyptian-history",
+        "archaeology",
+        "biblical-history",
+        "historical-figures",
+        "egyptology",
+        "ancient-world",
+        "scholars",
+        "historical-research"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1067,15 +1511,31 @@
           "url": "https://en.wikipedia.org/wiki/Book_of_Genesis",
           "title": "Book of Genesis",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/ancient-Egypt",
+          "title": "Ancient Egypt \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_176d1c2a37e6",
       "hash": "0c09933f6a170347f9f4253080b386b675dcb8a31923c63550c8c61748ed19d9",
       "text": "Internet entrepreneur Pete Ashdown is running against incumbent Orrin Hatch for the 2006 U.S. Senate race in Utah",
-      "tags": [],
+      "tags": [
+        "internet-entrepreneur",
+        "politics",
+        "elections",
+        "united-states",
+        "senate",
+        "technology",
+        "2006-election",
+        "political-candidates",
+        "american-politics",
+        "public-service"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1108,15 +1568,31 @@
           "url": "https://en.wikipedia.org/wiki/Utah",
           "title": "Utah",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://ballotpedia.org/Pete_Ashdown",
+          "title": "Pete Ashdown \u2014 Ballotpedia",
+          "source": "Ballotpedia"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_6d8918855acd",
       "hash": "0f814cad3103aaaa8c9d2a33997b63baa5612ebb430da488abc9b93f0e7f7c39",
       "text": "The Russian musical group Terem Quartet performs classical works on folk instruments in a humorous, virtuosic style",
-      "tags": [],
+      "tags": [
+        "music",
+        "folk-instruments",
+        "russian-culture",
+        "classical-music",
+        "traditional-music",
+        "chamber-music",
+        "entertainment",
+        "cultural-groups",
+        "music-history",
+        "world-music"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1144,15 +1620,31 @@
           "url": "https://en.wikipedia.org/wiki/Folk_music",
           "title": "Folk music",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Terem-Quartet",
+          "title": "Terem Quartet \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_711cc596ac26",
       "hash": "c37018f04df15ec6743e49a649153ae7690df94c2f93ffbb7bb205380fb7ab62",
       "text": "The field of island restoration is usually credited with having been started in New Zealand in the 1960s",
-      "tags": [],
+      "tags": [
+        "conservation",
+        "ecology",
+        "island-restoration",
+        "new-zealand",
+        "environment",
+        "wildlife",
+        "restoration-ecology",
+        "environmental-science",
+        "conservation-history",
+        "endangered-species"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1170,15 +1662,31 @@
           "url": "https://en.wikipedia.org/wiki/New_Zealand",
           "title": "New Zealand",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/science/restoration-ecology",
+          "title": "Restoration Ecology \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_e5d98c322f00",
       "hash": "55c899befea42f75518de74970acedddc966c54f6513c08bd322170a7223e526",
       "text": "Edgar Evans was the first person to die on the ill-fated Scott Polar Expedition of 1910 - 1912",
-      "tags": [],
+      "tags": [
+        "antarctic-exploration",
+        "scott-polar-expedition",
+        "exploration-history",
+        "tragedy",
+        "death-exploration",
+        "polar-exploration",
+        "military-history",
+        "british-history",
+        "historical-tragedy",
+        "exploration"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1196,15 +1704,31 @@
           "url": "https://en.wikipedia.org/wiki/Robert_Falcon_Scott",
           "title": "Robert Falcon Scott",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Edgar-Evans",
+          "title": "Edgar Evans \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_f19e3352c401",
       "hash": "2a226e59842a7d93f14c87e143bf69f987b303b22b76de2ab9aac8c05e83ea1b",
-      "text": "Bitòn Coulibaly transformed a Ségou youth organisation into an army that he used to found the eighteenth-century Bambara Empire",
-      "tags": [],
+      "text": "Bit\u00f2n Coulibaly transformed a S\u00e9gou youth organisation into an army that he used to found the eighteenth-century Bambara Empire",
+      "tags": [
+        "west-african-history",
+        "mali",
+        "military-history",
+        "empire-building",
+        "segou",
+        "youth-organization",
+        "african-history",
+        "leadership",
+        "cultural-history",
+        "power-dynamics"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1215,12 +1739,12 @@
       "links": [
         {
           "url": "https://en.wikipedia.org/wiki/Bit%C3%B2n_Coulibaly",
-          "title": "Bitòn Coulibaly",
+          "title": "Bit\u00f2n Coulibaly",
           "source": "Wikipedia"
         },
         {
           "url": "https://en.wikipedia.org/wiki/S%C3%A9gou",
-          "title": "Ségou",
+          "title": "S\u00e9gou",
           "source": "Wikipedia"
         },
         {
@@ -1232,15 +1756,31 @@
           "url": "https://en.wikipedia.org/wiki/Bambara_Empire",
           "title": "Bambara Empire",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Bitton-Coulibaly",
+          "title": "Bitton Coulibaly \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_c71c8df1f6f2",
       "hash": "918ab2c3128e7ad6d757293395f76e465a461112a2ffa27c884355288455a04d",
       "text": "Johnny Rodgers was voted the University of Nebraska's college football \" Player of the Century \" and College Football News called him \"the greatest kick returner in college football history\"",
-      "tags": [],
+      "tags": [
+        "american-football",
+        "college-football",
+        "nebraska-cornhuskers",
+        "sports-awards",
+        "football-history",
+        "century-awards",
+        "sports-records",
+        "unusual-sports-facts",
+        "sporting-achievement",
+        "college-sports"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1263,15 +1803,31 @@
           "url": "https://en.wikipedia.org/wiki/College_football",
           "title": "College football",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Johnny-Rodgers",
+          "title": "Johnny Rodgers \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_17fe5058f188",
       "hash": "1cce08a3c0517cc64687f857fdf2e5fb43d03ebae0e39c271611455573738e5c",
       "text": "The soleus muscle is a leg muscle important for standing, walking, and running",
-      "tags": [],
+      "tags": [
+        "anatomy",
+        "human-body",
+        "muscle",
+        "physiology",
+        "medical-science",
+        "fitness",
+        "health",
+        "biomechanics",
+        "exercise-science",
+        "body-function"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1294,15 +1850,31 @@
           "url": "https://en.wikipedia.org/wiki/Muscle",
           "title": "Muscle",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/science/soleus-muscle",
+          "title": "Soleus Muscle \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_804f64f7a753",
       "hash": "0cc83b522236d5c5156ca6d40d6eac5ccb90d34adc76a0abca163281fdd21b7e",
       "text": "The Peul preacher and social reformer Seku Amadu led a jihad against the Bambara Empire of nineteenth-century West Africa to found his own theocratic Massina Empire",
-      "tags": [],
+      "tags": [
+        "west-african-history",
+        "religion",
+        "islam",
+        "jihad",
+        "religious-reform",
+        "social-reform",
+        "preacher",
+        "mali",
+        "empire-founding",
+        "african-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1345,15 +1917,31 @@
           "url": "https://en.wikipedia.org/wiki/Massina_Empire",
           "title": "Massina Empire",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Seku-Amadu",
+          "title": "Seku Amadu \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_0ac1d765e807",
       "hash": "031cbda676c6a1888ad1b2b976c7f34ac5ef412fa2083fa001cdb545def01623",
       "text": "The Working Group on Internet Governance is a United Nations body set up to investigate the future governance of the Internet and the role of ICANN",
-      "tags": [],
+      "tags": [
+        "united-nations",
+        "governance",
+        "internet",
+        "global-policy",
+        "technology-policy",
+        "international-relations",
+        "policy-making",
+        "digital-governance",
+        "global-governance",
+        "working-group"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1381,15 +1969,31 @@
           "url": "https://en.wikipedia.org/wiki/ICANN",
           "title": "ICANN",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Working-Group-on-Internet-Governance",
+          "title": "Working Group on Internet Governance \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_96fea8e03ca9",
       "hash": "9b681e751d49ffd8bfa159fffa781acae590a05a70f8a36610bae9ed66126133",
       "text": "Adjustable gastric banding is a form of weight loss surgery which does not cut into or remove any part of the digestive system",
-      "tags": [],
+      "tags": [
+        "weight-loss-surgery",
+        "medicine",
+        "medical-technology",
+        "gastric-surgery",
+        "bariatric-surgery",
+        "health",
+        "obesity-treatment",
+        "surgical-innovation",
+        "medical-science",
+        "weight-management"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1412,15 +2016,31 @@
           "url": "https://en.wikipedia.org/wiki/Gastrointestinal_tract",
           "title": "Gastrointestinal tract",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/science/gastric-banding",
+          "title": "Gastric Banding \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_bcb18d67020f",
       "hash": "a128369320bf4a6636455e44e45ac1d0b08851b1939af214e8510aa6c5d2872d",
       "text": "Puerto Rican painter Antonio Martorell was about to board the Underground shortly before the 7 July 2005 London bombings, but he stopped at his hotel to get breakfast and learned about the bombings while at the restaurant",
-      "tags": [],
+      "tags": [
+        "puerto-rico",
+        "art",
+        "painter",
+        "terrorism",
+        "7-july-2005",
+        "london",
+        "near-death-experience",
+        "art-history",
+        "puerto-rican-culture",
+        "contemporary-art"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1448,15 +2068,31 @@
           "url": "https://en.wikipedia.org/wiki/7_July_2005_London_bombings",
           "title": "7 July 2005 London bombings",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Antonio-Martorell",
+          "title": "Antonio Martorell \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_d87cff44eb1b",
       "hash": "64157ea6f4622b98be27221ba1191c8ad2dcca9ba312324bf2c51d53588a6bc8",
-      "text": "The poems of Richard Dehmel were set to music by composers like Richard Strauss, Max Reger, Arnold Schönberg and Kurt Weill, or inspired them to write music",
-      "tags": [],
+      "text": "The poems of Richard Dehmel were set to music by composers like Richard Strauss, Max Reger, Arnold Sch\u00f6nberg and Kurt Weill, or inspired them to write music",
+      "tags": [
+        "poetry",
+        "music",
+        "composer",
+        "literature",
+        "musical-adaptation",
+        "classical-music",
+        "german-poetry",
+        "richard-strauss",
+        "literature-music",
+        "19th-century"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1482,22 +2118,38 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/Arnold_Sch%C3%B6nberg",
-          "title": "Arnold Schönberg",
+          "title": "Arnold Sch\u00f6nberg",
           "source": "Wikipedia"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Kurt_Weill",
           "title": "Kurt Weill",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Richard-Dehmel",
+          "title": "Richard Dehmel \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_5a1f2e08b173",
       "hash": "26eae0cfabb2e2ab470ec63dbc95872361f34b7b9cda9ebe539330e425466b55",
       "text": "Clyde Tunnel in Glasgow was built rather than a bridge to not interfere with shipping, a concern which was out of date by the tunnel's completion",
-      "tags": [],
+      "tags": [
+        "bridge-engineering",
+        "tunnel-engineering",
+        "glasgow",
+        "scotland",
+        "infrastructure",
+        "transportation",
+        "civil-engineering",
+        "engineering-history",
+        "shipping",
+        "architecture"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1520,15 +2172,31 @@
           "url": "https://en.wikipedia.org/wiki/Shipping",
           "title": "Shipping",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/technology/tunnel",
+          "title": "Tunnel \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_5dbf5c2bd930",
       "hash": "967ec96c6f304cb3bb78078db50965e8cdf64ef8e3ed961704b3f3d88ea0a872",
       "text": "NASA, Google, Microsoft and Yahoo! are shipping their own GIS killer applications known as the \" virtual globe \"",
-      "tags": [],
+      "tags": [
+        "technology",
+        "gis",
+        "mapping-technology",
+        "google-maps",
+        "google-earth",
+        "microsoft-bing",
+        "technology-innovation",
+        "geography-information",
+        "software",
+        "internet-technology"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1571,15 +2239,31 @@
           "url": "https://en.wikipedia.org/wiki/Virtual_globe",
           "title": "Virtual globe",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/technology/GIS",
+          "title": "GIS \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_97e2d71e232c",
       "hash": "2c32dd8574c6d8f66aa4a174a12a7c760254aa8e312204a250f68491a5d8cc8b",
       "text": "The Super Buddies, a team of DC Comics superheroes, were a comedic Justice League offshoot who first appeared in the Eisner Award -winning miniseries Formerly Known as the Justice League",
-      "tags": [],
+      "tags": [
+        "comic-books",
+        "superheroes",
+        "dc-comics",
+        "justice-league",
+        "super-buddies",
+        "entertainment",
+        "popular-culture",
+        "comic-history",
+        "humor",
+        "fictional-characters"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1612,15 +2296,31 @@
           "url": "https://en.wikipedia.org/wiki/Eisner_Award",
           "title": "Eisner Award",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Super-Buddies",
+          "title": "Super Buddies \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_fc131ddc76e7",
       "hash": "1b648283e7447af0d337b32ae00d64373d38cb66bfec15c524a44f06c721fa58",
       "text": "Yogi Rock is a rock found on Mars by the Mars Pathfinder mission that looks surprisingly like Yogi Bear's head",
-      "tags": [],
+      "tags": [
+        "mars-exploration",
+        "nasa",
+        "mars-pathfinder",
+        "planetary-science",
+        "space-exploration",
+        "geology",
+        "unusual-rocks",
+        "planetary-features",
+        "space-missions",
+        "astronomy"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1648,15 +2348,31 @@
           "url": "https://en.wikipedia.org/wiki/Yogi_Bear",
           "title": "Yogi Bear",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.nasa.gov/mars/",
+          "title": "Mars \u2014 NASA",
+          "source": "NASA"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_d5ae84a1a943",
       "hash": "70107e163d97e71087765016ebdfcda26a532d36c4369620ce59f0edf3bb7f92",
       "text": "California Certified Organic Farmers was one of the first U.S. based organizations to certify organic farmers",
-      "tags": [],
+      "tags": [
+        "organic-farming",
+        "agriculture",
+        "certification",
+        "california",
+        "food-industry",
+        "farming-history",
+        "sustainable-agriculture",
+        "environmental-movement",
+        "food-production",
+        "agricultural-business"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1679,15 +2395,31 @@
           "url": "https://en.wikipedia.org/wiki/Organic_agriculture",
           "title": "Organic agriculture",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/organic-farming",
+          "title": "Organic Farming \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_741e15ae9f08",
       "hash": "926189063fcbfebb66ce2d4affafc45ee3e7edfefd8ab1edea4b627322042339",
       "text": "The St'at'imcets language, an endangered language of British Columbia, is similar to Semitic languages in that it also has pharyngeal consonants",
-      "tags": [],
+      "tags": [
+        "linguistics",
+        "endangered-languages",
+        "british-columbia",
+        "indigenous-languages",
+        "language-structure",
+        "canadian-indigenous",
+        "semitic-languages",
+        "language-comparison",
+        "linguistic-research",
+        "language-preservation"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1720,15 +2452,31 @@
           "url": "https://en.wikipedia.org/wiki/Pharyngeal_consonant",
           "title": "Pharyngeal consonant",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/St'at'imcets",
+          "title": "St'at'imcets Language \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_baa673ed3d38",
       "hash": "ef01f3e6a72669913a8782ac80f8c676ba8952dfd6cfa242879bb57502e69271",
       "text": "The Perioikoi were free inhabitants but not citizens under Spartan rule",
-      "tags": [],
+      "tags": [
+        "ancient-greece",
+        "sparta",
+        "social-structure",
+        "ancient-history",
+        "spartan-society",
+        "greek-history",
+        "citizenship",
+        "political-systems",
+        "historical-society",
+        "ancient-world"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1746,15 +2494,31 @@
           "url": "https://en.wikipedia.org/wiki/Sparta",
           "title": "Sparta",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/ancient-Greece",
+          "title": "Ancient Greece \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_33b04ddf00da",
       "hash": "cddf3d63e2e9d443a4722a486570ad9d4c4d7fa61e4e0c5d52284b5fec571859",
       "text": "Businessman Ginery Twichell started in stage lines before transitioning to railroads and three terms in the U.S. Congress",
-      "tags": [],
+      "tags": [
+        "business-history",
+        "transportation",
+        "railroad-history",
+        "entrepreneur",
+        "american-business",
+        "stage-lines",
+        "transportation-history",
+        "business-success",
+        "entrepreneurship",
+        "american-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1782,15 +2546,31 @@
           "url": "https://en.wikipedia.org/wiki/United_States_House_of_Representatives",
           "title": "United States House of Representatives",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Ginery-Twichell",
+          "title": "Ginery Twichell \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_5d4b69315782",
       "hash": "eb9a5a92e74be3d6f2291c056b019f2310283d69f897ac6cafce950f2e43c764",
       "text": "The Wallkill River is one of the few rivers that drains into a creek, because it is impounded just before the confluence",
-      "tags": [],
+      "tags": [
+        "hydrology",
+        "rivers",
+        "water-systems",
+        "unusual-geography",
+        "creek-systems",
+        "geography",
+        "water-engineering",
+        "natural-features",
+        "environmental-science",
+        "geography-facts"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1818,15 +2598,31 @@
           "url": "https://en.wikipedia.org/wiki/Confluence",
           "title": "Confluence",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/science/river",
+          "title": "River \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_dd53fb429958",
       "hash": "024c55172083d1c9a5830847506995372aabef6ffae8a4cc5fbb219c3981b691",
       "text": "Wilfred Stamp, 2nd Baron Stamp holds the record for holding a peerage for the shortest length of time due to a legal fiction in English law",
-      "tags": [],
+      "tags": [
+        "nobility",
+        "british-peerage",
+        "record-breaking",
+        "unusual-records",
+        "british-history",
+        "aristocracy",
+        "historical-records",
+        "shortest-tenure",
+        "british-society",
+        "royal-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1849,15 +2645,31 @@
           "url": "https://en.wikipedia.org/wiki/English_law",
           "title": "English law",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/peerage",
+          "title": "Peerage \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_f8e8a08b25bc",
       "hash": "1e5e921fdcf253f25a18145cc9b3e7fea643bc4c5d42ab44985bbbe7b8aac11d",
       "text": "The Springboro Star Press is a weekly newspaper in southwestern Ohio published since 1976",
-      "tags": [],
+      "tags": [
+        "journalism",
+        "newspapers",
+        "local-news",
+        "ohio",
+        "media-history",
+        "publication-history",
+        "small-press",
+        "american-media",
+        "local-journalism",
+        "publishing"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1875,15 +2687,31 @@
           "url": "https://en.wikipedia.org/wiki/Ohio",
           "title": "Ohio",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/newspaper",
+          "title": "Newspaper \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_18e3fb3b70bb",
       "hash": "714f467c492c522bce486567481e7943a030969af3f8178ea9191ab09215f333",
       "text": "The Karl-Marx-Hof in Vienna is the longest single residential building in the world and spans four tram stations",
-      "tags": [],
+      "tags": [
+        "architecture",
+        "vienna",
+        "austria",
+        "residential-building",
+        "urban-design",
+        "social-housing",
+        "austrian-architecture",
+        "record-breaking",
+        "building-records",
+        "real-estate"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1911,15 +2739,31 @@
           "url": "https://en.wikipedia.org/wiki/Tram",
           "title": "Tram",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Karl-Marx-Hof",
+          "title": "Karl-Marx-Hof \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_360ccafc0231",
       "hash": "cb90c9ca7901cf135120fa50a7867ed623b65098734508923f444c1be0b1691e",
       "text": "Khash is a traditional Armenian dish from the Shirak region which has cow's feet as its main ingredient",
-      "tags": [],
+      "tags": [
+        "armenian-cuisine",
+        "food",
+        "traditional-food",
+        "cultural-food",
+        "armenian-culture",
+        "regional-cuisine",
+        "food-history",
+        "culinary-tradition",
+        "cultural-food-practices",
+        "world-cuisine"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1947,15 +2791,31 @@
           "url": "https://en.wikipedia.org/wiki/Cow",
           "title": "Cow",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Khash",
+          "title": "Khash \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_7d201dc25a61",
       "hash": "6deebde75657860d37bcd1d5169b3a7fc0b0a66b0e3f79c4b768efd53b1ab051",
       "text": "The first known classical fiction in Korean literature called Kumo shinhwa (Kumo's tales) by Kim Shi-sup was written in Chinese characters",
-      "tags": [],
+      "tags": [
+        "korean-literature",
+        "literature",
+        "fiction",
+        "classical-literature",
+        "korean-history",
+        "asian-literature",
+        "literary-history",
+        "cultural-literature",
+        "ancient-texts",
+        "16th-century"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -1978,15 +2838,31 @@
           "url": "https://en.wikipedia.org/wiki/Chinese_character",
           "title": "Chinese character",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Korean-literature",
+          "title": "Korean Literature \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_4adff6ce035a",
       "hash": "4567bc087e925b59de964cb3a92902872376f182fd35d02163d5c39d903548ef",
       "text": "The Swedish Bikini Team, an advertising and marketing campaign for Old Milwaukee beer was shut down in the U.S. following protests by the National Organization for Women",
-      "tags": [],
+      "tags": [
+        "advertising",
+        "marketing",
+        "beer-advertising",
+        "old-milwaukee",
+        "controversial-advertising",
+        "advertising-history",
+        "american-advertising",
+        "controversial-marketing",
+        "gender-issues",
+        "popular-culture"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2029,15 +2905,31 @@
           "url": "https://en.wikipedia.org/wiki/National_Organization_for_Women",
           "title": "National Organization for Women",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Swedish-Bikini-Team",
+          "title": "Swedish Bikini Team \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_0632cf002e14",
       "hash": "6d0967a145b7126025ffed876286681015b939832c679462d81db66bccd0963e",
       "text": "First Monday was a U.S. television program about a moderate U.S. Supreme Court Justice appointed to a court evenly divided between conservatives and liberals",
-      "tags": [],
+      "tags": [
+        "television",
+        "us-television",
+        "television-drama",
+        "supreme-court",
+        "american-tv",
+        "legal-drama",
+        "television-series",
+        "government",
+        "entertainment",
+        "american-culture"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2085,15 +2977,31 @@
           "url": "https://en.wikipedia.org/wiki/Left-wing",
           "title": "Left-wing",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/First-Monday-TV",
+          "title": "First Monday \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_4fa8bab4e0ec",
       "hash": "2132fd4d253eea48675c7c0664c8964bded6afcff0caf649ff4567029a608f27",
       "text": "The Choristodera are extinct reptiles that lived during the time of the dinosaurs and have a skull structure similar to that of the modern day Gharial",
-      "tags": [],
+      "tags": [
+        "paleontology",
+        "extinct-reptiles",
+        "dinosaur-era",
+        "prehistoric-animals",
+        "ancient-life",
+        "evolution",
+        "paleozoology",
+        "reptiles",
+        "extinct-species",
+        "prehistoric-life"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2126,15 +3034,31 @@
           "url": "https://en.wikipedia.org/wiki/Gharial",
           "title": "Gharial",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/science/Choristodera",
+          "title": "Choristodera \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_d39a49a9d356",
       "hash": "8f534232d77b6f4dfb75101b1f2db7e040849f39aa8656f4b071550811180758",
       "text": "Legendary producer and arranger Quincy Jones produced jazz vocalist Helen Merrill's self-titled debut album when he was just 21 years old",
-      "tags": [],
+      "tags": [
+        "jazz",
+        "music",
+        "record-producer",
+        "quincy-jones",
+        "music-history",
+        "album-production",
+        "jazz-history",
+        "music-production",
+        "famous-producer",
+        "music-collaboration"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2172,15 +3096,31 @@
           "url": "https://en.wikipedia.org/wiki/Helen_Merrill",
           "title": "Helen Merrill",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Quincy-Jones",
+          "title": "Quincy Jones \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_ebe8312da9fe",
       "hash": "60a90124cb3303024c06ad4e6b239a5676cea06a66fa485b2a4e627252115f9b",
       "text": "The Irish cricket team didn't become an official member of the International Cricket Council until 1993, despite having played first-class cricket matches since 1902, including games against Scotland, Australia and New Zealand",
-      "tags": [],
+      "tags": [
+        "cricket",
+        "international-cricket",
+        "ireland",
+        "sports-history",
+        "cricket-history",
+        "sporting-achievement",
+        "cricket-records",
+        "international-sports",
+        "sports-governance",
+        "cricket-development"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2218,15 +3158,31 @@
           "url": "https://en.wikipedia.org/wiki/New_Zealand_cricket_team",
           "title": "New Zealand cricket team",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Irish-cricket",
+          "title": "Irish Cricket \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_bb33d047124a",
       "hash": "12109ec58fbda301293a44065c880180ecd6484e8251a0af8e02eacc3c9cf599",
       "text": "King Ali bin Hussein of Hejaz succeeded to his father's titles of king and Sharif of Mecca in 1924, only a year before their territory was conquered and annexed by the House of Saud",
-      "tags": [],
+      "tags": [
+        "middle-east-history",
+        "saudi-arabia",
+        "hejaz",
+        "islam",
+        "royal-history",
+        "arab-history",
+        "mecca",
+        "kingship",
+        "historical-figures",
+        "royal-succession"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2249,15 +3205,31 @@
           "url": "https://en.wikipedia.org/wiki/House_of_Saud",
           "title": "House of Saud",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Ali-ibn-Hussein",
+          "title": "Ali ibn Hussein \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_c8206d713b18",
       "hash": "4beb7acd8a73611b88f149aba9a69955ce74f9ec605387175db2cd8d10ff348f",
       "text": "\" Jive Talkin' \" is considered to be the \"comeback\" song for the Bee Gees, after an absence of three years from the Top 40 charts",
-      "tags": [],
+      "tags": [
+        "music",
+        "bee-gees",
+        "disco-music",
+        "comeback-music",
+        "1970s",
+        "music-history",
+        "popular-music",
+        "music-records",
+        "disco-era",
+        "rock-music"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2277,18 +3249,29 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Top_40",
-          "title": "Top 40",
-          "source": "Wikipedia"
+          "url": "https://www.britannica.com/biography/Bee-Gees",
+          "title": "Bee Gees \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_d7998e6bcf8b",
       "hash": "c22b5f0e9d436079a6af3d562007e4cdd03c1ac9513c520298914667a3929ac3",
-      "text": "Argentine painter Benito Quinquela Martín, who painted Dia de Sol (right), was adopted at the age of 6 from an orphanage where he was abandoned as a baby on March 21, 1890",
-      "tags": [],
+      "text": "Argentine painter Benito Quinquela Mart\u00edn, who painted Dia de Sol (right), was adopted at the age of 6 from an orphanage where he was abandoned as a baby on March 21, 1890",
+      "tags": [
+        "painter",
+        "argentina",
+        "art",
+        "adoption",
+        "artist-biography",
+        "latin-american-art",
+        "visual-art",
+        "painting-history",
+        "art-history",
+        "biographical-art"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2304,7 +3287,7 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/Benito_Quinquela_Mart%C3%ADn",
-          "title": "Benito Quinquela Martín",
+          "title": "Benito Quinquela Mart\u00edn",
           "source": "Wikipedia"
         },
         {
@@ -2313,18 +3296,29 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/March_21",
-          "title": "March 21",
-          "source": "Wikipedia"
+          "url": "https://www.britannica.com/biography/Benito-Quinquela-Martin",
+          "title": "Benito Quinquela Mart\u00edn \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_c6f757002176",
       "hash": "cc36d095f92254997d6ab1e9e5c71f7c88dda578084a94fc83ed351e6aafa7e8",
       "text": "The Gwenn ha du organisation made a bomb out of a condensed milk carton which blew up a statue in Rennes",
-      "tags": [],
+      "tags": [
+        "terrorism",
+        "activism",
+        "bomb",
+        "france",
+        "breton-independence",
+        "political-violence",
+        "history",
+        "underground-groups",
+        "statue-destruction",
+        "historical-incident"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2352,15 +3346,31 @@
           "url": "https://en.wikipedia.org/wiki/Rennes",
           "title": "Rennes",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Gwenn-ha-du",
+          "title": "Gwenn ha du \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_cc069257952f",
       "hash": "4cf693116e0071144c1b93db548ecd8cc6b4e067ef4962ec407946149b018de1",
       "text": "The composer Johannes Brahms premiered his Academic Festival Overture, a musical fantasy based on several student drinking songs, at the University of Breslau 's convocation to thank the institution for granting him an honorary doctorate",
-      "tags": [],
+      "tags": [
+        "music",
+        "composer",
+        "johannes-brahms",
+        "classical-music",
+        "musical-composition",
+        "overture",
+        "music-history",
+        "19th-century-music",
+        "academic-music",
+        "classical-composer"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2408,15 +3418,31 @@
           "url": "https://en.wikipedia.org/wiki/Honorary_degree",
           "title": "Honorary degree",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Johannes-Brahms",
+          "title": "Johannes Brahms \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_5e7b6dbb4cd3",
       "hash": "ff3f3ca9ead7aa0c759dbe3a79278fbf621124f29c37509090c086917fd0a2be",
       "text": "Foxtail millet has the longest history of cultivation among the millets, having been grown in China since between three and four thousand years ago",
-      "tags": [],
+      "tags": [
+        "agriculture",
+        "grain",
+        "crop-history",
+        "millet",
+        "food-crops",
+        "china",
+        "asian-agriculture",
+        "cultivation-history",
+        "food-history",
+        "agricultural-crops"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2439,15 +3465,31 @@
           "url": "https://en.wikipedia.org/wiki/China",
           "title": "China",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/foxtail-millet",
+          "title": "Foxtail Millet \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_f5bff6bcdfbc",
       "hash": "9548cf935fcc89bebce31f793ba92235d0eac2be205e90ba302f269368df91f0",
       "text": "Dr. Ibrahim Oweiss, Georgetown University economics professor, coined the term \" petrodollars \" to describe the US dollar income of oil-producing countries in 1973",
-      "tags": [],
+      "tags": [
+        "economics",
+        "petrodollars",
+        "oil-economics",
+        "international-economics",
+        "terminology-origins",
+        "economics-history",
+        "professor",
+        "finance",
+        "economic-concepts",
+        "business-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2485,15 +3527,31 @@
           "url": "https://en.wikipedia.org/wiki/US_dollar",
           "title": "US dollar",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Ibrahim-Oweiss",
+          "title": "Ibrahim Oweiss \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_1f3702a05b26",
       "hash": "034ccf81ea7adc2559f07f3435d4ade2fd3df9d013111ddfdacb0fc164bc5382",
       "text": "Chingay Parade in Singapore, a display of floats, music and dances, is a major festival in Asia attended by more than 200,000 people and watched by millions on TV across Asia",
-      "tags": [],
+      "tags": [
+        "festival",
+        "singapore",
+        "cultural-celebration",
+        "asian-festival",
+        "parade",
+        "floats",
+        "performance-art",
+        "traditional-festival",
+        "cultural-event",
+        "world-celebration"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2511,15 +3569,31 @@
           "url": "https://en.wikipedia.org/wiki/Singapore",
           "title": "Singapore",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Chingay-Parade",
+          "title": "Chingay Parade \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_c665c579556f",
       "hash": "6a9236aec1f65c62210ae864605750afe95cd3d48f739f97e101eac1ce85d64c",
       "text": "Tobacco advertising is one of the most highly-regulated forms of marketing, along with alcohol, and is banned in many countries",
-      "tags": [],
+      "tags": [
+        "advertising",
+        "tobacco-advertising",
+        "regulation",
+        "marketing-regulation",
+        "public-health",
+        "government-regulation",
+        "business-regulation",
+        "advertising-rules",
+        "consumer-protection",
+        "public-policy"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2542,15 +3616,31 @@
           "url": "https://en.wikipedia.org/wiki/Alcohol",
           "title": "Alcohol",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/tobacco-advertising",
+          "title": "Tobacco Advertising \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_dc3d5eef7499",
       "hash": "6bec9ea92b2877da93e7ffc3d1c4f72c779e35eae20ea904f5ed3dcd23c22a15",
       "text": "Research on U.S. compulsory sterilization legislation by American eugenicist E.S. Gosney was cited by officials in Nazi Germany as the basis of their own forced sterilization policy",
-      "tags": [],
+      "tags": [
+        "eugenics",
+        "history-of-science",
+        "sterilization",
+        "ethics",
+        "biological-research",
+        "historical-ethics",
+        "human-experimentation",
+        "american-history",
+        "scientific-ethics",
+        "dark-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2578,15 +3668,31 @@
           "url": "https://en.wikipedia.org/wiki/Nazi_Germany",
           "title": "Nazi Germany",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/eugenics",
+          "title": "Eugenics \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_86dc4e1dd68c",
       "hash": "7034dd5ad6a917f352fea22e9c7fe7dffd2491810f407c6bd14c81b5aff93091",
       "text": "Like many desert rodents, kangaroo mice go their entire lives without drinking and get water from their food",
-      "tags": [],
+      "tags": [
+        "desert-animals",
+        "rodent",
+        "adaptation",
+        "biology",
+        "animals",
+        "survival-adaptation",
+        "zoology",
+        "desert-life",
+        "animal-physiology",
+        "natural-adaptation"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2619,15 +3725,31 @@
           "url": "https://en.wikipedia.org/wiki/Food",
           "title": "Food",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/kangaroo-mouse",
+          "title": "Kangaroo Mouse \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_7e8a0db2a781",
       "hash": "29e18b01a98db563e2f4b0e8db2252f6822201091dc1b42f9714a72685da8c39",
       "text": "Ronald Bass, the Academy Award -winning screenwriter of Rain Man, taught himself to read by the age of three",
-      "tags": [],
+      "tags": [
+        "screenwriter",
+        "rain-man",
+        "dyslexia",
+        "hollywood",
+        "autobiography",
+        "film-industry",
+        "learning-disability",
+        "self-taught",
+        "film-history",
+        "notable-people"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2655,15 +3777,31 @@
           "url": "https://en.wikipedia.org/wiki/Rain_Man",
           "title": "Rain Man",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Ronald-Bass",
+          "title": "Ronald Bass \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_a316c026ba84",
       "hash": "c9f7863044ec806139c2cfe6f8d144606f20196904b91795ae1ee9a8d87c223b",
       "text": "Chris Woods cost Queens Park Rangers 250,000 pounds from Nottingham Forest in 1979 even though he had never played a League game before his transfer",
-      "tags": [],
+      "tags": [
+        "football",
+        "sports-transfer",
+        "nottingham-forest",
+        "queens-park-rangers",
+        "sports-history",
+        "transfer-record",
+        "player-transfer",
+        "football-history",
+        "british-football",
+        "sports-trivia"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2696,15 +3834,31 @@
           "url": "https://en.wikipedia.org/wiki/Football_League_First_Division",
           "title": "Football League First Division",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Chris-Woods",
+          "title": "Chris Woods \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_5c2092cb8e44",
       "hash": "8b782eec1158c51c5d805c9ffff66f744b1ca80801013cd6f8c70d6f549ff787",
       "text": "The Tarot of Marseilles is the source of most contemporary designs of tarot cards",
-      "tags": [],
+      "tags": [
+        "tarot",
+        "card-games",
+        "divination",
+        "marseilles-tarot",
+        "design-history",
+        "card-design",
+        "occult",
+        "card-games-history",
+        "fortune-telling",
+        "symbolic-art"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2722,15 +3876,31 @@
           "url": "https://en.wikipedia.org/wiki/Tarot",
           "title": "Tarot",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/tarot",
+          "title": "Tarot \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_85f30dd12522",
       "hash": "80c11b0b71f25fec2018d41147ae0a56da515ea3a660458e343227fe014ed602",
-      "text": "Malian fashion designer Chris Seydou pioneered the use of bògòlanfini, a traditional Bamana mudcloth, in international fashion",
-      "tags": [],
+      "text": "Malian fashion designer Chris Seydou pioneered the use of b\u00f2g\u00f2lanfini, a traditional Bamana mudcloth, in international fashion",
+      "tags": [
+        "fashion",
+        "mali",
+        "textile-design",
+        "bogolan-textile",
+        "designer",
+        "african-fashion",
+        "bamana-culture",
+        "textile-art",
+        "traditional-art",
+        "cultural-fashion"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2756,22 +3926,38 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/B%C3%B2g%C3%B2lanfini",
-          "title": "Bògòlanfini",
+          "title": "B\u00f2g\u00f2lanfini",
           "source": "Wikipedia"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Bamana",
           "title": "Bamana",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Chris-Seydou",
+          "title": "Chris Seydou \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_8288bc6bfb04",
       "hash": "4e5a4955ce53a83c1a6ca4c98f6cdf1c86227daac1d7628df30f01d2d0f6c85e",
       "text": "Lord of the Nutcracker Men was a 2001 children's novel about World War I",
-      "tags": [],
+      "tags": [
+        "children-literature",
+        "world-war-i",
+        "fiction",
+        "novel",
+        "war-fiction",
+        "children-books",
+        "historical-fiction",
+        "wartime-literature",
+        "literature-history",
+        "book-genre"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2789,15 +3975,31 @@
           "url": "https://en.wikipedia.org/wiki/World_War_I",
           "title": "World War I",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Lord-of-the-Nutcracker-Men",
+          "title": "Lord of the Nutcracker Men \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_15462cd1d3a6",
       "hash": "3206dfd18b7b5ae4d572ae3176c380dfba6b0b672d3bfc0c3b415de8a455a36f",
       "text": "The bite of the hematophagous assassin bug, which causes the rare South American parasitic infection known as Chagas disease, could have been the reason behind Charles Darwin's illness",
-      "tags": [],
+      "tags": [
+        "parasitic-infection",
+        "tropical-medicine",
+        "insect-borne-disease",
+        "chagas-disease",
+        "south-america",
+        "disease",
+        "medicine",
+        "vector-borne-disease",
+        "rare-disease",
+        "medical-condition"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2835,15 +4037,31 @@
           "url": "https://en.wikipedia.org/wiki/Charles_Darwin%27s_illness",
           "title": "Charles Darwin's illness",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/science/Chagas-disease",
+          "title": "Chagas Disease \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_b123b77fdf10",
       "hash": "6084b7e7c4f99dddefb8a56687518bff57adc842b35a27ce1c94579614c2b318",
       "text": "Huchoun was one of the earliest Scottish poets and wrote a number of important alliterative verse romances in the early 14th century",
-      "tags": [],
+      "tags": [
+        "scottish-poetry",
+        "medieval-poetry",
+        "literature",
+        "alliterative-verse",
+        "scottish-history",
+        "medieval-literature",
+        "scottish-literature",
+        "poetry-history",
+        "ancient-poetry",
+        "literary-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2871,15 +4089,31 @@
           "url": "https://en.wikipedia.org/wiki/14th_century",
           "title": "14th century",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Huchoun",
+          "title": "Huchoun \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_c7fdd79d9285",
       "hash": "c41d181c39f0ab591a990012bf81b50cdfbc8858f6dcad2f6634958c05c7beb3",
       "text": "The Indian Railways Fan Club is the Internet 's largest website devoted to the Indian Railways and rail transport in the Indian subcontinent",
-      "tags": [],
+      "tags": [
+        "internet-culture",
+        "fan-communities",
+        "indian-railways",
+        "enthusiast-community",
+        "online-community",
+        "internet-websites",
+        "niche-interest",
+        "railways-history",
+        "fan-club",
+        "online-fandom"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2912,15 +4146,31 @@
           "url": "https://en.wikipedia.org/wiki/Indian_subcontinent",
           "title": "Indian subcontinent",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Indian-Railways",
+          "title": "Indian Railways \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_f2e970b15f1a",
       "hash": "4088f1872e413497c4e613618c0ded9611a9057298fce01c4bc62739b9a24838",
       "text": "London Pride is a garden flower symbolic of ordinary Londoners ' resilience under attack",
-      "tags": [],
+      "tags": [
+        "london",
+        "flower",
+        "symbol",
+        "resilience",
+        "war",
+        "world-war-ii",
+        "british-culture",
+        "symbolism",
+        "garden-plants",
+        "cultural-symbol"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2938,15 +4188,31 @@
           "url": "https://en.wikipedia.org/wiki/London",
           "title": "London",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/London-Pride",
+          "title": "London Pride \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_10c3029ff81b",
       "hash": "06134f8cfb8ea4c5857d729332d2a47dccda32175768153b23519cac5799e4b6",
       "text": "William Dudley Chipley first brought rail lines to Pensacola, Florida, connecting the Atlantic coast of Florida with other Gulf Coast states for the first time",
-      "tags": [],
+      "tags": [
+        "railroad-history",
+        "florida",
+        "infrastructure",
+        "pensacola",
+        "transportation-history",
+        "american-history",
+        "railway-development",
+        "business-history",
+        "regional-development",
+        "transport-entrepreneur"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -2979,15 +4245,31 @@
           "url": "https://en.wikipedia.org/wiki/Gulf_Coast",
           "title": "Gulf Coast",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/William-Dudley-Chipley",
+          "title": "William Dudley Chipley \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_8738e08a7e36",
       "hash": "9c6af4c62ba8db5f053919e1504adbba7890edfade7971af1c5e65e062fcb3df",
       "text": "Barbara Cassani founded the budget airline Go Fly before becoming the initial leader of London's bid for the 2012 Summer Olympics",
-      "tags": [],
+      "tags": [
+        "airline-industry",
+        "budget-airline",
+        "london-olympics",
+        "go-fly",
+        "aviation-history",
+        "business-founder",
+        "entrepreneurship",
+        "transportation",
+        "olympic-games",
+        "businesswoman"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3020,15 +4302,31 @@
           "url": "https://en.wikipedia.org/wiki/2012_Summer_Olympics",
           "title": "2012 Summer Olympics",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Barbara-Cassani",
+          "title": "Barbara Cassani \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_11ef61259439",
       "hash": "2e56bdb1b1cba0b527ffdcfdabd6e35d5241d0987f5c3d3a51983d48e9fb5fe7",
       "text": "The genetically modified plum C5 is the only Prunus species resistant to the devastating plant disease plum pox",
-      "tags": [],
+      "tags": [
+        "agriculture",
+        "genetic-engineering",
+        "crop-disease",
+        "plant-genetics",
+        "food-production",
+        "disease-resistance",
+        "gmo",
+        "farming-innovation",
+        "crop-improvement",
+        "agricultural-science"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3056,15 +4354,31 @@
           "url": "https://en.wikipedia.org/wiki/Plum_pox",
           "title": "Plum pox",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/C5-plum",
+          "title": "C5 Plum \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_dc6dfcb33bf0",
       "hash": "ab06e38801c90259d854401401e6542da8fc900deb118c17333556862f7dd1fe",
       "text": "Ferrellgas, the largest propane retail distributor in the United States, started in 1939 as a family-owned business in Atchison, Kansas",
-      "tags": [],
+      "tags": [
+        "propane",
+        "energy-industry",
+        "family-business",
+        "retail-business",
+        "energy-distribution",
+        "american-business",
+        "energy-history",
+        "distribution-network",
+        "business-growth",
+        "entrepreneurship"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3092,15 +4406,31 @@
           "url": "https://en.wikipedia.org/wiki/Atchison,_Kansas",
           "title": "Atchison, Kansas",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Ferrellgas",
+          "title": "Ferrellgas \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_5dd539cb5ad5",
       "hash": "9180cd319b063c449237125d862f9144af800ad18b08bdd85e3b2b280f0ddf0e",
       "text": "Many of the scenes Louisa May Alcott depicts in her book Little Women took place when her family was living in The Wayside in Concord, Massachusetts",
-      "tags": [],
+      "tags": [
+        "literature",
+        "louisa-may-alcott",
+        "little-women",
+        "biographical-literature",
+        "autobiographical-writing",
+        "children-literature",
+        "american-literature",
+        "novel-writing",
+        "literary-inspiration",
+        "personal-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3128,15 +4458,31 @@
           "url": "https://en.wikipedia.org/wiki/Concord,_Massachusetts",
           "title": "Concord, Massachusetts",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Louisa-May-Alcott",
+          "title": "Louisa May Alcott \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_a1600fb0c929",
       "hash": "ec90aaee8615efd96b13167966db2c66a4bad35e294eff447957f2e9faa5a824",
       "text": "Watson's Hotel is India 's oldest cast iron building and is among the \" 100 Most Endangered Sites \"",
-      "tags": [],
+      "tags": [
+        "architecture",
+        "india",
+        "cast-iron-building",
+        "historical-building",
+        "endangered-architecture",
+        "heritage-building",
+        "architectural-history",
+        "building-preservation",
+        "historic-preservation",
+        "indian-architecture"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3159,15 +4505,31 @@
           "url": "https://en.wikipedia.org/wiki/Cast_iron",
           "title": "Cast iron",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Watson's-Hotel",
+          "title": "Watson's Hotel \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_574afd79a443",
       "hash": "6d9f26e5da13815b4d31657650816534e2ef41abc9590dbf3f048d5a9bd8cc2f",
       "text": "The French battleship France sank after hitting an uncharted rock during a patrol of Quiberon Bay on August 26, 1922",
-      "tags": [],
+      "tags": [
+        "naval-history",
+        "france",
+        "warship",
+        "shipwreck",
+        "military-history",
+        "naval-disaster",
+        "maritime-tragedy",
+        "ship-history",
+        "naval-accident",
+        "disaster-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3182,18 +4544,29 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/August_26",
-          "title": "August 26",
-          "source": "Wikipedia"
+          "url": "https://www.britannica.com/topic/French-battleship-France",
+          "title": "French Battleship France \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_83211ccdbec0",
       "hash": "b60471b575a3f6c03bd8c185edda7ba6f2659fca21f2608dc901333f9e120009",
       "text": "Measuring the levels of certain enzymes called transaminases can help to diagnose some liver diseases",
-      "tags": [],
+      "tags": [
+        "medicine",
+        "liver-disease",
+        "medical-diagnosis",
+        "enzyme-testing",
+        "health-science",
+        "medical-science",
+        "diagnostic-method",
+        "internal-medicine",
+        "medical-testing",
+        "clinical-medicine"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3216,15 +4589,31 @@
           "url": "https://en.wikipedia.org/wiki/Liver",
           "title": "Liver",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/science/transaminase",
+          "title": "Transaminase \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_3b1ac5daedb7",
       "hash": "ec0e44f69bb7c3327c52051d36e197dcc3d2f395c673c7f6e3dabddacec54c44",
       "text": "According to Scientology doctrine, the inhabitants of the alien Marcab Confederacy liked to race high-speed automobiles on tracks booby-trapped with atom bombs",
-      "tags": [],
+      "tags": [
+        "scientology",
+        "religion",
+        "alien-belief",
+        "science-fiction-religion",
+        "doctrine",
+        "controversial-religion",
+        "religious-beliefs",
+        "sci-fi-themes",
+        "cultural-beliefs",
+        "alternative-religion"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3247,15 +4636,31 @@
           "url": "https://en.wikipedia.org/wiki/Atom_bomb",
           "title": "Atom bomb",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Scientology",
+          "title": "Scientology \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_9f0bfb783fcd",
       "hash": "953db0600c5ca866e70c70e50b435fd0c48545bb08f629e4c209374be8483d19",
       "text": "The Olympic Javelin is a high-speed rail service announced as part of the public transport regeneration of London in readiness for the 2012 Summer Olympics",
-      "tags": [],
+      "tags": [
+        "public-transport",
+        "rail-service",
+        "high-speed-rail",
+        "regeneration-project",
+        "technology",
+        "transportation-innovation",
+        "infrastructure-project",
+        "olympic-project",
+        "urban-planning",
+        "transportation-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3288,15 +4693,31 @@
           "url": "https://en.wikipedia.org/wiki/2012_Summer_Olympics",
           "title": "2012 Summer Olympics",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Olympic-Javelin",
+          "title": "Olympic Javelin \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_9b521cd47a59",
       "hash": "12ff967fbaf653a50c0d43b29f7860bd1bab4260384d39110ac25095ba501c06",
       "text": "The Indian Meteorological Department was set up as a result of a tropical cyclone that hit Calcutta in 1864, and the subsequent famines in 1866 and 1871 due to failing monsoons",
-      "tags": [],
+      "tags": [
+        "meteorology",
+        "india",
+        "weather-science",
+        "cyclone",
+        "weather-history",
+        "government-organization",
+        "natural-disaster",
+        "scientific-organization",
+        "meteorological-science",
+        "earth-science"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3329,15 +4750,31 @@
           "url": "https://en.wikipedia.org/wiki/Monsoon",
           "title": "Monsoon",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Indian-Meteorological-Department",
+          "title": "Indian Meteorological Department \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_93290b4852cc",
       "hash": "39bc4624482c9e709fccd87edfe62b3a84159f0bf18d6c7fcc3f0d34b6342ed5",
-      "text": "Mandinka prince Sundiata Keita defeated Sosso king Soumaoro Kanté at the Battle of Kirina in 1240, securing the future of the Mali Empire",
-      "tags": [],
+      "text": "Mandinka prince Sundiata Keita defeated Sosso king Soumaoro Kant\u00e9 at the Battle of Kirina in 1240, securing the future of the Mali Empire",
+      "tags": [
+        "african-history",
+        "mali",
+        "military-victory",
+        "empire-founding",
+        "battle",
+        "mandinka",
+        "west-african-history",
+        "leadership",
+        "historical-figures",
+        "medieval-africa"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3358,7 +4795,7 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/Soumaoro_Kant%C3%A9",
-          "title": "Soumaoro Kanté",
+          "title": "Soumaoro Kant\u00e9",
           "source": "Wikipedia"
         },
         {
@@ -3370,15 +4807,31 @@
           "url": "https://en.wikipedia.org/wiki/Mali_Empire",
           "title": "Mali Empire",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Sundiata-Keita",
+          "title": "Sundiata Keita \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_54dd2c5294af",
       "hash": "42d66c09e4bacc642d19ab8e82b22af96f61457cba0b51f8ec92985cc10a3164",
       "text": "Shrimp farms are a serious threat to the environment because they cause widespread destruction of mangroves and disperse antibiotics through their wastewater",
-      "tags": [],
+      "tags": [
+        "environment",
+        "aquaculture",
+        "ecological-damage",
+        "mangrove-destruction",
+        "farming-impact",
+        "environmental-impact",
+        "sustainability",
+        "animal-farming",
+        "environmental-threat",
+        "conservation"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3406,15 +4859,31 @@
           "url": "https://en.wikipedia.org/wiki/Antibiotic",
           "title": "Antibiotic",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/shrimp-farming",
+          "title": "Shrimp Farming \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_fcebf089f8e4",
       "hash": "3b71040aaa7354e32263516eb25bb8bd96c469721029fa7e95ba2711e444648f",
       "text": "The Plan of Saint Gall is the only surviving architectual drawing from the 700-year period between the fall of Rome and the 13th century, and is a national treasure of Switzerland",
-      "tags": [],
+      "tags": [
+        "architecture",
+        "medieval-design",
+        "monastery",
+        "architectural-drawing",
+        "medieval-period",
+        "monastery-design",
+        "historical-architecture",
+        "design-history",
+        "religious-architecture",
+        "ancient-design"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3447,15 +4916,31 @@
           "url": "https://en.wikipedia.org/wiki/Switzerland",
           "title": "Switzerland",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Plan-of-Saint-Gall",
+          "title": "Plan of Saint Gall \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_222bfcfb174f",
       "hash": "493c6699f0634db56f2088f70e706cf9329e8b4430fce5976224ea015c07270e",
       "text": "Cyrus K. Holliday was a founder of the city of Topeka, Kansas, as well as the first president of the Atchison, Topeka and Santa Fe Railroad",
-      "tags": [],
+      "tags": [
+        "kansas-history",
+        "topeka",
+        "city-founder",
+        "railroad-history",
+        "business-history",
+        "american-founder",
+        "entrepreneurship",
+        "american-history",
+        "regional-development",
+        "business-development"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3478,15 +4963,31 @@
           "url": "https://en.wikipedia.org/wiki/Atchison,_Topeka_and_Santa_Fe_Railroad",
           "title": "Atchison, Topeka and Santa Fe Railroad",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Cyrus-K-Holliday",
+          "title": "Cyrus K. Holliday \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_bf19e9d243c9",
       "hash": "b1dd2c776787e6acc5059d08a95fd162cec69d49325608c845991c2e31768dfc",
       "text": "The Battle of Britain Memorial Flight contains the world's oldest airworthy survivor of the Battle of Britain, alongside ten other historic aircraft - two of which fought over Normandy on D-Day",
-      "tags": [],
+      "tags": [
+        "military-history",
+        "aviation-history",
+        "world-war-ii",
+        "battle-of-britain",
+        "aircraft",
+        "air-force",
+        "memorial",
+        "warbird-aviation",
+        "british-history",
+        "historical-aircraft"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3514,15 +5015,31 @@
           "url": "https://en.wikipedia.org/wiki/D-Day",
           "title": "D-Day",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Battle-of-Britain-Memorial-Flight",
+          "title": "Battle of Britain Memorial Flight \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_1d05bcacf52e",
       "hash": "7903e12135ccbb4f1378355a73f17f6e19960e181f2c5fc7f86fc1e25c8161de",
-      "text": "The main work of the Swedish painter Ernst Josephson, Strömkarlen (the Nix ), was refused by the Swedish Nationalmuseum in 1884, and later bought by Prince Eugén, the youngest son of king Oscar II",
-      "tags": [],
+      "text": "The main work of the Swedish painter Ernst Josephson, Str\u00f6mkarlen (the Nix ), was refused by the Swedish Nationalmuseum in 1884, and later bought by Prince Eug\u00e9n, the youngest son of king Oscar II",
+      "tags": [
+        "swedish-art",
+        "painter",
+        "painting",
+        "art-history",
+        "swedish-culture",
+        "artistic-rejection",
+        "visual-art",
+        "19th-century-art",
+        "artist-biography",
+        "art-criticism"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3548,22 +5065,38 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/Prince_Eug%C3%A9n_of_Sweden",
-          "title": "Prince Eugén of Sweden",
+          "title": "Prince Eug\u00e9n of Sweden",
           "source": "Wikipedia"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Oscar_II",
           "title": "Oscar II",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Ernst-Josephson",
+          "title": "Ernst Josephson \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_d60ac702219e",
       "hash": "4dc3598937d68b2cac061bdb9739d522329aea7ef0edc9b16f6e2a893816b41b",
       "text": "Soap opera actor Cameron Mathison suffered from Perthes disease as a child, requiring him to wear leg braces for nearly four years",
-      "tags": [],
+      "tags": [
+        "entertainment",
+        "actor",
+        "disease",
+        "childhood-illness",
+        "perthes-disease",
+        "disability",
+        "overcoming-adversity",
+        "soap-opera",
+        "television",
+        "actor-biography"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3586,15 +5119,31 @@
           "url": "https://en.wikipedia.org/wiki/Perthes_disease",
           "title": "Perthes disease",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Cameron-Mathison",
+          "title": "Cameron Mathison \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_dcaf8b0c70e1",
       "hash": "419e7706e63042058b55be9d49f02c72fa53307f2b392887585300d8a68b8b99",
       "text": "Henry Horne, 1st Baron Horne was the only British artillerist to command an army in World War I",
-      "tags": [],
+      "tags": [
+        "military-history",
+        "world-war-i",
+        "british-history",
+        "artillery",
+        "military-leadership",
+        "armed-forces",
+        "commanding-officer",
+        "military-rank",
+        "historical-figures",
+        "war-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3622,15 +5171,31 @@
           "url": "https://en.wikipedia.org/wiki/World_War_I",
           "title": "World War I",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Henry-Horne-1st-Baron-Horne",
+          "title": "Henry Horne, 1st Baron Horne \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_984adea40564",
       "hash": "76c9da2ecd8baaae8c173dbc0d844e77a57467d84025c52e475318d160de1957",
       "text": "The U.S. Central Intelligence Agency supported the Chushi Gangdruk guerilla fighters in their attempts to overthrow the Communist Party of China in Tibet in the 1950s",
-      "tags": [],
+      "tags": [
+        "cold-war",
+        "cia",
+        "guerilla-warfare",
+        "tibetan-history",
+        "china-relations",
+        "covert-operations",
+        "intelligence-agency",
+        "military-history",
+        "geopolitical-history",
+        "secret-operations"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3663,15 +5228,31 @@
           "url": "https://en.wikipedia.org/wiki/Tibet",
           "title": "Tibet",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/CIA",
+          "title": "Central Intelligence Agency \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_d86f277f7c3d",
       "hash": "bc1688587a61fee1724308bd2d8aa0655d49a77defe7dedbe5ba8f3a3eedab3e",
       "text": "Carolingian art permitted the drawing of human figures during the Iconoclasm controversy of the 9th century",
-      "tags": [],
+      "tags": [
+        "medieval-art",
+        "iconoclasm",
+        "religion",
+        "carolingian-art",
+        "art-history",
+        "theological-controversy",
+        "church-art",
+        "religious-art",
+        "medieval-period",
+        "artistic-practice"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3694,15 +5275,31 @@
           "url": "https://en.wikipedia.org/wiki/9th_century",
           "title": "9th century",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Carolingian-art",
+          "title": "Carolingian Art \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_a8352e0d6204",
       "hash": "4d00cc8d7b8e5654485b587ca5c3468c9683ad36e14324a6b10c184cc630e66d",
       "text": "Five teams in cricket's 2005 ICC Trophy will be granted official one-day international status for the next four years",
-      "tags": [],
+      "tags": [
+        "cricket",
+        "international-cricket",
+        "cricket-tournament",
+        "sports-governance",
+        "cricket-history",
+        "cricket-development",
+        "sporting-achievement",
+        "icc-cricket",
+        "sports-organization",
+        "cricket-records"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3725,15 +5322,31 @@
           "url": "https://en.wikipedia.org/wiki/One-day_international",
           "title": "One-day international",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/ICC-Trophy",
+          "title": "ICC Trophy \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_1d3a06117aec",
       "hash": "1c9201942520e9fe5a39615c647a41d2594112de9e07751cd2d143939690d43e",
       "text": "In the 1850s, El Hadj Umar Tall founded a short-lived Islamic empire covering modern day Guinea, Senegal, and Mali",
-      "tags": [],
+      "tags": [
+        "west-african-history",
+        "islam",
+        "empire-founding",
+        "senegal",
+        "guinea",
+        "leadership",
+        "religious-empire",
+        "islamic-history",
+        "african-history",
+        "19th-century"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3766,15 +5379,31 @@
           "url": "https://en.wikipedia.org/wiki/Mali",
           "title": "Mali",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/El-Hadj-Umar-Tall",
+          "title": "El Hadj Umar Tall \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_20d3a42c720b",
       "hash": "3cdf26b8bf4bdb73df96502cf510483149cf67c6bcd3283aba6ea734f3da4ea1",
       "text": "Constable Stephen Tibble had been in the Metropolitan Police Force of Greater London for six months before he was killed by an IRA gunman",
-      "tags": [],
+      "tags": [
+        "law-enforcement",
+        "metropolitan-police",
+        "london",
+        "police-history",
+        "tragedy",
+        "police-officer",
+        "7-july-2005",
+        "terrorism",
+        "government-agency",
+        "british-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3807,15 +5436,31 @@
           "url": "https://en.wikipedia.org/wiki/Irish_Republican_Army",
           "title": "Irish Republican Army",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/event/7-7-attacks",
+          "title": "7/7 Attacks \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_d53cd896819b",
       "hash": "9764e47aa77e11083d7ed298183f94f0e0ae0739f3206342b0d9f24b8c98f3c9",
       "text": "The only effective way to manage the bacterial plant disease citrus canker is to destroy all infected citrus trees",
-      "tags": [],
+      "tags": [
+        "agriculture",
+        "crop-disease",
+        "plant-pathology",
+        "citrus",
+        "disease-management",
+        "farming",
+        "agricultural-disease",
+        "food-production",
+        "disease-control",
+        "crop-management"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3838,15 +5483,31 @@
           "url": "https://en.wikipedia.org/wiki/Citrus",
           "title": "Citrus",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/citrus-canker",
+          "title": "Citrus Canker \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_7c8dd69bde75",
       "hash": "4982466df86b1801e94e35b527989786de65f6438d199fb54f161f2d987fe9e7",
       "text": "Panel painting was the primary painting medium used in the West, from about the 13th to the 16th century, before canvas and oil paint became the norm",
-      "tags": [],
+      "tags": [
+        "painting",
+        "art-history",
+        "artistic-medium",
+        "western-art",
+        "medieval-period",
+        "renaissance-art",
+        "painting-technique",
+        "art-materials",
+        "visual-art",
+        "art-evolution"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3884,15 +5545,31 @@
           "url": "https://en.wikipedia.org/wiki/Oil_paint",
           "title": "Oil paint",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/art/panel-painting",
+          "title": "Panel Painting \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_81318e45f645",
       "hash": "ba92aa3284c54aa0eefe73d97829e6eab82ccef0b1e8b6fd5ef14041c951332e",
       "text": "George Gershwin selected tap dance innovator John W. Bubbles to play a major role in his opera Porgy and Bess, even though he did not read music",
-      "tags": [],
+      "tags": [
+        "opera",
+        "music",
+        "george-gershwin",
+        "porgy-bess",
+        "musical-theater",
+        "dance",
+        "classical-music",
+        "jazz-opera",
+        "american-music",
+        "musical-composition"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3925,15 +5602,31 @@
           "url": "https://en.wikipedia.org/wiki/Sight_reading",
           "title": "Sight reading",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/George-Gershwin",
+          "title": "George Gershwin \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_4595b09e8bdb",
       "hash": "fb4646ff7564fc1a5f3e64d48eba2495cd27ce89d6ebe6ff0a557260ff884915",
       "text": "After actor Philip Loeb committed suicide, an article in the New York Times noting his passing commented that \"He died of a sickness commonly called ' the blacklist '.\"",
-      "tags": [],
+      "tags": [
+        "suicide",
+        "media-representation",
+        "new-york-times",
+        "actor-biography",
+        "depression",
+        "obituary",
+        "entertainment-history",
+        "actor",
+        "media-ethics",
+        "dark-history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3961,15 +5654,31 @@
           "url": "https://en.wikipedia.org/wiki/Hollywood_blacklist",
           "title": "Hollywood blacklist",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Philip-Loeb",
+          "title": "Philip Loeb \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_6d894a902dae",
       "hash": "2cc5f6c2481ed5165d304dd7eef33f218df9afac915fe17815027afae111aa12",
-      "text": "The Siglas Poveiras are a proto-writing system inherited from the Vikings and have been used for more than a thousand years by the fishermen of Póvoa de Varzim, Portugal",
-      "tags": [],
+      "text": "The Siglas Poveiras are a proto-writing system inherited from the Vikings and have been used for more than a thousand years by the fishermen of P\u00f3voa de Varzim, Portugal",
+      "tags": [
+        "writing-system",
+        "proto-writing",
+        "vikings",
+        "portuguese-culture",
+        "writing-history",
+        "symbol-system",
+        "cultural-heritage",
+        "linguistic-history",
+        "ancient-writing",
+        "historical-writing"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -3995,22 +5704,38 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/P%C3%B3voa_de_Varzim",
-          "title": "Póvoa de Varzim",
+          "title": "P\u00f3voa de Varzim",
           "source": "Wikipedia"
         },
         {
           "url": "https://en.wikipedia.org/wiki/Portugal",
           "title": "Portugal",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Siglas-Poveiras",
+          "title": "Siglas Poveiras \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_7efbaf62cd1c",
       "hash": "5aef40094396ba898d28d53fe840b35637896cbda5df78e6ba7ef61ae1ae11de",
       "text": "Massachusetts Avenue, home of Washington D.C.'s Embassy Row, is both the longest and widest avenue in the city",
-      "tags": [],
+      "tags": [
+        "washington-dc",
+        "embassy-row",
+        "avenue-records",
+        "american-capital",
+        "urban-design",
+        "diplomacy",
+        "infrastructure",
+        "city-planning",
+        "record-breaking",
+        "geography-records"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -4033,15 +5758,31 @@
           "url": "https://en.wikipedia.org/wiki/Embassy_Row",
           "title": "Embassy Row",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/place/Massachusetts-Avenue",
+          "title": "Massachusetts Avenue \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_be19952e8fc0",
       "hash": "0b539b621ee0fe1b83a4ee6ecad8b088c075f6433ae3426d67aa8c05597d6164",
       "text": "The Dictionary of the Middle Ages (1989) is the largest English language encyclopedia of the Middle Ages, covering over 100,000 topics",
-      "tags": [],
+      "tags": [
+        "encyclopedia",
+        "reference-book",
+        "middle-ages-history",
+        "medieval-studies",
+        "academic-reference",
+        "research-tools",
+        "scholarly-work",
+        "history-reference",
+        "medieval-knowledge",
+        "information-resource"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -4069,15 +5810,31 @@
           "url": "https://en.wikipedia.org/wiki/Middle_Ages",
           "title": "Middle Ages",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Dictionary-of-the-Middle-Ages",
+          "title": "Dictionary of the Middle Ages \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "dyk_2005_Jul_0837b2214c95",
       "hash": "fd5393ec5ed191e1935e73b674208162f349a6b77fd780fb654e926f6a0a6f80",
       "text": "J. Willard Marriott grew a small root beer stand to a huge hotel and resort chain, Marriott International",
-      "tags": [],
+      "tags": [
+        "business-history",
+        "hospitality-industry",
+        "restaurant-business",
+        "hotel-chain",
+        "marriott",
+        "entrepreneurship",
+        "american-business",
+        "business-success",
+        "corporate-empire",
+        "family-business"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -4110,9 +5867,14 @@
           "url": "https://en.wikipedia.org/wiki/Marriott_International",
           "title": "Marriott International",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/J-Willard-Marriott",
+          "title": "J. Willard Marriott \u2014 Britannica",
+          "source": "Britannica"
         }
       ],
-      "version": 1
+      "version": 2
     }
   ]
 }
