@@ -9,36 +9,36 @@
       "version": 2
     },
     "dyk_2004_Nov": {
-      "tags": true,
+      "tags": false,
       "links": false,
-      "tagged_facts": 154,
-      "linked_facts": 150,
+      "tagged_facts": 0,
+      "linked_facts": 0,
       "total_facts": 154,
-      "version": 2
+      "version": 1
     },
     "dyk_2004_Oct": {
-      "tags": true,
-      "links": true,
-      "tagged_facts": 107,
-      "linked_facts": 107,
+      "tags": false,
+      "links": false,
+      "tagged_facts": 0,
+      "linked_facts": 0,
       "total_facts": 107,
-      "version": 2
+      "version": 1
     },
     "dyk_2005_Apr": {
-      "tags": true,
-      "links": true,
-      "tagged_facts": 95,
-      "linked_facts": 90,
+      "tags": false,
+      "links": false,
+      "tagged_facts": 0,
+      "linked_facts": 0,
       "total_facts": 95,
-      "version": 2
+      "version": 1
     },
     "dyk_2005_Aug": {
-      "tags": true,
-      "links": true,
-      "tagged_facts": 140,
-      "linked_facts": 140,
+      "tags": false,
+      "links": false,
+      "tagged_facts": 0,
+      "linked_facts": 0,
       "total_facts": 140,
-      "version": 2
+      "version": 1
     },
     "dyk_2005_Dec": {
       "tags": false,
@@ -65,12 +65,12 @@
       "version": 1
     },
     "dyk_2005_Jul": {
-      "tags": true,
+      "tags": false,
       "links": false,
-      "tagged_facts": 112,
-      "linked_facts": 3,
+      "tagged_facts": 0,
+      "linked_facts": 0,
       "total_facts": 112,
-      "version": 2
+      "version": 1
     },
     "dyk_2005_Jun": {
       "tags": false,
@@ -81,12 +81,12 @@
       "version": 1
     },
     "dyk_2005_Mar": {
-      "tags": true,
-      "links": true,
-      "tagged_facts": 99,
-      "linked_facts": 99,
+      "tags": false,
+      "links": false,
+      "tagged_facts": 0,
+      "linked_facts": 0,
       "total_facts": 99,
-      "version": 2
+      "version": 1
     },
     "dyk_2005_May": {
       "tags": false,

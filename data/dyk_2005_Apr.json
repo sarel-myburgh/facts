@@ -6,21 +6,10 @@
       "id": "dyk_2005_Apr_8fa3f2379955",
       "hash": "a425bec10797712aa67ee8b0e380398832f9e54b41f859777980615b4c7e8758",
       "text": "Perley A. Thomas was a Canadian millsmith who attended night courses, learned drafting and design skills, and became a renowned streetcar and bus manufacturer in High Point, North Carolina",
-      "tags": [
-        "perley a. thomas",
-        "canadian",
-        "millsmith",
-        "drafting",
-        "design",
-        "streetcar",
-        "bus manufacturer",
-        "high point",
-        "north carolina",
-        "inventor"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Muzeum_MHD%2C_tramvaje_T3_8084_a_6149%2C_zep%C5%99edu.jpg",
-        "caption": "Tram"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -47,27 +36,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_0629f28103f8",
       "hash": "ee42f484a9248f1365c43146a1a9de233164ebd10b94f9ce69e32ca5ab915697",
       "text": "American actress Susan Oliver, after surviving a plane crash that almost ended her life, became the first woman to fly a single-engined aircraft solo from New York City across the Atlantic Ocean",
-      "tags": [
-        "susan oliver",
-        "american actress",
-        "plane crash",
-        "survival",
-        "first woman",
-        "solo flight",
-        "single-engined aircraft",
-        "new york city",
-        "atlantic ocean",
-        "aviation pioneer"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Susan_Oliver.jpg",
-        "caption": "Susan Oliver"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -94,27 +72,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_cc723355aa37",
       "hash": "4aded1756707e61fa481f59fcba3a9f3bbf557f390ed4545216db1f738734243",
       "text": "The Windows Template Library is perhaps the only open source library by Microsoft",
-      "tags": [
-        "windows template library",
-        "microsoft",
-        "open source",
-        "library",
-        "software",
-        "development",
-        "programming",
-        "windows",
-        "framework",
-        "code"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ogg_vorbis_libs_and_application_dia.svg/500px-Ogg_vorbis_libs_and_application_dia.svg.png",
-        "caption": "Library (computing)"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -146,27 +113,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_650dc40b58e3",
       "hash": "42ded92b1ce0a72effab6774de3f933369653e9d81c6691382fd88336d7485ee",
       "text": "The two airplanes on the Bar Harbor Airlines fleet that had accidents were numbered N200WP and N300WP respectively",
-      "tags": [
-        "bar harbor airlines",
-        "airplanes",
-        "accidents",
-        "n200wp",
-        "n300wp",
-        "aircraft registration",
-        "aviation safety",
-        "airline",
-        "incidents",
-        "fleet"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/8/8d/Logonamebarhabor.jpg",
-        "caption": "Bar Harbor Airlines"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -178,27 +134,16 @@
           "source": "Wikipedia"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_3e67e03a4500",
       "hash": "afdcb3ec593e5a96fa39b993c2f6db724ed6ea173102135011c113fbea57f55c",
       "text": "One-room schools were commonplace throughout rural portions of the United States, Canada and Australia until the early 20th century, and that they continue in some parts of Ireland today",
-      "tags": [
-        "one-room schools",
-        "rural education",
-        "united states",
-        "canada",
-        "australia",
-        "ireland",
-        "early 20th century",
-        "historical education",
-        "school system",
-        "education"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Shelby_County%2C_Iowa._The_general_attitude_in_this_community_about_education_is_that_every_child_shou_._._._-_NARA_-_522410.jpg",
-        "caption": "One-room school, Iowa"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -210,27 +155,16 @@
           "source": "Wikipedia"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_0c685990816e",
       "hash": "fbb5fc62ef4ae9b2b29ae11aff4378817706755223efa5298ef50f64a8e38f57",
       "text": "Thousands of toads in Hamburg, Germany recently became mysterious exploding toads",
-      "tags": [
-        "thousands",
-        "toads",
-        "hamburg",
-        "germany",
-        "exploding toads",
-        "mystery",
-        "amphibians",
-        "animal phenomenon",
-        "nature",
-        "wildlife"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bombina_bombina_1_%28Marek_Szczepanek%29.jpg",
-        "caption": "Toad"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -257,27 +191,16 @@
           "source": "Britannica"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_d4c32084aba8",
       "hash": "a1549f25c10a641ace08b042d9b6fcdd598f903aaad1f46ad8e12117a4c984b4",
       "text": "A kid hack was a horse-drawn vehicle used for transporting children to school in the late 19th and early 20th centuries in the United States? This early form of school bus powered by both horses and mules, was usually loaded at the rear to avoid frightening the animals.",
-      "tags": [
-        "kid hack",
-        "horse-drawn vehicle",
-        "school transportation",
-        "late 19th century",
-        "early 20th century",
-        "united states",
-        "school bus",
-        "horses",
-        "mules",
-        "historical transport"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Horse-drawn-kid-hack.jpg",
-        "caption": "Horse-drawn kid hack"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -304,27 +227,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_5ef523fc2649",
       "hash": "eb516ef164d1c64b7f516d711d7803d0ec1a884d4fa0b65cf7bbe22825523917",
       "text": "A remand prisoner may be entitled to wear their own clothing, rather than a prison uniform",
-      "tags": [
-        "remand prisoner",
-        "clothing",
-        "prison uniform",
-        "rights",
-        "justice system",
-        "detainee",
-        "prison",
-        "legal rights",
-        "uniform",
-        "inmate"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Justice_statue.jpg",
-        "caption": "Pre-trial detention"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -341,27 +253,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_992112475e3c",
       "hash": "1ac95ca64516187f49fe4ce9e5170f464f9be41d74352c0c673d0c6a69fa744f",
       "text": "Madonna of the Trail is a series of monuments dedicated to the spirit of the pioneer woman in the United States? Created by German immigrant sculptor August Leimbach, 12 were placed from Maryland to California in 1928 and 1929.",
-      "tags": [
-        "madonna of the trail",
-        "monuments",
-        "pioneer woman",
-        "united states",
-        "august leimbach",
-        "german sculptor",
-        "maryland",
-        "california",
-        "1928",
-        "1929"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Albuquerque_Madonna.jpg",
-        "caption": "Madonna of the Trail"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -393,27 +294,16 @@
           "source": "Smithsonian Institution"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_f8584f17f9f8",
       "hash": "90ef6e144158509d290d7f2a43d2ce6ea4fbe53300251ddf2fb0303f55e0d6fc",
       "text": "The growing of heirloom plants may help increase the genetic variety of crops",
-      "tags": [
-        "heirloom plants",
-        "genetic variety",
-        "crops",
-        "agriculture",
-        "biodiversity",
-        "farming",
-        "plant breeding",
-        "sustainability",
-        "food security",
-        "gardening"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg",
-        "caption": "Heirloom plant"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -435,27 +325,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_4620b42c0669",
       "hash": "a633d0d07a97e287d0a7f5e3185283ee4f09308e7437343c08cf6dd22dfac329",
       "text": "The Laotian Rock Rat is a new species of rodent that is unique enough to lead researchers to create a new family of mammals",
-      "tags": [
-        "laotian rock rat",
-        "new species",
-        "rodent",
-        "unique",
-        "researchers",
-        "new family",
-        "mammals",
-        "zoology",
-        "discovery",
-        "biology"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Laonastes_aenigmamus_-_young_male_JP_Hugot_PLOS_ONE.jpg",
-        "caption": "Laotian rock rat"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -482,27 +361,16 @@
           "source": "National Geographic"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_e968a11b4262",
       "hash": "b967361f5e345ba126cee5ef7dbf502981105c376e2115cefc2be4ab4570b0ce",
       "text": "The International Dance Day has been celebrated on April 29 since 1982? It commemorates the birthday of Jean-Georges Noverre, the creator of modern ballet.",
-      "tags": [
-        "international dance day",
-        "april 29",
-        "1982",
-        "jean-georges noverre",
-        "modern ballet",
-        "dance",
-        "celebration",
-        "arts",
-        "culture",
-        "ballet"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Jean-Georges_Noverre.jpg",
-        "caption": "Jean-Georges Noverre"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -534,27 +402,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_084a868b9e28",
       "hash": "33779c3e6dfcc476548953f6eae3dd6b7ab4e9d1ded3ab717f5db0f9223be945",
       "text": "George E. Studdy was a British artist best remembered for his creation of Bonzo the dog, a fictional character, in the early 1920s",
-      "tags": [
-        "artist",
-        "bonzo",
-        "dog",
-        "fictional",
-        "character",
-        "british",
-        "george",
-        "studdy",
-        "1920s",
-        "creator"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/George_Studdy.jpg",
-        "caption": "George E. Studdy"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -581,27 +438,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_d6de35188b60",
       "hash": "18a46b7ea531f8f0187cd3f255fbaf8c014a55f4e283765c272534ad6f48abe6",
       "text": "...the USS Kidd (DD-661), currently a museum ship, was a Fletcher -class destroyer, and the first ship of the United States Navy to be named for Rear Adm. Isaac C. Kidd",
-      "tags": [
-        "uss kidd",
-        "museum ship",
-        "fletcher-class",
-        "destroyer",
-        "us navy",
-        "isaac c kidd",
-        "rear adm",
-        "ship",
-        "named after",
-        "naval history"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/USS_Kidd_%28DD-661%29_underway_c1951.jpeg",
-        "caption": "USS Kidd (DD-661)"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -643,27 +489,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_198e89239ea1",
       "hash": "a939688690a5cb20ca25865ba9a24ada89a36e6cd24bd0f8e429a5feb4936fa3",
       "text": "Musical montage ( montage meaning \"putting together\") is a technique where musical compositions or sound objects are created from collage",
-      "tags": [
-        "musical montage",
-        "technique",
-        "collage",
-        "sound objects",
-        "compositions",
-        "music",
-        "editing",
-        "audio",
-        "production",
-        "art"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Borodin_Scherzo_in_A_flat.png",
-        "caption": "Musical composition"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -700,27 +535,16 @@
           "source": "New York Times"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_5e59d5b6945e",
       "hash": "79e04b0317df40b201427681cb55f6921941d4c829295c3d86bdd0785d260d12",
       "text": "The town of Baird, Texas, is named after the second owner of Baldwin Locomotive Works, Matthew Baird",
-      "tags": [
-        "baird",
-        "texas",
-        "town",
-        "named after",
-        "matthew baird",
-        "baldwin",
-        "locomotive",
-        "works",
-        "owner",
-        "history"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Downtown_Baird_Wiki_%281_of_1%29.jpg",
-        "caption": "Baird, Texas"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -747,27 +571,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_6d3876f60a6d",
       "hash": "0e5535dd9290fd4527c3a72a14edae9c2230b8a605979118ba195dc2cd859d0f",
       "text": "The child actor Tommy Rettig, who starred as Jeff Miller in the first four seasons of the Lassie television series, became a noted database software author as an adult",
-      "tags": [
-        "tommy rettig",
-        "child actor",
-        "jeff miller",
-        "lassie",
-        "television",
-        "database",
-        "software",
-        "author",
-        "adult",
-        "career change"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Death_Valley_Days_Tommy_Rettig_1962_No_1.jpg",
-        "caption": "Tommy Rettig"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -804,27 +617,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_2311127c34d7",
       "hash": "ee43ce51c492f3de8e7885f089f74b28abe1ac057fa09b99f0eeacac4d2dab2f",
       "text": "Skyfox was one of the first games to popularize the cockpit view for flight action games",
-      "tags": [
-        "skyfox",
-        "game",
-        "cockpit view",
-        "flight action",
-        "popularized",
-        "video game",
-        "genre",
-        "innovation",
-        "simulation",
-        "pioneer"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ba%C3%AFonnette_CDG.ogv/1280px--Ba%C3%AFonnette_CDG.ogv.jpg",
-        "caption": "Cockpit"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -851,27 +653,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_4796c14427ce",
       "hash": "54d786db40c422536a7d481dadea5a9e5522c5bf6c794ff67ad33dee36ec926e",
       "text": "Chrissy Snow from the American sitcom Three's Company was actually named \" Christmas Snow \"",
-      "tags": [
-        "chrissy snow",
-        "three's company",
-        "sitcom",
-        "christmas snow",
-        "american",
-        "character",
-        "name",
-        "television",
-        "trivia",
-        "tv show"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Three%27s_Company_yellow_logo.svg/960px-Three%27s_Company_yellow_logo.svg.png",
-        "caption": "Three's Company"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -908,27 +699,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_0afbf53efc0d",
       "hash": "413337a6618206c3250250781a5139dcf1b6cd54781eab3e13ce7fa7e85b8479",
       "text": "The U.S. National Arboretum, the new D.C. Convention Center, the National Museum of Women in the Arts, and Corcoran Gallery of Art are all located on or near New York Avenue in Washington, D.C.",
-      "tags": [
-        "us national arboretum",
-        "dc convention center",
-        "national museum",
-        "women in the arts",
-        "corcoran gallery",
-        "washington dc",
-        "new york avenue",
-        "location",
-        "landmarks",
-        "museums"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/National_Capitol_Columns_-_Washington%2C_D.C..jpg",
-        "caption": "United States National Arboretum"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -965,27 +745,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_28b671e5b71e",
       "hash": "a5147c0be25038e83d0fdc22495f066c4d649e7aaa768540368c344b085e59d4",
       "text": "Benedict Arnold was an early American politician, who was elected to the U.S. House of Representatives in 1829 despite the fact the person he was named after was revealed to be a traitor two weeks before he was born",
-      "tags": [
-        "benedict arnold",
-        "american",
-        "politician",
-        "us house",
-        "representative",
-        "traitor",
-        "named after",
-        "1829",
-        "history",
-        "elections"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/500px-Greater_coat_of_arms_of_the_United_States.svg.png",
-        "caption": "Politics of the United States"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1017,27 +786,16 @@
           "source": "Britannica"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_8eb9418b76ef",
       "hash": "d5262b6763f852d850447f1771d438eece0c37768c8b7a6d4345f53b4a3428f6",
       "text": "A police officer in the United States may only briefly detain and frisk a person if there is reasonable suspicion that the person is involved in a crime",
-      "tags": [
-        "police officer",
-        "united states",
-        "detain",
-        "frisk",
-        "reasonable suspicion",
-        "crime",
-        "law enforcement",
-        "legal",
-        "rights",
-        "procedure"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Jakub_Schikaneder_-_Murder_in_the_House.JPG",
-        "caption": "Crime"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1059,27 +817,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_ad498b26dffb",
       "hash": "59320f8ae2a4786ad9798350affdea94eed48041d62e3785bfdf4bfc4d087e7c",
       "text": "The song \" Delta Dawn \" was first sung by Tanya Tucker and turned down by Barbra Streisand before gaining widespread pop success by Helen Reddy",
-      "tags": [
-        "delta dawn",
-        "song",
-        "tanya tucker",
-        "barbra streisand",
-        "helen reddy",
-        "pop success",
-        "music",
-        "hit",
-        "country",
-        "cover"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/TanyaTuckerGraceland02202020.jpeg",
-        "caption": "Tanya Tucker"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1111,27 +858,16 @@
           "source": "History"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_8ac814b45d35",
       "hash": "3770492ddadae7f8f94dfe7a3a78832eb177b7a9eba5b90aa623d484b794c00e",
       "text": "Pal, owned by animal trainers Frank and Rudd Weatherwax, was the name of the first dog to portray Lassie",
-      "tags": [
-        "pal",
-        "dog",
-        "frank weatherwax",
-        "rudd weatherwax",
-        "animal trainers",
-        "first dog",
-        "lassie",
-        "hollywood",
-        "pets",
-        "film"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Pal_as_Lassie_1942.JPG",
-        "caption": "Pal (dog)"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1168,27 +904,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_9a73b5979633",
       "hash": "21da6e316beedb141cb499b4b74387d4a09fa3d8afca1a555089ed53da891306",
       "text": "The Warren County Canal was a twenty-mile long canal in Ohio that linked Lebanon to the Miami and Erie Canal and which operated only eight unprofitable years",
-      "tags": [
-        "warren county canal",
-        "ohio",
-        "canal",
-        "lebanon",
-        "miami and erie canal",
-        "unprofitable",
-        "eight years",
-        "transportation",
-        "history",
-        "waterway"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/d/d5/HerbertFallCanalimage.jpg",
-        "caption": "Warren County Canal"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1215,27 +940,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_48c346226535",
       "hash": "b003caa4fff22ef14347e7e35f3cbdd3051b0c88bc3066d880133365196af09d",
       "text": "The Face on the Cutting-Room Floor is a whodunit written in English by German -born sexologist Ernest Borneman when he was not yet 20 years of age",
-      "tags": [
-        "the face on the cutting-room floor",
-        "whodunit",
-        "english",
-        "german-born",
-        "ernest borneman",
-        "sexologist",
-        "writer",
-        "novel",
-        "fiction",
-        "young author"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/c/ce/The_Face_cover.jpg",
-        "caption": "The Face on the Cutting-Room Floor"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1272,27 +986,16 @@
           "source": "New York Times"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_25b60c6da027",
       "hash": "2ffaecebb77cf00c85b0eb559d2ca3ca60231c73ae2efaf1049bc34aa42d8a8e",
       "text": "The biodiversity of New Zealand is dominated by bird families that flew in from Australia and insects, frogs and plants that were on the island when it broke off from Gondwana",
-      "tags": [
-        "new zealand",
-        "biodiversity",
-        "birds",
-        "australia",
-        "insects",
-        "frogs",
-        "plants",
-        "gondwana",
-        "island",
-        "ecology"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Hochstetters_Frog_on_Moss.jpg",
-        "caption": "Biodiversity of New Zealand"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1339,27 +1042,16 @@
           "source": "National Geographic"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_6998692bd11c",
       "hash": "4a3e7c2e9dd06a7a5ccb33f90edadd923cc5cbbc8d4edd12b763cd708a736448",
       "text": "A Sub Inspector or S.I. is the rank of an Indian police officer who is in command of a police station",
-      "tags": [
-        "sub inspector",
-        "s.i.",
-        "indian police officer",
-        "police station",
-        "rank",
-        "india",
-        "law enforcement",
-        "officer",
-        "command",
-        "police"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/NYPD_Bx_42nd_Precinct_IMG_3248_HLG.jpg",
-        "caption": "Police station"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1381,27 +1073,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_80fd5f5423ac",
       "hash": "b99b35ab50a4ee01a0558f18fc6c493c5d91c473288aeb4d34dbf382ecbf88df",
       "text": "Keying was a three-masted Chinese junk, which sailed from China to the United States and England between 1846 and 1848",
-      "tags": [
-        "keying",
-        "three-masted junk",
-        "chinese junk",
-        "china",
-        "united states",
-        "england",
-        "1846",
-        "1848",
-        "sailing",
-        "ship"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/The_Chinese_Junk_%22Keying%22%E2%80%93Captain_Kellett%E2%80%93As_she_appeared_in_New_York_harbour_July_13th%2C_1847%E2%80%93212_days_from_Canton.%E2%80%93720_tons_burthen_MET_DP853626.jpg",
-        "caption": "The junk Keying"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1423,27 +1104,16 @@
           "source": "The Met"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_1dcbb8d314a9",
       "hash": "fa02cac3ce36f2b78d98a8c9f0a64fbc4074e78b1a92650d01e5e577af5a8425",
       "text": "... The Jeff Corwin Experience is an American television show about animals hosted by actor and conservationist Jeff Corwin on Animal Planet",
-      "tags": [
-        "the jeff corwin experience",
-        "american television show",
-        "animals",
-        "jeff corwin",
-        "actor",
-        "conservationist",
-        "animal planet",
-        "television",
-        "wildlife",
-        "documentary"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Jeff_Corwin_2006_06_24.png",
-        "caption": "Jeff Corwin"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1475,27 +1145,16 @@
           "source": "Scientific American"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_9161a5a58d5e",
       "hash": "1cb95b2ee874f6b36d26b8d83481173a69da16758690e91588f5d7e3023910ae",
       "text": "The French footballer Lucien Laurent scored the first ever World Cup goal, against Mexico in 1930",
-      "tags": [
-        "lucien laurent",
-        "french footballer",
-        "first world cup goal",
-        "mexico",
-        "1930",
-        "football",
-        "world cup",
-        "sports",
-        "france",
-        "goal scorer"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/France_national_football_team_seal.svg/250px-France_national_football_team_seal.svg.png",
-        "caption": "France national football team"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1532,27 +1191,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_4db26359bbee",
       "hash": "6cec34ca015ba4893038160a459b65622088b7ead50e72e66dd6855e4fd8bfb6",
       "text": "The Nine Saints were a group of Christians from the Byzantine Empire who took part in converting areas of what is now Eritrea and Ethiopia in the late fifth century AD",
-      "tags": [
-        "nine saints",
-        "christians",
-        "byzantine empire",
-        "eritrea",
-        "ethiopia",
-        "fifth century ad",
-        "conversion",
-        "missionaries",
-        "history",
-        "religion"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Raphael_-_The_Miraculous_Draft_of_Fishes_-_Google_Art_Project.jpg",
-        "caption": "Christians"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1599,27 +1247,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_82bbce3579e0",
       "hash": "b9dbe255dfcf984d6a948734d38500bb2c7ef7137870ff40347b62dc97b9db55",
       "text": "The complex communication patterns of Weaver ants used in nest building is studied and modeled in various disciplines of generative sciences",
-      "tags": [
-        "weaver ants",
-        "communication patterns",
-        "nest building",
-        "generative sciences",
-        "study",
-        "modeling",
-        "ants",
-        "biology",
-        "research",
-        "animal behavior"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Red_Weaver_Ant%2C_Oecophylla_smaragdina.jpg",
-        "caption": "Weaver ant"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1646,27 +1283,16 @@
           "source": "Britannica"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_97ab42ff51f6",
       "hash": "afc542f2b2ef0432d96cac0de2998a6a6de7ac2980ceee37037438d92088136d",
       "text": "Debswana, a joint venture between De Beers and the government of Botswana, is the largest producer of diamonds by value in the world",
-      "tags": [
-        "debswana",
-        "de beers",
-        "government of botswana",
-        "diamonds",
-        "largest producer",
-        "value",
-        "botswana",
-        "mining",
-        "joint venture",
-        "gemstones"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/DeBeersBevHills.jpg",
-        "caption": "De Beers"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1703,27 +1329,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_43cf404cec95",
       "hash": "5d84f078675c9a2af49ad7da94afb25b4b0f22d19990339acf06447bf054d924",
       "text": "Will Harvey created his first commercial computer game when he was only 15 and still in high school",
-      "tags": [
-        "will harvey",
-        "commercial computer game",
-        "15 years old",
-        "high school",
-        "computer game",
-        "developer",
-        "programmer",
-        "young talent",
-        "gaming",
-        "entrepreneur"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Metaverse_Roadmap_Summit_Interviews%2C_2006_Will_Harvey_screenshot_%28cropped%29.jpeg",
-        "caption": "Will Harvey"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1745,27 +1360,16 @@
           "source": "New York Times"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_73b5dfa1f667",
       "hash": "a237a62d1a931fd97be127208169ce28ef9ecf6b5c72bea773f2a1452267a845",
       "text": "The internet casino GoldenPalace.com won a bid to name the recently discovered type of New World monkey: the GoldenPalace.com Monkey",
-      "tags": [
-        "goldenpalace.com",
-        "internet casino",
-        "new world monkey",
-        "naming rights",
-        "bid",
-        "monkey",
-        "casino",
-        "web search",
-        "marketing",
-        "animal naming"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Internet_map_1024_-_transparent%2C_inverted.png",
-        "caption": "Internet"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1802,27 +1406,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_5b9a31bda670",
       "hash": "db9ecbbd907ba0e6a881a9f388bc93659bae31176e92e56f555bea94a31a59e4",
       "text": "Queen's Gambit Accepted is a chess opening in which Black takes a White pawn after two moves, but is not a real gambit because Black cannot count on keeping his advantage",
-      "tags": [
-        "chess",
-        "opening",
-        "queen's gambit accepted",
-        "black",
-        "white",
-        "pawn",
-        "gambit",
-        "advantage",
-        "strategy",
-        "game"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg",
-        "caption": "Chess"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1854,27 +1447,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_12aea65b0e82",
       "hash": "e4fa334520f82c5e4bb5c7a8196efcc4f08ab9007d7a8d8912f4f630c4c0718a",
       "text": "Actor Philip Ahn was the first child of Korean ancestry to be born in the United States",
-      "tags": [
-        "actor",
-        "philip ahn",
-        "korean",
-        "ancestry",
-        "born",
-        "united states",
-        "first",
-        "child",
-        "history",
-        "culture"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Phillip_ahn_as_kan.JPG",
-        "caption": "Philip Ahn portrait"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1891,27 +1473,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_7dc7e6a2362d",
       "hash": "b89deb818557c5659871fb1b45ee9cb8c58e787dcfb017c9fc6c5113ce5f85a7",
       "text": "Boneless Fish is a Japanese frozen food made from fish, which is deboned by hand and then glued to its original shape using a food -grade enzyme",
-      "tags": [
-        "boneless fish",
-        "japanese",
-        "frozen food",
-        "fish",
-        "deboned",
-        "hand",
-        "glued",
-        "enzyme",
-        "food",
-        "cuisine"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Frozen_berries_%2835379207760%29.jpg",
-        "caption": "Frozen food"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -1943,27 +1514,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_43cfe7fd9ff3",
       "hash": "6570ab08dba71624efdbf8f6dd59e89bfc864ae3fed0b4d4f9fee936e531ee12",
       "text": "...the callsign of KFRC in San Francisco, California in the U.S. stood for \" K nown F or R adio C learness\"? In fact, when the AM radio station signed on with 50 watts in 1924, it was heard as far away as New Zealand, far exceeding anyone's expectations.",
-      "tags": [
-        "kfrc",
-        "san francisco",
-        "california",
-        "us",
-        "radio",
-        "callsign",
-        "am radio",
-        "1924",
-        "new zealand",
-        "broadcast"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif",
-        "caption": "Amplitude modulation"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2000,27 +1560,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_1873965b0746",
       "hash": "90e6efab7bf566d0b66a33bc592d56712cdaca2126e1a31a9dcfeedb6a0c7b60",
       "text": "The Bhutan Broadcasting Service had transmitted radio broadcasts for many years, but only commenced with television broadcasts in 1999",
-      "tags": [
-        "bhutan",
-        "broadcasting",
-        "radio",
-        "television",
-        "1999",
-        "media",
-        "service",
-        "transmission",
-        "history",
-        "asia"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/4/43/Bhutan_BBS.png",
-        "caption": "Bhutan Broadcasting Service"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2042,27 +1591,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_57dface58ad4",
       "hash": "f9658fa2c32fcd026c480a60fe01f11eb1fa3b8be91f2e7459157a4202cacd24",
       "text": "Every British monarch since Queen Victoria has worshipped at Crathie Kirk, a small parish church near Balmoral Castle",
-      "tags": [
-        "british monarch",
-        "queen victoria",
-        "crathie kirk",
-        "church",
-        "balmoral castle",
-        "worship",
-        "royalty",
-        "scotland",
-        "history",
-        "religion"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CrathieKirk01.jpg",
-        "caption": "Crathie Kirk"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2089,27 +1627,16 @@
           "source": "Smithsonian Magazine"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_9003c81ebd51",
       "hash": "4c16b3d61eb8b00b0a541beddd8def2b2d02a53c817f362d56b6ce7b33d355c4",
       "text": "Giovanni Bugatti was the longest-serving executioner in the Papal States",
-      "tags": [
-        "giovanni bugatti",
-        "executioner",
-        "papal states",
-        "history",
-        "longest-serving",
-        "rome",
-        "punishment",
-        "crime",
-        "europe",
-        "justice"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Mastro_Titta.jpg",
-        "caption": "Giovanni Battista Bugatti"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2136,27 +1663,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_ccabff00331b",
       "hash": "ede5e8f18f1caf995a5cd2621c0cf98642bc81e52b89d3ad12fced7c2d8c36a4",
       "text": "... Humber College's TVO series Distinguished Artists is the first network television show produced by a college or university",
-      "tags": [
-        "humber college",
-        "tvo",
-        "distinguished artists",
-        "television",
-        "network show",
-        "college",
-        "university",
-        "education",
-        "media",
-        "first"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/MDR_Kripo_live.jpg",
-        "caption": "Television show"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2188,27 +1704,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_e88d00b5288e",
       "hash": "f8c0c84a459178128f74d2a0c99327dcd8030f3a674028255fb820adaa6c7c8b",
       "text": "Marie-Anne Gaboury was the first woman of European descent to travel to and settle in the Canadian west",
-      "tags": [
-        "marie-anne gaboury",
-        "first woman",
-        "european",
-        "canadian west",
-        "travel",
-        "settle",
-        "history",
-        "canada",
-        "exploration",
-        "pioneer"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Meeting_of_the_Lagimodieres_and_First_Nations_People.png",
-        "caption": "Marie-Anne Gaboury"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2235,27 +1740,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_0990a7bae4d7",
       "hash": "93f9646030e170dca44a8f4cb493fc7185615c2555906c7d512c4957e617eb55",
       "text": "Terri Irwin, co-owner of the Australia Zoo and co-star of The Crocodile Hunter series on television, began caring for injured wildlife as a child and ran her own rehab facility for 5 years before she met Steve Irwin",
-      "tags": [
-        "terri irwin",
-        "australia zoo",
-        "crocodile hunter",
-        "wildlife",
-        "animal care",
-        "rehabilitation",
-        "child",
-        "steve irwin",
-        "television",
-        "conservation"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Terri_Irwin_2011.jpg",
-        "caption": "Terri Irwin"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2292,27 +1786,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_5d5b9daf3bce",
       "hash": "926c3d67727909a0a8048f904b2c28373a390bbadf886a9d8e0327b6f2510731",
       "text": "The MCC beat Warwickshire in the first game of the 2005 English cricket season",
-      "tags": [
-        "mcc",
-        "warwickshire",
-        "cricket",
-        "2005",
-        "english",
-        "season",
-        "sport",
-        "game",
-        "match",
-        "history"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Marylebone_Cricket_Club_logo.svg/330px-Marylebone_Cricket_Club_logo.svg.png",
-        "caption": "Marylebone Cricket Club"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2339,27 +1822,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_2433f8822737",
       "hash": "d432ca0ab219b462261fe08ac06c7eb929c9dd67b703e5f11b9c202eaacd7ff5",
       "text": "The Galápagos tortoise is the largest living tortoise in the world, only native to the Galápagos Islands, where about 15,000 of them live",
-      "tags": [
-        "galapagos tortoise",
-        "tortoise",
-        "largest",
-        "living",
-        "galapagos islands",
-        "native",
-        "animal",
-        "wildlife",
-        "conservation",
-        "species"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Galapagos_giant_tortoise_Geochelone_elephantopus.jpg",
-        "caption": "Galápagos tortoise"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2386,27 +1858,16 @@
           "source": "National Geographic"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_ef4a0aeb5042",
       "hash": "669dacf53e2e146c7223b5e1d9486e3e5dff8a5f439aaa9c2e4f1806c34593d9",
       "text": "Edgar Buchanan was a dentist before becoming an American actor with a long career in both movies and television, and is probably best remembered as Uncle Joe Carson from the Petticoat Junction and Green Acres television sitcoms of the 1960s",
-      "tags": [
-        "edgar buchanan",
-        "actor",
-        "dentist",
-        "american",
-        "movies",
-        "television",
-        "petticoat junction",
-        "green acres",
-        "uncle joe carson",
-        "1960s"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Edgar_Buchanan.jpg",
-        "caption": "Edgar Buchanan"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2438,27 +1899,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_154446990ace",
       "hash": "6b24fbd03aa96f7ea276e23c45c77b1a09a39b39b0c756f5101cdd79a9c63c3b",
       "text": "Dismal Swamp Canal which runs along the edge of the Great Dismal Swamp in Virginia and North Carolina is the oldest continually operating man-made canal in the United States",
-      "tags": [
-        "dismal swamp canal",
-        "virginia",
-        "north carolina",
-        "oldest",
-        "continually operating",
-        "man-made canal",
-        "united states",
-        "great dismal swamp",
-        "waterway",
-        "history"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Great_Dismal_Swamp_Canal.jpg",
-        "caption": "Dismal Swamp Canal"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2490,27 +1940,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_c78f35edf317",
       "hash": "b5ae5d22bd5c929c74b889b6431f92f7acc46901f634c2216b3211155b38441a",
       "text": "The F-Zero series of video games is renowned for its sheer visceral impression of speed",
-      "tags": [
-        "f-zero",
-        "video games",
-        "series",
-        "speed",
-        "nintendo",
-        "gaming",
-        "racing",
-        "visceral",
-        "impression",
-        "franchise"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/7/77/F-Zero_logo.png",
-        "caption": "F-Zero"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2522,27 +1961,16 @@
           "source": "Wikipedia"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_6b84cd66dd0a",
       "hash": "946120f7fcfbe615fa413adf7d528555a64426a13a06eaf8dec037a741377136",
       "text": "James A. Bland ( 1854 - 1911 ) an African American musician and song writer wrote over 700 songs, including \" Carry Me Back to Old Virginny \" in 1878, which was later the official State Song of Virginia from 1940 to 1997",
-      "tags": [
-        "james a bland",
-        "musician",
-        "songwriter",
-        "african american",
-        "carry me back to old virginny",
-        "virginia",
-        "state song",
-        "1878",
-        "1940-1997",
-        "history"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/James_Bland%27s_3_Great_Songs.jpg",
-        "caption": "James A. Bland"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2579,27 +2007,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_108b7268f9be",
       "hash": "20b166bcd8fa36eaa0f7cd30f7dfa287af988a95087e6d69a8a89b7167abb703",
       "text": "Fisher Automobile Company in Indianapolis, Indiana is believed to have been the first automobile dealership in the United States",
-      "tags": [
-        "fisher automobile company",
-        "indianapolis",
-        "indiana",
-        "automobile dealership",
-        "first",
-        "united states",
-        "automotive",
-        "history",
-        "business",
-        "cars"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Indianapolis-1872528.jpg",
-        "caption": "Indianapolis"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2626,27 +2043,16 @@
           "source": "PBS"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_a1b2f8385422",
       "hash": "7c9b49a6c217c560b2cd68a413fde050b25fea1d8342008e635c8a0d4cd55fc3",
       "text": "The Lebanon Correctional Institution and the Warren Correctional Institution are on land once owned by the Shakers",
-      "tags": [
-        "lebanon correctional",
-        "warren correctional",
-        "shakers",
-        "land",
-        "institution",
-        "prison",
-        "ohio",
-        "history",
-        "religious group",
-        "property"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Unitedsocietyofbelievers-gathering-crop.png",
-        "caption": "Shakers"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2673,27 +2079,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_073e5ab039dd",
       "hash": "dd22453601618e0e5d2b96b4924128bab32a65c4651a84d06d1eac6d782f795b",
       "text": "Dr. Hunter McGuire was a physician who amputated General Stonewall Jackson's arm during the American Civil War and later helped found several hospitals and a prominent medical school in Richmond, Virginia",
-      "tags": [
-        "dr hunter mcguire",
-        "physician",
-        "civil war",
-        "stonewall jackson",
-        "amputation",
-        "hospitals",
-        "medical school",
-        "richmond virginia",
-        "history",
-        "medicine"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hunter_McGuire_cropped_PD_image.jpg",
-        "caption": "Hunter McGuire"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2725,27 +2120,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_3f15b54ed3dd",
       "hash": "aa099a5f80866cb5210a184b9ab75b2ecfcc7f978d9901731dd8d2fd0976492e",
       "text": "A physical paradox is thought to be either an artifact of error or incompleteness because reality is assumed to be completely consistent",
-      "tags": [
-        "physical paradox",
-        "paradox",
-        "reality",
-        "error",
-        "incompleteness",
-        "science",
-        "philosophy",
-        "consistent",
-        "physics",
-        "concept"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Teacup_with_Tealeaves_on_Wooden_Table.jpg",
-        "caption": "Physical paradox"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2772,27 +2156,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_c2905dcadc38",
       "hash": "4207dc81028f92e15e5274aa7624f30641a39784592325dff5a1878f2b269084",
       "text": "Mountain Lake, one of only two natural lakes in Virginia, was the filming location for the fictional Kellerman's Resort in New York's Catskill Mountains for the 1987 feature film Dirty Dancing",
-      "tags": [
-        "mountain lake",
-        "virginia",
-        "natural lakes",
-        "dirty dancing",
-        "filming location",
-        "kellermans resort",
-        "catskill mountains",
-        "1987",
-        "feature film",
-        "geography"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Lake_Idro_Italy_2005-08-16.jpg",
-        "caption": "Lake"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2829,27 +2202,16 @@
           "source": "NOAA"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_a81b97ea600e",
       "hash": "02fa00aa19c8fa88fffba8d58bbddbc3768a3fb90d4aa36d4052a40c42848375",
       "text": "Varina-Enon Bridge, which carries Interstate 295 across the James River in Virginia, hosts an award-winning VDOT project to provide nesting locations for peregrine falcons which are traceable on a website",
-      "tags": [
-        "varina-enon bridge",
-        "interstate 295",
-        "james river",
-        "virginia",
-        "vdot",
-        "peregrine falcons",
-        "nesting locations",
-        "website",
-        "award-winning",
-        "bridge"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/I-295.svg/960px-I-295.svg.png",
-        "caption": "Interstate 295 (Virginia)"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2886,27 +2248,16 @@
           "source": "Britannica"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_7cb4a4697c89",
       "hash": "bf7b40328e5e9897bdcce5feb52f5ff677be4156dcb824e85033eff53087870c",
       "text": "Although England centre forward Geoff Hurst had scored a hat-trick and was therefore entitled to keep the match ball, it was German striker Helmut Haller who took it home after the 1966 World Cup final",
-      "tags": [
-        "geoff hurst",
-        "helmut haller",
-        "1966 world cup",
-        "final",
-        "hat-trick",
-        "football",
-        "match ball",
-        "england",
-        "germany",
-        "sports"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/England_national_football_team_crest.svg/330px-England_national_football_team_crest.svg.png",
-        "caption": "England national football team"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2948,27 +2299,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_c80876c8aba7",
       "hash": "da4dab503cd482529756a8ee5ceae71425ecbd06ad2cdc64a4eca0746895555d",
       "text": "Caesars Creek State Park has 7,900 acres centered around a 2,800 acre lake created by the U.S. Army Corps of Engineers",
-      "tags": [
-        "caesars creek",
-        "state park",
-        "ohio",
-        "7900 acres",
-        "2800 acre lake",
-        "u.s. army corps of engineers",
-        "recreation",
-        "nature",
-        "park",
-        "lake"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Caesar_Creek_Lake_from_spillway.jpg",
-        "caption": "Caesar Creek State Park"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3000,27 +2340,16 @@
           "source": "NOAA"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_ef00ba7bbcc2",
       "hash": "ab89388f3631d8a5b28290b5a8b6aec042e8599919f60b86b17962e3b721be25",
       "text": "Video footage can be worth up to $45,000 in U.S. dollars, such as in the case of the broadcasting corporation payment of amateur's footage of the September 11, 2001 attacks",
-      "tags": [
-        "video footage",
-        "value",
-        "september 11 attacks",
-        "broadcasting",
-        "amateur footage",
-        "compensation",
-        "money",
-        "historical event",
-        "media",
-        "news"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/USDnotesNew.png",
-        "caption": "United States dollar"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3047,27 +2376,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_92cd9124a425",
       "hash": "84a8f439cdb43bc33115f9644f28d92783b88b37536d3bd82718c65d2230b84b",
       "text": "Cetartiodactyla is a hypothesis based on DNA that suggests whales and hippos are related",
-      "tags": [
-        "cetartiodactyla",
-        "whales",
-        "hippos",
-        "dna",
-        "evolution",
-        "hypothesis",
-        "related species",
-        "biology",
-        "genetics",
-        "mammals"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/The_Cetartiodactyla.jpg",
-        "caption": "Artiodactyla"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3104,27 +2422,16 @@
           "source": "Britannica"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_02c8e8f6683d",
       "hash": "86c5911e8378695a9d414df1ac2edd0c9cb710806e2f95fe8131164d85f0257d",
       "text": "\" Gigantour,\" a six-week heavy metal music festival devised by Megadeth front-man Dave Mustaine, will travel North America in late- July",
-      "tags": [
-        "gigantour",
-        "heavy metal",
-        "music festival",
-        "megadeth",
-        "dave mustaine",
-        "north america",
-        "july",
-        "music event",
-        "rock",
-        "tour"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Weezer_Bethlehem_2019_5.jpg",
-        "caption": "Music festival"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3171,27 +2478,16 @@
           "source": "Britannica"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_4f368aa551cb",
       "hash": "6cab010e654879391a75dabee1599199f708d9eee203418cec8d66afbe03f979",
       "text": "Ohio 's College Township was given by Congress for the benefit of Miami University",
-      "tags": [
-        "ohio",
-        "college township",
-        "congress",
-        "miami university",
-        "land grant",
-        "education",
-        "history",
-        "university",
-        "government",
-        "territory"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/OHMap-doton-Oxford.png",
-        "caption": "College Township"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3218,27 +2514,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_5a41abe54686",
       "hash": "cc399be6ede1e7df7ca98cac0501a110f4b7c2b3bd2e52116a100d17d864635b",
       "text": "An American Silver Eagle coin contains a guaranteed minimum of one troy ounce of.999 pure silver",
-      "tags": [
-        "american silver eagle",
-        "coin",
-        "silver",
-        "troy ounce",
-        "pure silver",
-        "bullion",
-        "currency",
-        "precious metal",
-        "minting",
-        "investment"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/2022-american-eagle-silver-one-ounce-bullion-coin-obverse.png",
-        "caption": "American Silver Eagle"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3265,27 +2550,16 @@
           "source": "NASA"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_f52f8c9f494a",
       "hash": "6d856a307313f268f6d9260b50cb70712fba4856e123a24f39162984b37293f9",
       "text": "Some stationery companies produce scented paper and envelopes specifically for love letters",
-      "tags": [
-        "stationery",
-        "scented paper",
-        "envelopes",
-        "love letters",
-        "romantic",
-        "writing",
-        "paper products",
-        "fragrance",
-        "communication",
-        "novelty"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/LeCount_Bros._and_Mansur%27s_Stationery_Establishment%2C_LeCount%27s_Building%2C_..._San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
-        "caption": "Stationery"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3317,27 +2591,16 @@
           "source": "Smithsonian Institution"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_01ce9b5bcedb",
       "hash": "ba288813477428a4fee3cd0a585cf7086d8b670a5153de6c0fb415d635ef7daf",
       "text": "A smokie is a West African delicacy made by blowtorching the carcass of a sheep or goat without removing its fleece",
-      "tags": [
-        "smokie",
-        "west african",
-        "delicacy",
-        "blowtorch",
-        "sheep",
-        "goat",
-        "fleece",
-        "food",
-        "cuisine",
-        "meat preparation"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Western-Africa-map.svg/1280px-Western-Africa-map.svg.png",
-        "caption": "West Africa"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3379,27 +2642,16 @@
           "source": "Britannica"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_fd8de6a00e9c",
       "hash": "a4c04c68a281e31ee9296fb39fb39118e791fbf19c01e72b14e1bbb17819878f",
       "text": "Reverend John Chilembwe is celebrated as the first Malawian nationalist, and was a martyr for his cause",
-      "tags": [
-        "reverend john chilembwe",
-        "malawian nationalist",
-        "martyr",
-        "history",
-        "malawi",
-        "resistance",
-        "activist",
-        "hero",
-        "colonialism",
-        "figure"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/John_Chilembwe_%282%29_%28cropped%29.png",
-        "caption": "John Chilembwe"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3426,27 +2678,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_94aebc046a69",
       "hash": "638b743fd1fbbac8c884f603b11d554c22d41262c307cb02bb83d01e06c92b33",
       "text": "The broadfish tapeworm is the longest tapeworm in humans, averaging ten metres long and that it can shed up to a million eggs a day",
-      "tags": [
-        "broadfish tapeworm",
-        "tapeworm",
-        "humans",
-        "longest",
-        "ten metres",
-        "eggs",
-        "parasite",
-        "biology",
-        "health",
-        "infection"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Diphyl_proglottidE.JPG",
-        "caption": "Diphyllobothrium"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3478,27 +2719,16 @@
           "source": "WHO"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_cff84a7b62fc",
       "hash": "c51386b09172a312b134569223810505c17390fd109057fb8d6512a882e6eac6",
       "text": "During the Elizabethan era in England, theatres were constructed of wood and were circular in form, open to the elements and with a large portion of the audience standing directly below the stage",
-      "tags": [
-        "elizabethan era",
-        "england",
-        "theatres",
-        "wood",
-        "circular",
-        "open air",
-        "audience",
-        "standing",
-        "stage",
-        "architecture"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Queen_Elizabeth_I_by_George_Gower.jpg",
-        "caption": "Elizabethan era"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3520,27 +2750,16 @@
           "source": "Britannica"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_e7707015ffb7",
       "hash": "0593de5f87929159cba9775597201a8b3aa4a27c5b8c70e4d406986279e740a2",
       "text": "\" I Want You Back \", the 1969 debut single by The Jackson 5, was originally intended for both Gladys Knight & the Pips and Diana Ross, and has been sampled by Blackstreet, Jay-Z, and Lil' Romeo",
-      "tags": [
-        "i want you back",
-        "jackson 5",
-        "debut single",
-        "gladys knight",
-        "diana ross",
-        "sampled",
-        "blackstreet",
-        "jay-z",
-        "lil romeo",
-        "music history"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/0/02/I_want_you_back_jackson_5_UK_vinyl_solid_centre.webp",
-        "caption": "I Want You Back"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3597,27 +2816,16 @@
           "source": "History"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_d0523c2fd350",
       "hash": "1164fa61ce21fdfee4e7c9ced1445b3e3b925c60dfc4b2e622b102dc8550755d",
       "text": "Wilfredo Gomez and Wilfredo Benitez share not only their first name, but also their Puerto Rican nationality? They also won three world boxing titles each.",
-      "tags": [
-        "wilfredo gomez",
-        "wilfredo benitez",
-        "first name",
-        "puerto rican",
-        "nationality",
-        "world boxing titles",
-        "boxing",
-        "champions",
-        "sports",
-        "athletes"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Wilfredo_G%C3%B3mez_in_KO_Magazine_April_1983_issue.jpg",
-        "caption": "Wilfredo Gómez"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3649,27 +2857,16 @@
           "source": "New York Times"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_7343ae1f0f6c",
       "hash": "f4679b08ab0486196642a09e1c2e3b73e95cd003b177593de14a527132fa482e",
       "text": "DJ Grand Mixer DXT is credited with inventing turntablism, the rhythmic scratching of a record on a turntable using different velocities to alter the pitch of the note or sound on the recording, making the turntable a fully performable and improvisational instrument",
-      "tags": [
-        "dj",
-        "grand mixer dxt",
-        "turntablism",
-        "inventor",
-        "music",
-        "scratching",
-        "rhythmic",
-        "instrument",
-        "performance",
-        "pioneer"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Pete_Rock_%40_The_Brookyln_Bowl_in_2016.jpg",
-        "caption": "Disc jockey"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3726,27 +2923,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_e783f1832383",
       "hash": "4aed2357443d1951c1ac5d425ad35f0fcc8ff0d00a0e4ea8814b1ad4175503b7",
       "text": "Robert Dick Wilson was a leading Bible scholar who was able to read the New Testament in nine different languages while still at Princeton University, and strongly defended the Bible's historical accuracy",
-      "tags": [
-        "robert dick wilson",
-        "bible scholar",
-        "linguist",
-        "new testament",
-        "languages",
-        "princeton university",
-        "historical accuracy",
-        "theology",
-        "scholarship",
-        "defense"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Robert_Dick_Wilson.JPG",
-        "caption": "Robert Dick Wilson"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3778,27 +2964,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_f653d0afb016",
       "hash": "a2f3c308d628bbd5f1401aa092292fb07e2b2333e1d6023a9bd57ea069f2dfc5",
       "text": "The 1459 Fra Mauro map reports that \"a junk from India \" rounded the Cape of Good Hope in 1420, around 70 years before the navigations of Vasco da Gama",
-      "tags": [
-        "fra mauro map",
-        "junk",
-        "india",
-        "cape of good hope",
-        "1420",
-        "vasco da gama",
-        "navigation",
-        "history",
-        "exploration",
-        "maritime"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Fra_Mauro_Map_FactumArte.jpg",
-        "caption": "Fra Mauro map"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3830,27 +3005,16 @@
           "source": "NASA"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_a960fade0023",
       "hash": "111564c6d06513a0d186d734eb40eb94ea5e93851123d35e82e1c4c4e6743050",
       "text": "The Brady Bunch actress Maureen McCormick was one of the many people who voiced the 1960s toy Chatty Cathy",
-      "tags": [
-        "maureen mccormick",
-        "brady bunch",
-        "actress",
-        "chatty cathy",
-        "toy",
-        "voice acting",
-        "1960s",
-        "celebrity",
-        "doll",
-        "entertainment"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/8/8a/BradyBunchtitle.png",
-        "caption": "The Brady Bunch"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3877,27 +3041,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_71f79ec5e0e7",
       "hash": "288b87d69a6188d7f34390cc813930b671c10e45c59eb6805bf3bf5920c85127",
       "text": "Flying Dog Brewery employs the unusual artwork of Ralph Steadman on its labels, best known for his work as the illustrator of the works of Hunter S. Thompson",
-      "tags": [
-        "flying dog brewery",
-        "ralph steadman",
-        "artwork",
-        "hunter s thompson",
-        "labels",
-        "illustration",
-        "beer",
-        "gonzo",
-        "artist",
-        "branding"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/e/ed/Flying_Dog_Brewery_Logo.png",
-        "caption": "Flying Dog Brewery"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3924,27 +3077,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_520921a2c780",
       "hash": "57985a39fb9dfb0f1bf0256f559d4540540e7114c3ab036d0f37d6b3d812cf53",
       "text": "Arthur Owens, codenamed SNOW, was a vital double agent who supplied information to German intelligence under the direction of British MI5 during the early years of World War II",
-      "tags": [
-        "arthur owens",
-        "snow",
-        "double agent",
-        "german intelligence",
-        "mi5",
-        "world war ii",
-        "espionage",
-        "british",
-        "spy",
-        "wartime"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bundesministerium_der_Verteidigung_Berlin_Spree.jpg",
-        "caption": "Abwehr"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3986,27 +3128,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_3b50a7404b0b",
       "hash": "59f2a2f0d5bc59b031f4b0b6760ac8a867d70aa08238d44ff72eb257be9a0e88",
       "text": "The history of sushi shows that although sushi is famous for its use in the Japanese cuisine, it actually originated in China in the 3rd or 4th century BC, more than 900 years before its first known appearance in Japan",
-      "tags": [
-        "sushi",
-        "history",
-        "japan",
-        "china",
-        "origin",
-        "cuisine",
-        "3rd century bc",
-        "4th century bc",
-        "food",
-        "asia"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Hiroshige_Bowl_of_Sushi.jpg",
-        "caption": "History of sushi"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -4028,27 +3159,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_3aa01105b126",
       "hash": "4aadc624e119909d9abd84e8d1cb59f66926eaf5b3e64b7470d19454c09c1c1b",
       "text": "Ray Wilson, who was the eldest member of England's victorious 1966 World Cup team, became an undertaker after he retired from football",
-      "tags": [
-        "ray wilson",
-        "england",
-        "1966 world cup",
-        "football",
-        "undertaker",
-        "career change",
-        "sports",
-        "soccer",
-        "retirement",
-        "team"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/England_national_football_team_crest.svg/330px-England_national_football_team_crest.svg.png",
-        "caption": "England national football team"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -4085,27 +3205,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_c9b17b37fef6",
       "hash": "541d144bbcda900bac24857fb55b0326c088dab5c97bb13f62133be0dc4ef982",
       "text": "Pilot Victor Chapman died after being attacked by German enemies while on flight to carry oranges to a wounded friend",
-      "tags": [
-        "victor chapman",
-        "pilot",
-        "german enemies",
-        "attack",
-        "oranges",
-        "wounded friend",
-        "flight",
-        "death",
-        "wartime",
-        "airman"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Victor_Chapman%2C_1916.jpg",
-        "caption": "Victor Chapman"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -4127,27 +3236,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_1f80adde04f2",
       "hash": "02660e3d212b2a043fa4b8350cc42e2fd2df5c182e8545666a19dcb19371dd82",
       "text": "Eli H. Janney whittled the prototypes for his railroad coupler design out of wood in 1873",
-      "tags": [
-        "eli h janney",
-        "railroad coupler",
-        "invention",
-        "prototype",
-        "wood",
-        "1873",
-        "engineering",
-        "transportation",
-        "history",
-        "mechanics"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Janney_coupler_drawing.png",
-        "caption": "Eli H. Janney"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -4174,27 +3272,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_d24ab93c32bc",
       "hash": "0e66f2027bd6f6df56ce7f06481ce63ba48d4325656a8030f94c22a21aff91fb",
       "text": "Bunchy Carter founded the Southern California chapter of the Black Panther Party",
-      "tags": [
-        "bunchy carter",
-        "black panther party",
-        "southern california",
-        "founder",
-        "activism",
-        "civil rights",
-        "organization",
-        "history",
-        "political",
-        "leader"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/7/75/Bunchy_Carter.jpg",
-        "caption": "Bunchy Carter"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -4221,24 +3308,13 @@
           "source": "PBS"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_42e8e35a36a5",
       "hash": "648a12a22091774be9bc21b0e07c6e36e4c41f9d66e5500ca0b69cbda3960bd7",
       "text": "Adult attention-deficit disorder (AADD) affects an estimated 30% of people who suffered from Attention-deficit hyperactivity disorder (ADHD) in their childhood",
-      "tags": [
-        "adult attention-deficit disorder",
-        "aadd",
-        "attention-deficit hyperactivity disorder",
-        "adhd",
-        "childhood",
-        "mental health",
-        "disorder",
-        "prevalence",
-        "diagnosis",
-        "neurology"
-      ],
+      "tags": [],
       "image": {
         "url": null,
         "caption": null
@@ -4263,27 +3339,16 @@
           "source": "WHO"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_0e680ae4480b",
       "hash": "d4cd5fae4fbcf8ebdc45f9bc2851e4cddc9b91b0e073444c1bfcddd088a3ecc0",
       "text": "From 1926 to 1940, the Union Minière du Haut Katanga had a virtual monopoly of the world uranium market",
-      "tags": [
-        "uranium market",
-        "monopoly",
-        "union miniere du haut katanga",
-        "historical fact",
-        "mining company",
-        "1920s",
-        "1930s",
-        "raw materials",
-        "congo",
-        "industry"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/HautKatangaHQ.jpg",
-        "caption": "Union Minière du Haut-Katanga"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -4310,27 +3375,16 @@
           "source": "The Guardian"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_03df0627d36a",
       "hash": "8df4bceaaf65d2bdff67807a9e26eccbfcdfcef28ca0e138f0f4ef24e7c3cb86",
       "text": "On March 4 1839, William F. Harnden became the first person to send an express freight shipment by rail",
-      "tags": [
-        "first express freight",
-        "rail shipment",
-        "william f. harnden",
-        "transportation history",
-        "1839",
-        "railroad",
-        "logistics",
-        "freight",
-        "innovation",
-        "united states"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Harndon.jpg",
-        "caption": "William F. Harnden"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -4357,27 +3411,16 @@
           "source": "NASA"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_37ca65b7d2c8",
       "hash": "bf7b2953082322980268c0a4bd5e15a4391a3bb171ce0d958e0f49899b65a96e",
       "text": "Although Gridley Bryant invented many of the basic railroad technologies in the early 1820s, including tracks and wheels, he never patented them",
-      "tags": [
-        "gridley bryant",
-        "railroad technology",
-        "invention",
-        "unpatented",
-        "early 1800s",
-        "tracks",
-        "wheels",
-        "mechanical engineering",
-        "inventor",
-        "historical technology"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/a/af/Gridley_Bryant.jpg",
-        "caption": "Gridley Bryant"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -4404,27 +3447,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_482c04dbbbd0",
       "hash": "4c9eff019b816bb16778971803ee4db560537b03f13c0cfde1583dfd3c275302",
       "text": "Arcadia University changed its name from Beaver College because the latter \"too often elicited ridicule in the form of derogatory remarks\"",
-      "tags": [
-        "arcadia university",
-        "beaver college",
-        "name change",
-        "university history",
-        "ridicule",
-        "branding",
-        "reputation",
-        "education",
-        "institutional change",
-        "marketing"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/8/82/Arcadia_univ_seal.png",
-        "caption": "Arcadia University seal"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -4441,27 +3473,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_2d71bc6deed1",
       "hash": "b7272f6253acb1b1d8479ca1f8b10b7fd21c244a2ece6084074e22121d669c27",
       "text": "The protagonist of Alexandre Dumas ' recently rediscovered last novel The Knight of Sainte-Hermine has a pivotal encounter with the British admiral Horatio Nelson during the Battle of Trafalgar",
-      "tags": [
-        "alexandre dumas",
-        "the knight of sainte-hermine",
-        "horatio nelson",
-        "battle of trafalgar",
-        "historical fiction",
-        "literature",
-        "rediscovered novel",
-        "naval battle",
-        "french author",
-        "protagonist"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/William_Morris_Hunt_-_Hamlet_-_2000.1231_-_Museum_of_Fine_Arts.jpg",
-        "caption": "Protagonist"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -4513,27 +3534,16 @@
           "source": "Britannica"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_0cbe64915038",
       "hash": "799bfac65f68de875ce166fdb06024d331ee7a468effc23317542bc7a9caa712",
       "text": "...a coping skill is a behavioral tool used to overcome adversity, disadvantage, or disability without correcting or eliminating the underlying condition",
-      "tags": [
-        "coping skill",
-        "behavioral tool",
-        "adversity",
-        "disadvantage",
-        "disability",
-        "psychology",
-        "mental health",
-        "self-help",
-        "resilience",
-        "human behavior"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Classes_of_stresses_that_plants_are_exposed_to.jpg",
-        "caption": "Stress (biology)"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -4565,27 +3575,16 @@
           "source": "WHO"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_172f5abee3a4",
       "hash": "6dd576c47ca1cff0bf4a82ec7bf81fd411d0e403283f5f217a1c79999d55a4e8",
       "text": "A bulbous bow can increase a ship 's fuel efficiency by as much as 15%",
-      "tags": [
-        "bulbous bow",
-        "ship design",
-        "fuel efficiency",
-        "maritime technology",
-        "naval architecture",
-        "hydrodynamics",
-        "shipping",
-        "energy saving",
-        "engineering",
-        "vessel performance"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Passenger_ship_Zaandam_in_drydock.jpg",
-        "caption": "Bulbous bow"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -4597,27 +3596,16 @@
           "source": "Wikipedia"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_96ed9fb32bfa",
       "hash": "c66f1a5628d49e69fef613e5802a72754b8f7341b9a5bc9d2d83b9289ad43335",
       "text": "Jesus spelled backwards sounds a bit like sausage",
-      "tags": [
-        "jesus",
-        "backwards",
-        "sausage",
-        "linguistic curiosity",
-        "wordplay",
-        "humor",
-        "sound-alike",
-        "religious figure",
-        "trivial fact",
-        "auditory illusion"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Wurstplatte.jpg",
-        "caption": "Sausage"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -4634,27 +3622,16 @@
           "source": "BBC"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_d927cdf26d4c",
       "hash": "3c6fcfe26287e170784514f84033aacf80bb82cc8387fd6e1c8a4775686f1ba8",
       "text": "The Sedlec Ossuary is a chapel decorated with the bones of 40,000 people",
-      "tags": [
-        "sedlec ossuary",
-        "chapel",
-        "decorated with bones",
-        "human remains",
-        "macabre art",
-        "czech republic",
-        "historical site",
-        "religious building",
-        "architecture",
-        "skull and bones"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kostnice_Sedlec.JPG",
-        "caption": "Sedlec Ossuary"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -4666,27 +3643,16 @@
           "source": "Wikipedia"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_4d507f53088c",
       "hash": "9ca48e3e7ee02d9df45b76306df257d6bd44a27afea11027a25706c47c8f9a06",
       "text": "A Year in the Merde by Stephen Clarke is a humorous look at the tense Franco-British relations during the time of the 2003 invasion of Iraq",
-      "tags": [
-        "a year in the merde",
-        "stephen clarke",
-        "humorous book",
-        "franco-british relations",
-        "2003 invasion of iraq",
-        "satire",
-        "cultural differences",
-        "british author",
-        "international relations",
-        "comedy"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/3/34/Merde_.jpg",
-        "caption": "A Year in the Merde"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -4713,27 +3679,16 @@
           "source": "Library of Congress"
         }
       ],
-      "version": 2
+      "version": 1
     },
     {
       "id": "dyk_2005_Apr_17f274e4385a",
       "hash": "e996c467df369751dfe71ce5080104e9a024b64f860b5f5f384f4deec2b048d8",
       "text": "The BMT Sea Beach Line has at times hosted the fastest express train service between Manhattan and Coney Island, but now carries only local trains of the New York City Subway, and doesn't even reach Coney Island due to reconstruction",
-      "tags": [
-        "bmt sea beach line",
-        "new york city subway",
-        "coney island",
-        "express train",
-        "local trains",
-        "transportation history",
-        "public transit",
-        "urban infrastructure",
-        "reconstruction",
-        "brooklyn"
-      ],
+      "tags": [],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Sea_Beach_Line.png",
-        "caption": "Sea Beach Line brochure"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -4755,7 +3710,7 @@
           "source": "New York Times"
         }
       ],
-      "version": 2
+      "version": 1
     }
   ]
 }
