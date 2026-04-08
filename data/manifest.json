@@ -1,12 +1,12 @@
 {
   "months": {
     "dyk_2004_Dec": {
-      "tags": false,
-      "links": false,
-      "tagged_facts": 0,
-      "linked_facts": 0,
+      "tags": true,
+      "links": true,
+      "tagged_facts": 92,
+      "linked_facts": 47,
       "total_facts": 92,
-      "version": 1
+      "version": 2
     },
     "dyk_2004_Nov": {
       "tags": false,
@@ -579,10 +579,10 @@
     "dyk_2010_Nov": {
       "tags": false,
       "links": false,
-      "tagged_facts": 120,
-      "linked_facts": 109,
+      "tagged_facts": 168,
+      "linked_facts": 214,
       "total_facts": 982,
-      "version": 1
+      "version": 2
     },
     "dyk_2010_Oct": {
       "tags": true,

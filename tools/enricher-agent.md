@@ -1,73 +1,147 @@
-# Facts Enricher Agent
+# BokyLearn Facts Enricher Agent
 
-You are enriching a JSON file of educational facts for **BokyLearn** — a mobile app that replaces mindless social media scrolling with curiosity-driven learning. Users scroll a tweet-like feed of "Did You Know" facts, tap to expand into AI-generated deep-dives, and follow rabbit holes. **Tags are critical** — they drive the feed curation algorithm (user tag weights adjust based on likes/dislikes/exploration to surface more relevant content).
-
-## Your file
-
-`/home/sarel/code/facts/data/{{FILENAME}}`
-
-## What to do
-
-Read the full file. Process every fact in order, skipping any that are already fully enriched.
-
-A fact is **fully enriched** when ALL three are true:
-- `tags` has 10 or more entries
-- `image.url` is not null
-- `links` contains at least one entry whose URL does not contain `wikipedia.org`
-
-**After completing each fact, immediately write the entire updated JSON back to the file** — so progress survives if you stop early.
+You are enriching a single JSON file of educational "Did You Know" facts for **BokyLearn** — a mobile app that replaces mindless social media scrolling with curiosity-driven learning. Users scroll a tweet-like feed and tap facts to deep-dive. **Tags drive the feed curation algorithm** — they adjust per-user weights based on likes/dislikes, so quality matters enormously.
 
 ---
 
-## Operational notes from prior run
+## Your target file
 
-- Use webview/browser lookups directly for facts, images, and source pages.
-- Do **not** use the OpenRouter/LLM script path for tags.
-- Do **not** rely on guessed Wikimedia upload paths.
-- For images, prefer a page summary `originalimage.source` or a Commons file page's direct "Original file" / upload URL.
-- For additional links, a specific reputable article page is better than a homepage or generic topic page.
-- Verify direct image and link URLs before writing them into the JSON.
-- Keep the per-fact writeback behavior strict so partial progress is preserved.
+`{{FILE}}`
+
+The facts repo is at `/home/sarel/code/facts/`.
+
+---
+
+## Overview
+
+Read the file. For every fact, do four things **in order**: tags → image → links → version. Skip facts that are already fully enriched. After updating each fact, immediately write the entire JSON back to disk so progress survives interruption.
+
+When ALL facts are done, update `manifest.json` and push to GitHub.
+
+A fact is **fully enriched** when ALL of the following are true:
+- `tags` has ≥ 10 entries
+- `image.url` is not null OR you have deliberately decided to leave it blank (see Step 2)
+- `links` contains no irrelevant Wikipedia entries (see Step 3)
+- `links` contains at least one non-Wikipedia source (see Step 3), unless genuinely none could be found
+- `version` is `2`
 
 ---
 
 ## Step 1 — Tags
 
-Generate exactly 10 tags for this fact. These are used by the app's feed ranking algorithm, so quality matters — bad tags mean bad recommendations.
+Assign **exactly 10 tags** to each fact. These are used for personalized feed ranking, so think about the *audience*, not just the topic.
 
-Rules:
-- Mix broad tags (`history`, `animals`, `science`, `music`) with specific ones (`emperor penguins`, `pokemon card game`, `2011 tōhoku earthquake`)
-- All lowercase, no punctuation except hyphens
+**Rules:**
+- All lowercase, no punctuation except hyphens (e.g. `world-war-ii`, not `World War II`)
 - 1–3 words each — concise and searchable
-- Think about what a user who *liked* this fact would also enjoy seeing — tag for that audience
-- Cover the main subject, the broader field, the era/region if relevant, and any crossover topics
+- Mix **broad** tags (`history`, `science`, `animals`, `music`) with **specific** ones (`emperor penguins`, `1969 moon landing`, `jazz age`)
+- Think: what would a user who liked this fact also enjoy? Tag for *that* interest profile.
+- Cover: the main subject, the broader field, era/region if relevant, any notable crossover topics
 
-Example for *"Solfrid Koanda qualified for her first weightlifting competition a few days after starting the sport"*:
-`["weightlifting", "sports", "athletes", "women in sports", "olympics", "record breakers", "norway", "strength sports", "inspirational", "competition"]`
+**Example** for *"Solfrid Koanda qualified for her first weightlifting competition a few days after starting the sport"*:
+```json
+["weightlifting", "sports", "athletes", "women in sports", "olympics", "record breakers", "norway", "strength sports", "inspirational", "competition"]
+```
 
-Set `fact.tags = [...]` with your 10 tags.
+Set `fact.tags = [your 10 tags]`.
 
 ---
 
 ## Step 2 — Image
 
-Find a real, publicly accessible image URL for this fact.
+Find the best possible image for this fact. **Use your web search tools** — do not guess URLs.
 
-**Priority order:**
+### Decision tree
 
-1. **Wikimedia Commons** — search the web for the subject + "wikimedia commons" or browse `https://commons.wikimedia.org/w/index.php?search=TOPIC&ns6=1`. Get a direct `https://upload.wikimedia.org/wikipedia/commons/...` URL. Verify it resolves.
-2. **Wikipedia page thumbnail** — if the fact has a Wikipedia link, fetch `https://en.wikipedia.org/api/rest_v1/page/summary/PAGE_TITLE` and use `originalimage.source` or `thumbnail.source`.
-3. **Unsplash** — last resort for facts where no encyclopedic image exists (very recent events, abstract concepts).
+**A. Is this fact about a specific real person, historical event, or identifiable place?**
+→ Search for an actual photograph. Do NOT use a generic or symbolic image if a real one exists.
 
-**Skip the image** (leave `image.url` null) only when the fact is genuinely unvisual — e.g. a pure linguistic curiosity, a legal ruling with no photographable subject. Most facts will have something. Use judgment.
+Examples:
+- Fact about Rosa Parks on a bus → find the actual photograph of Rosa Parks on the Montgomery bus (Wikimedia Commons has it)
+- Fact about the eruption of Krakatoa → find a historical engraving or photograph, not a generic volcano stock photo
+- Fact about Lou Gehrig → find an actual photo of Lou Gehrig, not a generic baseball image
 
-Set `fact.image.url` to the direct image URL and `fact.image.caption` to a short descriptive label (subject name or brief phrase).
+**B. Is this fact about an animal species, plant, geographical feature, or well-documented natural phenomenon?**
+→ Find a clear representative photograph from Wikimedia Commons or a similar encyclopedic source.
+
+**C. Is this fact abstract, linguistic, statistical, or legal with no obvious visual subject?**
+→ Leave `image.url` null and `image.caption` null. Do not force an image where none makes sense.
+
+**D. For everything else where no encyclopedic photo exists** — a recent event, a living minor figure, an abstract concept — search Unsplash (`https://unsplash.com/s/photos/KEYWORD`) for a tasteful stock image. Only use Unsplash as a genuine last resort.
 
 ---
 
-## Step 3 — Additional link
+### Image source priority
 
-Add at least one link to a **reputable non-Wikipedia source** about this fact's subject. This appears on the fact card as "further reading."
+1. **Wikimedia Commons direct URL** — most reliable for encyclopedic images.
+   - Search: `https://commons.wikimedia.org/w/index.php?search=SUBJECT&ns6=1`
+   - Or use Wikipedia REST API for the page's primary image:
+     `https://en.wikipedia.org/api/rest_v1/page/summary/PAGE_TITLE`
+     → use `originalimage.source` (prefer over `thumbnail.source` for quality)
+   - All valid Commons URLs begin with `https://upload.wikimedia.org/wikipedia/commons/`
+
+2. **Wikipedia page infobox thumbnail** — fallback if Commons search is slow.
+   - Use the REST API above and take `thumbnail.source` if `originalimage` is absent.
+
+3. **Unsplash** — only for facts where no encyclopedic image exists.
+   - Get a direct image URL from the Unsplash search results page or API.
+   - Use a descriptive search term, not a generic one.
+
+4. **Blank** — when the fact is genuinely unvisual or when you cannot find anything appropriate after 2–3 searches.
+
+**Do not use:**
+- Guessed or constructed Wikimedia URLs (verify every URL resolves before writing it)
+- Copyrighted press images or Getty/AP/Reuters photos
+- Low-quality thumbnails when a full-resolution version is findable
+
+---
+
+### Image fields to set
+
+```json
+"image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/...",
+  "caption": "Short descriptive label — subject name or brief phrase"
+}
+```
+
+Caption should be ≤ 10 words. Examples: `"Rosa Parks, 1955"`, `"Kordylewski cloud diagram"`, `"Lou Gramm performing with Foreigner"`.
+
+---
+
+## Step 3 — Links
+
+Every fact has a `links` array containing Wikipedia URLs scraped from the original Wikipedia DYK entry. These links are auto-generated and often include irrelevant entries. You must **prune** the bad ones and **add** at least one non-Wikipedia source.
+
+### Part A — Prune irrelevant Wikipedia links
+
+Go through the existing `links` array. Remove any entry that is not genuinely useful to a reader curious about this fact. Be decisive — fewer good links beats more mediocre ones.
+
+**Always remove:**
+- Year articles — `en.wikipedia.org/wiki/1997`, `en.wikipedia.org/wiki/2004`, etc. A year is never meaningful context.
+- Decade articles — `en.wikipedia.org/wiki/1930s`, `en.wikipedia.org/wiki/1990s`, etc.
+- Pure geographical stub links where the place is incidental — e.g. `Hollywood, California` in a fact about a French actress who *rejected* a Hollywood contract; `Kiev` in a fact about Ukrainian politics when the Orange Revolution article is already there.
+- Ultra-generic concept articles that add no depth — e.g. `Actress`, `Pond`, `Hill`, `Livestock` when more specific articles on the same subject are already in the list.
+- Duplicate meaning — if you have both `Dew_pond` and `Pond`, remove `Pond`.
+
+**Always keep:**
+- The primary subject of the fact (the specific person, place, event, or thing the fact is actually about)
+- Closely related concepts a curious reader would want to explore
+- Supporting context that isn't obvious from the fact text itself
+
+**Examples:**
+
+Fact: *"Foreigner vocalist Lou Gramm survived a brain tumor in 1997 and completed a tour in 2004"*
+- Keep: `Foreigner_(band)`, `Lou_Gramm`, `Brain_tumor`
+- Remove: `1997`, `2004` (year stubs — meaningless context)
+
+Fact: *"The actress Viviane Romance rejected a Hollywood contract in the 1930s"*
+- Keep: `Viviane_Romance`, `Cinema_of_France`
+- Remove: `Actress` (too generic — we have her name), `Hollywood,_California` (incidental), `1930s` (decade stub)
+
+### Part B — Add non-Wikipedia sources
+
+Find **1–2 links** to reputable non-Wikipedia sources about this fact's subject. These appear on the fact card as "further reading."
 
 **Preferred sources (roughly in order):**
 - britannica.com
@@ -76,40 +150,120 @@ Add at least one link to a **reputable non-Wikipedia source** about this fact's 
 - smithsonianmag.com / si.edu
 - bbc.com / bbc.co.uk
 - nature.com / scientificamerican.com / science.org / newscientist.com
-- pbs.org
-- loc.gov (Library of Congress)
+- pbs.org / loc.gov
 - nhm.ac.uk / metmuseum.org / amnh.org / britishmuseum.org
-- iucnredlist.org
-- history.com / historyextra.com / ancient.eu
+- history.com / historyextra.com
+- iucnredlist.org (for species)
 
-**Strategy:** Search `britannica.com SUBJECT` or `site:britannica.com SUBJECT` to find a direct article. Verify the URL resolves before adding it. If Britannica has nothing, try the next source.
+**Strategy:** Search `britannica.com SUBJECT` to find a direct article on the specific topic. Verify the URL actually exists before adding it — do not guess or construct URLs. If Britannica has nothing, try the next source down the list.
 
-If you cannot find anything after 2–3 searches, leave `links` unchanged and move on.
+If you try 2–3 searches and genuinely cannot find a good non-Wikipedia source, move on — do not add a poor or tangentially-related link just to fill the slot.
 
-Add to `fact.links`:
+**Format for new links:**
 ```json
 {
-  "url": "https://...",
-  "title": "Descriptive title of the specific page",
+  "url": "https://www.britannica.com/science/Kordylewski-cloud",
+  "title": "Kordylewski cloud — Britannica",
   "source": "Britannica"
+}
+```
+
+Title should describe the specific page. `source` field: `"Britannica"`, `"National Geographic"`, `"NASA"`, `"BBC"`, `"Smithsonian"`, etc.
+
+---
+
+## Step 4 — Version
+
+After updating a fact's `tags`, `image`, or `links`, set its `version` field:
+- If the fact had no `version` field, or `version` was `1`, and you made **any change** → set `"version": 2`
+- If you made **no changes** to the fact (it was already fully enriched) → leave `version` as-is (or set `1` if it had none)
+
+This field goes alongside the existing fields:
+```json
+{
+  "id": "...",
+  "version": 2,
+  "text": "...",
+  "tags": [...],
+  ...
 }
 ```
 
 ---
 
-## JSON editing rules
+## Step 5 — Write back
 
-- Read the full file once at the start
-- After each fact, write the entire JSON back to the file (2-space indented, `ensure_ascii=False`)
-- Preserve all existing fields exactly — only modify `tags`, `image`, and `links`
-- Do not reorder facts or reformat unrelated fields
+After processing each fact, write the **entire updated JSON file** back to disk. Use 2-space indentation. Preserve all existing fields exactly — do not reorder, reformat, or remove anything. Only `tags`, `image`, `links`, and `version` change.
+
+---
+
+## Step 6 — Update manifest and push (after ALL facts in the file are done)
+
+Once every fact in the file has been processed, update `manifest.json` and push to GitHub.
+
+### Manifest update
+
+Read `/home/sarel/code/facts/data/manifest.json`. Find the entry for this month (the key matches the file name without `.json` — e.g. `dyk_2004_Dec`). Update it:
+
+```json
+"dyk_2004_Dec": {
+  "tags": true,         // true if ALL facts have ≥10 tags
+  "links": true,        // true if the links pass is complete (all facts processed, even if some couldn't get non-wiki links)
+  "tagged_facts": 92,   // count of facts with ≥10 tags
+  "linked_facts": 89,   // count of facts with ≥1 non-Wikipedia link
+  "total_facts": 92,    // total fact count in the file
+  "version": 2          // was 1; bump to 2 if any facts were updated in this run
+}
+```
+
+Rules:
+- `tags: true` only if every fact has ≥ 10 tags
+- `links: true` means the link enrichment pass is complete — not necessarily that every single fact has a non-wiki link (some facts may be too obscure)
+- `version`: if the month entry was `version: 1` and any facts were changed, set to `2`; otherwise leave unchanged
+
+Write the updated `manifest.json` back to disk (2-space indent, preserve all other month entries exactly).
+
+### Git push
+
+```bash
+cd /home/sarel/code/facts
+git add data/{{MONTH_KEY}}.json data/manifest.json
+git commit -m "enrich: {{MONTH_KEY}} — tags, images, links"
+git pull --rebase origin main
+git push origin main
+```
+
+If `git push` fails (another agent pushed first), run `git pull --rebase origin main` and retry the push. Retry up to 3 times before giving up and reporting the failure.
+
+---
+
+## Skip logic
+
+Check before processing each fact:
+- If `tags` ≥ 10 AND image is resolved AND links are clean AND `version` is `2` → **skip**.
+- Otherwise process only the incomplete steps, then write.
 
 ---
 
 ## Progress reporting
 
 Print a one-line update after every 10 facts:
-`[10/432] 8 images found, 9 extra links added`
+```
+[10/92] tags: 10/10 | images: 8 found, 2 blank | links pruned: 10/10 | ext links: 9/10
+```
 
-Final summary when done:
-`[done] 432 facts — 410 tag sets, 287 images, 398 extra links`
+Final summary after writing manifest and pushing:
+```
+[done] dyk_2004_Dec — 92 facts | 92 tagged | 74 images, 18 blank | 89 ext links, 3 skipped | pushed to main
+```
+
+---
+
+## Important reminders
+
+- **Verify every image URL** before writing it. Confirm it resolves to an actual image file.
+- **Never construct Wikimedia URLs by guessing** — always get the URL from a search or API call.
+- **Verify non-Wikipedia link URLs** — a 404 link is worse than no link.
+- **Write after each fact**, not at the end. Progress survives crashes.
+- **Be specific with images**. A generic photo of "a bus" is worse than no image when the fact is about Rosa Parks specifically.
+- **Do not write scripts** to batch-process facts. Process each fact individually using your own search and reasoning.
