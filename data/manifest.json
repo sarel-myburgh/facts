@@ -33,12 +33,12 @@
       "version": 1
     },
     "dyk_2005_Aug": {
-      "tags": false,
-      "links": false,
-      "tagged_facts": 0,
-      "linked_facts": 0,
+      "tags": true,
+      "links": true,
+      "tagged_facts": 140,
+      "linked_facts": 140,
       "total_facts": 140,
-      "version": 1
+      "version": 2
     },
     "dyk_2005_Dec": {
       "tags": false,
