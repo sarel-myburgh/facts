@@ -9,12 +9,12 @@
       "version": 2
     },
     "dyk_2004_Nov": {
-      "tags": false,
-      "links": false,
-      "tagged_facts": 72,
-      "linked_facts": 0,
+      "tags": true,
+      "links": true,
+      "tagged_facts": 154,
+      "linked_facts": 147,
       "total_facts": 154,
-      "version": 1
+      "version": 2
     },
     "dyk_2004_Oct": {
       "tags": true,
@@ -51,8 +51,8 @@
     "dyk_2005_Feb": {
       "tags": false,
       "links": false,
-      "tagged_facts": 0,
-      "linked_facts": 0,
+      "tagged_facts": 20,
+      "linked_facts": 20,
       "total_facts": 76,
       "version": 1
     },
@@ -579,8 +579,8 @@
     "dyk_2010_Nov": {
       "tags": false,
       "links": false,
-      "tagged_facts": 168,
-      "linked_facts": 214,
+      "tagged_facts": 120,
+      "linked_facts": 109,
       "total_facts": 982,
       "version": 2
     },
