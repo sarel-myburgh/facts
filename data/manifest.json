@@ -12,7 +12,7 @@
       "tags": true,
       "links": false,
       "tagged_facts": 154,
-      "linked_facts": 147,
+      "linked_facts": 150,
       "total_facts": 154,
       "version": 2
     },
@@ -25,10 +25,10 @@
       "version": 2
     },
     "dyk_2005_Apr": {
-      "tags": false,
-      "links": false,
-      "tagged_facts": 48,
-      "linked_facts": 0,
+      "tags": true,
+      "links": true,
+      "tagged_facts": 95,
+      "linked_facts": 90,
       "total_facts": 95,
       "version": 2
     },
