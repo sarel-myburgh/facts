@@ -113,12 +113,12 @@
       "version": 1
     },
     "dyk_2005_Sep": {
-      "tags": false,
-      "links": false,
-      "tagged_facts": 0,
+      "tags": true,
+      "links": true,
+      "tagged_facts": 132,
       "linked_facts": 0,
       "total_facts": 132,
-      "version": 1
+      "version": 2
     },
     "dyk_2006_Apr": {
       "tags": false,
