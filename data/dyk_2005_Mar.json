@@ -6,10 +6,21 @@
       "id": "dyk_2005_Mar_8772e2c2c2f1",
       "hash": "4d985c6966343dfa700e4164e283a8edeb176861dbca051d5fe591b771789259",
       "text": "Tiao-kuai is the quasi-federal administration system in China",
-      "tags": [],
+      "tags": [
+        "china",
+        "government",
+        "administration",
+        "system",
+        "quasi-federal",
+        "politics",
+        "tiao-kuai",
+        "organizational structure",
+        "regional",
+        "authority"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/250px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "caption": "People's_Republic_of_China"
       },
       "mature": false,
       "source": "dyk",
@@ -29,17 +40,34 @@
           "url": "https://en.wikipedia.org/wiki/People%27s_Republic_of_China",
           "title": "People's Republic of China",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/world-asia-pacific-13904437",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_f2be0031d1a4",
       "hash": "3c37f3c5f40a20f963476e18b8e310cd85412d28c1a33bf5c6415a55456ce51c",
       "text": "King George V of the United Kingdom was a member of the Society for the Prevention of Calling Sleeping Car Porters \"George\"",
-      "tags": [],
+      "tags": [
+        "king george v",
+        "united kingdom",
+        "royalty",
+        "society",
+        "prevention",
+        "sleeping car porters",
+        "george",
+        "anecdote",
+        "history",
+        "monarchy"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/PullmanPorter.jpg",
+        "caption": "Society for the Prevention of Calling Sleeping Car Porters \"George\""
       },
       "mature": false,
       "source": "dyk",
@@ -59,27 +87,39 @@
           "url": "https://en.wikipedia.org/wiki/Society_for_the_Prevention_of_Calling_Sleeping_Car_Porters_%22George%22",
           "title": "Society for the Prevention of Calling Sleeping Car Porters \"George\"",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.nytimes.com/2004/07/25/books/chapters/rising-from-the-rails.html",
+          "title": "New York Times",
+          "source": "New York Times"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_97f5d76cc09d",
       "hash": "a334f97a973ff894a1ba6224ffc17116ec43a8cc6218d92b74709abe8727a458",
       "text": "C is for Cookie is a song by Joe Raposo, first performed on Sesame Street by Cookie Monster on March 28, 1972",
-      "tags": [],
+      "tags": [
+        "c is for cookie",
+        "song",
+        "joe raposo",
+        "sesame street",
+        "cookie monster",
+        "television",
+        "muppets",
+        "children's music",
+        "1972",
+        "pop culture"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Album_c_is_for_cookie_cookies_favourite_songs.jpg/250px-Album_c_is_for_cookie_cookies_favourite_songs.jpg",
+        "caption": "C_is_for_Cookie"
       },
       "mature": false,
       "source": "dyk",
       "scraped_at": "2026-04-07T01:05:10Z",
       "links": [
-        {
-          "url": "https://en.wikipedia.org/wiki/C_is_for_Cookie",
-          "title": "C is for Cookie",
-          "source": "Wikipedia"
-        },
         {
           "url": "https://en.wikipedia.org/wiki/Joe_Raposo",
           "title": "Joe Raposo",
@@ -96,25 +136,32 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/March_28",
-          "title": "March 28",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/1972",
-          "title": "1972",
-          "source": "Wikipedia"
+          "url": "http://news.bbc.co.uk/2/hi/entertainment/4432415.stm",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_712b92bb7488",
       "hash": "0ef08f7c5006b87f1a2fc18abb219f5221700e281dc441a90a45d36b1ed52a8a",
       "text": "Loys Bourgeois, a French Renaissance composer, was sent to jail for changing a few notes in a hymn tune",
-      "tags": [],
+      "tags": [
+        "loys bourgeois",
+        "french renaissance",
+        "composer",
+        "jail",
+        "hymn tune",
+        "music",
+        "history",
+        "france",
+        "censorship",
+        "classical music"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bourgeois_1551.jpg",
+        "caption": "Louis Bourgeois (composer)"
       },
       "mature": false,
       "source": "dyk",
@@ -134,17 +181,34 @@
           "url": "https://en.wikipedia.org/wiki/Hymn",
           "title": "Hymn",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/n83143772",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_5887de5cd3c9",
       "hash": "a81408ab7768252d4e9d5936f9b403e6d7ec1189065cee28eda9ed2b381eb848",
       "text": "The Swedish government canceled a short film about AIDS that they commissioned from film director Roy Andersson because he had made it \"too dark in its message\"",
-      "tags": [],
+      "tags": [
+        "swedish government",
+        "film",
+        "aids",
+        "roy andersson",
+        "director",
+        "canceled",
+        "dark message",
+        "public health",
+        "cinema",
+        "scandal"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Badham_Palance_1974.jpg",
+        "caption": "Film director"
       },
       "mature": false,
       "source": "dyk",
@@ -174,17 +238,34 @@
           "url": "https://en.wikipedia.org/wiki/Roy_Andersson",
           "title": "Roy Andersson",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/art/auteur-theory",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_01465d6385ae",
       "hash": "3cf43a86994f3ab7fcba45d70fbc1fafb895fb10b3fd9d52b9df42c540263d8c",
       "text": "The world's first geothermal power station was built in Larderello, Italy in 1911",
-      "tags": [],
+      "tags": [
+        "geothermal",
+        "power station",
+        "larderello",
+        "italy",
+        "1911",
+        "energy",
+        "history",
+        "renewable",
+        "electricity",
+        "engineering"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Krafla_geothermal_power_station_wiki.jpg",
+        "caption": "Geothermal power"
       },
       "mature": false,
       "source": "dyk",
@@ -206,20 +287,32 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/1911",
-          "title": "1911",
-          "source": "Wikipedia"
+          "url": "https://web.archive.org/web/20210108131328/https://www.nationalgeographic.com/environment/global-warming/geothermal-energy/",
+          "title": "National Geographic",
+          "source": "National Geographic"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_c2ac8cddd1e3",
       "hash": "6a8e60cf5293a716cbe91593a1d80e9e72831db314c9a80d2c291eb40baf5b59",
       "text": "Admiral Alexander Hood, 1st Viscount Bridport of the Royal Navy was elevated to the peerage for his exploits in the Battle of the Glorious First of June",
-      "tags": [],
+      "tags": [
+        "admiral alexander hood",
+        "royal navy",
+        "viscount bridport",
+        "peerage",
+        "battle",
+        "glorious first of june",
+        "military",
+        "nobility",
+        "naval history",
+        "warfare"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Loutherbourg-La_Victoire_de_Lord_Howe.jpg/330px-Loutherbourg-La_Victoire_de_Lord_Howe.jpg",
+        "caption": "Glorious_First_of_June"
       },
       "mature": false,
       "source": "dyk",
@@ -239,17 +332,34 @@
           "url": "https://en.wikipedia.org/wiki/Glorious_First_of_June",
           "title": "Glorious First of June",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/sh85048594",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_d49bfb267711",
       "hash": "33422f6683162019b485a1518acc74d6deed1f7f67a2307768e9285dc42beb46",
       "text": "The eighth century bishop and saint Rupert of Salzburg set up his base in the old Roman town of Juvavum and renamed it Salzburg",
-      "tags": [],
+      "tags": [
+        "saint rupert",
+        "salzburg",
+        "bishop",
+        "eighth century",
+        "juvavum",
+        "roman town",
+        "austria",
+        "history",
+        "religion",
+        "founder"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Rupert-Salzburg.jpg/250px-Rupert-Salzburg.jpg",
+        "caption": "Rupert_of_Salzburg"
       },
       "mature": false,
       "source": "dyk",
@@ -279,17 +389,34 @@
           "url": "https://en.wikipedia.org/wiki/Salzburg",
           "title": "Salzburg",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/nr91010748",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_86b94416233f",
       "hash": "3f63a09008d3d1fb7eaecf767b12c893894355722a458ce37ee58f32732956a3",
       "text": "Alvin Adams founded Adams and Company, forerunner to Adams Express Company, to haul express freight shipments by rail in 1840",
-      "tags": [],
+      "tags": [
+        "alvin adams",
+        "adams and company",
+        "adams express company",
+        "freight",
+        "rail",
+        "1840",
+        "business",
+        "transportation",
+        "history",
+        "logistics"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alvin_Adams.jpg/250px-Alvin_Adams.jpg",
+        "caption": "Alvin_Adams"
       },
       "mature": false,
       "source": "dyk",
@@ -309,17 +436,34 @@
           "url": "https://en.wikipedia.org/wiki/1840",
           "title": "1840",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/no2008160167",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_bdce1bb92c42",
       "hash": "ab94c3903c18a50d7a1656348e7776ecac7ea4b436eec7cfb56fa78c75b0833e",
       "text": "Enaptin has the second-longest chemical name to be written down, at 64,060 letters",
-      "tags": [],
+      "tags": [
+        "enaptin",
+        "chemical name",
+        "longest",
+        "64060 letters",
+        "science",
+        "chemistry",
+        "record",
+        "nomenclature",
+        "molecules",
+        "terminology"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ideogram_human_chromosome_6.svg/500px-Ideogram_human_chromosome_6.svg.png",
+        "caption": "Enaptin"
       },
       "mature": false,
       "source": "dyk",
@@ -334,17 +478,34 @@
           "url": "https://en.wikipedia.org/wiki/Chemistry",
           "title": "Chemistry",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/EBchecked/topic/684121/chemical-bonding/43383/The-quantum-mechanical-model",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_140160efc8c7",
       "hash": "8171d4171e2e48bf182c4520226ab301306c3c33def02ce5d50f793fdc7eaa78",
       "text": "An automatic number plate recognition system uses optical character recognition to read the license plates on vehicles",
-      "tags": [],
+      "tags": [
+        "automatic number plate recognition",
+        "anpr",
+        "optical character recognition",
+        "ocr",
+        "license plates",
+        "vehicles",
+        "technology",
+        "surveillance",
+        "traffic",
+        "identification"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/FrenchNumberPlates.jpg",
+        "caption": "Automatic number-plate recognition"
       },
       "mature": false,
       "source": "dyk",
@@ -364,32 +525,39 @@
           "url": "https://en.wikipedia.org/wiki/License_plate",
           "title": "License plate",
           "source": "Wikipedia"
+        },
+        {
+          "url": "http://news.bbc.co.uk/1/hi/uk_politics/6902543.stm",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_5f31e1f53426",
       "hash": "570224536a24e02aea2300e4a5d222dd31ff6ed676ccfd5dfe679dcc5d29098c",
       "text": "...that, in the 1996 film The Pompatus of Love, the main characters sit around discussing the meaning of the word \" pompatus \"",
-      "tags": [],
+      "tags": [
+        "the pompatus of love",
+        "1996 film",
+        "pompatus",
+        "meaning",
+        "discussion",
+        "movie",
+        "word origin",
+        "linguistics",
+        "comedy",
+        "culture"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/PompatusOfLovePoster.jpg/250px-PompatusOfLovePoster.jpg",
+        "caption": "The_Pompatus_of_Love"
       },
       "mature": false,
       "source": "dyk",
       "scraped_at": "2026-04-07T01:05:10Z",
       "links": [
-        {
-          "url": "https://en.wikipedia.org/wiki/1996",
-          "title": "1996",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Film",
-          "title": "Film",
-          "source": "Wikipedia"
-        },
         {
           "url": "https://en.wikipedia.org/wiki/The_Pompatus_of_Love",
           "title": "The Pompatus of Love",
@@ -399,17 +567,34 @@
           "url": "https://en.wikipedia.org/wiki/Pompatus",
           "title": "Pompatus",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.nytimes.com/movies/movie/134913/The-Pompatus-of-Love/overview",
+          "title": "New York Times",
+          "source": "New York Times"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_562c23168269",
       "hash": "7694b4c4d7a4d47e563e8cb306742cce002f751bc9fd17ad243dc636843c295b",
       "text": "Captain Alexander Hood of the Royal Navy was killed in battle between his ship Mars and the French Hercule in 1798",
-      "tags": [],
+      "tags": [
+        "naval history",
+        "1798",
+        "royal navy",
+        "captain alexander hood",
+        "battle",
+        "mars",
+        "hercule",
+        "france",
+        "britain",
+        "war"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Logo_of_the_Royal_Navy.svg/250px-Logo_of_the_Royal_Navy.svg.png",
+        "caption": "Royal_Navy"
       },
       "mature": false,
       "source": "dyk",
@@ -439,17 +624,34 @@
           "url": "https://en.wikipedia.org/wiki/1798",
           "title": "1798",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/uk-scotland-highlands-islands-38340159",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_d1a34c9dc1e1",
       "hash": "e987cc8e3217f4c92edbbe0b80ed8d079cb7ce0b027817eba54a95983e4de42e",
       "text": "Sashimono were small banners worn on the backs of Japanese medieval troops for identification during battles",
-      "tags": [],
+      "tags": [
+        "japan",
+        "medieval",
+        "samurai",
+        "banners",
+        "sashimono",
+        "troops",
+        "identification",
+        "battles",
+        "military history",
+        "feudal japan"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Kuniyoshi_-_6_Select_Heroes_%28S81.5%29%2C_A_back_view_of_Onikojima_Yatar%C3%B4_Kazutada_in_armor_holding_a_spear_and_a_severed_head.jpg",
+        "caption": "Sashimono"
       },
       "mature": false,
       "source": "dyk",
@@ -474,17 +676,34 @@
           "url": "https://en.wikipedia.org/wiki/History_of_Japan#Feudal_Japan",
           "title": "History of Japan",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.smithsonianmag.com/history/the-great-japan-earthquake-of-1923-1764539/",
+          "title": "Smithsonian Magazine",
+          "source": "Smithsonian Magazine"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_f4b1e94a88ef",
       "hash": "be75a6397f6dd84fc1d4e06f1b00bed8e09f1de9040d4826d02674727c6e9b34",
       "text": "The Soviet Red Army's T-10 heavy tank was originally named IS-10 for Iosif Stalin ( Joseph Stalin ), but was renamed in the climate of de-Stalinization",
-      "tags": [],
+      "tags": [
+        "soviet union",
+        "red army",
+        "t-10",
+        "heavy tank",
+        "is-10",
+        "iosif stalin",
+        "joseph stalin",
+        "de-stalinization",
+        "military",
+        "cold war"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Joseph_Stalin_in_1932_%284%29_%28cropped%29%282%29.jpg/250px-Joseph_Stalin_in_1932_%284%29_%28cropped%29%282%29.jpg",
+        "caption": "Joseph_Stalin"
       },
       "mature": false,
       "source": "dyk",
@@ -514,17 +733,34 @@
           "url": "https://en.wikipedia.org/wiki/History_of_the_Soviet_Union_(1953-1985)",
           "title": "History of the Soviet Union (1953-1985)",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/n80044789",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_ee14c69c3e10",
       "hash": "aa8c9358e3c2dc56e5c7cdf27749e093914faf7d29a58017b0d35763f0b4a4ca",
       "text": "The Interactive Urine Communicator is a marketing device used in urinals",
-      "tags": [],
+      "tags": [
+        "marketing",
+        "device",
+        "urinals",
+        "technology",
+        "interactive",
+        "communication",
+        "advertising",
+        "novelty",
+        "bathroom",
+        "product"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Global_Warming.jpg",
+        "caption": "Interactive urinal"
       },
       "mature": false,
       "source": "dyk",
@@ -544,17 +780,34 @@
           "url": "https://en.wikipedia.org/wiki/Urinal",
           "title": "Urinal",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://web.archive.org/web/20120409062552/http://www.bbc.com/news/technology-15923438",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_f6b6a1d7221a",
       "hash": "459cad10d392e5a2519ea924f174600728bd6c3e9e0885ad4da2fb4a3eff32d8",
       "text": "The crews of even the most heavily-armoured tanks try to take advantage of protective terrain in combat, by moving their vehicles into hull-down positions whenever possible",
-      "tags": [],
+      "tags": [
+        "tanks",
+        "combat",
+        "military tactics",
+        "hull-down",
+        "terrain",
+        "armored vehicles",
+        "warfare",
+        "strategy",
+        "defense",
+        "protection"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Thure_de_Thulstrup_-_L._Prang_and_Co._-_Battle_of_Gettysburg_-_Restoration_by_Adam_Cuerden.jpg",
+        "caption": "Combat"
       },
       "mature": false,
       "source": "dyk",
@@ -594,17 +847,34 @@
           "url": "https://en.wikipedia.org/wiki/Hull-down_position",
           "title": "Hull-down position",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/sh85028791",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_6ebee6936b1d",
       "hash": "4058c1f4e45fb989839d34eb9a30dd7c3280c71e97ab593d389cb58c8bd37b22",
       "text": "John S. Collins, who came to southern Florida to grow vegetables and coconuts on a barrier island, built a 2.5 mile long wooden Collins Bridge across Biscayne Bay in 1913 which led to the development of Miami Beach",
-      "tags": [],
+      "tags": [
+        "florida",
+        "miami beach",
+        "john s collins",
+        "collins bridge",
+        "1913",
+        "development",
+        "history",
+        "infrastructure",
+        "entrepreneur",
+        "agriculture"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Above_Mantoloking_%2848015407501%29.jpg",
+        "caption": "Barrier island"
       },
       "mature": false,
       "source": "dyk",
@@ -613,26 +883,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/John_S._Collins",
           "title": "John S. Collins",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Florida",
-          "title": "Florida",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Coconut",
-          "title": "Coconut",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Barrier_island",
-          "title": "Barrier island",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Mile",
-          "title": "Mile",
           "source": "Wikipedia"
         },
         {
@@ -646,25 +896,37 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/1913",
-          "title": "1913",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Miami_Beach,_Florida",
           "title": "Miami Beach, Florida",
           "source": "Wikipedia"
+        },
+        {
+          "url": "http://www.csc.noaa.gov/beachnourishment/html/geo/barrier.htm",
+          "title": "NOAA",
+          "source": "NOAA"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_15edb60eba5e",
       "hash": "b056bc58432dd3ec2bca5de5e03a954fa9c85cf98779a122872bfb147ebc1176",
       "text": "The famous Hit Factory recording studio in New York City recently closed down after 12 years of operation",
-      "tags": [],
+      "tags": [
+        "new york city",
+        "recording studio",
+        "music",
+        "hit factory",
+        "audio production",
+        "entertainment",
+        "history",
+        "business",
+        "closure",
+        "landmark"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+        "caption": "New_York_City"
       },
       "mature": false,
       "source": "dyk",
@@ -684,17 +946,34 @@
           "url": "https://en.wikipedia.org/wiki/New_York_City",
           "title": "New York City",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/event/Treaty-of-Breda",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_1d257c6da90a",
       "hash": "64691bb6945607841b49c2ad6aee5a7d427e0f2c04938e8076675947b5e1f12d",
       "text": "Double Gloucester cheese is made from a mixture of milk taken in the morning and evening",
-      "tags": [],
+      "tags": [
+        "cheese",
+        "double gloucester",
+        "food",
+        "dairy",
+        "england",
+        "agriculture",
+        "production",
+        "culinary",
+        "british",
+        "milk"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Double_Gloucester_cheese.jpg/250px-Double_Gloucester_cheese.jpg",
+        "caption": "Double_Gloucester_cheese"
       },
       "mature": false,
       "source": "dyk",
@@ -709,17 +988,34 @@
           "url": "https://en.wikipedia.org/wiki/Milk",
           "title": "Milk",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.bbc.co.uk/programmes/b008nbyz",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_b08fd13a7f73",
       "hash": "2a7ef28739ff3b442666a8188271deda4fc4e198fcc74ab1e10559cd1f64df01",
       "text": "Rose is the first new episode of Doctor Who to be shown since 1989",
-      "tags": [],
+      "tags": [
+        "doctor who",
+        "television",
+        "sci-fi",
+        "bbc",
+        "rose",
+        "2005",
+        "reboot",
+        "episode",
+        "british tv",
+        "cult classic"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Doctor_Who_title_card.png/250px-Doctor_Who_title_card.png",
+        "caption": "Doctor_Who"
       },
       "mature": false,
       "source": "dyk",
@@ -736,20 +1032,32 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/1989",
-          "title": "1989",
-          "source": "Wikipedia"
+          "url": "https://www.bbc.co.uk/news/uk-england-kent-13411516",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_aa66cc8df3b5",
       "hash": "9f462de0a82a561482848fb83ca51ec55e44a7c36f019b07529880b0608d0ccd",
       "text": "Fans in the Dawg Pound at Cleveland Browns Stadium used to throw dog food at opposing players",
-      "tags": [],
+      "tags": [
+        "nfl",
+        "cleveland browns",
+        "dawg pound",
+        "football",
+        "fans",
+        "stadium",
+        "tradition",
+        "sports",
+        "bizarre",
+        "history"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Huntington_Bank_Field_logo.png/330px-Huntington_Bank_Field_logo.png",
+        "caption": "Cleveland_Browns_Stadium"
       },
       "mature": false,
       "source": "dyk",
@@ -769,17 +1077,34 @@
           "url": "https://en.wikipedia.org/wiki/Dog_food",
           "title": "Dog food",
           "source": "Wikipedia"
+        },
+        {
+          "url": "http://www.dawgsbynature.com/2016/6/5/11863254/firstenergy-stadium-hosts-uswnts-2-0-victory-over-japan",
+          "title": "Nature",
+          "source": "Nature"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_4c7b2ea25e2a",
       "hash": "1a23ea6b176d997dcad3968ff65f7f3a465ecb8791521c6c3a65bac019357787",
       "text": "The Florida Lottery's Lotto game was the first single-state lottery in the United States to have a jackpot over US$ 100 million, on the September 14, 1990 drawing",
-      "tags": [],
+      "tags": [
+        "florida lottery",
+        "lottery",
+        "jackpot",
+        "1990",
+        "united states",
+        "gambling",
+        "finance",
+        "history",
+        "state lottery",
+        "record"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/en/9/98/Florida_Lottery_logo_%282013%29.png",
+        "caption": "Florida_Lottery"
       },
       "mature": false,
       "source": "dyk",
@@ -806,30 +1131,32 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/USD",
-          "title": "USD",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/September_14",
-          "title": "September 14",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/1990",
-          "title": "1990",
-          "source": "Wikipedia"
+          "url": "http://blogs.reuters.com/felix-salmon/2012/03/14/the-worst-personal-finance-video-ever/",
+          "title": "Reuters",
+          "source": "Reuters"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_447d834be560",
       "hash": "dae85861d1ddb22bedd0abb1225d8ea35bda9c7e6a2938dbdc308102cd27f402",
       "text": "Alonzo C. Mather was awarded a medal in 1883 by the American Humane Society for the humane treatment of the livestock transported in railroad stock cars he designed",
-      "tags": [],
+      "tags": [
+        "alonzo c mather",
+        "american humane society",
+        "1883",
+        "livestock",
+        "railroads",
+        "animal welfare",
+        "invention",
+        "history",
+        "transportation",
+        "medal"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/20150728_xl_P1000804_Leck_mich_Zaertlichkeit_der_Rinder.JPG",
+        "caption": "Livestock"
       },
       "mature": false,
       "source": "dyk",
@@ -859,17 +1186,34 @@
           "url": "https://en.wikipedia.org/wiki/Stock_car_(rail)",
           "title": "Stock car (rail)",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/EBchecked/topic/203664/feed/67871/Antibiotics-and-other-growth-stimulants",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_ed1fd1cb2edf",
       "hash": "05579cfff7507c1ba4fa3433fbee562e1417581b3e2294f0e85bc057022122b5",
       "text": "Anthony T. Rossi invented a process to pack pure chilled orange juice, and founded Tropicana Products in 1947",
-      "tags": [],
+      "tags": [
+        "anthony rossi",
+        "tropicana",
+        "orange juice",
+        "invention",
+        "1947",
+        "food",
+        "business",
+        "entrepreneur",
+        "chilled",
+        "product"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Tropicana_green_flat_logo.svg/250px-Tropicana_green_flat_logo.svg.png",
+        "caption": "Tropicana_Products"
       },
       "mature": false,
       "source": "dyk",
@@ -891,20 +1235,32 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/1947",
-          "title": "1947",
-          "source": "Wikipedia"
+          "url": "https://www.theatlantic.com/health/archive/2011/01/pepsis-questionable-push-into-better-for-you-foods/68917/",
+          "title": "The Atlantic",
+          "source": "The Atlantic"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_4d8d22fab256",
       "hash": "629323933671587209935e0384c4f325ed97a39cebda2868e195105f0e3a35a2",
       "text": "Cardiac surgeon William Mustard developed the Mustard cardiovascular procedure to correct blue baby syndrome",
-      "tags": [],
+      "tags": [
+        "william mustard",
+        "cardiac surgeon",
+        "mustard procedure",
+        "blue baby syndrome",
+        "medicine",
+        "surgery",
+        "inventor",
+        "heart",
+        "health",
+        "medical"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cyanotic_neonate.jpg/250px-Cyanotic_neonate.jpg",
+        "caption": "Blue_baby_syndrome"
       },
       "mature": false,
       "source": "dyk",
@@ -929,17 +1285,34 @@
           "url": "https://en.wikipedia.org/wiki/Blue_baby_syndrome",
           "title": "Blue baby syndrome",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.who.int/water_sanitation_health/diseases-risks/diseases/methaemoglob/en/",
+          "title": "WHO",
+          "source": "WHO"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_4aa25710dd91",
       "hash": "fa3a041f3ae5558a30ebf3a9663b288a4ba989cce010d75c4386d7c0c8bc8eab",
       "text": "The Common Travel Area which allows Irish and British people to travel without passports between their countries is the result of the lack of any law requiring a passport",
-      "tags": [],
+      "tags": [
+        "common travel area",
+        "ireland",
+        "britain",
+        "travel",
+        "passport",
+        "law",
+        "uk",
+        "freedom",
+        "immigration",
+        "european"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/CommonTravelArea.svg/250px-CommonTravelArea.svg.png",
+        "caption": "Common_Travel_Area"
       },
       "mature": false,
       "source": "dyk",
@@ -964,17 +1337,34 @@
           "url": "https://en.wikipedia.org/wiki/Passport",
           "title": "Passport",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.bbc.com/news/world-europe-59599138",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_94186530b4f4",
       "hash": "c1b7c9e076a799c686f4ec3058e040682fe266d985c6070050dabd846146b20a",
       "text": "Mather Tower, the headquarters building for Mather Stock Car Company built in 1928 in Chicago, Illinois, has the smallest floor size of any of Chicago's skyscrapers",
-      "tags": [],
+      "tags": [
+        "mather tower",
+        "chicago",
+        "skyscraper",
+        "architecture",
+        "building",
+        "illinois",
+        "1928",
+        "smallest",
+        "construction",
+        "landmark"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Huanggutun_Incident.jpg",
+        "caption": "1928"
       },
       "mature": false,
       "source": "dyk",
@@ -986,30 +1376,37 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/1928",
-          "title": "1928",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Chicago,_Illinois",
           "title": "Chicago, Illinois",
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Skyscraper",
-          "title": "Skyscraper",
-          "source": "Wikipedia"
+          "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-data?country=GREECE",
+          "title": "NOAA",
+          "source": "NOAA"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_41b1dc93cf15",
       "hash": "52d7e8dbe748d7681e88d74e6900d135258bbff753aa43819522f93948a74dc1",
       "text": "Ninety Mile Beach in Victoria, Australia is the longest uninterrupted stretch of sandy coastline in the world",
-      "tags": [],
+      "tags": [
+        "ninety mile beach",
+        "victoria",
+        "australia",
+        "beach",
+        "coastline",
+        "longest",
+        "sandy",
+        "nature",
+        "geography",
+        "world record"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/90mile_beach_147.41000E_38.24102S.jpg/250px-90mile_beach_147.41000E_38.24102S.jpg",
+        "caption": "Ninety_Mile_Beach,_Victoria"
       },
       "mature": false,
       "source": "dyk",
@@ -1029,17 +1426,34 @@
           "url": "https://en.wikipedia.org/wiki/Australia",
           "title": "Australia",
           "source": "Wikipedia"
+        },
+        {
+          "url": "http://news.bbc.co.uk/2/hi/1250188.stm",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_60e868eb66f4",
       "hash": "77e341a752745ad2a35bf5b8bf9f357730c17711d9c0a64cd8a9c43781f3f8ab",
       "text": "In Operation Saturn, the Red Army drove the Axis Powers out of the Caucasus and back across the Donets River in the winter of 1942 – 1943",
-      "tags": [],
+      "tags": [
+        "operation saturn",
+        "red army",
+        "axis powers",
+        "caucasus",
+        "donets river",
+        "world war 2",
+        "battle",
+        "military",
+        "history",
+        "winter"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Operation_Little_Saturn-de.png/330px-Operation_Little_Saturn-de.png",
+        "caption": "Operation_Saturn"
       },
       "mature": false,
       "source": "dyk",
@@ -1071,25 +1485,32 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/1942",
-          "title": "1942",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/1943",
-          "title": "1943",
-          "source": "Wikipedia"
+          "url": "https://www.bbc.com/news/world-europe-61399440",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_7e58c22a3729",
       "hash": "880d2ec72d04a71583dee3055b73c0f256556ef9e25e3232245f028f8fbad9df",
       "text": "Russian -born Yiddish playwright Peretz Hirshbein tried his hand at farming, both in the Catskills and in Argentina",
-      "tags": [],
+      "tags": [
+        "peretz hirshbein",
+        "playwright",
+        "yiddish",
+        "russian",
+        "farming",
+        "catskills",
+        "argentina",
+        "writer",
+        "agriculture",
+        "theatre"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Peretz_Hirschbein.jpg",
+        "caption": "Peretz_Hirshbein"
       },
       "mature": false,
       "source": "dyk",
@@ -1119,17 +1540,34 @@
           "url": "https://en.wikipedia.org/wiki/Argentina",
           "title": "Argentina",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/n83121374",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_fe142657de9c",
       "hash": "6a02fe595eb76f5b61975d3cc2a90d22d16aabf98d0cd74f80791496f77d9269",
       "text": "Dr. Angel Ramos is one of the few deaf Hispanics in the United States to hold a doctorate",
-      "tags": [],
+      "tags": [
+        "angel ramos",
+        "deaf",
+        "hispanic",
+        "united states",
+        "doctorate",
+        "education",
+        "achievement",
+        "doctor",
+        "disability",
+        "minority"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg/250px-Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg.png",
+        "caption": "United_States"
       },
       "mature": false,
       "source": "dyk",
@@ -1159,57 +1597,71 @@
           "url": "https://en.wikipedia.org/wiki/Doctorate",
           "title": "Doctorate",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://web.archive.org/web/20131219194413/https://www.britannica.com/topic/616563/United-States-quick-facts",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_ce4b7732a02d",
       "hash": "b02cf9630e9efcd74b7fb9211a2b12fdf904806d5dc07bfa9fd24a38be628618",
       "text": "In the 1950s and 1960s, some residents of mid-rise apartment buildings would sleep outside on their fire escapes during hot summers",
-      "tags": [],
+      "tags": [
+        "1950s",
+        "1960s",
+        "fire escapes",
+        "apartment",
+        "urban",
+        "history",
+        "summer",
+        "heat",
+        "architecture",
+        "social"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/2019.07.10_metro_California-housing_Blog-post_related.webp",
+        "caption": "Apartment"
       },
       "mature": false,
       "source": "dyk",
       "scraped_at": "2026-04-07T01:05:10Z",
       "links": [
         {
-          "url": "https://en.wikipedia.org/wiki/1950s",
-          "title": "1950s",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/1960s",
-          "title": "1960s",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Apartment_building",
-          "title": "Apartment building",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Fire_escape",
           "title": "Fire escape",
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Summer",
-          "title": "Summer",
-          "source": "Wikipedia"
+          "url": "https://www.britannica.com/EBchecked/topic/547956/skyscraper",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_6caa1e8f2277",
       "hash": "dc8ab2dbd669bf752fa4b03cf2fa603c42000619f06c174c4e5d2e7d024756f6",
       "text": "Skeleton Lake in India is named after the remains of approximately 600 people who died there in a sudden hailstorm",
-      "tags": [],
+      "tags": [
+        "skeleton lake",
+        "india",
+        "roopkund",
+        "lake",
+        "mystery",
+        "human remains",
+        "hailstorm",
+        "nature",
+        "history",
+        "disaster"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Granizo.jpg",
+        "caption": "Hail"
       },
       "mature": false,
       "source": "dyk",
@@ -1229,17 +1681,34 @@
           "url": "https://en.wikipedia.org/wiki/Hailstorm",
           "title": "Hailstorm",
           "source": "Wikipedia"
+        },
+        {
+          "url": "http://news.nationalgeographic.com/news/2003/08/0804_030804_largesthailstone.html",
+          "title": "National Geographic",
+          "source": "National Geographic"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_dd541d3d523c",
       "hash": "aca353589a70ca76e39e6228b347ef05a001d8b98ea539f826b39da50eb2637a",
       "text": "The England football squad for the 1986 World Cup in Mexico contained two players called Gary Stevens",
-      "tags": [],
+      "tags": [
+        "england",
+        "football",
+        "world cup",
+        "1986",
+        "mexico",
+        "gary stevens",
+        "soccer",
+        "sport",
+        "team",
+        "unusual"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/1986_FIFA_World_Cup.svg/250px-1986_FIFA_World_Cup.svg.png",
+        "caption": "Football_World_Cup_1986"
       },
       "mature": false,
       "source": "dyk",
@@ -1264,17 +1733,34 @@
           "url": "https://en.wikipedia.org/wiki/Gary_Stevens",
           "title": "Gary Stevens",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://news.bbc.co.uk/2/hi/8742454.stm",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_c61ab754e2d5",
       "hash": "1da2dc70663cda3f81081daf96c5de9187ca063d296316454a3d9c11dccf1bc2",
       "text": "Up to 2 million people may be living in Russian closed cities, which are off-limits to foreigners because they have sensitive military and nuclear industry",
-      "tags": [],
+      "tags": [
+        "russian cities",
+        "closed cities",
+        "russia",
+        "military",
+        "nuclear",
+        "secret",
+        "restricted",
+        "population",
+        "government",
+        "cold war"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/141113-A-QS211-509_-_Soldiers_of_the_1st_Brigade_Combat_Team%2C_1st_Cavalry_Division%2C_and_2nd_Cavalry_Regiment_participate_in_the_closing_ceremony_for_Iron_Sword_2014.jpg",
+        "caption": "Military"
       },
       "mature": false,
       "source": "dyk",
@@ -1304,17 +1790,34 @@
           "url": "https://en.wikipedia.org/wiki/Industry",
           "title": "Industry",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/sh99002455",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_40bd4d796a5a",
       "hash": "7cb43c932be5acca1a60cd2f140c4a959dc7673359185028ec9ae982b4d8d0e9",
       "text": "The 1402 Korean Kangnido map fully depicts the Old World, from Europe and Africa to Japan, long before European explorations",
-      "tags": [],
+      "tags": [
+        "kangnido map",
+        "old world",
+        "korea",
+        "europe",
+        "africa",
+        "japan",
+        "exploration",
+        "history",
+        "geography",
+        "cartography"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/KangnidoMap.jpg/250px-KangnidoMap.jpg",
+        "caption": "Kangnido_map"
       },
       "mature": false,
       "source": "dyk",
@@ -1354,17 +1857,34 @@
           "url": "https://en.wikipedia.org/wiki/Japan",
           "title": "Japan",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://news.bbc.co.uk/2/hi/africa/2446907.stm",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_9f2321720d33",
       "hash": "a50c82c2f87826ef53a856bd4fdba2dbda7de405042977f490853846ebde156c",
       "text": "Actress Peggy McCay, now known for her role on Days of our Lives, first became popular as the heroine on Love of Life in 1951",
-      "tags": [],
+      "tags": [
+        "peggy mccay",
+        "actress",
+        "days of our lives",
+        "love of life",
+        "1951",
+        "television",
+        "soap opera",
+        "hollywood",
+        "fame",
+        "entertainment"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Days_of_Our_Lives_logo.svg/250px-Days_of_Our_Lives_logo.svg.png",
+        "caption": "Days_of_our_Lives"
       },
       "mature": false,
       "source": "dyk",
@@ -1386,30 +1906,37 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/1951",
-          "title": "1951",
-          "source": "Wikipedia"
+          "url": "https://id.loc.gov/authorities/n85262789",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_c51213c621f0",
       "hash": "2b32d7400db7b0fe8f3f4f1a3b0df9988521f27dc11643c0a1e80352959aa6f7",
       "text": "In 1969 noted writer Norman Mailer ran for Mayor of New York City advocating New York City secession",
-      "tags": [],
+      "tags": [
+        "norman mailer",
+        "writer",
+        "mayor",
+        "new york city",
+        "1969",
+        "politics",
+        "secession",
+        "election",
+        "author",
+        "history"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/New_York_Counties.svg/960px-New_York_Counties.svg.png",
+        "caption": "Partition and secession in New York"
       },
       "mature": false,
       "source": "dyk",
       "scraped_at": "2026-04-07T01:05:10Z",
       "links": [
-        {
-          "url": "https://en.wikipedia.org/wiki/1969",
-          "title": "1969",
-          "source": "Wikipedia"
-        },
         {
           "url": "https://en.wikipedia.org/wiki/Norman_Mailer",
           "title": "Norman Mailer",
@@ -1424,17 +1951,34 @@
           "url": "https://en.wikipedia.org/wiki/New_York_City_secession",
           "title": "New York City secession",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.nytimes.com/2008/04/13/nyregion/nyregionspecial2/13colli.html",
+          "title": "New York Times",
+          "source": "New York Times"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_d48b05d0710b",
       "hash": "de92773f7f8199afa596f430e14506388ff21aabcbfd892c7de0d16c5176a5d0",
       "text": "Joseph Haines was a well-known London song-and-dance man, comedian, and eccentric in the 17th century",
-      "tags": [],
+      "tags": [
+        "joseph haines",
+        "london",
+        "song-and-dance man",
+        "comedian",
+        "eccentric",
+        "17th century",
+        "performer",
+        "entertainment",
+        "history",
+        "england"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Hendrick_Avercamp_-_A_Scene_on_the_Ice_-_WGA01076.jpg",
+        "caption": "17th century"
       },
       "mature": false,
       "source": "dyk",
@@ -1464,17 +2008,34 @@
           "url": "https://en.wikipedia.org/wiki/17th_century",
           "title": "17th century",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/n83124423",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_283e7450e958",
       "hash": "ea1564a6b4ab29fea8839d2a8f6de7a36fd5e8ea5738a0233094383ea0adc67d",
       "text": "Death due to the Parapoxvirus is one of the main reasons for the decline of the number of Red squirrels on the British Isles",
-      "tags": [],
+      "tags": [
+        "parapoxvirus",
+        "death",
+        "red squirrels",
+        "british isles",
+        "decline",
+        "disease",
+        "wildlife",
+        "conservation",
+        "animal",
+        "uk"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/MODIS_-_Great_Britain_and_Ireland_-_2012-06-04_during_heat_wave.jpg/330px-MODIS_-_Great_Britain_and_Ireland_-_2012-06-04_during_heat_wave.jpg",
+        "caption": "British_Isles"
       },
       "mature": false,
       "source": "dyk",
@@ -1494,17 +2055,34 @@
           "url": "https://en.wikipedia.org/wiki/British_Isles",
           "title": "British Isles",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/place/River-Shannon",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_afe8d963e503",
       "hash": "ec54bdd6f02bfb27c75d972af4915f7216f9e90c95423642115e3eb16d10a8ea",
       "text": "Roman embassies to China are reported in Chinese historical accounts from as early as 166",
-      "tags": [],
+      "tags": [
+        "roman embassies",
+        "china",
+        "historical accounts",
+        "166 ad",
+        "ancient history",
+        "diplomacy",
+        "empires",
+        "rome",
+        "international relations",
+        "trade"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/East-Hem_050ad.jpg",
+        "caption": "Sino-Roman relations"
       },
       "mature": false,
       "source": "dyk",
@@ -1519,17 +2097,34 @@
           "url": "https://en.wikipedia.org/wiki/166",
           "title": "166",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.bbc.com/news/world-asia-china-37624943",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_bd50d99e9781",
       "hash": "bc1f125c536e3253c1abb8591afaf70cc9d93126d73f1b8f13e30e5544c45e7e",
       "text": "United Kingdom corporation tax is charged with reference to accounting periods",
-      "tags": [],
+      "tags": [
+        "united kingdom",
+        "corporation tax",
+        "accounting periods",
+        "taxation",
+        "finance",
+        "business",
+        "law",
+        "economics",
+        "government",
+        "uk"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Coat_of_arms_of_the_United_Kingdom_%282024%2C_lesser_arms%29.svg/1920px-Coat_of_arms_of_the_United_Kingdom_%282024%2C_lesser_arms%29.svg.png",
+        "caption": "United Kingdom corporation tax"
       },
       "mature": false,
       "source": "dyk",
@@ -1544,17 +2139,34 @@
           "url": "https://en.wikipedia.org/wiki/Accounting_period",
           "title": "Accounting period",
           "source": "Wikipedia"
+        },
+        {
+          "url": "http://news.bbc.co.uk/1/hi/business/3535749.stm",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_73cce04f65c6",
       "hash": "6c593fea8156fc78edd005c5c56a393f4fa6b10c0d839a0baebade1d8507969b",
       "text": "Angel Ramos, the founder of the second-largest Spanish speaking television network in the United States, Telemundo, was orphaned at the age of 3",
-      "tags": [],
+      "tags": [
+        "angel ramos",
+        "telemundo",
+        "founder",
+        "spanish speaking",
+        "television network",
+        "orphaned",
+        "media",
+        "business",
+        "hispanic",
+        "broadcasting"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg/250px-Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg.png",
+        "caption": "United_States"
       },
       "mature": false,
       "source": "dyk",
@@ -1584,17 +2196,34 @@
           "url": "https://en.wikipedia.org/wiki/Orphan",
           "title": "Orphan",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://web.archive.org/web/20131219194413/https://www.britannica.com/topic/616563/United-States-quick-facts",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_d8501839f513",
       "hash": "c73f40fa1afb8c74d51b36e8a623d05ec277d2575fc827b69161f27e1d530cbc",
       "text": "... Gilbert Stuart 's famous Lansdowne portrait of George Washington was given as a gift to William Petty, Lord Shelburne",
-      "tags": [],
+      "tags": [
+        "gilbert stuart",
+        "lansdowne portrait",
+        "george washington",
+        "william petty",
+        "lord shelburne",
+        "art",
+        "painting",
+        "history",
+        "portrait",
+        "american revolution"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gilbert_Stuart_-_George_Washington_%28Lansdowne_Portrait%29_-_Google_Art_Project.jpg/330px-Gilbert_Stuart_-_George_Washington_%28Lansdowne_Portrait%29_-_Google_Art_Project.jpg",
+        "caption": "Lansdowne_portrait"
       },
       "mature": false,
       "source": "dyk",
@@ -1619,17 +2248,34 @@
           "url": "https://en.wikipedia.org/wiki/William_Petty,_2nd_Earl_of_Shelburne",
           "title": "William Petty, 2nd Earl of Shelburne",
           "source": "Wikipedia"
+        },
+        {
+          "url": "http://www.georgewashington.si.edu/portrait/index.html",
+          "title": "Smithsonian Institution",
+          "source": "Smithsonian Institution"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_d6a91696b17c",
       "hash": "68f92d16bd6096bb849766682f6b161696c85561ae3a6fe92443dc721d5d4d41",
       "text": "Disney characters will regularly appear in 3D on television for the first time in the children's television series Disney's Mickey Mouse Clubhouse",
-      "tags": [],
+      "tags": [
+        "disney characters",
+        "3d",
+        "television",
+        "mickey mouse clubhouse",
+        "children's series",
+        "animation",
+        "disney",
+        "kids",
+        "entertainment",
+        "cgi"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Mickey_Mouse_Clubhouse_logo.svg/250px-Mickey_Mouse_Clubhouse_logo.svg.png",
+        "caption": "Disney's_Mickey_Mouse_Clubhouse"
       },
       "mature": false,
       "source": "dyk",
@@ -1649,17 +2295,34 @@
           "url": "https://en.wikipedia.org/wiki/Disney%27s_Mickey_Mouse_Clubhouse",
           "title": "Disney's Mickey Mouse Clubhouse",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.nytimes.com/2006/05/05/arts/television/05mick.html",
+          "title": "New York Times",
+          "source": "New York Times"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_4f7174f67060",
       "hash": "cb69c9152c39e39df5ef1f3535d6d255e42cf5956ae2a47b105f351caab0cb9d",
       "text": "The Panjdeh Incident in 1886 almost led to full-scale war between the British Empire and Imperial Russia",
-      "tags": [],
+      "tags": [
+        "panjdeh incident",
+        "1886",
+        "british empire",
+        "imperial russia",
+        "war",
+        "history",
+        "geopolitics",
+        "conflict",
+        "afghanistan",
+        "central asia"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%D0%98%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%BA_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5_%C2%AB%D0%9A%D1%83%D1%88%D0%BA%D0%B0%C2%BB._%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0_%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_1911-1915%29.jpg/330px-%D0%98%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%BA_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5_%C2%AB%D0%9A%D1%83%D1%88%D0%BA%D0%B0%C2%BB._%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0_%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_1911-1915%29.jpg",
+        "caption": "Panjdeh_Incident"
       },
       "mature": false,
       "source": "dyk",
@@ -1689,17 +2352,34 @@
           "url": "https://en.wikipedia.org/wiki/Imperial_Russia",
           "title": "Imperial Russia",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.bbc.com/travel/article/20210623-canadas-little-known-russian-sect",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_c99f9e55ba79",
       "hash": "79bd837f820e7dec6b44ae41445269f9a48d5f738f3e4fd167b61c6edd4d5440",
       "text": "A bass run is an instrumental break in which the main vocal or melody line rests and the bass instruments and line are given the forefront",
-      "tags": [],
+      "tags": [
+        "bass run",
+        "instrumental break",
+        "vocal",
+        "melody line",
+        "bass instruments",
+        "music",
+        "musical term",
+        "composition",
+        "arrangement",
+        "jazz"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Victor_Wooten_2.jpg",
+        "caption": "Bassline"
       },
       "mature": false,
       "source": "dyk",
@@ -1734,17 +2414,34 @@
           "url": "https://en.wikipedia.org/wiki/Bassline",
           "title": "Bassline",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/sh85083437",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_bce6d51b3cc7",
       "hash": "2ffc58b7b96e7ffd5c07d09b23206f564765a5bf990f681588a28de89368319e",
       "text": "Although Admiral Robert Calder arguably saved Britain from invasion in the battle of Cape Finisterre he was court-martialled for his failure to win a more decisive victory",
-      "tags": [],
+      "tags": [
+        "military",
+        "history",
+        "naval",
+        "battle",
+        "britain",
+        "court-martial",
+        "cape finisterre",
+        "admiral",
+        "robert calder",
+        "victory"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Lemuel_Francis_Abbott%2C_Captain_Robert_Calder%2C_c._1787-1790%2C_NGA_42921.jpg/250px-Lemuel_Francis_Abbott%2C_Captain_Robert_Calder%2C_c._1787-1790%2C_NGA_42921.jpg",
+        "caption": "Robert_Calder"
       },
       "mature": false,
       "source": "dyk",
@@ -1764,17 +2461,34 @@
           "url": "https://en.wikipedia.org/wiki/Battle_of_Cape_Finisterre_(1805)",
           "title": "Battle of Cape Finisterre (1805)",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/no2010149518",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_b2ea28763256",
       "hash": "14398291e2ceb42eacd7961a2652ad5a3d99c9e8ee99da4b67f544f464b6f349",
       "text": "The General Ban Chao led a Chinese military expedition to the doorstep of Europe during the 1st century CE",
-      "tags": [],
+      "tags": [
+        "history",
+        "china",
+        "military",
+        "expedition",
+        "han dynasty",
+        "general",
+        "ban chao",
+        "europe",
+        "1st century ce",
+        "army"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/1st_century_collage.png",
+        "caption": "1st century"
       },
       "mature": false,
       "source": "dyk",
@@ -1809,17 +2523,34 @@
           "url": "https://en.wikipedia.org/wiki/Common_Era",
           "title": "Common Era",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.scientificamerican.com/article/pompeii",
+          "title": "Scientific American",
+          "source": "Scientific American"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_a5e8e1a4435d",
       "hash": "e9de28ba2b45595cffb18f37bc5ce898094d1937166937fb28d62b9e61b45a48",
       "text": "Queen Wilhelmina of the Netherlands appointed the task of guarding the royal palaces to the Koninklijke Marechaussee (Royal Constabulary) in 1908",
-      "tags": [],
+      "tags": [
+        "royalty",
+        "netherlands",
+        "history",
+        "queen wilhelmina",
+        "koninklijke marechaussee",
+        "royal constabulary",
+        "palaces",
+        "security",
+        "1908",
+        "government"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wilhelmina_of_the_Netherlands_in_1936.jpg/250px-Wilhelmina_of_the_Netherlands_in_1936.jpg",
+        "caption": "Wilhelmina_of_the_Netherlands"
       },
       "mature": false,
       "source": "dyk",
@@ -1841,30 +2572,37 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Palace",
-          "title": "Palace",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Koninklijke_Marechaussee",
           "title": "Koninklijke Marechaussee",
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/1908",
-          "title": "1908",
-          "source": "Wikipedia"
+          "url": "https://id.loc.gov/authorities/n80086431",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_87cd0dad2525",
       "hash": "ba28d0b7ba7ee74baa4f3b69e0a6ff2a27e539e4517d62b7501ade2f954feb92",
       "text": "Antonín Dvořák 's Cello Concerto in b minor was considered so great that Johannes Brahms, the composer 's mentor who had never written one himself, commented: \"Why on earth didn't I know that one could write a cello concerto like this? If I had only known, I would have written one long ago!\"",
-      "tags": [],
+      "tags": [
+        "music",
+        "classical music",
+        "antonín dvořák",
+        "cello concerto",
+        "johannes brahms",
+        "composer",
+        "mentor",
+        "orchestra",
+        "masterpiece",
+        "quote"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JohannesBrahms.jpg/250px-JohannesBrahms.jpg",
+        "caption": "Johannes_Brahms"
       },
       "mature": false,
       "source": "dyk",
@@ -1899,17 +2637,34 @@
           "url": "https://en.wikipedia.org/wiki/Cello_concerto",
           "title": "Cello concerto",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/n79077221",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_8b78361481a7",
       "hash": "0884f60402ab1ab50d85a7a06892567471ff8e41bd5df418a90046cfeaba2e5c",
       "text": "The Williams X-Jet is a tiny flying platform that can carry a person for up to 45 minutes at speeds of up to 60 miles per hour (96 km/h ) and heights of up to 10,000 ft (3,050 m )",
-      "tags": [],
+      "tags": [
+        "aviation",
+        "technology",
+        "transportation",
+        "williams x-jet",
+        "flying platform",
+        "personal flight",
+        "speed",
+        "height",
+        "engineering",
+        "aircraft"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Clock_12-01.svg/250px-Clock_12-01.svg.png",
+        "caption": "Minute"
       },
       "mature": false,
       "source": "dyk",
@@ -1944,17 +2699,34 @@
           "url": "https://en.wikipedia.org/wiki/Meter",
           "title": "Meter",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.theguardian.com/science/2000/sep/14/technology2",
+          "title": "The Guardian",
+          "source": "The Guardian"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_2caf2f4eff02",
       "hash": "75c14479b7ac747a98eb808ac08f5a1bc6a99179b73df4e56815379adf963a5b",
       "text": "The BBC coat of arms was adopted in 1927 and uses heraldic symbols to depict the various qualities of broadcasting",
-      "tags": [],
+      "tags": [
+        "bbc",
+        "history",
+        "broadcasting",
+        "coat of arms",
+        "heraldry",
+        "symbols",
+        "united kingdom",
+        "television",
+        "radio",
+        "1927"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Coat_of_Arms_BBC.svg/250px-Coat_of_Arms_BBC.svg.png",
+        "caption": "BBC_coat_of_arms"
       },
       "mature": false,
       "source": "dyk",
@@ -1966,11 +2738,6 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/1927",
-          "title": "1927",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Heraldry",
           "title": "Heraldry",
           "source": "Wikipedia"
@@ -1979,17 +2746,34 @@
           "url": "https://en.wikipedia.org/wiki/Broadcasting",
           "title": "Broadcasting",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.bbc.co.uk/historyofthebbc/collections/bbc_collection/collection_archive_branding.shtml",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_a400bec224b6",
       "hash": "ebfe96355993e2c2b502001703a3064eb58a87b04e8edfcb7bcdf27d02653260",
       "text": "Blues-harp, rather than a type of harp, is a style of playing an ordinary diatonic harmonica that originated in the blues in which the in-drawn notes are made primary and the blown notes secondary",
-      "tags": [],
+      "tags": [
+        "music",
+        "blues",
+        "harmonica",
+        "instrument",
+        "blues-harp",
+        "diatonic",
+        "playing style",
+        "musical technique",
+        "jazz",
+        "american music"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/16-hole_chrom_10-hole_diatonic.jpg/250px-16-hole_chrom_10-hole_diatonic.jpg",
+        "caption": "Diatonic_harmonica"
       },
       "mature": false,
       "source": "dyk",
@@ -2014,17 +2798,34 @@
           "url": "https://en.wikipedia.org/wiki/Blues",
           "title": "Blues",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/sh85058948",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_23c560b5bd7f",
       "hash": "251913467979d411b75f8edb5c4cfd1b2e9b46125d5b7fb4e2551503715ffb3b",
       "text": "England football captain Eddie Hapgood was forced by diplomats to give a Nazi salute before a match with Germany in 1938",
-      "tags": [],
+      "tags": [
+        "history",
+        "football",
+        "england",
+        "nazi germany",
+        "eddie hapgood",
+        "diplomacy",
+        "salute",
+        "world war ii",
+        "sports",
+        "1938"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Eddie_Hapgood_crop_%28Tolnai_Vil%C3%A1glapja%2C_1939%29.jpg/250px-Eddie_Hapgood_crop_%28Tolnai_Vil%C3%A1glapja%2C_1939%29.jpg",
+        "caption": "Eddie_Hapgood"
       },
       "mature": false,
       "source": "dyk",
@@ -2056,20 +2857,32 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/1938",
-          "title": "1938",
-          "source": "Wikipedia"
+          "url": "https://news.bbc.co.uk/local/bristol/hi/people_and_places/newsid_8213000/8213794.stm",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_3ca1daa43cb6",
       "hash": "6ff09d896d464580b2254ed45dbd991818b489e48a4d9b398155d02a1fb8c44d",
       "text": "A congressional reporter mistranscribed testimony about a U.S. nuclear test from 1962 named Sedan nuclear test, leading to fears that a nuclear weapon had actually been tested in the Sudan",
-      "tags": [],
+      "tags": [
+        "history",
+        "nuclear weapons",
+        "us",
+        "nuclear test",
+        "sedan test",
+        "cold war",
+        "misinformation",
+        "sudan",
+        "reporter",
+        "government"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/W87_MIRV.jpg",
+        "caption": "Nuclear weapon"
       },
       "mature": false,
       "source": "dyk",
@@ -2078,11 +2891,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/Nuclear_testing",
           "title": "Nuclear testing",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/1962",
-          "title": "1962",
           "source": "Wikipedia"
         },
         {
@@ -2099,17 +2907,34 @@
           "url": "https://en.wikipedia.org/wiki/Sudan",
           "title": "Sudan",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.bbc.com/news/world-africa-47891470",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_74bc01309317",
       "hash": "0fefcd9f06b1cfa175bfa24aff5cde6560adc1180fac775501ef72857c3d227c",
       "text": "Tree frogs have been used as barometers because they respond to approaching rain by croaking",
-      "tags": [],
+      "tags": [
+        "animals",
+        "biology",
+        "nature",
+        "tree frogs",
+        "barometer",
+        "weather",
+        "rain",
+        "croaking",
+        "amphibian",
+        "behavior"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Hard_rain_on_a_roof.jpg",
+        "caption": "Rain"
       },
       "mature": false,
       "source": "dyk",
@@ -2129,17 +2954,34 @@
           "url": "https://en.wikipedia.org/wiki/Rain",
           "title": "Rain",
           "source": "Wikipedia"
+        },
+        {
+          "url": "http://www.britannica.com/eb/article-53358/climate",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_3d940b114d45",
       "hash": "e7b3e3b3bc0dfb92eed081bb07e9ecf1a35bdf726f835d1cd88f792a25876ad6",
       "text": "Stan Mortensen scored a hat-trick in the 1953 FA Cup Final at Wembley, becoming the first player ever to do so",
-      "tags": [],
+      "tags": [
+        "football",
+        "sports",
+        "england",
+        "fa cup final",
+        "wembley",
+        "hat-trick",
+        "stan mortensen",
+        "first player",
+        "history",
+        "1953"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/en/8/83/Stan_Mortensen.jpg",
+        "caption": "Stan_Mortensen"
       },
       "mature": false,
       "source": "dyk",
@@ -2156,11 +2998,6 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/1953",
-          "title": "1953",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/FA_Cup",
           "title": "FA Cup",
           "source": "Wikipedia"
@@ -2169,17 +3006,34 @@
           "url": "https://en.wikipedia.org/wiki/Wembley_Stadium",
           "title": "Wembley Stadium",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.bbc.com/news/uk-england-lancashire-43149941",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_1a7da3e8a1b8",
       "hash": "bd3614e7490c884fa93cc81f04716a687cc7d07d22ab9a6d72f88d70313842bb",
       "text": "The passamezzo antico was a favorite chord progression in sixteenth-century Europe, whose variants later include the passamezzo moderno or Gregory Walker, the American Gregory Walker, and the twelve bar blues",
-      "tags": [],
+      "tags": [
+        "music",
+        "history",
+        "chord progression",
+        "renaissance",
+        "passamezzo antico",
+        "passamezzo moderno",
+        "gregory walker",
+        "twelve bar blues",
+        "europe",
+        "musical theory"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Twelve_bar_boogie-woogie_blues_in_C.png/500px-Twelve_bar_boogie-woogie_blues_in_C.png",
+        "caption": "Twelve_bar_blues"
       },
       "mature": false,
       "source": "dyk",
@@ -2204,17 +3058,34 @@
           "url": "https://en.wikipedia.org/wiki/Twelve_bar_blues",
           "title": "Twelve bar blues",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.pbs.org/theblues/classroom/essaysblues.html",
+          "title": "PBS",
+          "source": "PBS"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_e616c4a8096c",
       "hash": "c373dc0d296d9a252c8c4dee7dc5a476c21cd271b757cb116af8b29e98ffb490",
       "text": "The J.M. Smucker Co. was granted a patent on a sealed crustless sandwich, a type of peanut butter and jelly sandwich and it is often used as an example of a frivolous patent",
-      "tags": [],
+      "tags": [
+        "smucker",
+        "patent",
+        "sandwich",
+        "peanut butter",
+        "jelly",
+        "frivolous",
+        "food",
+        "company",
+        "invention",
+        "legal"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Peanut-Butter-Jelly-Sandwich.jpg/250px-Peanut-Butter-Jelly-Sandwich.jpg",
+        "caption": "Peanut_butter_and_jelly_sandwich"
       },
       "mature": false,
       "source": "dyk",
@@ -2239,17 +3110,34 @@
           "url": "https://en.wikipedia.org/wiki/Peanut_butter_and_jelly_sandwich",
           "title": "Peanut butter and jelly sandwich",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.smithsonianmag.com/smart-news/can-sandwich-be-intellectual-property-180965359/",
+          "title": "Smithsonian Magazine",
+          "source": "Smithsonian Magazine"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_749a8841923b",
       "hash": "7a54b8126cd57f84cff168c7fc231713101bb4d59f0ccc653b019efab080f4db",
       "text": "Robert Mardian, the political co-ordinator for the Committee to Re-elect the President, was convicted for his part in the Watergate scandal but later had the conviction overturned because his lawyer had fallen ill",
-      "tags": [],
+      "tags": [
+        "robert mardian",
+        "watergate",
+        "scandal",
+        "conviction",
+        "overturned",
+        "politics",
+        "lawyer",
+        "committee to re-elect the president",
+        "history",
+        "legal"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Robert_Mardian.jpg",
+        "caption": "Robert_Mardian"
       },
       "mature": false,
       "source": "dyk",
@@ -2269,17 +3157,34 @@
           "url": "https://en.wikipedia.org/wiki/Watergate_scandal",
           "title": "Watergate scandal",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.bbc.com/news/magazine-18215048",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_275776777d4b",
       "hash": "50144d17a074ed33f1728d534025f448b35a20f6e18fcb843ce1b62f007c8944",
       "text": "With the Secret Treaty of Dover signed between England and France, King Charles II attempted to convert England to Catholicism",
-      "tags": [],
+      "tags": [
+        "secret treaty of dover",
+        "england",
+        "france",
+        "king charles ii",
+        "catholicism",
+        "religion",
+        "treaty",
+        "history",
+        "royalty",
+        "european history"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Peter_Lely_%281618-1680%29_%28and_studio%29_-_Henry_Bennet_%281618%E2%80%931685%29%2C_1st_Earl_of_Arlington%2C_in_Garter_Robes_-_108929_-_National_Trust.jpg/250px-Peter_Lely_%281618-1680%29_%28and_studio%29_-_Henry_Bennet_%281618%E2%80%931685%29%2C_1st_Earl_of_Arlington%2C_in_Garter_Robes_-_108929_-_National_Trust.jpg",
+        "caption": "Secret_Treaty_of_Dover"
       },
       "mature": false,
       "source": "dyk",
@@ -2309,17 +3214,34 @@
           "url": "https://en.wikipedia.org/wiki/Roman_Catholic",
           "title": "Roman Catholic",
           "source": "Wikipedia"
+        },
+        {
+          "url": "http://news.bbc.co.uk/1/hi/wales/mid/7254446.stm",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_2da60b4599df",
       "hash": "8b95e0ee72a4217467118e8e699910035904e76441b3b11abd59fda9c790c2a4",
       "text": "A double tonic is a basic chord progression or melodic motion extremely common in African, Asian, and European music consisting of a \"regular back-and-forth motion\" most commonly between notes a whole tone apart",
-      "tags": [],
+      "tags": [
+        "double tonic",
+        "chord progression",
+        "melodic motion",
+        "music theory",
+        "african music",
+        "asian music",
+        "european music",
+        "whole tone",
+        "music",
+        "composition"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Melodic_motion_2x2.png",
+        "caption": "Melodic motion"
       },
       "mature": false,
       "source": "dyk",
@@ -2364,17 +3286,34 @@
           "url": "https://en.wikipedia.org/wiki/Whole_tone",
           "title": "Whole tone",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Leo-Tolstoy",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_d5850638f331",
       "hash": "95fe708ace4b429b9e152a3d876f299e3df52459724199044c9c5952ab66585a",
       "text": "Rocket engine maker Thiokol, who made the Space Shuttle's booster rockets, also built airbags for Mars Pathfinder and the Mazda Miata",
-      "tags": [],
+      "tags": [
+        "thiokol",
+        "rocket engine",
+        "space shuttle",
+        "booster rockets",
+        "airbags",
+        "mars pathfinder",
+        "mazda miata",
+        "engineering",
+        "automotive",
+        "aerospace"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mars_Pathfinder_Lander_preparations.jpg/330px-Mars_Pathfinder_Lander_preparations.jpg",
+        "caption": "Mars_Pathfinder"
       },
       "mature": false,
       "source": "dyk",
@@ -2409,17 +3348,34 @@
           "url": "https://en.wikipedia.org/wiki/Mazda_Miata",
           "title": "Mazda Miata",
           "source": "Wikipedia"
+        },
+        {
+          "url": "http://www.nasa.gov/mission_pages/MRO/multimedia/pia09105.html",
+          "title": "NASA",
+          "source": "NASA"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_2d3360b2ff4a",
       "hash": "5a852078494af11ac7a408f2608c137659316b507da68e4c374f62a61bfc740f",
       "text": "The sled dog Togo is considered one of the heroes commemorated by the Iditarod dog sled race which is currently running across the U.S. state of Alaska",
-      "tags": [],
+      "tags": [
+        "togo",
+        "sled dog",
+        "iditarod",
+        "dog sled race",
+        "alaska",
+        "hero",
+        "animals",
+        "sport",
+        "endurance",
+        "history"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/%22Nugget_Express%22_Dawson%2C_Yukon_Territory_%28CURTIS_565%29.jpeg",
+        "caption": "Sled dog"
       },
       "mature": false,
       "source": "dyk",
@@ -2459,17 +3415,34 @@
           "url": "https://en.wikipedia.org/wiki/Alaska",
           "title": "Alaska",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.nationalgeographic.com/animals/article/humans-dogs-sledding-together-ten-thousand-years",
+          "title": "National Geographic",
+          "source": "National Geographic"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_5862c116b10f",
       "hash": "0eae5968b2b7887afd44fad9ee46f3200e4252dab9ac8f6a2b38f3ec89ab5060",
       "text": "The Bovo-Bukh, a very popular chivalric romances written in Yiddish, was based on the Anglo-Norman romance of Sir Bevis of Hampton, by way of the Italian language romance of Buovo d'Antona",
-      "tags": [],
+      "tags": [
+        "bovo-bukh",
+        "yiddish",
+        "chivalric romance",
+        "sir bevis of hampton",
+        "buovo d'antona",
+        "literature",
+        "anglo-norman",
+        "italian",
+        "medieval",
+        "books"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Taymouth_Hours_-_BL_YT13_f12r_%28Bevis_of_Hampton%29.jpg",
+        "caption": "Bevis of Hampton"
       },
       "mature": false,
       "source": "dyk",
@@ -2509,17 +3482,34 @@
           "url": "https://en.wikipedia.org/wiki/Italian_language",
           "title": "Italian language",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://news.bbc.co.uk/local/hampshire/hi/people_and_places/arts_and_culture/newsid_8481000/8481274.stm",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_38791add41ab",
       "hash": "b25705cec615e3da4c8cc5c88a1a2d4aea1643e08546ac18dafea89cf37ede6d",
       "text": "The flightless adzebill was a large predatory bird that lived in New Zealand, and was initially thought to be a kind of moa",
-      "tags": [],
+      "tags": [
+        "adzebill",
+        "flightless bird",
+        "predatory bird",
+        "new zealand",
+        "moa",
+        "extinct animals",
+        "ornithology",
+        "ecology",
+        "island species",
+        "avian"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/250px-Flag_of_New_Zealand.svg.png",
+        "caption": "New_Zealand"
       },
       "mature": false,
       "source": "dyk",
@@ -2549,17 +3539,34 @@
           "url": "https://en.wikipedia.org/wiki/Moa",
           "title": "Moa",
           "source": "Wikipedia"
+        },
+        {
+          "url": "http://news.bbc.co.uk/2/hi/business/8120196.stm",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_031ed04836de",
       "hash": "d006dc751a91e512d8e64741cf4fb615420046d63958236a676a1ca3ad835932",
       "text": "Sandwich toasters are sometimes called \"jaffle irons\" in Australia",
-      "tags": [],
+      "tags": [
+        "sandwich toaster",
+        "jaffle iron",
+        "australia",
+        "kitchen appliance",
+        "cooking",
+        "food preparation",
+        "terminology",
+        "slang",
+        "regional",
+        "utensil"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sandwich_toaster_open.jpg",
+        "caption": "Pie iron"
       },
       "mature": false,
       "source": "dyk",
@@ -2574,17 +3581,34 @@
           "url": "https://en.wikipedia.org/wiki/Australia",
           "title": "Australia",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.nytimes.com/2012/02/15/dining/the-return-of-the-toas-tite-for-pressed-grilled-sandwiches.html",
+          "title": "New York Times",
+          "source": "New York Times"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_cdc5c571206b",
       "hash": "210d04fcdb130ccf38813a7f775bed07f1563a9a39a875ded645de2d1805b53f",
       "text": "Nat Lofthouse was the England football team's highest goalscorer of all-time for eight years",
-      "tags": [],
+      "tags": [
+        "nat lofthouse",
+        "england",
+        "football",
+        "goalscorer",
+        "soccer",
+        "sports",
+        "record",
+        "athlete",
+        "legend",
+        "history"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Nat-Lofthouse.jpeg/250px-Nat-Lofthouse.jpeg",
+        "caption": "Nat_Lofthouse"
       },
       "mature": false,
       "source": "dyk",
@@ -2599,17 +3623,34 @@
           "url": "https://en.wikipedia.org/wiki/England_national_football_team",
           "title": "England national football team",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/uk-12201099",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_cb10aabd0324",
       "hash": "3fe96d12bb78fd63c78165ee17d4d85fb758975e9262e319ef58232467003b2e",
       "text": "Parlour music is a term used to describe the unified style common to popular and semi-popular European lite- classical and popular, and folk -like music from 1790 until 1900",
-      "tags": [],
+      "tags": [
+        "parlour music",
+        "european music",
+        "lite-classical",
+        "popular music",
+        "folk music",
+        "18th century",
+        "19th century",
+        "music history",
+        "genre",
+        "classical"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/The_Sounds_of_Earth_-_GPN-2000-001976.jpg",
+        "caption": "Music"
       },
       "mature": false,
       "source": "dyk",
@@ -2641,25 +3682,32 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/1790",
-          "title": "1790",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/1900",
-          "title": "1900",
-          "source": "Wikipedia"
+          "url": "https://www.britannica.com/art/music",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_7da50fd9e65b",
       "hash": "65638165d2b6e095d4c597cf94150a99ebf38f829e537669e15e1e0bd985c128",
       "text": "Kyiv Arsenal is one of the oldest and most famous industrial companies of the Ukrainian capital Kiev",
-      "tags": [],
+      "tags": [
+        "kyiv arsenal",
+        "industrial company",
+        "ukrainian capital",
+        "kiev",
+        "manufacturing",
+        "history",
+        "ukraine",
+        "business",
+        "enterprise",
+        "factory"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/17-07-02-Maidan_Nezalezhnosti_RR74377-PANORAMA.jpg/330px-17-07-02-Maidan_Nezalezhnosti_RR74377-PANORAMA.jpg",
+        "caption": "Kiev"
       },
       "mature": false,
       "source": "dyk",
@@ -2679,17 +3727,34 @@
           "url": "https://en.wikipedia.org/wiki/Kiev",
           "title": "Kiev",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/place/Kyiv",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_bd64c8304f5c",
       "hash": "576f8e694fb9378e310bbccd29955dfb9645a3c7e2e00a1b2a5b3a3334c39f83",
       "text": "The High Bridge that still stands over the Harlem River in New York City was designed by John B. Jervis as part of the Croton Aqueduct project in the 1840s",
-      "tags": [],
+      "tags": [
+        "high bridge",
+        "harlem river",
+        "new york city",
+        "john b. jervis",
+        "croton aqueduct",
+        "1840s",
+        "engineering",
+        "architecture",
+        "history",
+        "landmark"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+        "caption": "New_York_City"
       },
       "mature": false,
       "source": "dyk",
@@ -2711,30 +3776,37 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/1840s",
-          "title": "1840s",
-          "source": "Wikipedia"
+          "url": "https://www.britannica.com/event/Treaty-of-Breda",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_9b15d6b8dc19",
       "hash": "cac351c07a5e82dacd4c46568b6978aff8d3fab23dc250498ce16da9e0e7b705",
       "text": "The 2004 Dean v. Utica U.S. federal case expanded the First Amendment rights of high school journalists, which had been limited by the Supreme Court 's 1988 Hazelwood v. Kuhlmeier ruling",
-      "tags": [],
+      "tags": [
+        "dean v. utica",
+        "first amendment",
+        "high school journalists",
+        "hazelwood v. kuhlmeier",
+        "us federal case",
+        "2004",
+        "legal",
+        "civil rights",
+        "education",
+        "journalism"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Staples_High_School%2C_Westport%2C_CT.jpg",
+        "caption": "Secondary school"
       },
       "mature": false,
       "source": "dyk",
       "scraped_at": "2026-04-07T01:05:10Z",
       "links": [
-        {
-          "url": "https://en.wikipedia.org/wiki/2004",
-          "title": "2004",
-          "source": "Wikipedia"
-        },
         {
           "url": "https://en.wikipedia.org/wiki/Dean_v._Utica",
           "title": "Dean v. Utica",
@@ -2766,25 +3838,37 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/1988",
-          "title": "1988",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Hazelwood_v._Kuhlmeier",
           "title": "Hazelwood v. Kuhlmeier",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/sh85060731",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_88fb6dd76b05",
       "hash": "3258db4f1d230ceb8766b8e51c6a647b35a1dcb441244812f767c79c3dfdc629",
       "text": "Despite a sight-impairment disability, Carl G. Fisher became a notable American entrepreneur, who helped develop sealed beam headlights, the Lincoln Highway (the first U.S. transcontinental paved roadway), the Indianapolis Motor Speedway, and the resort city of Miami Beach, Florida",
-      "tags": [],
+      "tags": [
+        "carl g. fisher",
+        "sight-impairment",
+        "entrepreneur",
+        "sealed beam headlights",
+        "lincoln highway",
+        "indianapolis motor speedway",
+        "miami beach",
+        "inventor",
+        "disability",
+        "american history"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Indianapolis_Motor_Speedway_logo.svg/250px-Indianapolis_Motor_Speedway_logo.svg.png",
+        "caption": "Indianapolis_Motor_Speedway"
       },
       "mature": false,
       "source": "dyk",
@@ -2814,17 +3898,34 @@
           "url": "https://en.wikipedia.org/wiki/Miami_Beach,_Florida",
           "title": "Miami Beach, Florida",
           "source": "Wikipedia"
+        },
+        {
+          "url": "ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/TABLES/REG_IV/US/GROUP3/72438.TXT",
+          "title": "NOAA",
+          "source": "NOAA"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_7036f590207e",
       "hash": "9a6a5377b53ec7ef4d357c9e2f5d8b1e93870b5a1a29bcee8c272277bd40ef3f",
       "text": "Lysa Hora hill in the Ukrainian capital Kiev is both a historical fortress and a mystical \"bold mountain\" where witches are believed to gather for their sabbaths",
-      "tags": [],
+      "tags": [
+        "lysa hora",
+        "kiev",
+        "ukraine",
+        "historical fortress",
+        "mystical",
+        "bold mountain",
+        "witches",
+        "sabbaths",
+        "folklore",
+        "geography"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg",
+        "caption": "Fortification"
       },
       "mature": false,
       "source": "dyk",
@@ -2864,17 +3965,34 @@
           "url": "https://en.wikipedia.org/wiki/Sabbath_(witchcraft)",
           "title": "Sabbath (witchcraft)",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/art/Syro-Palestinian-art#ref419785",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_d4a67de47f83",
       "hash": "b14b8e48f7700582cb7ee1bc5b78d338fd65b6bd0f8f6a9d68c5fed547c702c8",
       "text": "Sow thistles are named because they were fed to lactating sows",
-      "tags": [],
+      "tags": [
+        "sow thistles",
+        "plants",
+        "lactating sows",
+        "etymology",
+        "farming",
+        "agriculture",
+        "nature",
+        "common name",
+        "botany",
+        "animals"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Sow_Thistle.jpg",
+        "caption": "Sow thistle"
       },
       "mature": false,
       "source": "dyk",
@@ -2894,17 +4012,34 @@
           "url": "https://en.wikipedia.org/wiki/Pig",
           "title": "Pig",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.scientificamerican.com/article/strange-but-true-males-can-lactate/",
+          "title": "Scientific American",
+          "source": "Scientific American"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_d57f6789f739",
       "hash": "7ec170ff6b6080c64cb8d5978e30b78ad1ce2628b9616cf29da1ae6a90d693be",
       "text": "Mary Hallaren was the first woman to join the United States Army",
-      "tags": [],
+      "tags": [
+        "mary hallaren",
+        "first woman",
+        "united states army",
+        "military history",
+        "women in uniform",
+        "gender equality",
+        "us military",
+        "pioneer",
+        "army",
+        "america"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mark_of_the_United_States_Army.svg/250px-Mark_of_the_United_States_Army.svg.png",
+        "caption": "United_States_Army"
       },
       "mature": false,
       "source": "dyk",
@@ -2919,17 +4054,34 @@
           "url": "https://en.wikipedia.org/wiki/United_States_Army",
           "title": "United States Army",
           "source": "Wikipedia"
+        },
+        {
+          "url": "http://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(jc00238)):",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_df5da660a84e",
       "hash": "3c1936020bbec326bfd0a455e0acd64e739493495910efffb914f6beb8bccd61",
       "text": "In Lebanon, the spice mixture Za'atar is thought to bring physical strength and keep the mind alert",
-      "tags": [],
+      "tags": [
+        "lebanon",
+        "spice mixture",
+        "za'atar",
+        "physical strength",
+        "mind alert",
+        "food",
+        "middle eastern cuisine",
+        "health",
+        "tradition",
+        "culture"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/250px-Flag_of_Lebanon.svg.png",
+        "caption": "Lebanon"
       },
       "mature": false,
       "source": "dyk",
@@ -2949,17 +4101,34 @@
           "url": "https://en.wikipedia.org/wiki/Za%27atar",
           "title": "Za'atar",
           "source": "Wikipedia"
+        },
+        {
+          "url": "http://hdl.loc.gov/loc.gdc/cntrystd.lb",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_9ee3ce6accd0",
       "hash": "625a81b9b24456edd92012153c8e3028583a56de13d89a7bafd3ddc3b6777fb8",
       "text": "Dutch magician Fred Kaps was the only magician to win the magic world championship three times",
-      "tags": [],
+      "tags": [
+        "dutch magician",
+        "fred kaps",
+        "magic world championship",
+        "three times",
+        "illusionist",
+        "performer",
+        "record",
+        "entertainment",
+        "netherlands",
+        "stage magic"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Fred_Kaps_%281961%29.jpg/250px-Fred_Kaps_%281961%29.jpg",
+        "caption": "Fred_Kaps"
       },
       "mature": false,
       "source": "dyk",
@@ -2979,17 +4148,34 @@
           "url": "https://en.wikipedia.org/wiki/Fred_Kaps",
           "title": "Fred Kaps",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/no2009127104",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_25c241e05353",
       "hash": "6b97854546fde4988af4caa281a280e68b3f9828c278b3f6b2e94a9798256100",
       "text": "While mine owner Franklin B. Gowen was the president of the Reading Railroad, he was also the special prosecutor in the trial to break up the clandestine Molly Maguires society",
-      "tags": [],
+      "tags": [
+        "franklin b. gowen",
+        "mine owner",
+        "reading railroad",
+        "special prosecutor",
+        "molly maguires",
+        "labor history",
+        "coal mining",
+        "legal case",
+        "industrial revolution",
+        "secret society"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Reading_Herald.png/250px-Reading_Herald.png",
+        "caption": "Reading_Railroad"
       },
       "mature": false,
       "source": "dyk",
@@ -3024,17 +4210,34 @@
           "url": "https://en.wikipedia.org/wiki/Molly_Maguires",
           "title": "Molly Maguires",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/n85334062",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_f690fd2c511d",
       "hash": "fc7b293f964cb339760d821585ca4628fe5a6afdfcd071f4a30a74c5ea028cd5",
       "text": "Barbarossa is an award-winning German-style board game by Klaus Teuber from 1988 in which the players have to sculpt plasticine to earn points",
-      "tags": [],
+      "tags": [
+        "barbarossa",
+        "board game",
+        "klaus teuber",
+        "1988",
+        "plasticine",
+        "sculpting",
+        "award-winning",
+        "german-style",
+        "gaming",
+        "hobby"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Klaus_Teuber_2017_%28cropped%29.jpg/250px-Klaus_Teuber_2017_%28cropped%29.jpg",
+        "caption": "Klaus_Teuber"
       },
       "mature": false,
       "source": "dyk",
@@ -3056,16 +4259,6 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/1988",
-          "title": "1988",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Player",
-          "title": "Player",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Sculpture",
           "title": "Sculpture",
           "source": "Wikipedia"
@@ -3076,20 +4269,32 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Point",
-          "title": "Point",
-          "source": "Wikipedia"
+          "url": "https://www.bbc.co.uk/news/world-europe-65194096",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_eccdd56da5dd",
       "hash": "340c04fa29c335c96a17064051e650a0a273791593fa66bd9f255e7a4801568b",
       "text": "The children's anime series The Littl' Bits has aired in Japanese, English, Spanish, Polish, German, and Italian",
-      "tags": [],
+      "tags": [
+        "the littl' bits",
+        "children's anime",
+        "japanese",
+        "english",
+        "spanish",
+        "polish",
+        "german",
+        "italian",
+        "television series",
+        "animation"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%9F%E3%82%8B%E3%82%82%E3%81%AE%EF%BC%81%EF%BD%9E%E5%AB%8C%E3%82%8F%E3%82%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%A8%E5%86%85%E7%B7%92%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%EF%BD%9E%E3%80%8D%E7%AC%AC2%E5%BC%BEPV_-_4%E6%9C%887%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E6%94%BE%E9%80%81%E9%96%8B%E5%A7%8B.webm/1920px--TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%9F%E3%82%8B%E3%82%82%E3%81%AE%EF%BC%81%EF%BD%9E%E5%AB%8C%E3%82%8F%E3%82%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%A8%E5%86%85%E7%B7%92%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%EF%BD%9E%E3%80%8D%E7%AC%AC2%E5%BC%BEPV_-_4%E6%9C%887%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E6%94%BE%E9%80%81%E9%96%8B%E5%A7%8B.webm.jpg",
+        "caption": "Anime"
       },
       "mature": false,
       "source": "dyk",
@@ -3134,17 +4339,34 @@
           "url": "https://en.wikipedia.org/wiki/Italian_language",
           "title": "Italian language",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://web.archive.org/web/20201103161257/https://www.bbc.com/news/world-asia-54730487",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_b0e2794cbf08",
       "hash": "bba84324a5d161854c5fa55ccea2c43bb2a8b8db1d1e8ecdda64fe2e5f9de7cf",
       "text": "Nils Liedholm is the last surviving member of the famous footballing Gre-No-Li trio",
-      "tags": [],
+      "tags": [
+        "nils liedholm",
+        "surviving member",
+        "gre-no-li trio",
+        "football",
+        "soccer",
+        "sweden",
+        "sports",
+        "athletes",
+        "legendary",
+        "team"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nils_Liedholm-1959.jpg/250px-Nils_Liedholm-1959.jpg",
+        "caption": "Nils_Liedholm"
       },
       "mature": false,
       "source": "dyk",
@@ -3159,17 +4381,34 @@
           "url": "https://en.wikipedia.org/wiki/Football_(soccer)",
           "title": "Football (soccer)",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/no2008162375",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_72fd8a5d78b0",
       "hash": "1a232bb09b61fd0e38f79bfe986cad2b2e863bf17d56a2f1210ee25cbc859325",
       "text": "The Nasrani Menorah is the symbol of the Knanaya community in South India, acknowledged as Christian Jews by the Vatican",
-      "tags": [],
+      "tags": [
+        "nasrani menorah",
+        "knanaya community",
+        "south india",
+        "christian jews",
+        "vatican",
+        "religion",
+        "symbol",
+        "community",
+        "india",
+        "history"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Nasrani_cross.jpg",
+        "caption": "Saint Thomas Christian cross"
       },
       "mature": false,
       "source": "dyk",
@@ -3199,17 +4438,34 @@
           "url": "https://en.wikipedia.org/wiki/Vatican_Palace",
           "title": "Vatican Palace",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/topic/christianity/the-history-of-christianity",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_f2e5c4f41a46",
       "hash": "3a89898901c6aef0a5b55cdbabcc0cf6da6f181eaa288fe727a3931fdb6d3a8c",
       "text": "NASA inventor and scientist, Dr. Pedro Rodriguez is the son of the renowned Puerto Rican salsa singer, the late Pellin Rodriguez",
-      "tags": [],
+      "tags": [
+        "nasa inventor",
+        "pedro rodriguez",
+        "scientist",
+        "puerto rican",
+        "salsa singer",
+        "pellin rodriguez",
+        "nasa",
+        "music",
+        "family",
+        "science"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/250px-NASA_seal.svg.png",
+        "caption": "NASA"
       },
       "mature": false,
       "source": "dyk",
@@ -3234,17 +4490,34 @@
           "url": "https://en.wikipedia.org/wiki/Pellin_Rodriguez",
           "title": "Pellin Rodriguez",
           "source": "Wikipedia"
+        },
+        {
+          "url": "http://www.nasa.gov/centers/marshall/news/news/releases/2004/04-266.html",
+          "title": "NASA",
+          "source": "NASA"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_37a86b722a08",
       "hash": "d2ae5e54763fe56585bd517e7ee646b08e0816f00cf2b4fbd01bf5a6330c0939",
       "text": "Italian mathematician Guido Castelnuovo secretly taught geometry to Jewish students during World War II",
-      "tags": [],
+      "tags": [
+        "italian mathematician",
+        "guido castelnuovo",
+        "geometry",
+        "jewish students",
+        "world war ii",
+        "education",
+        "italy",
+        "history",
+        "mathematics",
+        "war"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Guido_Castelnuovo.jpg/250px-Guido_Castelnuovo.jpg",
+        "caption": "Guido_Castelnuovo"
       },
       "mature": false,
       "source": "dyk",
@@ -3279,17 +4552,34 @@
           "url": "https://en.wikipedia.org/wiki/World_War_II",
           "title": "World War II",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/n85811154",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_99e09c28da5e",
       "hash": "f3cdf6d1da238d58c4dfbe557ea2784b85128a6042802b5de6730ce4d3918e24",
       "text": "The UN estimates that 150,000 people died during the Liberian Civil War, with 850,000 refugees fleeing to neighboring countries",
-      "tags": [],
+      "tags": [
+        "un estimates",
+        "150,000 deaths",
+        "liberian civil war",
+        "850,000 refugees",
+        "humanitarian crisis",
+        "africa",
+        "conflict",
+        "refugees",
+        "war",
+        "un"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Refugee_population_by_country_or_territory_of_asylum%2C_World%2C_2024_%28cropped%29.svg/960px-Refugee_population_by_country_or_territory_of_asylum%2C_World%2C_2024_%28cropped%29.svg.png",
+        "caption": "Refugee"
       },
       "mature": false,
       "source": "dyk",
@@ -3309,32 +4599,39 @@
           "url": "https://en.wikipedia.org/wiki/Refugee",
           "title": "Refugee",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/world-36573082",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_2bb7a5d192d2",
       "hash": "424cbbc3e303c3af615d2f0198e9eb183697848c5eafef01c9421bf737d7cd94",
       "text": "From 1908 to 1940, over 100,000 of the 447 different models for Sears Catalog Homes were sold in the United States",
-      "tags": [],
+      "tags": [
+        "1908 to 1940",
+        "100,000 sold",
+        "447 models",
+        "sears catalog homes",
+        "united states",
+        "housing",
+        "architecture",
+        "history",
+        "commerce",
+        "america"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/1922_Sears_Modern_Homes_Catalog.jpg",
+        "caption": "Sears Modern Homes"
       },
       "mature": false,
       "source": "dyk",
       "scraped_at": "2026-04-07T01:05:10Z",
       "links": [
-        {
-          "url": "https://en.wikipedia.org/wiki/1908",
-          "title": "1908",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/1940",
-          "title": "1940",
-          "source": "Wikipedia"
-        },
         {
           "url": "https://en.wikipedia.org/wiki/Sears_Catalog_Home",
           "title": "Sears Catalog Home",
@@ -3344,17 +4641,34 @@
           "url": "https://en.wikipedia.org/wiki/United_States",
           "title": "United States",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://web.archive.org/web/20131219194413/https://www.britannica.com/topic/616563/United-States-quick-facts",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_347e685a4ad1",
       "hash": "35c4bcd4daf8929f40071dfa40bea9c380e225da47a6e15ae964f384657eb913",
       "text": "A Punnett square is a tool in genetics developed by British geneticist Reginald Punnett, and which biologists use to this day to predict the probability of possible genotypes of offspring",
-      "tags": [],
+      "tags": [
+        "punnett square",
+        "genetics",
+        "british geneticist",
+        "reginald punnett",
+        "biologists",
+        "offspring",
+        "genotypes",
+        "science",
+        "tool",
+        "biology"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Reginald_Crundall_Punnett%2C_1875%E2%80%931967.jpg/250px-Reginald_Crundall_Punnett%2C_1875%E2%80%931967.jpg",
+        "caption": "Reginald_Punnett"
       },
       "mature": false,
       "source": "dyk",
@@ -3394,17 +4708,34 @@
           "url": "https://en.wikipedia.org/wiki/Genotype",
           "title": "Genotype",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.nature.com/scitable/topicpage/discovery-and-types-of-genetic-linkage-500/",
+          "title": "Nature",
+          "source": "Nature"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_2e4910416f71",
       "hash": "37979d37d532ed26cb57a7e72cbd398146d6c18396b9ff6653d59a6d143432ad",
       "text": "The Ochil Hills are a Devonian lava extrusion whose southern fault line is particularly prominent today as an escarpment",
-      "tags": [],
+      "tags": [
+        "ochil hills",
+        "devonian lava",
+        "extrusion",
+        "southern fault line",
+        "escarpment",
+        "geology",
+        "scotland",
+        "landscape",
+        "earth science",
+        "natural formation"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Ochil_Hills.jpg",
+        "caption": "Ochil Hills"
       },
       "mature": false,
       "source": "dyk",
@@ -3429,17 +4760,34 @@
           "url": "https://en.wikipedia.org/wiki/Escarpment",
           "title": "Escarpment",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/sh85047491",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_3dc1c8c9957f",
       "hash": "940fea658fa071c421f1c789e5ceddc3863b33cc2ae565110d0c027a4f6686a2",
       "text": "Balancing the ticket has been an important part of American presidential politics since 1830",
-      "tags": [],
+      "tags": [
+        "balancing the ticket",
+        "american presidential",
+        "politics",
+        "since 1830",
+        "election strategy",
+        "usa",
+        "history",
+        "government",
+        "elections",
+        "political science"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg",
+        "caption": "1830"
       },
       "mature": false,
       "source": "dyk",
@@ -3464,17 +4812,34 @@
           "url": "https://en.wikipedia.org/wiki/1830",
           "title": "1830",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/event/Lebanese-National-Pact-1943",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_4e689f94b089",
       "hash": "c0ef7b2e8680cb2abed3f37d4869d52c092323671ca914e1103cbec4eced15fe",
       "text": "The Meadow Vole is a common rodent species found from Alaska to Florida, and that the subspecies from Florida is endangered",
-      "tags": [],
+      "tags": [
+        "meadow vole",
+        "common rodent",
+        "alaska to florida",
+        "subspecies",
+        "endangered",
+        "mammal",
+        "wildlife",
+        "conservation",
+        "north america",
+        "biology"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Eastern_meadow_vole_%28Microtus_pennsylvanicus%29_emerging_from_a_runway_in_the_snow_in_Kennebunk%2C_Maine%2C_USA.jpg/250px-Eastern_meadow_vole_%28Microtus_pennsylvanicus%29_emerging_from_a_runway_in_the_snow_in_Kennebunk%2C_Maine%2C_USA.jpg",
+        "caption": "Meadow_Vole"
       },
       "mature": false,
       "source": "dyk",
@@ -3496,11 +4861,6 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Florida",
-          "title": "Florida",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Subspecies",
           "title": "Subspecies",
           "source": "Wikipedia"
@@ -3509,17 +4869,34 @@
           "url": "https://en.wikipedia.org/wiki/Endangered",
           "title": "Endangered",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/sh85084947",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_7ee1d2bca81a",
       "hash": "396ea4bf7198aef4016f7011ea3720ae2a54481ffedcd8be05848ff207e0b88a",
       "text": "Robert Koldewey led an archeological dig in modern day Iraq which he believed to be the location of the Hanging Gardens of Babylon for 18 years",
-      "tags": [],
+      "tags": [
+        "robert koldewey",
+        "archeological dig",
+        "modern day iraq",
+        "hanging gardens",
+        "babylon",
+        "18 years",
+        "history",
+        "archeology",
+        "ancient world",
+        "mesopotamia"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Hanging_Gardens_of_Babylon.jpg",
+        "caption": "Hanging Gardens of Babylon"
       },
       "mature": false,
       "source": "dyk",
@@ -3549,17 +4926,34 @@
           "url": "https://en.wikipedia.org/wiki/Year",
           "title": "Year",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.pbs.org/wnet/secrets/the-lost-gardens-of-babylon-guide-to-ancient-plants/1176/",
+          "title": "PBS",
+          "source": "PBS"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_4c022f875318",
       "hash": "1acbc7a4fb4c4235942da9846f1846b9cd8a65f5bcae91dda20cfff7cb82d59f",
       "text": "Melissa McIntyre, best known for her role in Degrassi: The Next Generation made her television debut in the 1997 series, Timesweep, in which she played an extraterrestial being",
-      "tags": [],
+      "tags": [
+        "melissa mcintyre",
+        "degrassi",
+        "the next generation",
+        "television debut",
+        "1997 series",
+        "timesweep",
+        "extraterrestial being",
+        "actress",
+        "tv show",
+        "sci-fi"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/MelissaMcIntyreJune07.jpg/250px-MelissaMcIntyreJune07.jpg",
+        "caption": "Melissa_McIntyre"
       },
       "mature": false,
       "source": "dyk",
@@ -3576,25 +4970,32 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/1997",
-          "title": "1997",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Alien",
-          "title": "Alien",
-          "source": "Wikipedia"
+          "url": "https://id.loc.gov/authorities/no2017064609",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_ee87f549efca",
       "hash": "3f2c73b90744deec7074c6d065f751752d73e4d6654fb58c6bb351e910611d38",
       "text": "Pafnuty Lvovich Chebyshev worked on mechanical linkage design for over thirty years which led to his work on Chebyshev polynomials",
-      "tags": [],
+      "tags": [
+        "pafnuty lvovich chebyshev",
+        "mechanical linkage",
+        "thirty years",
+        "chebyshev polynomials",
+        "mathematics",
+        "engineering",
+        "russia",
+        "inventor",
+        "polynomials",
+        "mechanics"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Pafnuty_Lvovich_Chebyshev.jpg/250px-Pafnuty_Lvovich_Chebyshev.jpg",
+        "caption": "Pafnuty_Lvovich_Chebyshev"
       },
       "mature": false,
       "source": "dyk",
@@ -3614,17 +5015,34 @@
           "url": "https://en.wikipedia.org/wiki/Chebyshev_polynomials",
           "title": "Chebyshev polynomials",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Pafnuty-Lvovich-Chebyshev",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_dc4d9f9d497f",
       "hash": "5d7f4e127c9f804004d07ced7516e6eeb56c0cacb2eb55233ba4b42ab5c15aed",
       "text": "Leo Tolstoy 's play The Living Corpse played in New York City in both Yiddish (1911) and German (1916) before it was ever presented there in English (1918)",
-      "tags": [],
+      "tags": [
+        "leo tolstoy",
+        "the living corpse",
+        "play",
+        "new york city",
+        "yiddish",
+        "german",
+        "english",
+        "theater",
+        "history",
+        "language"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Prince_Abrezkov_in_Tolstoy%27s_The_Living_Corpse_1911.jpg/250px-Prince_Abrezkov_in_Tolstoy%27s_The_Living_Corpse_1911.jpg",
+        "caption": "The_Living_Corpse"
       },
       "mature": false,
       "source": "dyk",
@@ -3659,17 +5077,34 @@
           "url": "https://en.wikipedia.org/wiki/English_language",
           "title": "English language",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/no2018100317",
+          "title": "Library of Congress",
+          "source": "Library of Congress"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_c514f683e95e",
       "hash": "637a551249f1f1f00e1514ece4503212b64b35e6d24f9cb7d9207f1f95ca7b65",
       "text": "Weatherman Alex Deakin has a masters degree in astrophysics",
-      "tags": [],
+      "tags": [
+        "alex deakin",
+        "weatherman",
+        "astrophysics",
+        "masters degree",
+        "science",
+        "meteorology",
+        "education",
+        "bbc",
+        "tv",
+        "uk"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/BBC_weather_forecast_from_Broadcasting_House_newsroom_%28cropped%29_Alex_Deakin.jpg",
+        "caption": "Alex Deakin"
       },
       "mature": false,
       "source": "dyk",
@@ -3689,17 +5124,34 @@
           "url": "https://en.wikipedia.org/wiki/Astrophysics",
           "title": "Astrophysics",
           "source": "Wikipedia"
+        },
+        {
+          "url": "http://www.bbc.com/weather/about/19112688",
+          "title": "BBC",
+          "source": "BBC"
         }
-      ]
+      ],
+      "version": 2
     },
     {
       "id": "dyk_2005_Mar_cd6834a0dfdc",
       "hash": "23e4261ace1f28c25a81e99c7f81253418d8a0b2bc8b3640287530e431321b57",
       "text": "The Russian avant-garde art collective UNOVIS signed most of their works with a single black square, partly as a homage to a similar work by their leader, Kazimir Malevich",
-      "tags": [],
+      "tags": [
+        "unovis",
+        "art collective",
+        "russian",
+        "avant-garde",
+        "kazimir malevich",
+        "black square",
+        "art history",
+        "symbolism",
+        "modern art",
+        "suprematism"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Casimir_Malevich_photo.jpg/250px-Casimir_Malevich_photo.jpg",
+        "caption": "Kazimir_Malevich"
       },
       "mature": false,
       "source": "dyk",
@@ -3734,8 +5186,14 @@
           "url": "https://en.wikipedia.org/wiki/Kazimir_Malevich",
           "title": "Kazimir Malevich",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://www.britannica.com/art/Socialist-Realism",
+          "title": "Britannica",
+          "source": "Britannica"
         }
-      ]
+      ],
+      "version": 2
     }
   ]
 }
