@@ -373,11 +373,6 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Sculptor",
-          "title": "Sculptor",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/August_Leimbach",
           "title": "August Leimbach",
           "source": "Wikipedia"
@@ -4116,11 +4111,6 @@
       "source": "dyk",
       "scraped_at": "2026-04-07T01:05:11Z",
       "links": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Pilot",
-          "title": "Pilot",
-          "source": "Wikipedia"
-        },
         {
           "url": "https://en.wikipedia.org/wiki/Victor_Chapman",
           "title": "Victor Chapman",
