@@ -62,7 +62,9 @@
       "tagged_facts": 83,
       "linked_facts": 83,
       "total_facts": 83,
-      "version": 2
+      "version": 2,
+      "images": true,
+      "images_found": 54
     },
     "dyk_2005_Jul": {
       "tags": false,
