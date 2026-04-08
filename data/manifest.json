@@ -25,12 +25,12 @@
       "version": 1
     },
     "dyk_2005_Apr": {
-      "tags": false,
-      "links": false,
-      "tagged_facts": 0,
-      "linked_facts": 0,
+      "tags": true,
+      "links": true,
+      "tagged_facts": 95,
+      "linked_facts": 90,
       "total_facts": 95,
-      "version": 1
+      "version": 2
     },
     "dyk_2005_Aug": {
       "tags": false,
