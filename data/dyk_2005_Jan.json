@@ -326,8 +326,8 @@
         "legal-recognition"
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volkstelling_1925_Census.jpg",
-        "caption": "Census"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",

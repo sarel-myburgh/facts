@@ -67,7 +67,23 @@ codex "$PROMPT"
 
 ## Option E — OpenRouter via or-agent
 
-Use for quick tagging passes on small files. Note: or-agent doesn't have web search or file tools, so image finding won't work. Tags only.
+Use for OpenRouter-backed model calls from the shell.
+
+Current state:
+- `or-agent` now supports OpenRouter web search via `--web-max-results`
+- it still does **not** have native file tools
+- this means it can browse, but for facts enrichment it should be used on **small batches** or for fact-by-fact prompts rather than whole-month files
+
+Gemma with web search example:
+
+```bash
+or-agent general \
+  --model google/gemma-4-26b-a4b-it \
+  --web-max-results 2 \
+  --provider-order Together,Fireworks,DeepInfra \
+  --max-tokens 4096 \
+  "Find two high-quality non-Wikipedia sources about the Battle of Bazentin Ridge and explain which one is better for a curious learner."
+```
 
 ```bash
 FILE=data/dyk_2025_Jan.json
