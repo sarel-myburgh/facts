@@ -1950,7 +1950,8 @@
       "tagged_facts": 267,
       "linked_facts": 267,
       "total_facts": 267,
-      "version": 2
+      "version": 2,
+      "cleaned": true
     },
     "dyk_2025_Aug": {
       "tags": true,
