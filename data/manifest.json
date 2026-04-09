@@ -2058,7 +2058,8 @@
       "tagged_facts": 377,
       "linked_facts": 0,
       "total_facts": 377,
-      "version": 1
+      "version": 1,
+      "cleaned": true
     },
     "dyk_2026_Jan": {
       "tags": true,
