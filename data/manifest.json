@@ -1697,9 +1697,9 @@
       "version": 1
     },
     "dyk_2022_Jul": {
-      "tags": false,
+      "tags": true,
       "links": false,
-      "tagged_facts": 0,
+      "tagged_facts": 359,
       "linked_facts": 0,
       "total_facts": 359,
       "version": 1
@@ -1745,9 +1745,9 @@
       "version": 1
     },
     "dyk_2022_Sep": {
-      "tags": false,
+      "tags": true,
       "links": false,
-      "tagged_facts": 0,
+      "tagged_facts": 352,
       "linked_facts": 0,
       "total_facts": 352,
       "version": 1
@@ -1849,9 +1849,9 @@
       "version": 1
     },
     "dyk_2024_Apr": {
-      "tags": false,
+      "tags": true,
       "links": false,
-      "tagged_facts": 0,
+      "tagged_facts": 386,
       "linked_facts": 0,
       "total_facts": 386,
       "version": 1
@@ -1897,9 +1897,9 @@
       "version": 1
     },
     "dyk_2024_Jun": {
-      "tags": false,
+      "tags": true,
       "links": false,
-      "tagged_facts": 260,
+      "tagged_facts": 263,
       "linked_facts": 0,
       "total_facts": 263,
       "version": 1

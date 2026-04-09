@@ -63,8 +63,17 @@ Balance: ~4-5 broad interest tags (e.g. `crime`, `biology`) + ~4-5 specific sub-
 
 ## Gemini CLI
 Called via: `gemini -m gemini-2.5-flash --approval-mode yolo -p "PROMPT"`
-Models tried in order: `gemini-2.5-flash`, `gemini-2.5-pro`
+Models tried in order: `gemini-2.5-flash` (flash-lite removed — unreliable at 90s timeout)
 Falls back to Haiku on quota exhaustion or parse errors (auto mode).
+
+**Pacing (required for reliability):**
+- The CLI routes through `cloudcode-pa.googleapis.com` (Cloud Code Companion API), not the standard Gemini API.
+- Free-tier capacity is limited; rapid calls cause `MODEL_CAPACITY_EXHAUSTED` (429), which the CLI retries internally with backoff (~30s per retry).
+- **Rate limiter**: 20s minimum between calls (`_GEMINI_MIN_INTERVAL = 20.0` in script).
+- **Timeout**: 120s per subprocess call (gives internal retries room to complete).
+- **Batch size**: 10–15 facts (larger batches risk hitting the 120s ceiling).
+- At this pace: ~3 RPM on the Cloud Code endpoint, reliable. Full month (~300 facts) takes ~25–30 min.
+- If capacity is exhausted for the session, use `--provider auto` — haiku fallback kicks in seamlessly.
 
 ## QA Scan (garbage tags)
 Mode B in `qa-agent-haiku.md` — run inline Python to scan all months for facts with invalid tag sets (10 tags but failing validation rules). Fix: clear `tags: []` on bad facts, then retag.
@@ -78,7 +87,11 @@ python3 -c "import json; m=json.load(open('data/manifest.json')); [print(k,v['ta
 python3 -c "import json; m=json.load(open('data/manifest.json')); [print(k) for k,v in sorted(m['months'].items(), reverse=True) if ('2025' in k or '2026' in k) and not v.get('cleaned')]"
 ```
 
-## Status Snapshot (2026-04-09)
-- **2025**: All tagged. `dyk_2025_Apr.part2` had 2 untagged facts remaining.
-- **2026**: `dyk_2026_Jan` 271/275 · `dyk_2026_Feb` 0/377 · `dyk_2026_Mar` 0/367
-- Cleaning: not started on any 2025/2026 month
+## Status Snapshot (2026-04-09, updated)
+- **2026**: All tagged and cleaned (Jan/Feb/Mar).
+- **2025**: All tagged and cleaned.
+- **2024**: All tagged (Mar done; Apr/Jun in progress via haiku). Cleaning not started.
+- **2023**: All tagged (384 months complete). Cleaning not started.
+- **2022**: In progress via haiku (Jan/Oct/May done; Sep/Jul/Jun/Mar/Nov/Apr/Aug/Dec/Feb running).
+- **QA scan**: Ran 2026-04-09 — found 207 garbage-tag facts in 8 old months (2004-2010). Cleared and retagging via haiku.
+- Cleaning: not started on any pre-2025 month.
