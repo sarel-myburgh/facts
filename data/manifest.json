@@ -1975,7 +1975,8 @@
       "tagged_facts": 303,
       "linked_facts": 303,
       "total_facts": 303,
-      "version": 1
+      "version": 1,
+      "cleaned": true
     },
     "dyk_2025_Jan": {
       "tags": true,
