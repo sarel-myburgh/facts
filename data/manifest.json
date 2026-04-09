@@ -2172,7 +2172,8 @@
       "tagged_facts": 267,
       "linked_facts": 95,
       "total_facts": 267,
-      "version": 1
+      "version": 1,
+      "cleaned": true
     },
     "dyk_2025_Apr.part2": {
       "tags": true,
