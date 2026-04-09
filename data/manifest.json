@@ -1963,9 +1963,9 @@
       "cleaned": true
     },
     "dyk_2025_Dec": {
-      "tags": false,
+      "tags": true,
       "links": true,
-      "tagged_facts": 264,
+      "tagged_facts": 276,
       "linked_facts": 276,
       "total_facts": 276,
       "version": 2,
