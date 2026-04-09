@@ -1981,9 +1981,9 @@
       "cleaned": true
     },
     "dyk_2025_Jan": {
-      "tags": false,
+      "tags": true,
       "links": true,
-      "tagged_facts": 419,
+      "tagged_facts": 432,
       "linked_facts": 432,
       "total_facts": 432,
       "version": 2,
