@@ -1966,7 +1966,8 @@
       "tagged_facts": 276,
       "linked_facts": 276,
       "total_facts": 276,
-      "version": 2
+      "version": 2,
+      "cleaned": true
     },
     "dyk_2025_Feb": {
       "tags": true,
