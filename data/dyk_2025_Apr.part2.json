@@ -14,11 +14,6 @@
           "url": "https://en.wikipedia.org/wiki/Solfrid_Koanda",
           "title": "Solfrid Koanda",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.olympics.com/en/paris-2024/athlete/solfrid-eila-amena-koanda_1878625",
-          "title": "Solfrid Koanda",
-          "source": "Olympics"
         }
       ],
       "image": {
@@ -55,11 +50,6 @@
           "url": "https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami",
           "title": "2011 Tōhoku earthquake and tsunami",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.britannica.com/summary/Japan-earthquake-and-tsunami-of-2011",
-          "title": "Japan earthquake and tsunami of 2011",
-          "source": "Britannica"
         }
       ],
       "image": {
@@ -96,11 +86,6 @@
           "url": "https://en.wikipedia.org/wiki/Java_War",
           "title": "Java War",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.britannica.com/event/Java-War",
-          "title": "Java War",
-          "source": "Britannica"
         }
       ],
       "image": {
@@ -137,11 +122,6 @@
           "url": "https://en.wikipedia.org/wiki/Former_Ford_Factory",
           "title": "Former Ford Factory",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://corporate.nas.gov.sg/former-ford-factory/overview/",
-          "title": "About Former Ford Factory",
-          "source": "National Archives of Singapore"
         }
       ],
       "image": {
@@ -170,11 +150,6 @@
       "scraped_at": "2026-04-06T09:55:31Z",
       "links": [
         {
-          "url": "https://en.wikipedia.org/wiki/Governor_of_Macau",
-          "title": "Governor of Macau",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Francisco_Mascarenhas_(Governor_of_Macau)",
           "title": "Francisco Mascarenhas (Governor of Macau)",
           "source": "Wikipedia"
@@ -188,16 +163,11 @@
           "url": "https://en.wikipedia.org/wiki/Jesuits",
           "title": "Jesuits",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.britannica.com/place/Macau-administrative-region-China",
-          "title": "Macau",
-          "source": "Britannica"
         }
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_Portuguese_Colony_Governor.svg/960px-Flag_of_Portuguese_Colony_Governor.svg.png",
-        "caption": "Governor of Macau flag"
+        "url": null,
+        "caption": null
       },
       "tags": [
         "macau",
@@ -224,11 +194,6 @@
           "url": "https://en.wikipedia.org/wiki/WPGH-TV",
           "title": "WPGH-TV",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://publicfiles.fcc.gov/tv-profile/wpgh-tv",
-          "title": "TV Station Profile",
-          "source": "FCC"
         }
       ],
       "image": {
@@ -260,11 +225,6 @@
           "url": "https://en.wikipedia.org/wiki/Jorge_Munoz_(American_football)",
           "title": "Jorge Munoz (American football)",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://ragincajuns.com/sports/football/roster/coaches/jorge-munoz/195",
-          "title": "Jorge Munoz",
-          "source": "Louisiana Ragin' Cajuns"
         }
       ],
       "image": {
@@ -293,11 +253,6 @@
       "scraped_at": "2026-04-06T09:55:31Z",
       "links": [
         {
-          "url": "https://en.wikipedia.org/wiki/Minahasan_people",
-          "title": "Minahasan people",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Johann_Friedrich_Riedel",
           "title": "Johann Friedrich Riedel",
           "source": "Wikipedia"
@@ -314,8 +269,8 @@
         }
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Tarian_Kabasaran.jpg",
-        "caption": "Minahasan dance"
+        "url": null,
+        "caption": null
       },
       "tags": [
         "indonesia",
@@ -342,11 +297,6 @@
           "url": "https://en.wikipedia.org/wiki/Garbage_Offensive",
           "title": "Garbage Offensive",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://whitney.org/collection/works/65758",
-          "title": "Young Lords, The Garbage Offensive",
-          "source": "Whitney Museum"
         }
       ],
       "image": {
@@ -378,16 +328,6 @@
           "url": "https://en.wikipedia.org/wiki/Spaceship_House",
           "title": "Spaceship House",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Bachelor_pad",
-          "title": "Bachelor pad",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.architectmagazine.com/design/spaceship-shaped-house-available-on-tennessees-signal-mountain_o",
-          "title": "Spaceship-Shaped House Available on Tennessee's Signal Mountain",
-          "source": "Architect"
         }
       ],
       "image": {
@@ -421,19 +361,9 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Cardinal_(Catholic_Church)",
-          "title": "Cardinal (Catholic Church)",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/2025_papal_conclave",
           "title": "2025 papal conclave",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.usccb.org/news/2025/cardinals-choose-prelates-offer-reflections-church-future-pope",
-          "title": "Cardinals choose prelates to offer reflections on church future, pope",
-          "source": "USCCB"
         }
       ],
       "image": {
@@ -470,11 +400,6 @@
           "url": "https://en.wikipedia.org/wiki/Symphony_No._2_(Brian)",
           "title": "Symphony No. 2 (Brian)",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.britannica.com/biography/Havergal-Brian",
-          "title": "Havergal Brian",
-          "source": "Britannica"
         }
       ],
       "image": {
@@ -506,11 +431,6 @@
           "url": "https://en.wikipedia.org/wiki/Sanitary_bin",
           "title": "Sanitary bin",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.japantimes.co.jp/news/2017/10/31/national/tokyo-beefs-security-ahead-trumps-visit/",
-          "title": "Tokyo beefs up security ahead of Trump's visit",
-          "source": "Japan Times"
         }
       ],
       "image": {
@@ -542,16 +462,6 @@
           "url": "https://en.wikipedia.org/wiki/Ruben_A._Valdez",
           "title": "Ruben A. Valdez",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/List_of_speakers_of_the_Colorado_House_of_Representatives",
-          "title": "List of speakers of the Colorado House of Representatives",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://leg.colorado.gov/bills/hm20-1002",
-          "title": "Ruben A. Valdez memorial",
-          "source": "Colorado General Assembly"
         }
       ],
       "image": {
@@ -580,11 +490,6 @@
       "scraped_at": "2026-04-06T09:55:31Z",
       "links": [
         {
-          "url": "https://en.wikipedia.org/wiki/Catholic_Church",
-          "title": "Catholic Church",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Collection_for_the_Holy_Places",
           "title": "Collection for the Holy Places",
           "source": "Wikipedia"
@@ -593,11 +498,6 @@
           "url": "https://en.wikipedia.org/wiki/Good_Friday",
           "title": "Good Friday",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://press.vatican.va/content/salastampa/en/info/2026/02/20/260220b.html",
-          "title": "The Good Friday Collection 2026",
-          "source": "Vatican Press Office"
         }
       ],
       "image": {
@@ -639,16 +539,11 @@
           "url": "https://en.wikipedia.org/wiki/Terraria",
           "title": "Terraria",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.gamespot.com/articles/terraria-stadia-port-canceled-after-google-locks-out-developer/1100-6487229/",
-          "title": "Terraria Stadia Port Canceled After Google Locks Out Developer",
-          "source": "GameSpot"
         }
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Google_Stadia_Controller.jpg",
-        "caption": "Google Stadia controller"
+        "url": null,
+        "caption": null
       },
       "tags": [
         "video games",
@@ -677,19 +572,14 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Supplemental_Nutrition_Assistance_Program",
-          "title": "Supplemental Nutrition Assistance Program",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://people.com/onlyfans-model-made-43-million-last-year-to-her-it-doesnt-conflict-with-christian-values-exclusive-8758383",
           "title": "OnlyFans Model, 20, Made $43 Million Last Year. To Her, It Doesn't Conflict with Christian Values (Exclusive)",
           "source": "People"
         }
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/OnlyFans_logo.svg",
-        "caption": "OnlyFans logo"
+        "url": null,
+        "caption": null
       },
       "tags": [
         "creator economy",
@@ -716,16 +606,11 @@
           "url": "https://en.wikipedia.org/wiki/Pinsir",
           "title": "Pinsir",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://apnews.com/article/65ec4c660437f84670de5c2fc07a41a0",
-          "title": "Bugs are popular pets in nature-loving Japan, buzzing with lessons about ecology and species",
-          "source": "AP News"
         }
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Japanese_rhinoceros_beetle_%28Trypoxylus_dichotomus%29_%2820492490700%29.jpg",
-        "caption": "Japanese rhinoceros beetle"
+        "url": null,
+        "caption": null
       },
       "tags": [
         "pokemon",
@@ -749,11 +634,6 @@
       "scraped_at": "2026-04-06T09:55:31Z",
       "links": [
         {
-          "url": "https://en.wikipedia.org/wiki/Machete",
-          "title": "Machete",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Flag_of_Angola",
           "title": "Flag of Angola",
           "source": "Wikipedia"
@@ -762,11 +642,6 @@
           "url": "https://en.wikipedia.org/wiki/Angolan_War_of_Independence",
           "title": "Angolan War of Independence",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.britannica.com/topic/flag-of-Angola",
-          "title": "Flag of Angola",
-          "source": "Britannica"
         }
       ],
       "image": {
@@ -800,23 +675,8 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/The_A.V._Club",
-          "title": "The A.V. Club",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)",
           "title": "The Twilight Zone (1959 TV series)",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki//Film",
-          "title": "/Film",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Paste_(magazine)",
-          "title": "Paste (magazine)",
           "source": "Wikipedia"
         }
       ],
@@ -849,16 +709,11 @@
           "url": "https://en.wikipedia.org/wiki/Jon_Haukeland",
           "title": "Jon Haukeland",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://hockey.nif.no/contentassets/58eac5b1b55e4bd4baa1340e71079c6c/engelsk20foreldrehc3a5ndbok20v2-komprimert.pdf",
-          "title": "Parent Handbook for Ice Hockey",
-          "source": "Norwegian Ice Hockey Association"
         }
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ice-bear-161992.svg/1280px-Ice-bear-161992.svg.png",
-        "caption": "Polar bear icon"
+        "url": null,
+        "caption": null
       },
       "tags": [
         "ice hockey",
@@ -926,11 +781,6 @@
           "url": "https://en.wikipedia.org/wiki/Vin_Burnham",
           "title": "Vin Burnham",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://vinburnham.com/",
-          "title": "Vin Burnham – Costume Designer",
-          "source": "Vin Burnham"
         }
       ],
       "image": {
@@ -962,11 +812,6 @@
           "url": "https://en.wikipedia.org/wiki/Maendeleo_horseshoe_bat",
           "title": "Maendeleo horseshoe bat",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.iucnredlist.org/species/44783/22067758",
-          "title": "Rhinolophus maendeleo (Maendeleo horseshoe bat)",
-          "source": "IUCN Red List"
         }
       ],
       "image": {
@@ -998,11 +843,6 @@
           "url": "https://en.wikipedia.org/wiki/Washington_Monument_(Philadelphia)",
           "title": "Washington Monument (Philadelphia)",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.associationforpublicart.org/artwork/washington-monument/",
-          "title": "Washington Monument (1897)",
-          "source": "Association for Public Art"
         }
       ],
       "image": {
@@ -1031,19 +871,9 @@
       "scraped_at": "2026-04-06T09:55:31Z",
       "links": [
         {
-          "url": "https://en.wikipedia.org/wiki/Ice_hockey_at_the_Olympic_Games",
-          "title": "Ice hockey at the Olympic Games",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Kai_Hietarinta",
           "title": "Kai Hietarinta",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.iihf.com/en/events/2025/wm/static/67763/kia_hietarinta",
-          "title": "Kai Hietarinta (Builder)",
-          "source": "IIHF"
         }
       ],
       "image": {
@@ -1077,19 +907,9 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/BBC",
-          "title": "BBC",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/EastEnders",
           "title": "EastEnders",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.independent.co.uk/arts-entertainment/tv/news/eastenders-interactive-ending-40th-anniversary-b2675078.html",
-          "title": "EastEnders viewers to influence plot for interactive 40th-anniversary storyline",
-          "source": "The Independent"
         }
       ],
       "image": {
@@ -1126,11 +946,6 @@
           "url": "https://en.wikipedia.org/wiki/Luis_Corval%C3%A1n",
           "title": "Luis Corvalán",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.theguardian.com/world/2010/aug/06/luis-corvalan-obituary",
-          "title": "Luis Corvalán obituary",
-          "source": "The Guardian"
         }
       ],
       "image": {
@@ -1162,11 +977,6 @@
           "url": "https://en.wikipedia.org/wiki/Desert_musk_shrew",
           "title": "Desert musk shrew",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.iucnredlist.org/species/41358/115181556",
-          "title": "Crocidura smithii (Desert musk shrew)",
-          "source": "IUCN Red List"
         }
       ],
       "image": {
@@ -1203,11 +1013,6 @@
           "url": "https://en.wikipedia.org/wiki/Kris",
           "title": "Kris",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.metmuseum.org/art/collection/search/316132",
-          "title": "Dagger (Kris)",
-          "source": "The Met"
         }
       ],
       "image": {
@@ -1239,11 +1044,6 @@
           "url": "https://en.wikipedia.org/wiki/Girls%27_Day_(China)",
           "title": "Girls' Day (China)",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.sigs.tsinghua.edu.cn/en/2021/0307/c1303a24100/page.htm",
-          "title": "Happy Girls' Day!",
-          "source": "Tsinghua SIGS"
         }
       ],
       "image": {
@@ -1272,24 +1072,9 @@
       "scraped_at": "2026-04-06T09:55:31Z",
       "links": [
         {
-          "url": "https://en.wikipedia.org/wiki/Patriot_(American_Revolution)",
-          "title": "Patriot (American Revolution)",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Raid_on_Tybee_Island",
           "title": "Raid on Tybee Island",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
-          "title": "American Revolutionary War",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.britannica.com/summary/Key-Facts-of-the-American-Revolution",
-          "title": "American Revolution",
-          "source": "Britannica"
         }
       ],
       "image": {
@@ -1321,11 +1106,6 @@
           "url": "https://en.wikipedia.org/wiki/Multo_(song)",
           "title": "Multo (song)",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.gmanetwork.com/news/lifestyle/content/942862/cup-of-joe-multo-billboard-global-200/story/",
-          "title": "Cup of Joe's 'Multo' makes it to Billboard Global 200",
-          "source": "GMA News"
         }
       ],
       "image": {
@@ -1362,11 +1142,6 @@
           "url": "https://en.wikipedia.org/wiki/Ordo_Exsequiarum_Romani_Pontificis",
           "title": "Ordo Exsequiarum Romani Pontificis",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.vaticannews.va/en/vatican-city/news/2024-11/new-edition-of-liturgical-book-for-papal-funeral-rites-published.html",
-          "title": "Vatican publishes new edition of funeral rites for Roman Pontiff",
-          "source": "Vatican News"
         }
       ],
       "image": {
@@ -1398,11 +1173,6 @@
           "url": "https://en.wikipedia.org/wiki/Wyatt_Hendrickson",
           "title": "Wyatt Hendrickson",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.ncaa.com/news/wrestling-men/article/2025-03-22/meet-2025-di-mens-ncaa-wrestling-all-americans",
-          "title": "Meet the 2025 DI men's NCAA wrestling All-Americans",
-          "source": "NCAA"
         }
       ],
       "image": {
@@ -1436,19 +1206,9 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Seven_deadly_sins",
-          "title": "Seven deadly sins",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga)",
           "title": "The Seven Deadly Sins (manga)",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.pocketgamer.com/the-alchemist-code/",
-          "title": "The Alchemist Code",
-          "source": "Pocket Gamer"
         }
       ],
       "image": {
@@ -1480,11 +1240,6 @@
           "url": "https://en.wikipedia.org/wiki/Saint_Hripsime_Church",
           "title": "Saint Hripsime Church",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://whc.unesco.org/en/documents/209002",
-          "title": "Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots. Saint Hripsime Church.",
-          "source": "UNESCO World Heritage Centre"
         }
       ],
       "image": {
@@ -1521,11 +1276,6 @@
           "url": "https://en.wikipedia.org/wiki/Blood_on_the_Silver_Screen",
           "title": "Blood on the Silver Screen",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.pitchfork.com/reviews/albums/sasami-blood-on-the-silver-screen/",
-          "title": "Blood on the Silver Screen",
-          "source": "Pitchfork"
         }
       ],
       "image": {
@@ -1557,16 +1307,6 @@
           "url": "https://en.wikipedia.org/wiki/Rita_(chimpanzee)",
           "title": "Rita (chimpanzee)",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Geisha",
-          "title": "Geisha",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.nationalgeographic.com/animals/article/140912-chimpanzee-haven-retired-research-animals",
-          "title": "Boom in Retiring Lab Chimpanzees Fills New Sanctuaries With Apes",
-          "source": "National Geographic"
         }
       ],
       "image": {
@@ -1598,11 +1338,6 @@
           "url": "https://en.wikipedia.org/wiki/David_Griffin_(athlete)",
           "title": "David Griffin (athlete)",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.rafcommands.com/archive/08718.php",
-          "title": "RCAF Liberator - 18-2-1944",
-          "source": "RAF Commands Archive"
         }
       ],
       "image": {
@@ -2505,11 +2240,6 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Gunship#Bomber_escort",
-          "title": "Gunship",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Iejima",
           "title": "Iejima",
           "source": "Wikipedia"
@@ -2704,11 +2434,6 @@
           "url": "https://en.wikipedia.org/wiki/Thin_mouse_shrew",
           "title": "Thin mouse shrew",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Glacier",
-          "title": "Glacier",
-          "source": "Wikipedia"
         }
       ],
       "image": {
@@ -2842,11 +2567,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/Church_of_Saint_John_of_Kronstadt_(Hamburg)",
           "title": "Church of Saint John of Kronstadt (Hamburg)",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Russian_Orthodox_Church",
-          "title": "Russian Orthodox Church",
           "source": "Wikipedia"
         }
       ],
@@ -2992,16 +2712,6 @@
           "url": "https://en.wikipedia.org/wiki/2024_Men%27s_T20_World_Cup",
           "title": "2024 Men's T20 World Cup",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/India_national_cricket_team",
-          "title": "India national cricket team",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Men%27s_T20_World_Cup",
-          "title": "Men's T20 World Cup",
-          "source": "Wikipedia"
         }
       ],
       "image": {
@@ -3099,11 +2809,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/Carl_James_Joseph",
           "title": "Carl James Joseph",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Jesus",
-          "title": "Jesus",
           "source": "Wikipedia"
         }
       ],
@@ -3279,11 +2984,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/Union_Navy",
           "title": "Union Navy",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/American_Civil_War",
-          "title": "American Civil War",
           "source": "Wikipedia"
         },
         {
@@ -3470,11 +3170,6 @@
           "url": "https://en.wikipedia.org/wiki/Couldn%27t_Wait_to_Tell_You",
           "title": "Couldn't Wait to Tell You",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Urban_Outfitters",
-          "title": "Urban Outfitters",
-          "source": "Wikipedia"
         }
       ],
       "image": {
@@ -3505,16 +3200,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/F._B._J._Kuiper",
           "title": "F. B. J. Kuiper",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Eye_surgery",
-          "title": "Eye surgery",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/BMW",
-          "title": "BMW",
           "source": "Wikipedia"
         }
       ],
@@ -3587,16 +3272,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/St._Thomas_Church_and_Howard%E2%80%93Flaget_House",
           "title": "St. Thomas Church and Howard–Flaget House",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Seminary",
-          "title": "Seminary",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/American_frontier",
-          "title": "American frontier",
           "source": "Wikipedia"
         }
       ],
@@ -3914,11 +3589,6 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest",
-          "title": "Eurovision Song Contest",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Ich_komme",
           "title": "Ich komme",
           "source": "Wikipedia"
@@ -4092,11 +3762,6 @@
           "url": "https://en.wikipedia.org/wiki/Pop_(Gas_album)",
           "title": "Pop (Gas album)",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Techno#German_techno",
-          "title": "Techno",
-          "source": "Wikipedia"
         }
       ],
       "image": {
@@ -4130,18 +3795,8 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Green_Bay_Packers",
-          "title": "Green Bay Packers",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Jeff_Janis",
           "title": "Jeff Janis",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Touchdown",
-          "title": "Touchdown",
           "source": "Wikipedia"
         }
       ],
@@ -4210,16 +3865,6 @@
           "url": "https://en.wikipedia.org/wiki/Electoral_history_of_Joe_Biden",
           "title": "Electoral history of Joe Biden",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Councillor",
-          "title": "Councillor",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://web.archive.org/web/20201110014205/https://www.bbc.com/news/world-europe-54868002",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -4261,11 +3906,6 @@
           "url": "https://en.wikipedia.org/wiki/International_Paralympic_Committee",
           "title": "International Paralympic Committee",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://id.loc.gov/authorities/n2004010445",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
@@ -4328,11 +3968,6 @@
           "url": "https://en.wikipedia.org/wiki/%C5%A0ediv%C3%A1%C4%8Dk%C5%AFv_long",
           "title": "Šediváčkův long",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.theguardian.com/artanddesign/gallery/2025/feb/03/czech-long-sled-dog-race--in-pictures",
-          "title": "The Guardian",
-          "source": "The Guardian"
         }
       ],
       "image": {
@@ -4369,11 +4004,6 @@
           "url": "https://en.wikipedia.org/wiki/Frank_Elbridge_Webb",
           "title": "Frank Elbridge Webb",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://id.loc.gov/authorities/n88172393",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
@@ -4410,11 +4040,6 @@
           "url": "https://en.wikipedia.org/wiki/Frank_Lloyd_Wright",
           "title": "Frank Lloyd Wright",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.nytimes.com/1994/06/02/garden/paradise-revisited-where-earth-and-sky-meet-a-wright-cottage-for-rent.html",
-          "title": "New York Times",
-          "source": "New York Times"
         }
       ],
       "image": {
@@ -4446,16 +4071,6 @@
           "url": "https://en.wikipedia.org/wiki/Robert_Van_Damme",
           "title": "Robert Van Damme",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Gay_pornography",
-          "title": "Gay pornography",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://news.bbc.co.uk/1/hi/programmes/newsnight/7277000.stm",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -4502,16 +4117,6 @@
           "url": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
           "title": "Martin Luther King Jr.",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._Day",
-          "title": "Martin Luther King Jr. Day",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://earthobservatory.nasa.gov/images/150857/a-tornado-scars-selma",
-          "title": "NASA",
-          "source": "NASA"
         }
       ],
       "image": {
@@ -4563,11 +4168,6 @@
           "url": "https://en.wikipedia.org/wiki/Session_musician",
           "title": "Session musician",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://id.loc.gov/authorities/no2014168308",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
@@ -4601,11 +4201,6 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/American_football",
-          "title": "American football",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald",
           "title": "F. Scott Fitzgerald",
           "source": "Wikipedia"
@@ -4614,11 +4209,6 @@
           "url": "https://en.wikipedia.org/wiki/College-preparatory_school",
           "title": "College-preparatory school",
           "source": "Wikipedia"
-        },
-        {
-          "url": "http://blogs.loc.gov/teachers/2012/11/thanksgiving-and-football-a-unique-american-tradition/",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
@@ -4745,11 +4335,6 @@
       "scraped_at": "2026-04-06T09:55:31Z",
       "links": [
         {
-          "url": "https://en.wikipedia.org/wiki/Yi_people",
-          "title": "Yi people",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Xiao_Yedan",
           "title": "Xiao Yedan",
           "source": "Wikipedia"
@@ -4758,11 +4343,6 @@
           "url": "https://en.wikipedia.org/wiki/Liu_Bocheng",
           "title": "Liu Bocheng",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://id.loc.gov/authorities/sh85078171",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
@@ -4799,11 +4379,6 @@
           "url": "https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints",
           "title": "The Church of Jesus Christ of Latter-day Saints",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://id.loc.gov/authorities/n79003947",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
@@ -4840,11 +4415,6 @@
           "url": "https://en.wikipedia.org/wiki/Philadelphia_(Amman)",
           "title": "Philadelphia (Amman)",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.nytimes.com/2008/01/13/travel/13choicetables.html",
-          "title": "New York Times",
-          "source": "New York Times"
         }
       ],
       "image": {
@@ -4886,11 +4456,6 @@
           "url": "https://en.wikipedia.org/wiki/Battle_of_Baghdad_(2003)",
           "title": "Battle of Baghdad (2003)",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://id.loc.gov/authorities/n2010070905",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
@@ -4960,19 +4525,9 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Grunge",
-          "title": "Grunge",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Perfect_Celebrity",
           "title": "Perfect Celebrity",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.bbc.com/news/world-us-canada-38218247",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -5001,19 +4556,9 @@
       "scraped_at": "2026-04-06T09:55:31Z",
       "links": [
         {
-          "url": "https://en.wikipedia.org/wiki/Pentagram",
-          "title": "Pentagram",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/In_Memory_of_Elizabeth_Howe,_Salem,_1692",
           "title": "In Memory of Elizabeth Howe, Salem, 1692",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://id.loc.gov/authorities/sh85099616",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
@@ -5050,11 +4595,6 @@
           "url": "https://en.wikipedia.org/wiki/Stick_It",
           "title": "Stick It",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.nytimes.com/2006/04/28/movies/28stic.html",
-          "title": "New York Times",
-          "source": "New York Times"
         }
       ],
       "image": {
@@ -5091,11 +4631,6 @@
           "url": "https://en.wikipedia.org/wiki/Zulu_people",
           "title": "Zulu people",
           "source": "Wikipedia"
-        },
-        {
-          "url": "http://www.britannica.com/EBchecked/topic/537814/Shaka/537814rellinks/Related-Links",
-          "title": "Britannica",
-          "source": "Britannica"
         }
       ],
       "image": {
@@ -5127,11 +4662,6 @@
           "url": "https://en.wikipedia.org/wiki/GOAT_(sports_culture)",
           "title": "GOAT (sports culture)",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.britannica.com/list/10-greatest-baseball-players-of-all-time",
-          "title": "Britannica",
-          "source": "Britannica"
         }
       ],
       "image": {
@@ -5173,11 +4703,6 @@
           "url": "https://en.wikipedia.org/wiki/Horse_tack",
           "title": "Horse tack",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://id.loc.gov/authorities/n81058763",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
@@ -5209,11 +4734,6 @@
           "url": "https://en.wikipedia.org/wiki/Roblox",
           "title": "Roblox",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.bbc.com/news/technology-48450604",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -5250,11 +4770,6 @@
           "url": "https://en.wikipedia.org/wiki/Bridges_v._Wixon",
           "title": "Bridges v. Wixon",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.bbc.com/news/articles/c0q1pl1eldno",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -5291,11 +4806,6 @@
           "url": "https://en.wikipedia.org/wiki/Aquilegia",
           "title": "Aquilegia",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://web.archive.org/web/20120405135852/http://data.iucn.org/dbtw-wpd/edocs/2005-025.pdf",
-          "title": "IUCN",
-          "source": "IUCN"
         }
       ],
       "image": {
@@ -5329,19 +4839,9 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Copper_extraction",
-          "title": "Copper extraction",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Kafue_River",
           "title": "Kafue River",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.bbc.com/news/articles/cy7p51l60rro",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -5445,11 +4945,6 @@
           "url": "https://en.wikipedia.org/wiki/Architectural_Digest",
           "title": "Architectural Digest",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.bbc.com/news/articles/cqlyy1rld0ko",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -5494,8 +4989,8 @@
         }
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/f/ff/Twitch_Website_Screenshot.png",
-        "caption": "Twitch (service)"
+        "url": null,
+        "caption": null
       },
       "tags": [
         "twitch",
@@ -5542,11 +5037,6 @@
           "url": "https://en.wikipedia.org/wiki/Wet_nurse",
           "title": "Wet nurse",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://id.loc.gov/authorities/n81016944",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
@@ -5583,11 +5073,6 @@
           "url": "https://en.wikipedia.org/wiki/Boston_Celtics",
           "title": "Boston Celtics",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.reuters.com/sports/reports-bill-chisholm-buying-celtics-record-61b-2025-03-20/",
-          "title": "Reuters",
-          "source": "Reuters"
         }
       ],
       "image": {
@@ -5621,11 +5106,6 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/The_New_York_Times",
-          "title": "The New York Times",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Malcolm_Gladwell",
           "title": "Malcolm Gladwell",
           "source": "Wikipedia"
@@ -5634,11 +5114,6 @@
           "url": "https://en.wikipedia.org/wiki/Conservative_Christianity",
           "title": "Conservative Christianity",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.nytimes.com/2025/03/06/us/aaron-renn-christianity-conservative-negative-world.html",
-          "title": "New York Times",
-          "source": "New York Times"
         }
       ],
       "image": {
@@ -5675,11 +5150,6 @@
           "url": "https://en.wikipedia.org/wiki/Firearms_regulation_in_Switzerland",
           "title": "Firearms regulation in Switzerland",
           "source": "Wikipedia"
-        },
-        {
-          "url": "http://news.bbc.co.uk/onthisday/hi/dates/stories/september/27/newsid_2539000/2539769.stm",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -5711,11 +5181,6 @@
           "url": "https://en.wikipedia.org/wiki/Juan_Soto_trade",
           "title": "Juan Soto trade",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.nytimes.com/athletic/5112170/2023/12/08/revisiting-padres-nationals-juan-soto-trade/",
-          "title": "New York Times",
-          "source": "New York Times"
         }
       ],
       "image": {
@@ -5747,11 +5212,6 @@
           "url": "https://en.wikipedia.org/wiki/Heartburn",
           "title": "Heartburn",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://id.loc.gov/authorities/sh85059754",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
@@ -5803,11 +5263,6 @@
           "url": "https://en.wikipedia.org/wiki/Bosnian_War",
           "title": "Bosnian War",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://news.bbc.co.uk/2/hi/europe/5226246.stm",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -5844,11 +5299,6 @@
           "url": "https://en.wikipedia.org/wiki/June_2011_Christchurch_earthquake",
           "title": "June 2011 Christchurch earthquake",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.theguardian.com/world/2011/jun/13/newzealand-natural-disasters",
-          "title": "The Guardian",
-          "source": "The Guardian"
         }
       ],
       "image": {
@@ -5888,8 +5338,8 @@
         }
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Overwatch.svg/960px-Overwatch.svg.png",
-        "caption": "Overwatch"
+        "url": null,
+        "caption": null
       },
       "tags": [
         "overwatch",
@@ -5916,11 +5366,6 @@
           "url": "https://en.wikipedia.org/wiki/Emil_Bach_House",
           "title": "Emil Bach House",
           "source": "Wikipedia"
-        },
-        {
-          "url": "http://lcweb2.loc.gov/cgi-bin/query/S?pp/hh:@field(NUMBER+IL0088))",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
@@ -5952,21 +5397,11 @@
           "url": "https://en.wikipedia.org/wiki/Waeta_Ben_Tabusasi",
           "title": "Waeta Ben Tabusasi",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Conservation_officer",
-          "title": "Conservation officer",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://id.loc.gov/authorities/sh85052945",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Estatua_Pepe_el_Lobero_01.jpg",
-        "caption": "Conservation officer"
+        "url": null,
+        "caption": null
       },
       "tags": [
         "waeta",
@@ -5998,16 +5433,6 @@
           "url": "https://en.wikipedia.org/wiki/Blackened_(song)",
           "title": "Blackened (song)",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Record_label",
-          "title": "Record label",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.bbc.co.uk/music/reviews/5f54/",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -6049,11 +5474,6 @@
           "url": "https://en.wikipedia.org/wiki/Climate_fiction",
           "title": "Climate fiction",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.bbc.com/culture/article/20210512-is-melancholia-the-greatest-film-about-depression-ever-made",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -6090,16 +5510,11 @@
           "url": "https://en.wikipedia.org/wiki/Grace_Beyer",
           "title": "Grace Beyer",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://id.loc.gov/authorities/n90652936",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/NAIA_Headquarters.jpg",
-        "caption": "National Association of Intercollegiate Athletics"
+        "url": null,
+        "caption": null
       },
       "tags": [
         "four-time",
@@ -6167,11 +5582,6 @@
           "url": "https://en.wikipedia.org/wiki/San_Antonio",
           "title": "San Antonio",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://catalog.archives.gov/id/10045892",
-          "title": "National Archives",
-          "source": "National Archives"
         }
       ],
       "image": {
@@ -6234,11 +5644,6 @@
           "url": "https://en.wikipedia.org/wiki/Squid_King",
           "title": "Squid King",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.theguardian.com/world/2021/may/05/japanese-town-spends-covid-funds-on-huge-squid-statue",
-          "title": "The Guardian",
-          "source": "The Guardian"
         }
       ],
       "image": {
@@ -6280,11 +5685,6 @@
           "url": "https://en.wikipedia.org/wiki/Guided-missile_destroyer",
           "title": "Guided-missile destroyer",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://web.archive.org/web/20250202212239/https://www.britannica.com/technology/destroyer",
-          "title": "Britannica",
-          "source": "Britannica"
         }
       ],
       "image": {
@@ -6313,11 +5713,6 @@
       "scraped_at": "2026-04-06T09:55:31Z",
       "links": [
         {
-          "url": "https://en.wikipedia.org/wiki/VTuber",
-          "title": "VTuber",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Sakura_Miko",
           "title": "Sakura Miko",
           "source": "Wikipedia"
@@ -6331,16 +5726,11 @@
           "url": "https://en.wikipedia.org/wiki/Thermodynamics",
           "title": "Thermodynamics",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.bbc.com/worklife/article/20181002-the-virtual-vloggers-taking-over-youtube",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Kizuna_AI_-_SCP_Foundation_2.png",
-        "caption": "VTuber"
+        "url": null,
+        "caption": null
       },
       "tags": [
         "vtuber",
@@ -6377,11 +5767,6 @@
           "url": "https://en.wikipedia.org/wiki/Quintuple_meter",
           "title": "Quintuple meter",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://web.archive.org/web/20240902185316/https://www.worldradiohistory.com/Archive-All-Music/RPM/60s/1966/RPM-1966-07-18.pdf",
-          "title": "History",
-          "source": "History"
         }
       ],
       "image": {
@@ -6418,11 +5803,6 @@
           "url": "https://en.wikipedia.org/wiki/Asteroid_belt",
           "title": "Asteroid belt",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://ssd.jpl.nasa.gov/horizons.cgi?find_body=1&body_group=sb&sstr=20000269",
-          "title": "NASA",
-          "source": "NASA"
         }
       ],
       "image": {
@@ -6464,11 +5844,6 @@
           "url": "https://en.wikipedia.org/wiki/Lily_Mei",
           "title": "Lily Mei",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USC00043244&format=pdf&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL,MLY-TAVG-NORMAL,MLY-PRCP-NORMAL,MLY-SNOW-NORMAL",
-          "title": "NOAA",
-          "source": "NOAA"
         }
       ],
       "image": {
@@ -6508,8 +5883,8 @@
         }
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/d/d7/Ynaija%27s_new_logo.jpeg",
-        "caption": "YNaija"
+        "url": null,
+        "caption": null
       },
       "tags": [
         "oris",
@@ -6577,11 +5952,6 @@
           "url": "https://en.wikipedia.org/wiki/Luka_Don%C4%8Di%C4%87%E2%80%93Anthony_Davis_trade",
           "title": "Luka Dončić–Anthony Davis trade",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://id.loc.gov/authorities/n82253456",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
@@ -6613,11 +5983,6 @@
           "url": "https://en.wikipedia.org/wiki/Alessi_Rose",
           "title": "Alessi Rose",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/articles/cgkdxp1mv2yo",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -6646,24 +6011,14 @@
       "scraped_at": "2026-04-06T09:55:31Z",
       "links": [
         {
-          "url": "https://en.wikipedia.org/wiki/Tendinopathy",
-          "title": "Tendinopathy",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Reincarnated_into_Demon_King_Evelogia%27s_World",
           "title": "Reincarnated into Demon King Evelogia's World",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://icd.who.int/browse10/2019/en#/M77.9",
-          "title": "WHO",
-          "source": "WHO"
         }
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Achilles-tendon.jpg",
-        "caption": "Tendinopathy"
+        "url": null,
+        "caption": null
       },
       "tags": [
         "kaziwara",
@@ -6695,11 +6050,6 @@
           "url": "https://en.wikipedia.org/wiki/Nottinghamshire_County_Cricket_Club",
           "title": "Nottinghamshire County Cricket Club",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.bbc.co.uk/sport/cricket/24187114",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -6736,11 +6086,6 @@
           "url": "https://en.wikipedia.org/wiki/1990_United_States_Senate_election_in_Delaware",
           "title": "1990 United States Senate election in Delaware",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://web.archive.org/web/20201110014205/https://www.bbc.com/news/world-europe-54868002",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -6772,11 +6117,6 @@
           "url": "https://en.wikipedia.org/wiki/Hiroto_Ogiwara",
           "title": "Hiroto Ogiwara",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.theguardian.com/sport/2025/jan/25/hiroto-ogiwara-first-2340-big-air-x-games",
-          "title": "The Guardian",
-          "source": "The Guardian"
         }
       ],
       "image": {
@@ -6880,11 +6220,6 @@
           "url": "https://en.wikipedia.org/wiki/Fireside_chats",
           "title": "Fireside chats",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.un.org/en/yearbook/article/when-was-term-united-nations-first-used",
-          "title": "United Nations",
-          "source": "United Nations"
         }
       ],
       "image": {
@@ -6921,11 +6256,6 @@
           "url": "https://en.wikipedia.org/wiki/Cinema_Toast",
           "title": "Cinema Toast",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.bbc.com/news/articles/cvgny622w0zo",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -6988,11 +6318,6 @@
           "url": "https://en.wikipedia.org/wiki/Abba_Cohen",
           "title": "Abba Cohen",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://obamawhitehouse.archives.gov/the-press-office/2015/06/05/president-obama-announces-another-key-administration-post",
-          "title": "National Archives",
-          "source": "National Archives"
         }
       ],
       "image": {
@@ -7024,11 +6349,6 @@
           "url": "https://en.wikipedia.org/wiki/Truce_of_Malestroit",
           "title": "Truce of Malestroit",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.britannica.com/biography/Charles-duke-of-Brittany",
-          "title": "Britannica",
-          "source": "Britannica"
         }
       ],
       "image": {
@@ -7096,11 +6416,6 @@
           "url": "https://en.wikipedia.org/wiki/Margaret_(song)",
           "title": "Margaret (song)",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.theguardian.com/fashion/2016/aug/31/spike-jonze-gets-freaky-for-kenzo-where-film-meets-beauty",
-          "title": "The Guardian",
-          "source": "The Guardian"
         }
       ],
       "image": {
@@ -7173,11 +6488,6 @@
           "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
           "title": "Manhattan Project",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://id.loc.gov/authorities/no93013516",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
@@ -7245,16 +6555,6 @@
           "url": "https://en.wikipedia.org/wiki/Murphy_(bald_eagle)",
           "title": "Murphy (bald eagle)",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Egg_incubation",
-          "title": "Egg incubation",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/17769677",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -7353,11 +6653,6 @@
           "url": "https://en.wikipedia.org/wiki/University_of_Tokyo",
           "title": "University of Tokyo",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://id.loc.gov/authorities/n79072779",
-          "title": "Library of Congress",
-          "source": "Library of Congress"
         }
       ],
       "image": {
@@ -7389,11 +6684,6 @@
           "url": "https://en.wikipedia.org/wiki/2025_North_Sea_ship_collision",
           "title": "2025 North Sea ship collision",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://www.bbc.com/news/articles/c1w093exx4qo",
-          "title": "BBC",
-          "source": "BBC"
         }
       ],
       "image": {
@@ -7434,11 +6724,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/Green_Bay_Packers",
           "title": "Green Bay Packers",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Touchdown",
-          "title": "Touchdown",
           "source": "Wikipedia"
         },
         {
@@ -7709,18 +6994,8 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Science_fiction",
-          "title": "Science fiction",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Warhammer_40,000",
           "title": "Warhammer 40,000",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Arcology",
-          "title": "Arcology",
           "source": "Wikipedia"
         }
       ],
@@ -8057,11 +7332,6 @@
           "url": "https://en.wikipedia.org/wiki/Grupo_Frontera_political_controversy",
           "title": "Grupo Frontera political controversy",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
-          "title": "Donald Trump",
-          "source": "Wikipedia"
         }
       ],
       "image": {
@@ -8160,11 +7430,6 @@
           "url": "https://en.wikipedia.org/wiki/Paper_Chained",
           "title": "Paper Chained",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Pen_pal",
-          "title": "Pen pal",
-          "source": "Wikipedia"
         }
       ],
       "image": {
@@ -8195,11 +7460,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/1967_Belvidere_tornado",
           "title": "1967 Belvidere tornado",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/School_bus",
-          "title": "School bus",
           "source": "Wikipedia"
         }
       ],
@@ -8301,11 +7561,6 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Boa_constrictor",
-          "title": "Boa constrictor",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Alice_Cooper",
           "title": "Alice Cooper",
           "source": "Wikipedia"
@@ -8354,11 +7609,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/Doc_Rivers",
           "title": "Doc Rivers",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/2024%E2%80%9325_NBA_season",
-          "title": "2024–25 NBA season",
           "source": "Wikipedia"
         }
       ],
@@ -8427,11 +7677,6 @@
           "url": "https://en.wikipedia.org/wiki/Amman_railway_station",
           "title": "Amman railway station",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Amman",
-          "title": "Amman",
-          "source": "Wikipedia"
         }
       ],
       "image": {
@@ -8467,11 +7712,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/Harvard_Divinity_School",
           "title": "Harvard Divinity School",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Antisemitism",
-          "title": "Antisemitism",
           "source": "Wikipedia"
         }
       ],
@@ -8705,11 +7945,6 @@
           "url": "https://en.wikipedia.org/wiki/Tommy_Franks",
           "title": "Tommy Franks",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Article_5_contingency_(2001)",
-          "title": "Article 5 contingency (2001)",
-          "source": "Wikipedia"
         }
       ],
       "image": {
@@ -8769,11 +8004,6 @@
       "scraped_at": "2026-04-06T09:55:31Z",
       "links": [
         {
-          "url": "https://en.wikipedia.org/wiki/Java_War",
-          "title": "Java War",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Diponegoro",
           "title": "Diponegoro",
           "source": "Wikipedia"
@@ -8822,16 +8052,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/American_Basketball_Association",
           "title": "American Basketball Association",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Hummus",
-          "title": "Hummus",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Tahini",
-          "title": "Tahini",
           "source": "Wikipedia"
         }
       ],
@@ -8904,11 +8124,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/Socotra_Governorate",
           "title": "Socotra Governorate",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/WhatsApp",
-          "title": "WhatsApp",
           "source": "Wikipedia"
         }
       ],
@@ -9012,11 +8227,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/Kanailal_Sarkar_(West_Bengal_politician)",
           "title": "Kanailal Sarkar (West Bengal politician)",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/List_of_mayors_of_Kolkata",
-          "title": "List of mayors of Kolkata",
           "source": "Wikipedia"
         },
         {
@@ -9166,11 +8376,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/Antennacanthopodia",
           "title": "Antennacanthopodia",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Antenna_(zoology)",
-          "title": "Antenna (zoology)",
           "source": "Wikipedia"
         }
       ],
@@ -9455,11 +8660,6 @@
           "url": "https://en.wikipedia.org/wiki/KBR,_Inc.",
           "title": "KBR, Inc.",
           "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Private_foundation_(United_States)",
-          "title": "Private foundation (United States)",
-          "source": "Wikipedia"
         }
       ],
       "image": {
@@ -9562,11 +8762,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/A_Political_Romance",
           "title": "A Political Romance",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Close_stool",
-          "title": "Close stool",
           "source": "Wikipedia"
         }
       ],
@@ -10041,11 +9236,6 @@
         {
           "url": "https://en.wikipedia.org/wiki/Hong_dou_tang",
           "title": "Hong dou tang",
-          "source": "Wikipedia"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/Adzuki_bean",
-          "title": "Adzuki bean",
           "source": "Wikipedia"
         }
       ],
