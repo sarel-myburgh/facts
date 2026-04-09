@@ -1991,7 +1991,8 @@
       "tagged_facts": 296,
       "linked_facts": 296,
       "total_facts": 296,
-      "version": 1
+      "version": 1,
+      "cleaned": true
     },
     "dyk_2025_Jun": {
       "tags": true,
