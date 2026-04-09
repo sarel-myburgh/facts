@@ -2049,9 +2049,9 @@
       "version": 1
     },
     "dyk_2026_Jan": {
-      "tags": false,
+      "tags": true,
       "links": false,
-      "tagged_facts": 271,
+      "tagged_facts": 275,
       "linked_facts": 0,
       "total_facts": 275,
       "version": 1
