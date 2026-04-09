@@ -1954,9 +1954,9 @@
       "cleaned": true
     },
     "dyk_2025_Aug": {
-      "tags": false,
+      "tags": true,
       "links": true,
-      "tagged_facts": 268,
+      "tagged_facts": 277,
       "linked_facts": 277,
       "total_facts": 277,
       "version": 1,
@@ -2017,9 +2017,9 @@
       "cleaned": true
     },
     "dyk_2025_May": {
-      "tags": false,
+      "tags": true,
       "links": true,
-      "tagged_facts": 294,
+      "tagged_facts": 301,
       "linked_facts": 301,
       "total_facts": 301,
       "version": 2,
