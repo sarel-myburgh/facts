@@ -1,50 +1,51 @@
-# BokyLearn Facts Enrichment Coordinator
+# Facts Tags Coordinator
 
-Coordinate full enrichment of all unenriched files in `/home/sarel/code/facts/`.
+Find all untagged months and process them in parallel using Haiku sub-agents.
 
-## Step 1 — Build work list
+## Step 1 — Find untagged months
 
 ```bash
-cd /home/sarel/code/facts
-jq -r '.months | to_entries[] | select(.value.tags == false or .value.links == false) | .key' data/manifest.json | sort
+cd /home/sarel/facts
+jq -r '.months | to_entries[] | select(.value.tags == false) | .key' data/manifest.json | sort
 ```
 
-## Step 2 — Split between two agents
+## Step 2 — Split into 3 lists (interleave)
 
-Divide the sorted list by interleaving:
-- **Agent A**: indices 0, 2, 4, 6, … (even)
-- **Agent B**: indices 1, 3, 5, 7, … (odd)
+Divide the sorted list by index:
+- **Agent A**: indices 0, 3, 6, …
+- **Agent B**: indices 1, 4, 7, …
+- **Agent C**: indices 2, 5, 8, …
 
-Interleaving spreads the date range evenly so neither agent finishes far earlier.
+Interleaving spreads the date range so no agent finishes far ahead of others.
 
-## Step 3 — Spawn two parallel Haiku sub-agents
+## Step 3 — Spawn sub-agents
 
-Read the enricher prompt from `/home/sarel/code/facts/tools/enricher-agent-haiku.md`.
+Read the enricher from `/home/sarel/facts/tools/enricher-agent-haiku.md`.
 
-Spawn **Agent A** and **Agent B** simultaneously using the Agent tool with `model: "haiku"`. Each agent gets this prompt (substitute the file list):
+Spawn **Agent A**, **Agent B**, and **Agent C** simultaneously using the Agent tool with `model: "haiku"`.
 
-> Read the full enricher instructions from `/home/sarel/code/facts/tools/enricher-agent-haiku.md`.
+Each agent gets this prompt (substitute its month list):
+
+> Read `/home/sarel/facts/tools/enricher-agent-haiku.md`.
 >
-> Process these files **in order**, one at a time. For each file, substitute `{{FILE}}` with `data/<key>.json` and `{{MONTH_KEY}}` with `<key>`, then complete all enrichment steps. Update `manifest.json` and push after each file. Move to the next only when the current is fully done and pushed.
+> Process these months **in order**, one at a time. For each month substitute `{{MONTH_KEY}}` with the month key and run all steps. Move to the next only after the current is committed and pushed.
 >
-> If a file is already fully enriched (all facts version=2), skip it. If a git push fails 3 times, log and continue.
+> If a month's `tags` field is already `true` in the manifest, skip it.
 >
-> Your file list:
+> Your months:
 > ```
 > [LIST]
 > ```
 
-## Step 4 — Final validation
+## Step 4 — Final report
 
-After both agents complete:
+After all agents complete:
+
 ```bash
-cd /home/sarel/code/facts
-jq '[.months | to_entries[] | select(.value.tags == false or .value.links == false)] | length' data/manifest.json
+cd /home/sarel/facts
+jq '[.months | to_entries[] | select(.value.tags == false)] | length' data/manifest.json
 ```
 
-Report:
-```
-Enrichment complete.
-Months processed: X  |  Remaining: Y
-```
-If Y > 0, list which months remain and why.
+Report: `Tagging complete. Remaining untagged: N`
+
+If N > 0, list the remaining months by name.
