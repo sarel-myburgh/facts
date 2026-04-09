@@ -2054,7 +2054,8 @@
       "tagged_facts": 275,
       "linked_facts": 0,
       "total_facts": 275,
-      "version": 1
+      "version": 1,
+      "cleaned": true
     },
     "dyk_2026_Mar": {
       "tags": false,

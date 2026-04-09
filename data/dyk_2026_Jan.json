@@ -19,8 +19,8 @@
         "cultural-heritage"
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Beaunelarolande.jpg",
-        "caption": "Location of Beaune-la-Rolande in France"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -388,11 +388,6 @@
           "source": "Wikipedia"
         },
         {
-          "url": "https://en.wikipedia.org/wiki/Dolina_effect",
-          "title": "Dolina effect",
-          "source": "Wikipedia"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Russia",
           "title": "Supreme Court of Russia",
           "source": "Wikipedia"
@@ -617,7 +612,7 @@
         "naval logistics"
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/USS_Severn_%281867%29_abeam.tif/lossless-page1-330px-USS_Severn_%281867%29_abeam.tif.png",
+        "url": null,
         "caption": null
       },
       "mature": false,
@@ -1153,8 +1148,8 @@
         "ritual-aesthetics"
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/The_Goddess_Bhairavi_Devi_with_Shiva_MET_DP257990.jpg",
-        "caption": "Artist Payag"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -2916,8 +2911,8 @@
         "consumer promos"
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Toffee_Crisp.jpg",
-        "caption": "Nutritional value per 100 g (3.5 oz)"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
@@ -3798,8 +3793,8 @@
         "indian-history"
       ],
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/The_Death_of_Inayat_Khan_%28Bod_MS._Ouseley_Add._171b_f._4r%29.jpg",
-        "caption": "Artist Balchand"
+        "url": null,
+        "caption": null
       },
       "mature": false,
       "source": "dyk",
