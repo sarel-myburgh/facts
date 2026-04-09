@@ -2016,7 +2016,8 @@
       "tagged_facts": 301,
       "linked_facts": 301,
       "total_facts": 301,
-      "version": 2
+      "version": 2,
+      "cleaned": true
     },
     "dyk_2025_Nov": {
       "tags": true,
