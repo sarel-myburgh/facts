@@ -7,6 +7,7 @@ import json
 import re
 import subprocess
 import sys
+import tempfile
 import time
 from pathlib import Path
 
@@ -15,8 +16,25 @@ REPO = Path("/home/sarel/facts")
 DATA_DIR = REPO / "data"
 NOTES_DIR = REPO / "notes"
 MANIFEST_PATH = DATA_DIR / "manifest.json"
-DEFAULT_GEMINI_MODELS = ["gemini-2.5-flash", "gemini-2.5-pro"]
+DEFAULT_GEMINI_MODELS = ["gemini-2.5-flash"]
 DEFAULT_HAIKU_MODEL = "claude-haiku-4-5-20251001"
+
+# Global rate limiter: enforce minimum gap between gemini CLI calls.
+# The Gemini CLI routes through cloudcode-pa.googleapis.com (Cloud Code Companion API).
+# Free-tier capacity is limited; hitting it returns MODEL_CAPACITY_EXHAUSTED (429).
+# The CLI retries internally with backoff, but that takes time — the subprocess timeout
+# must be large enough to survive 1-2 internal retries (~30s each).
+# Empirically: 20s between calls, 120s subprocess timeout, batch_size≤15 is reliable.
+_GEMINI_LAST_CALL: float = 0.0
+_GEMINI_MIN_INTERVAL: float = 20.0
+
+
+def _gemini_rate_limit() -> None:
+    global _GEMINI_LAST_CALL
+    elapsed = time.monotonic() - _GEMINI_LAST_CALL
+    if elapsed < _GEMINI_MIN_INTERVAL:
+        time.sleep(_GEMINI_MIN_INTERVAL - elapsed)
+    _GEMINI_LAST_CALL = time.monotonic()
 ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
 
 
@@ -142,33 +160,85 @@ def parse_json_block(text: str) -> dict | None:
 
 
 _GEMINI_QUOTA_PHRASES = ("quota exhausted", "quotaexceeded", "quota_exhausted", "terminalquotaerror", "exhausted your capacity")
+_GEMINI_RATELIMIT_PHRASES = ("429", "rate_limit", "resource_exhausted", "rateLimitExceeded")
+
+# Models that hit quota this run — skip them for all subsequent batches
+_GEMINI_EXHAUSTED: set[str] = set()
+
+
+def _parse_gemini_output(output: str, tmpdir: str) -> dict | None:
+    """Try to parse JSON from stdout; fall back to any .json file the model created."""
+    parsed = parse_json_block(output)
+    if parsed is not None:
+        return parsed
+    # Gemini CLI sometimes saves JSON to a file instead of printing it
+    for jf in Path(tmpdir).glob("*.json"):
+        try:
+            candidate = parse_json_block(jf.read_text())
+            if candidate is not None:
+                print(f"[gemini-file-recover] found result in {jf.name}", flush=True)
+                return candidate
+        except Exception:
+            pass
+    return None
 
 
 def call_gemini(prompt: str, models: list[str], timeout: int) -> dict:
     last_error = None
     for model in models:
-        for attempt in range(2):
+        if model in _GEMINI_EXHAUSTED:
+            print(f"[gemini-skip] {model} (quota exhausted earlier this run)", flush=True)
+            continue
+        for attempt in range(3):
+            _gemini_rate_limit()
             print(f"[gemini] model={model} attempt={attempt + 1}", flush=True)
+            # Fresh empty tmpdir each call — prevents CLI scanning accumulated files
+            tmpdir_obj = tempfile.TemporaryDirectory()
             try:
-                proc = subprocess.run(
-                    ["gemini", "-m", model, "--approval-mode", "yolo", "-p", prompt],
-                    capture_output=True,
-                    text=True,
-                    check=False,
-                    timeout=timeout,
-                )
-            except Exception as exc:
-                last_error = f"{model}: {exc}"
-                time.sleep(2)
-                continue
-            output = (proc.stdout or "") + ("\n" + proc.stderr if proc.stderr else "")
-            if any(p in output.lower() for p in _GEMINI_QUOTA_PHRASES):
-                raise RuntimeError(f"gemini quota exhausted on {model}")
-            parsed = parse_json_block(output)
-            if parsed is not None:
-                return parsed
-            last_error = f"{model}: could not parse output"
-            time.sleep(3)
+                try:
+                    proc = subprocess.run(
+                        ["gemini", "-m", model, "--approval-mode", "yolo", "-p", prompt],
+                        capture_output=True,
+                        text=True,
+                        check=False,
+                        timeout=timeout,
+                        cwd=tmpdir_obj.name,
+                    )
+                except subprocess.TimeoutExpired:
+                    last_error = f"{model}: timeout after {timeout}s"
+                    print(f"[gemini-timeout] {model} attempt={attempt + 1}", flush=True)
+                    # Don't retry the same model on timeout — move to next model immediately
+                    break
+                except Exception as exc:
+                    last_error = f"{model}: {exc}"
+                    time.sleep(2)
+                    continue
+                output = (proc.stdout or "") + ("\n" + proc.stderr if proc.stderr else "")
+                output_lower = output.lower()
+                # Permanent quota exhaustion → mark and move to next model
+                if any(p in output_lower for p in _GEMINI_QUOTA_PHRASES):
+                    _GEMINI_EXHAUSTED.add(model)
+                    print(f"[gemini-quota] {model} exhausted, skipping for rest of run", flush=True)
+                    last_error = f"{model}: quota exhausted"
+                    break  # Try next model instead of raising immediately
+                # Transient rate-limit (429) → backoff and retry same model
+                if any(p in output_lower for p in _GEMINI_RATELIMIT_PHRASES):
+                    wait = 15 * (attempt + 1)
+                    print(f"[gemini-ratelimit] {model} attempt={attempt + 1}, sleeping {wait}s", flush=True)
+                    last_error = f"{model}: rate limited (429)"
+                    time.sleep(wait)
+                    continue
+                parsed = _parse_gemini_output(output, tmpdir_obj.name)
+                if parsed is not None:
+                    return parsed
+                last_error = f"{model}: could not parse output"
+                print(f"[gemini-parse-fail] first 200 chars: {output[:200]}", flush=True)
+                time.sleep(3)
+            finally:
+                tmpdir_obj.cleanup()
+    # If every model is exhausted, raise quota error so caller can fall back to haiku
+    if all(m in _GEMINI_EXHAUSTED for m in models):
+        raise RuntimeError(f"gemini quota exhausted on {', '.join(models)}")
     raise RuntimeError(last_error or "gemini call failed")
 
 
@@ -244,7 +314,8 @@ def build_prompt(month_key: str, batch: list[tuple[int, dict]]) -> str:
         )
     filler_list = ", ".join(sorted(FILLER))
     return (
-        "Return only valid JSON.\n"
+        "Return only valid JSON. Do NOT use any tools, web searches, or file operations. "
+        "Output the JSON response directly to stdout without any intermediate steps.\n"
         "You are tagging educational facts for a user interest-matching app.\n"
         "Users declare interests like 'crime', 'biology', or 'space exploration' and see matching facts.\n"
         "\n"
@@ -435,12 +506,12 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument("months", nargs="*")
     parser.add_argument("--all-untagged", action="store_true")
-    parser.add_argument("--batch-size", type=int, default=40)
+    parser.add_argument("--batch-size", type=int, default=25)
     parser.add_argument("--provider", choices=["auto", "gemini", "haiku"], default="auto")
     parser.add_argument("--gemini-models", default=",".join(DEFAULT_GEMINI_MODELS))
     parser.add_argument("--haiku-model", default=DEFAULT_HAIKU_MODEL)
-    parser.add_argument("--timeout", type=int, default=240)
-    parser.add_argument("--save-every", type=int, default=6)
+    parser.add_argument("--timeout", type=int, default=120)
+    parser.add_argument("--save-every", type=int, default=1)
     return parser.parse_args()
 
 
