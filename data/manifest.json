@@ -2026,9 +2026,9 @@
       "cleaned": true
     },
     "dyk_2025_Nov": {
-      "tags": false,
+      "tags": true,
       "links": true,
-      "tagged_facts": 286,
+      "tagged_facts": 292,
       "linked_facts": 292,
       "total_facts": 292,
       "version": 1,
