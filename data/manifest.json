@@ -2003,7 +2003,8 @@
       "tagged_facts": 381,
       "linked_facts": 381,
       "total_facts": 381,
-      "version": 2
+      "version": 2,
+      "cleaned": true
     },
     "dyk_2025_Mar": {
       "tags": true,
