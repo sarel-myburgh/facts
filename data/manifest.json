@@ -2031,7 +2031,8 @@
       "tagged_facts": 285,
       "linked_facts": 285,
       "total_facts": 285,
-      "version": 2
+      "version": 2,
+      "cleaned": true
     },
     "dyk_2025_Sep": {
       "tags": true,
