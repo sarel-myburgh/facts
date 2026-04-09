@@ -2075,7 +2075,8 @@
       "tagged_facts": 0,
       "linked_facts": 0,
       "total_facts": 367,
-      "version": 1
+      "version": 1,
+      "cleaned": true
     },
     "tih_Apr": {
       "tags": false,
