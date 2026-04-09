@@ -4150,8 +4150,8 @@
         "1960s fashion"
       ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/PoorThingsBFILFF141023_%2812_of_33%29_%2853259728245%29_%28cropped%29.jpg",
+        "caption": "Education Ruskin School of Art"
       },
       "mature": false,
       "source": "dyk",
@@ -4700,6 +4700,11 @@
       "scraped_at": "2026-04-07T06:40:28Z",
       "links": [
         {
+          "url": "https://en.wikipedia.org/wiki/March_for_Left-wing_Social_Advancement",
+          "title": "March for Left-wing Social Advancement",
+          "source": "Wikipedia"
+        },
+        {
           "url": "https://en.wikipedia.org/wiki/Luis_Adolfo_Siles_Salinas",
           "title": "Luis Adolfo Siles Salinas",
           "source": "Wikipedia"
@@ -5243,6 +5248,11 @@
         {
           "url": "https://en.wikipedia.org/wiki/Ezekiel_Hughes",
           "title": "Ezekiel Hughes",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Justice_of_the_peace",
+          "title": "Justice of the peace",
           "source": "Wikipedia"
         }
       ]
@@ -5919,8 +5929,8 @@
         "piano"
       ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Cimpoi_%28Tulcea%2C_RO%29.jpg",
+        "caption": "Other names șimpoi, cimponi, șimponi, ciumpoi, cempoi, carabă, cărabă, gaidă, cimpoaie, cărăbi"
       },
       "mature": false,
       "source": "dyk",
@@ -6027,6 +6037,11 @@
         {
           "url": "https://en.wikipedia.org/wiki/Jacqueline_Wilson",
           "title": "Jacqueline Wilson",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Opal_Plumstead",
+          "title": "Opal Plumstead",
           "source": "Wikipedia"
         }
       ]
@@ -6239,8 +6254,8 @@
         "nature"
       ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Grey_sting_bug_with_half_metallic_back-Cropped.jpg",
+        "caption": "Scientific classification"
       },
       "mature": false,
       "source": "dyk",
@@ -6316,6 +6331,11 @@
         {
           "url": "https://en.wikipedia.org/wiki/Aleksandar_%C5%A0api%C4%87",
           "title": "Aleksandar Šapić",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Salt_Lake_City",
+          "title": "Salt Lake City",
           "source": "Wikipedia"
         }
       ]
@@ -6523,8 +6543,8 @@
         "chinese history"
       ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/%E5%8F%8C%E9%BE%99%E6%A1%A5_-_2025-05-04_14.jpg",
+        "caption": "Coordinates 23°36′30″N 102°47′34″E ﻿ / ﻿ 23.6083°N 102.7928°E ﻿ / 23.6083; 102.7928"
       },
       "mature": false,
       "source": "dyk",
@@ -6884,6 +6904,11 @@
         {
           "url": "https://en.wikipedia.org/wiki/Mykhailo_Starytsky",
           "title": "Mykhailo Starytsky",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rusk",
+          "title": "Rusk",
           "source": "Wikipedia"
         }
       ]
@@ -7390,8 +7415,8 @@
         "natural selection"
       ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Koelreuteria_dilcheri_SR_02-22-14_A_img1.jpg",
+        "caption": "Scientific classification"
       },
       "mature": false,
       "source": "dyk",
@@ -7821,7 +7846,18 @@
       "id": "dyk_2026_Feb_c1234952f8a1",
       "hash": "3c57d40f5a647fa64465f29e775dee407047718727454303bff90733f853ca47",
       "text": "A U.S. Army veteran was claimed to be suffering from erotomania when he carried out a mass shooting at a Ford Motor Plant in Michigan",
-      "tags": [],
+      "tags": [
+        "crime",
+        "psychology",
+        "mental health",
+        "military",
+        "american history",
+        "mass shooting",
+        "erotomania",
+        "veterans affairs",
+        "michigan history",
+        "ford motors"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -7846,7 +7882,18 @@
       "id": "dyk_2026_Feb_7d67f0b49830",
       "hash": "7cc866be10c7824a01b4f1b221e247f49078414d5e2abd370b035ed06108d81f",
       "text": "Dawn Hope 's first episode on Hollyoaks featured an entirely Black cast",
-      "tags": [],
+      "tags": [
+        "television",
+        "acting",
+        "british culture",
+        "social issues",
+        "history",
+        "hollyoaks",
+        "black actors",
+        "tv drama",
+        "cultural representation",
+        "british tv"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -7866,7 +7913,18 @@
       "id": "dyk_2026_Feb_e82886bfd335",
       "hash": "8af02d484d1e4f2f55e26777322de9d28acda4ae9f3842c1a43e5c3fa0f3bbf6",
       "text": "A bridge over the Schuylkill River does not actually cross the river",
-      "tags": [],
+      "tags": [
+        "engineering",
+        "architecture",
+        "geography",
+        "urban planning",
+        "paradox",
+        "bridge design",
+        "river infrastructure",
+        "schuylkill river",
+        "philadelphia",
+        "civil engineering"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -7886,7 +7944,18 @@
       "id": "dyk_2026_Feb_311f427bf5c3",
       "hash": "0e20b1f3988dc4689d6a1e8737950c703f89ed0da3d24e9d47ab97156882316c",
       "text": "Inugami Korone 's catchphrase \"yubi yubi\" calls for her fans to cut off their fingers and give them to her",
-      "tags": [],
+      "tags": [
+        "internet culture",
+        "gaming",
+        "japanese culture",
+        "virtual reality",
+        "dark humor",
+        "virtual streamer",
+        "hololive",
+        "inugami korone",
+        "fan culture",
+        "internet memes"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -7906,7 +7975,18 @@
       "id": "dyk_2026_Feb_385d3b6979f8",
       "hash": "7e759f6e0e040f5ee29d75e0aaec16df48189b540b6fb3c5226e5687a86ba45b",
       "text": "In 1930s America, you could buy a quart of frozen salad for a dollar",
-      "tags": [],
+      "tags": [
+        "history",
+        "food",
+        "america",
+        "economics",
+        "social history",
+        "1930s",
+        "american history",
+        "food history",
+        "culinary trends",
+        "depression era"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -7926,7 +8006,18 @@
       "id": "dyk_2026_Feb_e87650a57c7b",
       "hash": "3d83f43b595a4349627f925adb8d2109da62c40b8daf7013116100f853c4027c",
       "text": "Bruce Springsteen's ICE protest song, \" Streets of Minneapolis \", was written the day Alex Pretti was killed and performed live the same week",
-      "tags": [],
+      "tags": [
+        "music",
+        "politics",
+        "social justice",
+        "american history",
+        "activism",
+        "bruce springsteen",
+        "protest song",
+        "immigration",
+        "minneapolis",
+        "ice enforcement"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -7956,7 +8047,18 @@
       "id": "dyk_2026_Feb_efb071bafb39",
       "hash": "8d2bd268366f0b0bbe244229128a68e2da9aa605e363cd0fef7dd26a876c11d6",
       "text": "Liu Shasha didn't own a mobile phone because it might take away from her learning billiards",
-      "tags": [],
+      "tags": [
+        "sports",
+        "chinese culture",
+        "dedication",
+        "technology",
+        "psychology",
+        "billiards",
+        "pool",
+        "liu shasha",
+        "focus",
+        "athlete mindset"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -7976,7 +8078,18 @@
       "id": "dyk_2026_Feb_1dec66fcd68f",
       "hash": "b3b7f5d431d721429bcb92a84ebcaa805ad8a7b10ac6e624e0977a78ff0f17b4",
       "text": "Despite coincidental timing, Gap's ad featuring Katseye was not intended as a response to Sydney Sweeney 's controversial jeans commercial",
-      "tags": [],
+      "tags": [
+        "advertising",
+        "fashion",
+        "marketing",
+        "pop culture",
+        "media",
+        "gap advertising",
+        "celebrity endorsements",
+        "sydney sweeney",
+        "denim",
+        "brand strategy"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -7985,6 +8098,11 @@
       "source": "dyk",
       "scraped_at": "2026-04-07T06:40:42Z",
       "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Better_in_Denim",
+          "title": "Better in Denim",
+          "source": "Wikipedia"
+        },
         {
           "url": "https://en.wikipedia.org/wiki/Katseye",
           "title": "Katseye",
@@ -8001,7 +8119,18 @@
       "id": "dyk_2026_Feb_87b0044780e0",
       "hash": "c2d17d3f3cb91b65b36df3fd9b865285467f55bd66c1667b5cf4c4114a177fa4",
       "text": "At fifteen years old, Ebenezer Harcourt became the youngest footballer to play for the Nigeria national team",
-      "tags": [],
+      "tags": [
+        "sports",
+        "football",
+        "nigeria",
+        "african history",
+        "youth achievement",
+        "soccer",
+        "nigerian football",
+        "ebenezer harcourt",
+        "national teams",
+        "sports records"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8021,7 +8150,18 @@
       "id": "dyk_2026_Feb_e8b538cd32e5",
       "hash": "7b1f7cb87895231e09e462cddc07dfb208278063ba645822a90b1aeddcbce1b0",
       "text": "When Titan Fleischmann 's grandmother first heard her future grandson's name, she cried out of fear that he would be bullied for it",
-      "tags": [],
+      "tags": [
+        "sociology",
+        "psychology",
+        "naming conventions",
+        "family",
+        "social issues",
+        "child development",
+        "bullying",
+        "personal names",
+        "family stories",
+        "social perception"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8041,7 +8181,18 @@
       "id": "dyk_2026_Feb_59b3d1825dba",
       "hash": "748ba345a6d5903dec80704450b5b61956c7b615c408779375abb319ae91f60b",
       "text": "Nigel Bluck 's cinematography has been compared to the work of painter Edward Hopper",
-      "tags": [],
+      "tags": [
+        "art",
+        "film",
+        "cinematography",
+        "painting",
+        "aesthetics",
+        "film techniques",
+        "visual arts",
+        "edward hopper",
+        "nigel bluck",
+        "art criticism"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8061,7 +8212,18 @@
       "id": "dyk_2026_Feb_fffe5ec995d9",
       "hash": "75232027c1b856d9b37c54c30b71e615240619a40e95b2a2bd66065020ffdd39",
       "text": "The difficulty of finding Fluid Ounces's third studio album led some fans to believe it was an urban legend",
-      "tags": [],
+      "tags": [
+        "music",
+        "internet culture",
+        "folklore",
+        "media",
+        "fan culture",
+        "music albums",
+        "urban legends",
+        "fluid ounces band",
+        "music history",
+        "internet mysteries"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8081,7 +8243,18 @@
       "id": "dyk_2026_Feb_edfc3c295c8f",
       "hash": "124397adccfe33c83ee1d398932dbbb9898cd46d915b0ad374ccd23e8ade3eb7",
       "text": "United States Supreme Court Justice Antonin Scalia did not endorse the statement, \"everybody has got a right to the use of the English language\"",
-      "tags": [],
+      "tags": [
+        "law",
+        "politics",
+        "american history",
+        "linguistics",
+        "supreme court",
+        "antonin scalia",
+        "constitutional law",
+        "english language",
+        "legal philosophy",
+        "judicial opinions"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8101,10 +8274,21 @@
       "id": "dyk_2026_Feb_306b59f05537",
       "hash": "adbb2bf3b777e8c7ac62bc51f8fc0d78447d154746474efdb79d89df2073310e",
       "text": "Calvin Duncan was elected clerk of the same court that wrongfully convicted him of murder and sentenced him to life in prison",
-      "tags": [],
+      "tags": [
+        "law",
+        "crime",
+        "social justice",
+        "american history",
+        "politics",
+        "wrongful conviction",
+        "legal system",
+        "criminal justice",
+        "calvin duncan",
+        "court reform"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Calvin_Duncan.jpg",
+        "caption": "Born 1962 or 1963 (age 62–63) [ 1 ] New Orleans , Louisiana, US"
       },
       "mature": false,
       "source": "dyk",
@@ -8114,6 +8298,11 @@
           "url": "https://en.wikipedia.org/wiki/Calvin_Duncan_(legal_advocate)",
           "title": "Calvin Duncan (legal advocate)",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Court_clerk",
+          "title": "Court clerk",
+          "source": "Wikipedia"
         }
       ]
     },
@@ -8121,7 +8310,18 @@
       "id": "dyk_2026_Feb_fa01e50a2742",
       "hash": "96854279fda50013737d40aae172e593410b1f40366e4a16d6f2b6a63bc89956",
       "text": "There are cognitions about cognitions",
-      "tags": [],
+      "tags": [
+        "philosophy",
+        "psychology",
+        "neuroscience",
+        "consciousness",
+        "metacognition",
+        "cognitive science",
+        "self-awareness",
+        "human mind",
+        "abstract concepts",
+        "mental processes"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8141,7 +8341,18 @@
       "id": "dyk_2026_Feb_0479b620d84f",
       "hash": "cab8f0c3c648e83c8ab5e8946b607990305932789b5b97844c34c6da1305c61b",
       "text": "Billy Gallagher 's Times Square cabaret was open from sundown to dawn, with a mix of \"reputable people\" and those \"who had practical reasons for circulating after dark\"",
-      "tags": [],
+      "tags": [
+        "history",
+        "entertainment",
+        "new york city",
+        "social history",
+        "culture",
+        "times square",
+        "cabaret",
+        "nightlife",
+        "prohibition era",
+        "jazz age"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8161,7 +8372,18 @@
       "id": "dyk_2026_Feb_01f5b88da12b",
       "hash": "241b79b0deb0a1b4cc407130b8eca36c22516e5ca5705fd93020c4ca4c34995f",
       "text": "The Cipero Tramway was the first operational railway in Trinidad and Tobago",
-      "tags": [],
+      "tags": [
+        "history",
+        "engineering",
+        "transportation",
+        "caribbean",
+        "infrastructure",
+        "railway history",
+        "trinidad and tobago",
+        "tramway",
+        "colonial history",
+        "industrial development"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8181,7 +8403,18 @@
       "id": "dyk_2026_Feb_b3405263f4d1",
       "hash": "d4c96483d19aea5fdb755ff500e183fb8bccccd51f70f229b0862c5fb95a413f",
       "text": "Voice actor Rena Motomura prepared for an audition by practicing a single challenging line a hundred times a day",
-      "tags": [],
+      "tags": [
+        "acting",
+        "japanese culture",
+        "media",
+        "dedication",
+        "entertainment",
+        "voice acting",
+        "rena motomura",
+        "auditions",
+        "performance art",
+        "japanese entertainment"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8201,7 +8434,18 @@
       "id": "dyk_2026_Feb_4232f6ac7ace",
       "hash": "fc27e8c9c6d46de44c0997a960756cf32548592544f74f8b3234eb974b8d8561",
       "text": "Al-Qunayyah, a village in Jordan, is thought to have been the site of a Roman-era sanctuary",
-      "tags": [],
+      "tags": [
+        "archeology",
+        "history",
+        "ancient history",
+        "jordan",
+        "roman empire",
+        "roman history",
+        "middle east archeology",
+        "ancient jordan",
+        "religious sites",
+        "historical sites"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8221,7 +8465,18 @@
       "id": "dyk_2026_Feb_29703895106e",
       "hash": "ac45faa83ba3714f596437bb0dcb31ad8d747daf15fb8137c016d1526d3fb5d6",
       "text": "To teach high school photography, Kent Kammerer took students on trips to the North Cascades and Olympic Peninsula in a home-built camper",
-      "tags": [],
+      "tags": [
+        "education",
+        "photography",
+        "american history",
+        "travel",
+        "outdoors",
+        "high school education",
+        "outdoor education",
+        "kent kammerer",
+        "national parks",
+        "pacific northwest"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8251,7 +8506,18 @@
       "id": "dyk_2026_Feb_ac3baaaf5587",
       "hash": "5269830a1b9df1acdc08f504bdd92f506daa84d34cc1d5822b27e7d31a7b6cc9",
       "text": "Astor Piazzolla's Oblivion has been called \"exquisitely melancholic\"",
-      "tags": [],
+      "tags": [
+        "music",
+        "classical music",
+        "argentina",
+        "arts",
+        "nuevo tango",
+        "bandoneon",
+        "instrumental",
+        "astor piazzolla",
+        "20th century",
+        "modern classical"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8271,7 +8537,18 @@
       "id": "dyk_2026_Feb_c9fb2e0817ee",
       "hash": "de0edd03c5cfc504e2f57a0485841a10c5d3c88eecbf149e52081cb83356e12b",
       "text": "Kamaipuʻupaʻa, the mistress of King Kamehameha V, blamed the 1871 Lānaʻi earthquake on a foreigner riding a horse",
-      "tags": [],
+      "tags": [
+        "history",
+        "hawaii",
+        "natural disasters",
+        "royalty",
+        "folklore",
+        "hawaiian history",
+        "19th century",
+        "monarchy",
+        "lānaʻi",
+        "earthquake"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8301,10 +8578,21 @@
       "id": "dyk_2026_Feb_445ddd8cb1b7",
       "hash": "4c2cddfca0fb9a3f22cbdf35d7c5a792b274f3d2921c797b813fc0ffb29bab7d",
       "text": "The tiny Abra aequalis is a major food source for a species of large starfish",
-      "tags": [],
+      "tags": [
+        "biology",
+        "marine biology",
+        "zoology",
+        "ecology",
+        "invertebrates",
+        "mollusks",
+        "starfish",
+        "marine life",
+        "bivalves",
+        "predation"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Common_Atlantic_Abra%2C_Navarre_imported_from_iNaturalist_photo_248843406.jpg",
+        "caption": "Scientific classification"
       },
       "mature": false,
       "source": "dyk",
@@ -8326,7 +8614,18 @@
       "id": "dyk_2026_Feb_0fc47cb1a5a0",
       "hash": "10b1a2a7c8303e4e9bce3cf79deda652406b98e522bd47013a7119266013c886",
       "text": "Justin Timberlake's 2013 comeback single was promoted by relaunching Myspace",
-      "tags": [],
+      "tags": [
+        "music",
+        "pop culture",
+        "internet",
+        "technology",
+        "justin timberlake",
+        "myspace",
+        "social media",
+        "2010s",
+        "music industry",
+        "digital marketing"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8351,7 +8650,18 @@
       "id": "dyk_2026_Feb_1f4e407ce14f",
       "hash": "d1fb210413f96f5cc5b5b812140752f1feb1869f1191f6ad22c4646b04d31da3",
       "text": "George Brandt chose to have a song from the soundtrack of Pinocchio at his own funeral",
-      "tags": [],
+      "tags": [
+        "film",
+        "music",
+        "arts",
+        "culture",
+        "disney",
+        "pinocchio",
+        "funeral",
+        "film music",
+        "animation",
+        "george brandt"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8371,7 +8681,18 @@
       "id": "dyk_2026_Feb_49e0760381aa",
       "hash": "65528139037ba70d34936d5557a7ab274a88e0829e958bb61a606d00f8c9bc6d",
       "text": "Two tropical cyclones in the 1996 Pacific hurricane season made the unusual move of crossing over from the Atlantic Ocean to the Pacific",
-      "tags": [],
+      "tags": [
+        "meteorology",
+        "geography",
+        "climate",
+        "natural disasters",
+        "tropical cyclones",
+        "hurricanes",
+        "pacific ocean",
+        "atlantic ocean",
+        "1990s",
+        "weather events"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8396,7 +8717,18 @@
       "id": "dyk_2026_Feb_3021362bbd6c",
       "hash": "6c4afd0226742750f4ff877ccc7f445153d785baf1464f55c11dfd0e45469074",
       "text": "The black-rumped magpie was made a full species in 2018",
-      "tags": [],
+      "tags": [
+        "biology",
+        "ornithology",
+        "zoology",
+        "science",
+        "birds",
+        "magpies",
+        "taxonomy",
+        "species",
+        "animal kingdom",
+        "avian biology"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8416,7 +8748,18 @@
       "id": "dyk_2026_Feb_f5173f0ae11c",
       "hash": "9dd25a3852b76166e5f4899d05b18a9cf9f92747a8faf63507bcc8950c11ad92",
       "text": "After an international ice hockey career, Leszek Laszkiewicz was given an honorary citizenship of his hometown",
-      "tags": [],
+      "tags": [
+        "sports",
+        "ice hockey",
+        "poland",
+        "culture",
+        "european hockey",
+        "athletic achievement",
+        "citizenship",
+        "hometown hero",
+        "leszek laszkiewicz",
+        "professional sports"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8436,7 +8779,18 @@
       "id": "dyk_2026_Feb_162b5f223db9",
       "hash": "71fc830cc303b91b6d2a3384ad54a485eab6c2db7effe85e5f3acaaa724aa2d4",
       "text": "At Hagemeister Park, the Green Bay Packers' first stadium, fans would line the field or sit in their parked cars to watch games",
-      "tags": [],
+      "tags": [
+        "sports",
+        "american football",
+        "history",
+        "culture",
+        "green bay packers",
+        "nfl",
+        "stadiums",
+        "sports history",
+        "wisconsin",
+        "fan experience"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8456,7 +8810,18 @@
       "id": "dyk_2026_Feb_cab3a536de25",
       "hash": "4d46903612acc4861361d8811a660c2044bb5458f706df905144d4a21d38a2b5",
       "text": "VTuber Sakamata Chloe used crowdsourcing for Christmas tree decorations",
-      "tags": [],
+      "tags": [
+        "internet",
+        "pop culture",
+        "technology",
+        "media",
+        "vtuber",
+        "sakamata chloe",
+        "virtual idol",
+        "crowdsourcing",
+        "christmas",
+        "japanese culture"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8476,7 +8841,18 @@
       "id": "dyk_2026_Feb_0b72431377b5",
       "hash": "3b0236ff256d320703057479ff148007da151cb25366e6a5befa88438c53f7de",
       "text": "The mating display of Servaea incana includes a \"zigzag dance\" in which a male moves in ever-narrowing arcs towards a female",
-      "tags": [],
+      "tags": [
+        "biology",
+        "entomology",
+        "zoology",
+        "animal behavior",
+        "spiders",
+        "jumping spiders",
+        "courtship",
+        "mating rituals",
+        "arachnids",
+        "ethology"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8496,7 +8872,18 @@
       "id": "dyk_2026_Feb_f8998375f08f",
       "hash": "313cb56dda4fd796de2ff379a4239c19c60c2593d875afa86a0f2471cbc33ee0",
       "text": "Novelist Susie Boyt described Nesselrode pudding as tasting \"of Christmas, without any of the disappointment\"",
-      "tags": [],
+      "tags": [
+        "food",
+        "literature",
+        "culture",
+        "culinary arts",
+        "dessert",
+        "christmas food",
+        "british literature",
+        "susie boyt",
+        "nesselrode pudding",
+        "food history"
+      ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Nesselrode_pudding_TLB_2025.jpg",
         "caption": "Type Bombe glacée"
@@ -8516,7 +8903,18 @@
       "id": "dyk_2026_Feb_b34a66cc11dd",
       "hash": "27fcfa47bbacb8adf501dc0d8b425a4cab562bcc1dcc354f95fe3f4001240b23",
       "text": "... that, according to Guyanese authorities, an oil tanker seized by the United States off the coast of Venezuela in 2025 was falsely flying Guyana's flag",
-      "tags": [],
+      "tags": [
+        "politics",
+        "international relations",
+        "current events",
+        "maritime",
+        "law",
+        "guyana",
+        "venezuela",
+        "united states",
+        "oil industry",
+        "geopolitics"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8536,7 +8934,18 @@
       "id": "dyk_2026_Feb_d120b6a9918e",
       "hash": "adaf6ba9829a529698e198734dcf83933706443b8b56d9300a0cfb6a437f438b",
       "text": "A 70-foot (21 m) statue of Lionel Messi was unveiled in India during his G.O.A.T. India Tour",
-      "tags": [],
+      "tags": [
+        "sports",
+        "soccer",
+        "art",
+        "culture",
+        "india",
+        "lionel messi",
+        "football",
+        "statues",
+        "public art",
+        "fan culture"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8561,7 +8970,18 @@
       "id": "dyk_2026_Feb_3f9e31fc2ec5",
       "hash": "ef396aab9f2d736ee1bec1b82bf6eaa02682d8db2b7f1be2f2ce16089a100307",
       "text": "\" Right Here, Right Now \" was Giorgio Moroder 's first song in 15 years to reach the top of the US Dance Club Songs chart",
-      "tags": [],
+      "tags": [
+        "music",
+        "pop music",
+        "dance music",
+        "charts",
+        "giorgio moroder",
+        "electronic music",
+        "disco",
+        "chart success",
+        "2010s",
+        "music history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8591,7 +9011,18 @@
       "id": "dyk_2026_Feb_508f3f66ccd7",
       "hash": "367a2ab95a6149800ff8b027aa041311ed744678694c9e939a488242dc1e8ec1",
       "text": "Future Slavic-language professor Marc L. Greenberg learned Slovene after his fiancée sent him a bilingual dictionary and started writing letters to him only in Slovene",
-      "tags": [],
+      "tags": [
+        "linguistics",
+        "education",
+        "relationships",
+        "culture",
+        "slavic languages",
+        "slovene",
+        "language learning",
+        "professors",
+        "personal stories",
+        "slovenia"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8611,7 +9042,18 @@
       "id": "dyk_2026_Feb_19088d9f3257",
       "hash": "0ce13e98d061a27f8633216ce0c34f9f5bbf7c7b2c6acf46161a8fbd01c60687",
       "text": "The Genshin Impact character Alhaitham is believed to be named after a polymath from the Islamic Golden Age",
-      "tags": [],
+      "tags": [
+        "video games",
+        "history",
+        "literature",
+        "culture",
+        "genshin impact",
+        "alhaitham",
+        "islamic golden age",
+        "polymath",
+        "character naming",
+        "gaming"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8636,7 +9078,18 @@
       "id": "dyk_2026_Feb_9f23e300d7de",
       "hash": "99452088e57896f83fb8c86b7da195dfdec4ee34c15d0abfa5d2d59176b3202b",
       "text": "Diego García Miravete and his college football team 's games were closely monitored by the Mexican government in the early 1970s",
-      "tags": [],
+      "tags": [
+        "sports",
+        "history",
+        "politics",
+        "mexico",
+        "college football",
+        "mexican government",
+        "surveillance",
+        "1970s",
+        "diego garcía miravete",
+        "unam"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8661,7 +9114,18 @@
       "id": "dyk_2026_Feb_8c0cfba050dd",
       "hash": "91708c9ebeaadb3119b3449e89740a35f3f6a97259ead05e56130050ebd31ddf",
       "text": "Erykah Badu recorded Mama's Gun at what was once Jimi Hendrix 's apartment",
-      "tags": [],
+      "tags": [
+        "music",
+        "r&b",
+        "history",
+        "culture",
+        "erykah badu",
+        "jimi hendrix",
+        "recording studio",
+        "music history",
+        "neo soul",
+        "artistic inspiration"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8691,7 +9155,18 @@
       "id": "dyk_2026_Feb_daba9119c7fd",
       "hash": "82324219a2a9b7e5135a1a0dca201491fe79b73239f0a2aa662dea66dabb0c0e",
       "text": "Some reviewers thought that A Short Hike was too short",
-      "tags": [],
+      "tags": [
+        "video games",
+        "indie games",
+        "criticism",
+        "game design",
+        "a short hike",
+        "video game reviews",
+        "duration",
+        "player experience",
+        "independent games",
+        "critical reception"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8711,7 +9186,18 @@
       "id": "dyk_2026_Feb_3f268b51a392",
       "hash": "0cc3d8ca14198eca3c2ead88ae75718107ac79ed9e7636dda246fbc9cfd59977",
       "text": "A Washington state park drew more visitors in 2021 than Yosemite National Park",
-      "tags": [],
+      "tags": [
+        "travel",
+        "tourism",
+        "nature",
+        "parks",
+        "united states",
+        "washington state",
+        "state parks",
+        "national parks",
+        "yosemite",
+        "environmental tourism"
+      ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Deception_Pass_Bridge_03.jpg",
         "caption": "Located in the northern Puget Sound region, Deception Pass (circled in red) connects the Strait of Juan de Fuca (to the west) to Skagit Bay (to the east). Fidalgo Island is to the north and Whidbey Island is to the south."
@@ -8731,7 +9217,18 @@
       "id": "dyk_2026_Feb_4ffcdb435682",
       "hash": "fda3b6de53e41e75d8a770955fee901936015eb0e3760e63dbe4bfdf7cc612e1",
       "text": "James I. Hopkins Jr., who signed the order to bomb Hiroshima, disappeared without a trace",
-      "tags": [],
+      "tags": [
+        "history",
+        "military",
+        "world war 2",
+        "cold cases",
+        "biography",
+        "hiroshima bombing",
+        "nuclear warfare",
+        "disappearances",
+        "american history",
+        "military history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8751,7 +9248,18 @@
       "id": "dyk_2026_Feb_cb6ae933d9fe",
       "hash": "96fe6fc970053058c2c4143b96e0385fc55e8e32e4ca0651936148918c8c3556",
       "text": "The critically endangered fish Quintana atrizona has not been seen in the wild since 2007–2008",
-      "tags": [],
+      "tags": [
+        "biology",
+        "conservation",
+        "environment",
+        "animals",
+        "ecology",
+        "endangered species",
+        "fish",
+        "marine life",
+        "wildlife conservation",
+        "central america"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8771,7 +9279,18 @@
       "id": "dyk_2026_Feb_5306319de2f7",
       "hash": "b9aded4be20c3653f91c17804395592591dfc2d5db118efdb3b256de4d727a23",
       "text": "Historian Allen French volunteered as a police officer during a labor strike",
-      "tags": [],
+      "tags": [
+        "history",
+        "labor",
+        "social movements",
+        "policing",
+        "biography",
+        "american history",
+        "labor strikes",
+        "police work",
+        "historians",
+        "social history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8791,7 +9310,18 @@
       "id": "dyk_2026_Feb_9f4ab0314502",
       "hash": "c5aaf9519813bdf2bbe312bd1774ee42320fcc6f64c5c19d9520ae5ee60fd461",
       "text": "A video showing preparations for a campaign speech for mayor of Kharkiv became one of YouTube's top ten most-watched videos of the day",
-      "tags": [],
+      "tags": [
+        "media",
+        "politics",
+        "internet",
+        "viral content",
+        "ukraine",
+        "youtube",
+        "viral videos",
+        "political campaigns",
+        "kharkiv",
+        "social media"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8816,7 +9346,18 @@
       "id": "dyk_2026_Feb_3a25ebcf7c8d",
       "hash": "c4efc0b5aab37c3af0fc55420af9f7d3ea7d623d0fd7debb3991dfd9e383e6d7",
       "text": "Sanquette, a crêpe from Occitania, is made with blood fresh from slaughter",
-      "tags": [],
+      "tags": [
+        "food",
+        "culture",
+        "europe",
+        "traditions",
+        "cuisine",
+        "french food",
+        "occitania",
+        "blood dishes",
+        "crepes",
+        "culinary history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8841,7 +9382,18 @@
       "id": "dyk_2026_Feb_56e1c77c9c00",
       "hash": "68194159c60eaf3bff1dde4a5e32a5459ff08ecd1b121759b740792cc61c69cf",
       "text": "The Canadian Joint Forces Command was created based on operational lessons from the war in Ukraine",
-      "tags": [],
+      "tags": [
+        "military",
+        "international relations",
+        "politics",
+        "canada",
+        "ukraine",
+        "canadian military",
+        "joint forces",
+        "russo-ukrainian war",
+        "defense policy",
+        "european conflict"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8866,7 +9418,18 @@
       "id": "dyk_2026_Feb_67c02e0d473f",
       "hash": "a2beac474b79a384defc8b1af842d1a408b042d42440aee9246fa920b9d33f5f",
       "text": "A radio station requested changes to a light-rail project",
-      "tags": [],
+      "tags": [
+        "urban planning",
+        "media",
+        "transportation",
+        "advocacy",
+        "local politics",
+        "public transport",
+        "light rail",
+        "radio stations",
+        "community activism",
+        "city development"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8891,7 +9454,18 @@
       "id": "dyk_2026_Feb_a2ac596cd843",
       "hash": "0c841bed1ceae30d139b520e48b72487419fa11e53d802ed35f9979678172603",
       "text": "Gu Yanwu destroyed all his poetry following the Manchu conquest and took to wandering across China",
-      "tags": [],
+      "tags": [
+        "history",
+        "china",
+        "literature",
+        "rebellion",
+        "biography",
+        "chinese history",
+        "ming dynasty",
+        "qing dynasty",
+        "poetry",
+        "cultural preservation"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8916,7 +9490,18 @@
       "id": "dyk_2026_Feb_8edac513f5eb",
       "hash": "874053bf2bb21f64fbe4f4def7a65a28dfdbb998c90e7a3bbac8677564dff9b3",
       "text": "The Bombay sandwich typically uses potatoes and chutney, but some versions use chocolate",
-      "tags": [],
+      "tags": [
+        "food",
+        "india",
+        "cuisine",
+        "street food",
+        "cooking",
+        "indian food",
+        "bombay",
+        "sandwiches",
+        "fusion food",
+        "culinary traditions"
+      ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bombay_cheese_sandwich.jpg",
         "caption": "Type Sandwich"
@@ -8936,7 +9521,18 @@
       "id": "dyk_2026_Feb_8a9d529420d2",
       "hash": "36d2795ad266817f07bda1947bee562f2482f7598b81b5be1364598e5f4891c7",
       "text": "All five chaplains awarded the Medal of Honor since the American Civil War were Catholic priests",
-      "tags": [],
+      "tags": [
+        "history",
+        "religion",
+        "military",
+        "awards",
+        "united states",
+        "american civil war",
+        "medal of honor",
+        "catholicism",
+        "chaplains",
+        "military history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8956,7 +9552,18 @@
       "id": "dyk_2026_Feb_a224d833f576",
       "hash": "a5a33eb3f2458e9898fc7a93290c1ad56a115671aceab9655a854fb7b1078335",
       "text": "The attorney of the last person executed by Peru requested Pope John Paul II's intervention to save his client's life",
-      "tags": [],
+      "tags": [
+        "law",
+        "religion",
+        "human rights",
+        "south america",
+        "biography",
+        "capital punishment",
+        "peru",
+        "catholic church",
+        "pope john paul ii",
+        "legal history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8976,7 +9583,18 @@
       "id": "dyk_2026_Feb_08f374e928ca",
       "hash": "8b1d94d0e5ac7848d998674ba8245ad7356f71f1f705ee5b87c66f62ed587028",
       "text": "Mangroves reduced the impact of Cyclone Dana",
-      "tags": [],
+      "tags": [
+        "environment",
+        "climate",
+        "ecology",
+        "natural disasters",
+        "conservation",
+        "mangroves",
+        "cyclones",
+        "storm protection",
+        "coastal ecosystems",
+        "environmental science"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -8996,7 +9614,18 @@
       "id": "dyk_2026_Feb_4d320649fdfb",
       "hash": "74b566f7fcde3ab55807aa2b7f3e7a6f0c985c2ebb66dcdf59bf5b1e9738b623",
       "text": "Variety once called Trisha Ziff a \"photographer's photographer\"",
-      "tags": [],
+      "tags": [
+        "art",
+        "photography",
+        "media",
+        "biography",
+        "culture",
+        "contemporary art",
+        "documentary photography",
+        "film criticism",
+        "visual arts",
+        "british artists"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9016,7 +9645,18 @@
       "id": "dyk_2026_Feb_b57ec7cbfb18",
       "hash": "66317e768a916d57695a9df287de42e58805cdd24f65e1dca1977588089f4460",
       "text": "The headquarters of Indonesia's 16th Mechanized Infantry Brigade was a Japanese military base, seized by Indonesian youths after Japan's surrender in 1945",
-      "tags": [],
+      "tags": [
+        "history",
+        "military",
+        "asia",
+        "world war 2",
+        "indonesia",
+        "indonesian history",
+        "japanese occupation",
+        "military bases",
+        "post war",
+        "southeast asia"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9036,7 +9676,18 @@
       "id": "dyk_2026_Feb_01cade65fea7",
       "hash": "bbb21b4648e51593babd202ab64a083a9af8eb6271ae3267807f13eb48c6bca9",
       "text": "Shark fin is one of the \" four sea delicacies \", a quartet of luxury seafoods in Chinese cuisine",
-      "tags": [],
+      "tags": [
+        "food",
+        "chinese culture",
+        "animals",
+        "conservation",
+        "cuisine",
+        "chinese food",
+        "seafood",
+        "shark fin soup",
+        "luxury foods",
+        "culinary traditions"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9061,7 +9712,18 @@
       "id": "dyk_2026_Feb_23652e1f4113",
       "hash": "43bde6781d9b177909afa4753aa10fe4fc3f149285f1dd74259063bc88b5209e",
       "text": "Immanuel Iheanacho was measured as a 14-year-old freshman at 6 ft 6 in (1.98 m) and 325 lb (147 kg), with a 7 ft (2.1 m) wingspan",
-      "tags": [],
+      "tags": [
+        "sports",
+        "biology",
+        "human body",
+        "american football",
+        "personal stories",
+        "physical attributes",
+        "american football players",
+        "youth sports",
+        "human anatomy",
+        "athletic development"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9074,6 +9736,11 @@
           "url": "https://en.wikipedia.org/wiki/Immanuel_Iheanacho",
           "title": "Immanuel Iheanacho",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Arm_span",
+          "title": "Arm span",
+          "source": "Wikipedia"
         }
       ]
     },
@@ -9081,7 +9748,18 @@
       "id": "dyk_2026_Feb_e26815f1ec1f",
       "hash": "cebec7670d3bd843c970eb82c5e2350cbc0a3570b7c565ca25f22402cf8a0b88",
       "text": "In 1956 a person dressed as the anthropomorphic hedgehog and comic star Mecki traveled by helicopter to more than 100 cities in southern Germany to give children gifts",
-      "tags": [],
+      "tags": [
+        "germany",
+        "comics",
+        "history",
+        "advertising",
+        "culture",
+        "german history",
+        "children's culture",
+        "comic characters",
+        "marketing stunts",
+        "1950s"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9101,7 +9779,18 @@
       "id": "dyk_2026_Feb_a22e81edf9f8",
       "hash": "b8ec69a07c7906e3b6bda788c7e1c0a4f04551339937bc71466c95e94bae5e4e",
       "text": "The College of William & Mary was established by royal charter 333 years ago today",
-      "tags": [],
+      "tags": [
+        "education",
+        "history",
+        "universities",
+        "united states",
+        "virginia",
+        "college of william and mary",
+        "royal charters",
+        "colonial history",
+        "higher education",
+        "virginia history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9126,7 +9815,18 @@
       "id": "dyk_2026_Feb_39c823312ed5",
       "hash": "e6b4a8fad05c2d2a2dedc01695bcd500120bcc2e5cd5353f40fc5678e313513b",
       "text": "Richard Lee Morton became the head of the College of William & Mary's history department after two years of teaching",
-      "tags": [],
+      "tags": [
+        "education",
+        "history",
+        "biography",
+        "universities",
+        "academia",
+        "college of william and mary",
+        "history departments",
+        "academic careers",
+        "american historians",
+        "virginia universities"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9146,7 +9846,18 @@
       "id": "dyk_2026_Feb_6d735dc974bb",
       "hash": "f849f5de6fd6ba401149d752b9e4bca85c515828bbf5ef666c07c0f206295af0",
       "text": "Chandler Court and Pollard Park, which were designed and occupied by William & Mary faculty, have been called \"two of Williamsburg 's most appealing twentieth-century neighborhoods\"",
-      "tags": [],
+      "tags": [
+        "architecture",
+        "urban planning",
+        "history",
+        "united states",
+        "virginia",
+        "williamsburg virginia",
+        "neighborhood design",
+        "20th century architecture",
+        "college towns",
+        "historical preservation"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9171,7 +9882,18 @@
       "id": "dyk_2026_Feb_7219dad72169",
       "hash": "59c031b63868ffa0d8e6a450f30ddd707139e23453fc6cc3a198dbc5f4edacc1",
       "text": "Denver Mills, the first underclassman to be captain of the William & Mary football team, also played in the army and a single NFL game",
-      "tags": [],
+      "tags": [
+        "sports",
+        "military",
+        "biography",
+        "american football",
+        "universities",
+        "college football",
+        "nfl players",
+        "army service",
+        "william and mary",
+        "american sports history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9196,7 +9918,18 @@
       "id": "dyk_2026_Feb_ff1c409cd9c4",
       "hash": "6e7153500ae57381df9dbd277d8329021ebe37985b81988318ba648f66dc3506",
       "text": "William & Mary's president was unable to get the college to fund the William and Mary Quarterly, so he paid for it himself",
-      "tags": [],
+      "tags": [
+        "education",
+        "history",
+        "publishing",
+        "universities",
+        "funding",
+        "college of william and mary",
+        "academic publishing",
+        "university administration",
+        "historical journals",
+        "virginia history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9216,7 +9949,18 @@
       "id": "dyk_2026_Feb_72dd2cb4391d",
       "hash": "1f8020c24e3d105360b56eb6a2dc34b307f08a851582025685755db68366fc7b",
       "text": "Orlando Jones, the maternal grandfather of Martha Washington, was one of William & Mary's first students",
-      "tags": [],
+      "tags": [
+        "history",
+        "biography",
+        "education",
+        "american revolution",
+        "united states",
+        "colonial america",
+        "william and mary",
+        "martha washington",
+        "american history",
+        "founding fathers"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9241,7 +9985,18 @@
       "id": "dyk_2026_Feb_e2b7de22b4bd",
       "hash": "cb2ee006efbb3f2e088dd9d1cbdea494180d92a916b963f8dc69d69e4bf37707",
       "text": "Five speeches by William & Mary students helped to move Virginia's capital and establish Williamsburg",
-      "tags": [],
+      "tags": [
+        "history",
+        "politics",
+        "education",
+        "virginia",
+        "colonial america",
+        "college of william and mary",
+        "virginia history",
+        "colonial government",
+        "williamsburg",
+        "american history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9261,7 +10016,18 @@
       "id": "dyk_2026_Feb_4037c0bb7767",
       "hash": "f3c7e7e9b0bc39f2688c39d26599aaf1819efd3b4dcb50ad093d5bfe66985c9e",
       "text": "Althea Hunt founded the William & Mary Theatre, but discouraged students from trying to make a career of it",
-      "tags": [],
+      "tags": [
+        "arts",
+        "education",
+        "theater",
+        "universities",
+        "biography",
+        "college of william and mary",
+        "theatre arts",
+        "acting careers",
+        "university programs",
+        "performing arts"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9281,7 +10047,18 @@
       "id": "dyk_2026_Feb_340fa399a124",
       "hash": "d88fb5b1c5e6580b07df3454e2e9738fa8d09645b2c845be6e40288fa60f493f",
       "text": "Thomas Jefferson pushed William & Mary to hire a man with little linguistic ability as its first professor of modern languages",
-      "tags": [],
+      "tags": [
+        "history",
+        "education",
+        "politics",
+        "biography",
+        "universities",
+        "thomas jefferson",
+        "college of william and mary",
+        "language education",
+        "american history",
+        "founding fathers"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9301,10 +10078,21 @@
       "id": "dyk_2026_Feb_98bd80769c65",
       "hash": "bcd65109dd714b3656eb508a488750acea76a0445b4f39f86869ea2d1d4fdce5",
       "text": "Yucatán molly males flare their \"sails\" both to woo and to shoo",
-      "tags": [],
+      "tags": [
+        "biology",
+        "animals",
+        "reproduction",
+        "behavior",
+        "marine life",
+        "fish behavior",
+        "yucatan molly",
+        "animal courtship",
+        "animal aggression",
+        "freshwater fish"
+      ],
       "image": {
-        "url": null,
-        "caption": null
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/PoeciliaVelifera_%28cropped%29.jpg",
+        "caption": "Conservation status"
       },
       "mature": false,
       "source": "dyk",
@@ -9321,7 +10109,18 @@
       "id": "dyk_2026_Feb_13f4491abb2a",
       "hash": "6b5eefef1efa76cf33015e5e1e200d3ec749051758a912bc47e1f04955fb3054",
       "text": "Wales's first Commonwealth Games medallist in shooting walked off the podium when the wrong national anthem was played",
-      "tags": [],
+      "tags": [
+        "sports",
+        "politics",
+        "culture",
+        "united kingdom",
+        "olympics",
+        "commonwealth games",
+        "shooting sports",
+        "national anthems",
+        "welsh culture",
+        "british sports"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9341,7 +10140,18 @@
       "id": "dyk_2026_Feb_c70cc89e0cea",
       "hash": "8d7d0f810fcf4bf9583f64e94887d9d768404f5c5d859cfb799d815ca07e780b",
       "text": "The writer of the visual novel SeaBed based it on a comic that he drew in his spare time at work",
-      "tags": [],
+      "tags": [
+        "entertainment",
+        "literature",
+        "video games",
+        "creativity",
+        "japan",
+        "visual novels",
+        "japanese games",
+        "independent creators",
+        "comic art",
+        "game development"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9361,7 +10171,18 @@
       "id": "dyk_2026_Feb_fcf946353e86",
       "hash": "dbde31372d0cbea5d3237a9da5c495936b7ff4d234ba593079cbaf8c1607e0ec",
       "text": "Whispering Woods, the second novel set in the universe of Magic: The Gathering, was later declared non-canonical",
-      "tags": [],
+      "tags": [
+        "fantasy",
+        "literature",
+        "gaming",
+        "publishing",
+        "world building",
+        "magic the gathering",
+        "fantasy novels",
+        "lore",
+        "canonical stories",
+        "card games"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9381,7 +10202,18 @@
       "id": "dyk_2026_Feb_2bf2106bd6ba",
       "hash": "5b7e2dcb6ce1b3a5b16f487f80cbd319807b2dc384f42a0c18b5ed0a0d63d388",
       "text": "Olympian Nam Singh Thapa said his boxing career began when he was arrested and forced to compete in a match",
-      "tags": [],
+      "tags": [
+        "sports",
+        "biography",
+        "crime",
+        "asia",
+        "olympics",
+        "olympic sports",
+        "boxing",
+        "involuntary participation",
+        "nepal",
+        "combat sports"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9401,7 +10233,18 @@
       "id": "dyk_2026_Feb_096b4c3c1225",
       "hash": "2a9f6dbbd2397c527fe0eb93cce9b63e4156e2f199a1ca680b3874e1680c590e",
       "text": "The original occupant of the Farnsworth House likened her experience there to that of a caged animal",
-      "tags": [],
+      "tags": [
+        "architecture",
+        "design",
+        "biography",
+        "lifestyle",
+        "modern art",
+        "farnsworth house",
+        "modern architecture",
+        "mid-century modern",
+        "architectural critics",
+        "design history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9421,7 +10264,18 @@
       "id": "dyk_2026_Feb_4f271afefb05",
       "hash": "05aeb1653d20bc68a443176fdccfe764c0793767318883bc85ebb2c16dc78170",
       "text": "In 2002, Sarah Baxendale broke the Guinness World Record for the longest kiss featured on screen",
-      "tags": [],
+      "tags": [
+        "entertainment",
+        "film",
+        "records",
+        "pop culture",
+        "romance",
+        "guinness world records",
+        "romantic films",
+        "acting",
+        "on screen kisses",
+        "movie trivia"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9441,7 +10295,18 @@
       "id": "dyk_2026_Feb_daf06e5302c5",
       "hash": "19bb8458de9c0330c1f78eaf8d0251ce71c52048ceab37602869d8d105750712",
       "text": "16 years ago, a man in Ireland slipped on some ice",
-      "tags": [],
+      "tags": [
+        "humor",
+        "internet culture",
+        "ireland",
+        "anecdotes",
+        "viral stories",
+        "internet memes",
+        "ireland culture",
+        "everyday life",
+        "accidental events",
+        "local news"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9461,7 +10326,18 @@
       "id": "dyk_2026_Feb_482256e2897d",
       "hash": "57c5e403556298555251f174bdc2a9145742babe37d39ce91fe7aadded188b3b",
       "text": "A photograph of an airplane propeller taken by a camera with a rolling shutter may distort the propeller into curves resembling the quadratrix of Hippias",
-      "tags": [],
+      "tags": [
+        "physics",
+        "photography",
+        "technology",
+        "mathematics",
+        "visual arts",
+        "rolling shutter",
+        "camera effects",
+        "airplane propellers",
+        "geometry",
+        "optical illusions"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9486,7 +10362,18 @@
       "id": "dyk_2026_Feb_6a085911cad4",
       "hash": "2dab72a4142fdaf0a3a15c12a5b6c1fab96aff5bf5227b37115eaf48f6eee07e",
       "text": "The remains of at least 970 people were discovered at the former Kilkenny Union Workhouse",
-      "tags": [],
+      "tags": [
+        "history",
+        "ireland",
+        "social issues",
+        "archaeology",
+        "human rights",
+        "irish history",
+        "workhouses",
+        "mass graves",
+        "poverty",
+        "social welfare history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9506,7 +10393,18 @@
       "id": "dyk_2026_Feb_9c7c913976d6",
       "hash": "3797ffe283a45afbc54c4495d0e926d8041428655e85714c496032e11bdb4dc0",
       "text": "17-year-old video game developers Andy Gavin and Jason Rubin obtained a contract with Electronic Arts by cold-calling them and sending them a copy of Dream Zone",
-      "tags": [],
+      "tags": [
+        "video games",
+        "business",
+        "entrepreneurship",
+        "technology",
+        "entertainment",
+        "electronic arts",
+        "game development",
+        "cold calling",
+        "business deals",
+        "video game history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9526,6 +10424,16 @@
           "source": "Wikipedia"
         },
         {
+          "url": "https://en.wikipedia.org/wiki/Electronic_Arts",
+          "title": "Electronic Arts",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cold_calling",
+          "title": "Cold calling",
+          "source": "Wikipedia"
+        },
+        {
           "url": "https://en.wikipedia.org/wiki/Dream_Zone",
           "title": "Dream Zone",
           "source": "Wikipedia"
@@ -9536,7 +10444,18 @@
       "id": "dyk_2026_Feb_ee59b7d8b001",
       "hash": "a87e8f9069451c0459ca7954f46870ddf78197d7c718d26d5cd0c7eb6349b871",
       "text": "A baby elephant that starred in The Ark was kept in a van outside the director's home the night before filming",
-      "tags": [],
+      "tags": [
+        "animals",
+        "film",
+        "entertainment",
+        "behind the scenes",
+        "animal welfare",
+        "baby elephants",
+        "doctor who",
+        "film production",
+        "animal actors",
+        "television history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9556,7 +10475,18 @@
       "id": "dyk_2026_Feb_29745dc24b1a",
       "hash": "1f3612b3b08b8bd3d38c848ee686beafa69a8abb7c1672d19bcc8e0e4243e2fc",
       "text": "Welsh-language activist Joseff Gnagbo came to Wales as a refugee from Ivory Coast",
-      "tags": [],
+      "tags": [
+        "politics",
+        "culture",
+        "linguistics",
+        "human rights",
+        "africa",
+        "welsh language",
+        "language activism",
+        "refugees",
+        "ivory coast",
+        "cultural preservation"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9576,7 +10506,18 @@
       "id": "dyk_2026_Feb_514db354271a",
       "hash": "b8eda12b3aade777e87cb5b89675138ba68f4f8611f8fda220af7930cb9d99dc",
       "text": "The Fadettes of Boston was named after the titular character of George Sand 's novel La Petite Fadette",
-      "tags": [],
+      "tags": [
+        "music",
+        "literature",
+        "performing arts",
+        "womens history",
+        "boston",
+        "classical music",
+        "george sand",
+        "19th century novel",
+        "french literature",
+        "boston history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9606,7 +10547,18 @@
       "id": "dyk_2026_Feb_348ea5ed13ac",
       "hash": "d0f5ced2b91115a7bc1734a58dc526bd76fb664a8cf1c81af47446da0e6a72cf",
       "text": "Zoologist Evelyn Shaw also worked in the catering industry alongside her husband",
-      "tags": [],
+      "tags": [
+        "science",
+        "biology",
+        "zoology",
+        "women in science",
+        "food industry",
+        "evelyn shaw",
+        "marine biology",
+        "catering business",
+        "20th century science",
+        "women entrepreneurs"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9626,7 +10578,18 @@
       "id": "dyk_2026_Feb_156f1cb88d83",
       "hash": "29c3d5984fff6790a231f5ad4e9f4b2e12f9bf120db7f825396c752174eed841",
       "text": "The Atlanta Central Library, Marcel Breuer 's last completed design, was nearly demolished less than three decades after completion",
-      "tags": [],
+      "tags": [
+        "architecture",
+        "design",
+        "history",
+        "urban planning",
+        "libraries",
+        "marcel breuer",
+        "modernist architecture",
+        "atlanta history",
+        "library science",
+        "building preservation"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9651,7 +10614,18 @@
       "id": "dyk_2026_Feb_c78cd8544be9",
       "hash": "71c4f4087f5e925029ec6b91c24c3ef41bf6f739c87861c33c69b323ceff5003",
       "text": "An Alabama TV station deemed \" The Puppy Episode \" unsuitable for family viewing",
-      "tags": [],
+      "tags": [
+        "television",
+        "media",
+        "censorship",
+        "culture",
+        "united states",
+        "tv history",
+        "alabama",
+        "1990s",
+        "broadcasting standards",
+        "social issues"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9676,7 +10650,18 @@
       "id": "dyk_2026_Feb_330b2b370757",
       "hash": "47a3cc22745d991a11b09f873d41ee0fc7f670ae167a48ee30c16f1bd5caf7ab",
       "text": "The Oceanic Steamship Company beat a rival company in a trans-Pacific race, bought the rival's ships, and added them to its own fleet",
-      "tags": [],
+      "tags": [
+        "history",
+        "business",
+        "maritime",
+        "transportation",
+        "competition",
+        "oceanic steamship company",
+        "shipping industry",
+        "trans-pacific travel",
+        "corporate strategy",
+        "19th century business"
+      ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Oceanic_Steamship_Company_ad_1889.jpg",
         "caption": "Industry Shipping, transportation"
@@ -9701,7 +10686,18 @@
       "id": "dyk_2026_Feb_9ffa89613367",
       "hash": "03b0a4353f952eedaed4fd2cb6d195c88f085207e6ca5b646bcbc0dc4ccce4f3",
       "text": "The play Sagittarius Ponderosa by MJ Kaufman recreates the scent of a tree as part of the performance",
-      "tags": [],
+      "tags": [
+        "theater",
+        "performing arts",
+        "literature",
+        "sensory experience",
+        "contemporary art",
+        "mj kaufman",
+        "sagittarius ponderosa",
+        "immersive theater",
+        "stage play",
+        "scent design"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9726,7 +10722,18 @@
       "id": "dyk_2026_Feb_c0d2c744e385",
       "hash": "ab0c3561e26c5ac47f79e1f093508953d1ecb6aaf6401194ba498f7756804ae4",
       "text": "There were no sex acts in Thea Ehre 's nude performance at the 2021 Porn Film Festival Vienna",
-      "tags": [],
+      "tags": [
+        "film",
+        "performance art",
+        "sexuality",
+        "festivals",
+        "vienna",
+        "thea ehre",
+        "porn film festival vienna",
+        "artistic nudity",
+        "experimental film",
+        "european cinema"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9751,7 +10758,18 @@
       "id": "dyk_2026_Feb_48ff69d7f576",
       "hash": "09ba9e45fc3bc4e6eaa4ae394f8db46e0dfd11267500cfe400e198b29d97bdda",
       "text": "Gerta Hüttl-Folter became interested in Russian culture after staying with Maria Razumovsky 's family while homeless",
-      "tags": [],
+      "tags": [
+        "biography",
+        "culture",
+        "europe",
+        "social issues",
+        "personal stories",
+        "gerta huttl-folter",
+        "maria razumovsky",
+        "russian culture",
+        "austrian history",
+        "homelessness experience"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9776,7 +10794,18 @@
       "id": "dyk_2026_Feb_530e4b577d96",
       "hash": "5d1ec82eeb494677e0154c0941b124c305be86e57b2beeebdc054c8025e63e3a",
       "text": "The author of Five Bullets was unaware for a year that Fear and Fury was also being written about the same 1984 shooting, and for the same publishing house",
-      "tags": [],
+      "tags": [
+        "literature",
+        "true crime",
+        "publishing",
+        "journalism",
+        "1980s",
+        "five bullets novel",
+        "fear and fury book",
+        "1984 shooting",
+        "literary coincidence",
+        "publishing industry"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9801,7 +10830,18 @@
       "id": "dyk_2026_Feb_01af4b125f0a",
       "hash": "6fe885c20414f00dfb3d7cc7b9aa335686f3bbf4df8fe771b4edd8328a6e99ca",
       "text": "A church in Colorado merged with another congregation, was sold, became a nightclub, and then was bought by an offshoot of the merged congregation",
-      "tags": [],
+      "tags": [
+        "religion",
+        "history",
+        "social change",
+        "architecture",
+        "colorado",
+        "church history",
+        "christianity",
+        "nightclub conversion",
+        "property development",
+        "colorado springs"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9826,7 +10866,18 @@
       "id": "dyk_2026_Feb_fd4ce9d41426",
       "hash": "8c9b82e3258b416c5c7ca3bd5794cf89bcf9327e676e3fba3b916f9aec4a5f52",
       "text": "Volumes of one writer's journalism were variously described as \" prattling pieces \", delivering \" a snigger a minute \", and having a \" soufflé touch \"",
-      "tags": [],
+      "tags": [
+        "literature",
+        "journalism",
+        "criticism",
+        "english language",
+        "writing",
+        "literary criticism",
+        "english literature",
+        "writing style",
+        "prattling pieces",
+        "journalistic writing"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9856,7 +10907,18 @@
       "id": "dyk_2026_Feb_095aacffebe0",
       "hash": "8ab015bc6b2a74bfabb936f8fe96dca03b70b6bbc2ad90b8c482288cc43bb773",
       "text": "American football player Taco Dowler is the twin of a football player who was called \"Burrito\"",
-      "tags": [],
+      "tags": [
+        "sports",
+        "american football",
+        "pop culture",
+        "names",
+        "humor",
+        "taco dowler",
+        "cason dowler",
+        "football players",
+        "nicknames",
+        "sports trivia"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9881,7 +10943,18 @@
       "id": "dyk_2026_Feb_77ca7987f761",
       "hash": "2e62959edee59253718f29e9160b389ae8d32640d37894afaa7a46fb7980ac62",
       "text": "The cover artworks for Metallica's Load and Reload were created by mixing blood with semen and urine, respectively",
-      "tags": [],
+      "tags": [
+        "music",
+        "art",
+        "heavy metal",
+        "controversial art",
+        "1990s",
+        "metallica band",
+        "album covers",
+        "load album",
+        "reload album",
+        "body fluids art"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9906,7 +10979,18 @@
       "id": "dyk_2026_Feb_4a812c14b573",
       "hash": "e5338a41ed156096931cf0e5aa964893db5349e9affe66c57671ab9f2563a849",
       "text": "Nemiah Wilson ran a tailoring business while playing in the NFL",
-      "tags": [],
+      "tags": [
+        "sports",
+        "business",
+        "american football",
+        "biography",
+        "entrepreneurship",
+        "nemiah wilson",
+        "nfl player",
+        "tailoring business",
+        "athlete life",
+        "dual career"
+      ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Nemiah_Wilson_in_college_circa_1965.jpg",
         "caption": "No. 45"
@@ -9926,7 +11010,18 @@
       "id": "dyk_2026_Feb_75f1b2506994",
       "hash": "4ca7bbe2d9025dcbf1bbe85adc40ef5ac0f4c6a7ef0a4be25527d8329c0c0562",
       "text": "Yun Jin 's appearance in Genshin Impact draws inspiration from legendary Chinese figures like Hua Mulan",
-      "tags": [],
+      "tags": [
+        "video games",
+        "culture",
+        "mythology",
+        "character design",
+        "china",
+        "genshin impact",
+        "yun jin",
+        "chinese folklore",
+        "hua mulan",
+        "game art"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9956,7 +11051,18 @@
       "id": "dyk_2026_Feb_a120914eb080",
       "hash": "acc1f66684edde63d3c14977a7126f71a9567d35f67e30ea0f4f453ef8124cc9",
       "text": "Donald Rumsfeld helped develop a mobile game",
-      "tags": [],
+      "tags": [
+        "politics",
+        "history",
+        "video games",
+        "biography",
+        "united states",
+        "donald rumsfeld",
+        "mobile gaming",
+        "churchill solitaire",
+        "political figures",
+        "game development"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -9981,7 +11087,18 @@
       "id": "dyk_2026_Feb_ae52b74809ba",
       "hash": "934a20b9217d6e4084cc8e30d09eca0f6c819a43327fe64a8a9c4b369d27530e",
       "text": "Gennady Trifonov was one of the few Soviet dissidents who argued for gay rights",
-      "tags": [],
+      "tags": [
+        "history",
+        "politics",
+        "lgbtq rights",
+        "human rights",
+        "soviet union",
+        "gennady trifonov",
+        "soviet dissidents",
+        "gay rights movement",
+        "cold war history",
+        "russian activism"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10001,7 +11118,18 @@
       "id": "dyk_2026_Feb_d88280352d24",
       "hash": "116ea18a1b8145072e9afcf60f00fdf438a7ceb82c869ebfa0dfd107cff89073",
       "text": "Christian missionaries in China translated and published an inflammatory anti-Christian treatise",
-      "tags": [],
+      "tags": [
+        "religion",
+        "history",
+        "china",
+        "missionary work",
+        "colonialism",
+        "christian missions",
+        "anti-christian texts",
+        "chinese history",
+        "cultural exchange",
+        "religious conflict"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10021,7 +11149,18 @@
       "id": "dyk_2026_Feb_6428c29993d6",
       "hash": "de5619c28a93184220e75490cc8f909e0ea2d42d68d6ced99e23e6f8ed2d1a9a",
       "text": "A judge acquitted Ben Obumselu of manslaughter due to his \"promise as a scholar\"",
-      "tags": [],
+      "tags": [
+        "law",
+        "crime",
+        "education",
+        "nigeria",
+        "social justice",
+        "ben obumselu",
+        "legal cases",
+        "manslaughter acquittal",
+        "academic promise",
+        "nigerian history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10041,7 +11180,18 @@
       "id": "dyk_2026_Feb_5e5b23f86fab",
       "hash": "cdb54064730b540459e29ced2ac2be784837faff6b6a951867805c3dbe42fe05",
       "text": "The MPLA launched the Democratic Front for the Liberation of Angola in 1963 hoping to secure support from the Organisation of African Unity, but the move had the opposite effect",
-      "tags": [],
+      "tags": [
+        "history",
+        "politics",
+        "africa",
+        "liberation movements",
+        "cold war",
+        "mpla",
+        "angolan civil war",
+        "organisation of african unity",
+        "african politics",
+        "1960s history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10071,7 +11221,18 @@
       "id": "dyk_2026_Feb_4e010a8a64c2",
       "hash": "811b6c6252aaa7e032d9d50d9eb856ebfda6971acead50a3f500c434a07eed58",
       "text": "Alberto Giacometti chose the dying photographer Eli Lotar as the subject of his last sculptures, but himself died before finishing them",
-      "tags": [],
+      "tags": [
+        "art",
+        "sculpture",
+        "photography",
+        "biography",
+        "20th century art",
+        "alberto giacometti",
+        "eli lotar",
+        "modern art",
+        "unfinished works",
+        "artist muse"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10096,7 +11257,18 @@
       "id": "dyk_2026_Feb_5728ad23bbe6",
       "hash": "9329b986e8ee547dbb837ab452ff1023ca7c7cfa02311dd3b93c46d58d105eb5",
       "text": "Cyril Karabus was convicted of manslaughter and forgery in 2004, a verdict he learned of only eight years later",
-      "tags": [],
+      "tags": [
+        "law",
+        "crime",
+        "medicine",
+        "south africa",
+        "international relations",
+        "cyril karabus",
+        "medical malpractice",
+        "manslaughter conviction",
+        "legal delays",
+        "south african law"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10116,7 +11288,18 @@
       "id": "dyk_2026_Feb_005848807485",
       "hash": "2a8359f7696024e43de15f1d86d4a539bcbb3e5bddb5654c0e400da31db2adaa",
       "text": "A 17th-century painting may depict the emperor Jahangir listening as a portrait of his dead father speaks to him",
-      "tags": [],
+      "tags": [
+        "art history",
+        "mughal empire",
+        "painting",
+        "royalty",
+        "mythology",
+        "mughal art",
+        "jahangir emperor",
+        "indian art",
+        "portraiture",
+        "17th century art"
+      ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/15_Abu%27l_Hasan%2C_Jahangir_with_a_Potrait_of_Akbar._1614%D0%B3_Musee_Guimet%2C_Paris_-_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
         "caption": "Artist Hashim, Abu'l-Hasan"
@@ -10136,7 +11319,18 @@
       "id": "dyk_2026_Feb_7d703968f6a1",
       "hash": "8b3260ec37f5f28461349709ad1da04c994b58da4f71d5813da086deeef450c6",
       "text": "Achmad Soebardjo said that he adopted a surname after hearing a voice while urinating in prison",
-      "tags": [],
+      "tags": [
+        "biography",
+        "indonesia",
+        "culture",
+        "personal stories",
+        "history",
+        "achmad soebardjo",
+        "indonesian history",
+        "prison life",
+        "name origins",
+        "cultural beliefs"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10156,7 +11350,18 @@
       "id": "dyk_2026_Feb_9c8249dccfa6",
       "hash": "0d83b020da153c2294678ee2fbae0b2888397a25ec4f88ae4d937c4a0c7d669d",
       "text": "Munich's \" Shirker's Alley \" got its nickname in the 1930s because people used it to avoid giving the Hitler salute at a nearby Nazi memorial",
-      "tags": [],
+      "tags": [
+        "history",
+        "world war 2",
+        "germany",
+        "social resistance",
+        "urban history",
+        "shirkers alley",
+        "munich history",
+        "nazi germany",
+        "hitler salute",
+        "anti-nazi resistance"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10176,7 +11381,18 @@
       "id": "dyk_2026_Feb_11455efc4193",
       "hash": "145809e51d8bc5d1e9c6c8988a4473dd471450edb4116f3e781d4162d5a02834",
       "text": "Creation of wethers, castrated male sheep or goats, is recorded as far back as the Minoan civilization in the Bronze Age",
-      "tags": [],
+      "tags": [
+        "history",
+        "agriculture",
+        "ancient history",
+        "biology",
+        "animals",
+        "wether animals",
+        "minoan civilization",
+        "bronze age",
+        "animal husbandry",
+        "livestock management"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10196,7 +11412,18 @@
       "id": "dyk_2026_Feb_e7eca4a806f5",
       "hash": "372f21560bd0d5cd145954d46d8ea6e75c32d5796816338afed4d987f7983f0c",
       "text": "Allison Lanier traveled between New York and Los Angeles to film for her regular role on The Young and the Restless",
-      "tags": [],
+      "tags": [
+        "television",
+        "acting",
+        "entertainment",
+        "travel",
+        "soap opera",
+        "allison lanier",
+        "the young and the restless",
+        "tv production",
+        "acting career",
+        "long distance travel"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10216,7 +11443,18 @@
       "id": "dyk_2026_Feb_ac1ecd7fde20",
       "hash": "768fa7948ce5617df178a491b0e16fced759a914581185f74b339c6661dc0674",
       "text": "The writer of How to Survive from Nine to Five and Between the Covers was inspired by her 27 office jobs and her visit to a strip club, respectively",
-      "tags": [],
+      "tags": [
+        "literature",
+        "writing",
+        "workplace",
+        "culture",
+        "social issues",
+        "authors",
+        "book industry",
+        "office jobs",
+        "strip clubs",
+        "inspiration"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10241,7 +11479,18 @@
       "id": "dyk_2026_Feb_ccf6d5ea32bf",
       "hash": "4a641f2b3a2a1fbced2cd8b95ab932b0e5b00f326ecc594525a35ceb976b5d64",
       "text": "The baritone Jubilant Sykes, active in spirituals, gospel and funk, recorded the role of the Celebrant in Leonard Bernstein's Grammy-nominated Mass",
-      "tags": [],
+      "tags": [
+        "music",
+        "performing arts",
+        "religion",
+        "biography",
+        "classical music",
+        "jubilant sykes",
+        "leonard bernstein mass",
+        "spirituals music",
+        "gospel music",
+        "funk music"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10261,7 +11510,18 @@
       "id": "dyk_2026_Feb_f88b6f2491ea",
       "hash": "8c3794e714c59fe3d334875048cf94ce4f9a26087b3a68d5816633236c59a3a7",
       "text": "Fluminense FM used to broadcast horse races before becoming \"the gateway to Brazilian rock in the 80s\"",
-      "tags": [],
+      "tags": [
+        "music",
+        "radio",
+        "brazil",
+        "history",
+        "broadcasting",
+        "fluminense fm",
+        "brazilian rock",
+        "radio history",
+        "horse racing",
+        "1980s music"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10281,7 +11541,18 @@
       "id": "dyk_2026_Feb_6c3af1249bf9",
       "hash": "e4c350be9a1f9182835acfeb27b52b6aada2c729106153d1287071f3eac6a594",
       "text": "Cuba's Girardinus fish may have evolved into different species because the island's rivers are often interrupted by waterfalls or vanish underground",
-      "tags": [],
+      "tags": [
+        "biology",
+        "evolution",
+        "cuba",
+        "fish",
+        "geography",
+        "girardinus fish",
+        "cuban wildlife",
+        "speciation",
+        "river ecosystems",
+        "island biogeography"
+      ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Girardinus_metallicus_%28metal_girardinus%29_%28cropped%29.jpg",
         "caption": "G. metallicus"
@@ -10301,7 +11572,18 @@
       "id": "dyk_2026_Feb_dd917b82fd04",
       "hash": "5d619fa224bbdba94ee37d9e5dbbc2b0fd3ded85f48e17896861ac9fe95d0165",
       "text": "Tinashe's 333 and Wishy's Triple Seven are both named for angel numbers",
-      "tags": [],
+      "tags": [
+        "music",
+        "pop culture",
+        "spirituality",
+        "numerology",
+        "albums",
+        "tinashe music",
+        "wishy music",
+        "333 album",
+        "triple seven album",
+        "angel numbers"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10326,7 +11608,18 @@
       "id": "dyk_2026_Feb_e5b41e4460ce",
       "hash": "2ade2d0c398b9a6bb82aa82bd811c5e397e24592c413f42963a9ebc7fc5e5308",
       "text": "Slipper lamps produced in the Umayyad era sometimes carried bilingual inscriptions with \"The Light of Christ \" in Greek, alongside \"God\" ( Allah ) in Arabic",
-      "tags": [],
+      "tags": [
+        "history",
+        "art",
+        "religion",
+        "middle east",
+        "archaeology",
+        "slipper lamp",
+        "umayyad caliphate",
+        "christianity",
+        "islam",
+        "byzantine art"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10344,6 +11637,16 @@
           "url": "https://en.wikipedia.org/wiki/Umayyad_Caliphate",
           "title": "Umayyad Caliphate",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Light_of_Christ",
+          "title": "Light of Christ",
+          "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Allah",
+          "title": "Allah",
+          "source": "Wikipedia"
         }
       ]
     },
@@ -10351,7 +11654,18 @@
       "id": "dyk_2026_Feb_bf280a678a39",
       "hash": "5648bda086b55f97e71be689982aecaceea7a2fa2be3695f64c9c5794344d668",
       "text": "Anahit Ananyan was credited with starting Armenia's tomato heritage",
-      "tags": [],
+      "tags": [
+        "history",
+        "agriculture",
+        "armenia",
+        "food culture",
+        "biography",
+        "anahit ananyan",
+        "armenian history",
+        "tomato cultivation",
+        "agricultural development",
+        "food heritage"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10371,7 +11685,18 @@
       "id": "dyk_2026_Feb_a0d9d28bfe9d",
       "hash": "c18f4551bdefb4607e31b05c778d3525ff6dcfa21198dd383b4a3d5a26552184",
       "text": "The relocation of a Mexico City monument resulted in the water-level indicators on its pedestal losing their original geographic alignment",
-      "tags": [],
+      "tags": [
+        "history",
+        "urban planning",
+        "mexico city",
+        "monuments",
+        "engineering",
+        "mexico city history",
+        "monument relocation",
+        "geographic alignment",
+        "urban development",
+        "public art"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10391,7 +11716,18 @@
       "id": "dyk_2026_Feb_822844751473",
       "hash": "5f061c1a262c4b89cc6a8d12370b1d283c2521a0abb0d6cf48204984baabccc9",
       "text": "A pre-order ticket campaign for Rhapsody in August saw ¥300 of the ¥1,300 ticket price go to the assistance of birds affected by the Gulf War",
-      "tags": [],
+      "tags": [
+        "film",
+        "activism",
+        "environment",
+        "japan",
+        "gulf war",
+        "rhapsody in august",
+        "anti-war film",
+        "bird conservation",
+        "gulf war impact",
+        "japanese cinema"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10416,7 +11752,18 @@
       "id": "dyk_2026_Feb_6d99f271d5d9",
       "hash": "8a1d9c65c02555c63fa2a5d5da30572290f0c0cc1531b53fe510ac46340bd08f",
       "text": "Allan Ludwig has been described as the \"founding father\" of gravestone studies",
-      "tags": [],
+      "tags": [
+        "history",
+        "art",
+        "archaeology",
+        "biography",
+        "death",
+        "allan ludwig",
+        "gravestone studies",
+        "funerary art",
+        "historical research",
+        "cultural history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10436,7 +11783,18 @@
       "id": "dyk_2026_Feb_6b91444694a6",
       "hash": "a7fc6dc55a421254b426ebbca006acf4b539140c6f6fb97bac12bf017bb19485",
       "text": "During the 1939 Abbeville Conference, the first meeting of the Anglo-French Supreme War Council, the parties agreed not to launch large-scale operations against Germany",
-      "tags": [],
+      "tags": [
+        "history",
+        "world war 2",
+        "politics",
+        "military strategy",
+        "france",
+        "abbeville conference",
+        "anglo-french war council",
+        "pre-war diplomacy",
+        "european history",
+        "1939 events"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10461,7 +11819,18 @@
       "id": "dyk_2026_Feb_7154609ca98f",
       "hash": "381f8cb41bdad7c37b0f1e0630c85b4bfb13b14e95f2c30de0e502ca01e9a748",
       "text": "Haruka No. 2 plays two recorders using her nose, one with each nostril",
-      "tags": [],
+      "tags": [
+        "music",
+        "performance",
+        "talent",
+        "japan",
+        "unique skills",
+        "haruka no 2",
+        "recorder playing",
+        "unusual talents",
+        "musical performance",
+        "japanese culture"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10486,7 +11855,18 @@
       "id": "dyk_2026_Feb_8e27b0c42cac",
       "hash": "ebbe2effb2115fe370ccb1731663f9515fcb0b7f2f6f0a3e9ecddba05169609d",
       "text": "Veronika the cow can scratch herself using brooms (depicted)",
-      "tags": [],
+      "tags": [
+        "animals",
+        "behavior",
+        "farm life",
+        "animal intelligence",
+        "rural",
+        "veronika cow",
+        "animal behavior",
+        "self-grooming",
+        "farm animals",
+        "animal tools"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10506,7 +11886,18 @@
       "id": "dyk_2026_Feb_cb5f7b1a5bbf",
       "hash": "5cb41c72e4b34b43c413c540231b67ddb8fcce5b2a8d134d6dede700cd12facc",
       "text": "A popular series interviews celebrities without an interviewer",
-      "tags": [],
+      "tags": [
+        "entertainment",
+        "media",
+        "celebrity",
+        "pop culture",
+        "internet",
+        "web series",
+        "interviews",
+        "youtube",
+        "talk show",
+        "digital media"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10526,7 +11917,18 @@
       "id": "dyk_2026_Feb_2642323b2ee5",
       "hash": "5068edbadb24e745263a87bcc3211835cce680940f8aebfa38eb5ddb02752a71",
       "text": "A Mexican vice admiral who exposed radioactive milk imports was accused of treason and sent to the Revillagigedo Islands",
-      "tags": [],
+      "tags": [
+        "mexico",
+        "history",
+        "government",
+        "health",
+        "crime",
+        "mexican navy",
+        "nuclear waste",
+        "corruption",
+        "island prison",
+        "1980s history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10546,7 +11948,18 @@
       "id": "dyk_2026_Feb_5fc8e29d77b5",
       "hash": "6d192e85e3dbdde6e9005f3ed72431094fa1932ff68e49ff476be61754937c54",
       "text": "\" King Scum \" escaped from prison by pretending to be a solicitor",
-      "tags": [],
+      "tags": [
+        "crime",
+        "law",
+        "prison",
+        "ireland",
+        "biography",
+        "prison escape",
+        "fraud",
+        "criminal justice",
+        "irish crime",
+        "true crime"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10566,7 +11979,18 @@
       "id": "dyk_2026_Feb_8cc168e224dd",
       "hash": "41ae62c057d94665182f2c6db971714bd28a1ae17dbfdd831d4085ad53cc0adb",
       "text": "A psychiatrist expressed concern about a patient's paranoia to a colleague the day before the patient killed him",
-      "tags": [],
+      "tags": [
+        "true crime",
+        "psychology",
+        "mental health",
+        "medicine",
+        "violence",
+        "psychiatry",
+        "patient care",
+        "murder",
+        "paranoia",
+        "medical ethics"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10586,7 +12010,18 @@
       "id": "dyk_2026_Feb_25c1873ef50e",
       "hash": "c4bb9dcc3b43d0072b8594a7e37773a937761e7dfd7400e372cb52e6cecc5682",
       "text": "Sarah, Lady Holte, owned hundreds of slaves in Barbados, but only ever met one",
-      "tags": [],
+      "tags": [
+        "history",
+        "slavery",
+        "caribbean",
+        "england",
+        "social history",
+        "british history",
+        "barbados",
+        "colonial history",
+        "plantation life",
+        "18th century"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10606,7 +12041,18 @@
       "id": "dyk_2026_Feb_9ab404108202",
       "hash": "c61c9180d8f45e8bb8829f861cb303a9fe6a62b3ff42b2e6a3432b08d5c86d56",
       "text": "The socialist newspaper Radenik was banned after it referred to Jesus as a \"socialist, communist, and revolutionary\"",
-      "tags": [],
+      "tags": [
+        "history",
+        "religion",
+        "politics",
+        "journalism",
+        "censorship",
+        "christianity",
+        "socialism",
+        "communism",
+        "newspaper",
+        "freedom of speech"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10626,7 +12072,18 @@
       "id": "dyk_2026_Feb_85260273a7af",
       "hash": "8a9b6f2808937fca6993660079f9d1e91b470bd42151072936828bd0fb520794",
       "text": "Lorenzo Dow Thompson threw Abraham Lincoln in a wrestling match",
-      "tags": [],
+      "tags": [
+        "history",
+        "sports",
+        "us presidents",
+        "biography",
+        "american history",
+        "abraham lincoln",
+        "wrestling",
+        "19th century",
+        "illinois history",
+        "political figures"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10646,7 +12103,18 @@
       "id": "dyk_2026_Feb_b83c27a1512b",
       "hash": "4f9dc0df3573035090eebf0be4dd89636be0cb2c1584830c7cbf70e33e477b07",
       "text": "A Taxonomy of Office Chairs applies evolutionary classification to furniture",
-      "tags": [],
+      "tags": [
+        "design",
+        "science",
+        "academia",
+        "product design",
+        "evolutionary theory",
+        "furniture",
+        "office furniture",
+        "taxonomy",
+        "classification",
+        "industrial design"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10666,7 +12134,18 @@
       "id": "dyk_2026_Feb_edfe87cc9f20",
       "hash": "3b9c3fb2abcb365a3850f19ef497361d503945c93dbdc1a096505dee926a22d1",
       "text": "The Washington DC Snowball Fight Association was formed when around 2,000 people showed up to a snowball fight organized over Facebook",
-      "tags": [],
+      "tags": [
+        "social media",
+        "culture",
+        "events",
+        "washington dc",
+        "community",
+        "facebook",
+        "snowball fight",
+        "urban events",
+        "internet trends",
+        "public gathering"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10686,7 +12165,18 @@
       "id": "dyk_2026_Feb_2781c4edcb63",
       "hash": "1c682995881632c551e6ea075c62b7904a20c52cda7b84c6edf8ea9d648994c1",
       "text": "Emily Sutton illustrated an abridged children's edition of Shakespeare's First Folio with \"red-cheeked gentlemen, sword-wielding warriors and ladies in striking attire\"",
-      "tags": [],
+      "tags": [
+        "literature",
+        "art",
+        "education",
+        "children's books",
+        "theater",
+        "shakespeare",
+        "illustration",
+        "english literature",
+        "picture books",
+        "graphic design"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10711,7 +12201,18 @@
       "id": "dyk_2026_Feb_9e84f9abcd90",
       "hash": "aa1f7ccdaf42c3b6ab464ca1fdfc5e39913ce0b86e4aeda80ef46acf4aca0c47",
       "text": "Gamblers in Myanmar worship the spirit Thone Myo Shin to ensure victory in cockfights",
-      "tags": [],
+      "tags": [
+        "religion",
+        "culture",
+        "gambling",
+        "myanmar",
+        "folklore",
+        "burmese culture",
+        "animism",
+        "spirits",
+        "cockfighting",
+        "traditional beliefs"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10731,7 +12232,18 @@
       "id": "dyk_2026_Feb_8a48712875fd",
       "hash": "74f1f8a40341e9fcc358782d8a0fe9df8ee8e031634d5adb5f22b39962c0bea3",
       "text": "John A. Jakle has co-authored nine books on \"roadside America\", including books on motels, road signs, gas stations, parking lots, and fast-food restaurants",
-      "tags": [],
+      "tags": [
+        "history",
+        "architecture",
+        "travel",
+        "american culture",
+        "urban studies",
+        "roadside americana",
+        "motels",
+        "road signs",
+        "gas stations",
+        "fast food"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10751,7 +12263,18 @@
       "id": "dyk_2026_Feb_8cac5b15a7c7",
       "hash": "4c5837f5b60749c7f2a9dad432ff335d2ce94ae7ef5531128c6844d9e23b1ba0",
       "text": "Ellie Goulding tied Adele for the most UK number one albums by a British female artist when Higher Than Heaven topped the charts",
-      "tags": [],
+      "tags": [
+        "music",
+        "pop music",
+        "celebrity",
+        "uk music",
+        "entertainment",
+        "ellie goulding",
+        "adele",
+        "music charts",
+        "british artists",
+        "number one albums"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10781,7 +12304,18 @@
       "id": "dyk_2026_Feb_0f08a139e120",
       "hash": "2f89de1ef1bdb256a6eeec281cdc03f8ee63ebecdfe58e9924ef731098d73c3b",
       "text": "Robert Van de Graaff, inventor of the Van de Graaff generator, turned to physics after injuries kept him from playing football at Alabama",
-      "tags": [],
+      "tags": [
+        "science",
+        "physics",
+        "sports",
+        "invention",
+        "biography",
+        "alabama football",
+        "van de graaff generator",
+        "electrical engineering",
+        "scientific discovery",
+        "american football"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10799,6 +12333,11 @@
           "url": "https://en.wikipedia.org/wiki/Van_de_Graaff_generator",
           "title": "Van de Graaff generator",
           "source": "Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football",
+          "title": "Alabama Crimson Tide football",
+          "source": "Wikipedia"
         }
       ]
     },
@@ -10806,7 +12345,18 @@
       "id": "dyk_2026_Feb_b944df447970",
       "hash": "c593e5a9fa152987e58371da56f92a6b06f8b0d5d00d6e60382c0612795d6376",
       "text": "An unlockable vehicle in Kururin Squash! contains a reference to Super Mario Bros. by honking the horn",
-      "tags": [],
+      "tags": [
+        "video games",
+        "gaming",
+        "nintendo",
+        "pop culture",
+        "entertainment",
+        "kururin squash",
+        "super mario",
+        "game design",
+        "easter eggs",
+        "gaming history"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10831,7 +12381,18 @@
       "id": "dyk_2026_Feb_80e661ae7a94",
       "hash": "4127100d2a35e697d9c94ee9893f963c7bd1028ff677f49eabf3d5c2407bcd06",
       "text": "The kingship ideology of the Lozi Kingdom emphasised powerful ancestral royal spirits, believed to affect the present",
-      "tags": [],
+      "tags": [
+        "history",
+        "africa",
+        "religion",
+        "anthropology",
+        "monarchy",
+        "lozi kingdom",
+        "african history",
+        "ancestral spirits",
+        "tribal beliefs",
+        "zambia"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -10851,7 +12412,18 @@
       "id": "dyk_2026_Feb_fb2cfc74ce17",
       "hash": "f2c3e888af0e5f8b28cbb363601ee65c859f79a09c941f28134a531c200379ad",
       "text": "The Casablanca -class escort carrier USS Anzio once took the place of an entire fleet",
-      "tags": [],
+      "tags": [
+        "military",
+        "history",
+        "naval history",
+        "world war 2",
+        "engineering",
+        "us navy",
+        "aircraft carriers",
+        "casablanca class",
+        "war at sea",
+        "military strategy"
+      ],
       "image": {
         "url": null,
         "caption": null
