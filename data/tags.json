@@ -1,0 +1,399 @@
+{
+  "categories": [
+    {
+      "group": "Military & Conflict",
+      "tags": [
+        "World War I",
+        "World War II",
+        "Holocaust",
+        "US Civil War",
+        "Cold War",
+        "Napoleonic Wars",
+        "Ancient Warfare",
+        "Naval Warfare",
+        "Air Combat",
+        "Tanks & Armor",
+        "Military Intelligence & Espionage",
+        "Resistance Movements",
+        "Guerrilla Warfare",
+        "Peace Treaties & Diplomacy",
+        "Nuclear Arms Race",
+        "Military Technology",
+        "Colonial Wars & Independence"
+      ]
+    },
+    {
+      "group": "Ancient History & Archaeology",
+      "tags": [
+        "Ancient Egypt",
+        "Ancient Greece & Rome",
+        "Ancient China",
+        "Ancient Mesoamerica",
+        "Mesopotamia & Middle East Antiquity",
+        "Archaeological Discoveries",
+        "Lost Civilisations",
+        "Ancient Manuscripts & Maps",
+        "Prehistoric Humans",
+        "Ancient Trade Routes"
+      ]
+    },
+    {
+      "group": "Empire, Colonialism & Decolonisation",
+      "tags": [
+        "British Empire",
+        "Spanish & Portuguese Empires",
+        "French Colonial History",
+        "Dutch Colonial History",
+        "The Ottoman Empire",
+        "Independence Movements",
+        "Slavery & Abolition",
+        "Post-Colonial History"
+      ]
+    },
+    {
+      "group": "Sports & Athletics",
+      "tags": [
+        "American Football",
+        "Baseball",
+        "Basketball",
+        "Soccer & World Cup",
+        "Cricket",
+        "Tennis",
+        "Golf",
+        "Summer Olympics",
+        "Winter Olympics",
+        "Motorsports & Formula 1",
+        "Cycling",
+        "Combat Sports & Boxing",
+        "Horse Racing",
+        "Extreme Sports",
+        "Athletics & Track",
+        "Swimming & Aquatics",
+        "Sports Records",
+        "Sports Scandals",
+        "Underdog Stories",
+        "Para Sports & Disability Athletics"
+      ]
+    },
+    {
+      "group": "Cinema & Television",
+      "tags": [
+        "Classic Hollywood",
+        "Modern Cinema",
+        "Silent Films",
+        "Documentary Films",
+        "Horror & Thriller",
+        "Science Fiction Film",
+        "Foreign Language Film",
+        "Animation",
+        "Television History",
+        "Sitcoms & Comedy",
+        "TV Dramas",
+        "Reality TV",
+        "Broadcasting & Radio",
+        "Special Effects & Filmmaking"
+      ]
+    },
+    {
+      "group": "Music",
+      "tags": [
+        "Pop Music",
+        "Rock & Metal",
+        "Jazz",
+        "Blues",
+        "Hip-Hop & Rap",
+        "Classical Music",
+        "Opera",
+        "Musical Theater",
+        "Folk & Traditional Music",
+        "Electronic & Dance Music",
+        "Music Industry",
+        "Songwriting & Lyrics",
+        "Musical Instruments",
+        "Music History"
+      ]
+    },
+    {
+      "group": "Video Games",
+      "tags": [
+        "Video Game History",
+        "Retro & Classic Gaming",
+        "Nintendo",
+        "PlayStation & Xbox",
+        "PC Gaming",
+        "Indie Games",
+        "Competitive Gaming & Esports",
+        "Game Design & Development",
+        "Mobile Gaming",
+        "MMORPGs",
+        "Horror Games",
+        "Open World Games",
+        "Fighting Games",
+        "Puzzle & Strategy Games"
+      ]
+    },
+    {
+      "group": "Tabletop & Hobby Games",
+      "tags": [
+        "Board Games",
+        "Tabletop RPGs",
+        "Card Games",
+        "Chess & Strategy Games",
+        "Wargaming",
+        "Collectible Games"
+      ]
+    },
+    {
+      "group": "Internet & Web Culture",
+      "tags": [
+        "Internet History",
+        "Social Media",
+        "Internet Memes & Viral Content",
+        "Online Communities",
+        "Streaming & Content Creation",
+        "Cybersecurity & Hacking",
+        "Cryptocurrency & Blockchain",
+        "Tech Companies & Startups",
+        "Artificial Intelligence",
+        "Digital Privacy"
+      ]
+    },
+    {
+      "group": "Space & Astronomy",
+      "tags": [
+        "Space Exploration",
+        "NASA History",
+        "Planets & Moons",
+        "Stars & Galaxies",
+        "Telescopes & Observatories",
+        "Astrophysics & Cosmology",
+        "Black Holes",
+        "Comets & Asteroids",
+        "Mars & Future Exploration",
+        "Space Race"
+      ]
+    },
+    {
+      "group": "Life Sciences",
+      "tags": [
+        "Zoology & Animal Behavior",
+        "Marine Biology",
+        "Entomology",
+        "Botany & Plants",
+        "Ecology & Conservation",
+        "Evolution & Natural Selection",
+        "Genetics & DNA",
+        "Microbiology",
+        "Paleontology & Dinosaurs",
+        "Animal Camouflage & Adaptation"
+      ]
+    },
+    {
+      "group": "Medicine & Health",
+      "tags": [
+        "Medical History",
+        "Surgery & Anatomy",
+        "Public Health & Pandemics",
+        "Vaccines & Immunology",
+        "Neurology & Brain Science",
+        "Psychology & Mental Health",
+        "Pharmacology",
+        "Rare Diseases",
+        "Nutrition & Diet Science"
+      ]
+    },
+    {
+      "group": "Physical Sciences",
+      "tags": [
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Geology & Earthquakes",
+        "Volcanoes",
+        "Climate & Weather",
+        "Oceanography",
+        "Materials Science",
+        "Nuclear Science"
+      ]
+    },
+    {
+      "group": "Inventions & Engineering",
+      "tags": [
+        "Industrial Revolution",
+        "Famous Inventions",
+        "Electrical Engineering",
+        "Civil Engineering",
+        "Aviation History",
+        "Automotive History",
+        "Railways & Trains",
+        "Maritime & Shipping History",
+        "Bridges & Tunnels",
+        "Robotics & Automation",
+        "Energy & Power"
+      ]
+    },
+    {
+      "group": "Arts & Architecture",
+      "tags": [
+        "Painting & Painters",
+        "Art History",
+        "Sculpture",
+        "Photography",
+        "Architecture History",
+        "Modern Architecture",
+        "Skyscrapers & Landmarks",
+        "Landscape Architecture",
+        "Street Art & Murals",
+        "Design & Typography"
+      ]
+    },
+    {
+      "group": "Literature & Language",
+      "tags": [
+        "Classic Literature",
+        "Modern Fiction",
+        "Poetry",
+        "Biographies & Memoirs",
+        "Children's Literature",
+        "Science Fiction & Fantasy Books",
+        "Comics & Graphic Novels",
+        "Linguistics & Language",
+        "Journalism & Publishing",
+        "Libraries & Archives"
+      ]
+    },
+    {
+      "group": "Academia & Research",
+      "tags": [
+        "Scientific Discoveries",
+        "Famous Scientists",
+        "Research Scandals & Retractions",
+        "Universities & Institutions",
+        "Mathematical Breakthroughs",
+        "Philosophical Thought Experiments",
+        "Pseudoscience & Debunking"
+      ]
+    },
+    {
+      "group": "Society & Politics",
+      "tags": [
+        "Politics & Government",
+        "Elections & Democracy",
+        "Law & Justice",
+        "Human Rights",
+        "Civil Rights Movements",
+        "Women's History & Feminism",
+        "LGBTQ+ History",
+        "Labor Movements",
+        "Philosophy & Ethics",
+        "Sociology & Anthropology",
+        "Urban Planning & Cities",
+        "Economics & Trade",
+        "Organized Crime"
+      ]
+    },
+    {
+      "group": "Indigenous Peoples & Cultures",
+      "tags": [
+        "Native American History",
+        "Indigenous Australian History",
+        "Pacific Islander Cultures",
+        "African Indigenous Cultures",
+        "Māori History",
+        "Inuit & Arctic Peoples",
+        "Indigenous Rights Movements"
+      ]
+    },
+    {
+      "group": "Black History",
+      "tags": [
+        "African American History",
+        "African History",
+        "Caribbean History",
+        "Anti-Apartheid Movement",
+        "Harlem Renaissance",
+        "Pan-Africanism"
+      ]
+    },
+    {
+      "group": "Religion & Mythology",
+      "tags": [
+        "Christianity",
+        "Islam",
+        "Judaism",
+        "Buddhism",
+        "Hinduism",
+        "Sikhism",
+        "Ancient Egyptian Religion",
+        "Greek & Roman Mythology",
+        "Norse Mythology",
+        "Aztec & Mayan Mythology",
+        "Folklore & Folk Tales",
+        "Cults & New Religious Movements",
+        "Sacred Sites & Pilgrimage"
+      ]
+    },
+    {
+      "group": "Geography & Exploration",
+      "tags": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "South America",
+        "Middle East",
+        "Oceania & Pacific Islands",
+        "Arctic & Antarctic",
+        "Age of Exploration",
+        "Famous Explorers",
+        "Islands & Archipelagos",
+        "Rivers, Lakes & Waterways",
+        "Mountains & Extreme Geography"
+      ]
+    },
+    {
+      "group": "Food & Drink",
+      "tags": [
+        "Food History",
+        "World Cuisines",
+        "Famous Chefs & Restaurants",
+        "Street Food",
+        "Baking & Pastry",
+        "Wine & Viticulture",
+        "Beer & Brewing",
+        "Spirits & Cocktails",
+        "Food Science",
+        "Agriculture & Farming"
+      ]
+    },
+    {
+      "group": "True Crime & Mysteries",
+      "tags": [
+        "Unsolved Mysteries",
+        "Famous Trials",
+        "Serial Killers",
+        "Heists & Thefts",
+        "Cults & Abductions",
+        "Hoaxes & Forgeries",
+        "Conspiracy Theories",
+        "Cold Cases",
+        "Disasters & Survival"
+      ]
+    },
+    {
+      "group": "Curiosities & Records",
+      "tags": [
+        "World Records & Firsts",
+        "Remarkable Human Feats",
+        "Unusual Deaths & Accidents",
+        "Animals in History",
+        "Lost & Found Artifacts",
+        "Hidden Histories",
+        "Fashion & Clothing History",
+        "Toys & Childhood Culture",
+        "Eccentric Personalities",
+        "Legal Curiosities & Landmark Cases"
+      ]
+    }
+  ]
+}
