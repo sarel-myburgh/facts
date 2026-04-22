@@ -126,14 +126,24 @@ def tag_file(filepath: Path) -> None:
         print(f"  [{i+1}/{len(facts)}] {text[:80]}...")
 
         prompt = PROMPT_TEMPLATE.format(text=text, tags_content=tags_content)
-        try:
-            new_tags = ask_openrouter(prompt)
-            print(f"    → {new_tags}")
-            fact["tags"] = new_tags
-            filepath.write_text(json.dumps(data, indent=2, ensure_ascii=False))
-            log_fact(fact_id)
-        except Exception as e:
-            print(f"    ERROR: {e}")
+        for attempt in range(3):
+            try:
+                new_tags = ask_openrouter(prompt)
+                print(f"    → {new_tags}")
+                fact["tags"] = new_tags
+                filepath.write_text(json.dumps(data, indent=2, ensure_ascii=False))
+                log_fact(fact_id)
+                break
+            except Exception as e:
+                is_connection_error = any(
+                    kw in str(e) for kw in ("Connection", "ConnectionReset", "RemoteDisconnected", "ChunkedEncodingError")
+                )
+                wait = 30 if is_connection_error else 2
+                if attempt < 2:
+                    print(f"    ERROR (attempt {attempt+1}, retrying in {wait}s): {e}")
+                    time.sleep(wait)
+                else:
+                    print(f"    ERROR (giving up): {e}")
 
         time.sleep(1)
 
