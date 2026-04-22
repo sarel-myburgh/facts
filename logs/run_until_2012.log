@@ -1,0 +1,13 @@
+Starting loop. Will stop after 2012 is complete.
+Resuming: dyk_2008_Oct.json
+File: dyk_2008_Oct.json — 442 remaining (444 already done)
+  [445/886] Mountaineer William Woodman Graham had to abandon an expedition to Kanchenjunga ...
+    ERROR (attempt 1, retrying in 2s): 503 Server Error: Service Unavailable for url: https://openrouter.ai/api/v1/chat/completions
+    → ['Explorers & Adventurers', 'Extreme Sports & Records', 'Asia', 'Disasters & Survival', 'Unusual Deaths & Accidents']
+  [446/886] The 1964 Zanzibar Revolution sparked army mutinies in Kenya, Uganda and Tanganyi...
+    ERROR (attempt 1, retrying in 2s): 503 Server Error: Service Unavailable for url: https://openrouter.ai/api/v1/chat/completions
+    → ['Modern History', 'Military History', 'Colonial History', 'Politics & Government', 'Africa']
+  [447/886] Olivia Colman bonded the cast of Beautiful People by arranging a visit from a mo...
+    → ['Medicine & Health', 'Cinema & Film', 'Television', 'Remarkable People', 'Women in History']
+  [448/886] The dumbbell -shaped devices commonly seen on overhead power lines are Stockbrid...
+    → ['Physics & Chemistry', 'Inventions & Technology', 'Scientists & Thinkers']

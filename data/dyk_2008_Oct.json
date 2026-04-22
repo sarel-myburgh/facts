@@ -17342,7 +17342,14 @@
       "id": "dyk_2008_Oct_f313bc8377cc",
       "hash": "88ff361a210e690a78ce56baf329693b8066ad61c179dfb3953349cbfc0a9d00",
       "text": "The Historic-Cultural Monuments in South Los Angeles include Ray Charles ' recording studio, a stadium that hosted two Summer Olympics, and an early home of the Oscar ceremonies",
-      "tags": [],
+      "tags": [
+        "Music",
+        "Cinema & Film",
+        "Architecture",
+        "Olympics",
+        "The Americas",
+        "Remarkable People"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -17387,7 +17394,12 @@
       "id": "dyk_2008_Oct_d8f90d9ffbb3",
       "hash": "a9f1904dae66a4d06481fa0d7f6b6a6162c42afd78f4bf375f98d86d63034528",
       "text": "Until the 1990s, the Short-beaked Common Dolphin and the Long-beaked Common Dolphin were considered the same species",
-      "tags": [],
+      "tags": [
+        "Biology & Nature",
+        "Modern History",
+        "Animals in History",
+        "Hidden Histories"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -17417,7 +17429,13 @@
       "id": "dyk_2008_Oct_e810b6f5cd2b",
       "hash": "9dd7e4717816244817729ac16e73fde8ff2464da4f1fb3c460470cd7e60a7f20",
       "text": "Mountaineer William Woodman Graham had to abandon an expedition to Kanchenjunga when a porter accidentally burned his boots",
-      "tags": [],
+      "tags": [
+        "Explorers & Adventurers",
+        "Extreme Sports & Records",
+        "Asia",
+        "Disasters & Survival",
+        "Unusual Deaths & Accidents"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -17457,7 +17475,13 @@
       "id": "dyk_2008_Oct_64fb44a86f89",
       "hash": "66bdb7538699956f5314931a0d9fa19ebe24e71422c1563300325d2262af468a",
       "text": "The 1964 Zanzibar Revolution sparked army mutinies in Kenya, Uganda and Tanganyika",
-      "tags": [],
+      "tags": [
+        "Modern History",
+        "Military History",
+        "Colonial History",
+        "Politics & Government",
+        "Africa"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -17497,7 +17521,13 @@
       "id": "dyk_2008_Oct_e5c965297dbc",
       "hash": "3841ad511f8bb712ef52d747986bf8fa09b9fdf62f4292243bf3e184627b6c1c",
       "text": "Olivia Colman bonded the cast of Beautiful People by arranging a visit from a mobile blood donor unit",
-      "tags": [],
+      "tags": [
+        "Medicine & Health",
+        "Cinema & Film",
+        "Television",
+        "Remarkable People",
+        "Women in History"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -17527,7 +17557,11 @@
       "id": "dyk_2008_Oct_f7fbab587654",
       "hash": "a74cee9343988f0b2af049e12af0a45482af8769064eaa81a28adc080a718316",
       "text": "The dumbbell -shaped devices commonly seen on overhead power lines are Stockbridge dampers, used to suppress wind-induced vibrations",
-      "tags": [],
+      "tags": [
+        "Physics & Chemistry",
+        "Inventions & Technology",
+        "Scientists & Thinkers"
+      ],
       "image": {
         "url": null,
         "caption": null
