@@ -28,11 +28,16 @@ TAGS
   from that list only; raw JSON array is written back into the fact object.
 """
 
+import io
 import json
 import os
 import sys
 import time
 from pathlib import Path
+
+# Ensure stdout handles non-ASCII characters on Windows terminals
+if hasattr(sys.stdout, "buffer"):
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 
 import requests
 
@@ -58,13 +63,13 @@ Reply with only a JSON array of tag strings. No explanation."""
 
 
 def load_tags() -> str:
-    return TAGS_FILE.read_text()
+    return TAGS_FILE.read_text(encoding="utf-8")
 
 
 def load_log() -> set[str]:
     """Return the set of fact IDs already tagged in the current run."""
     if LOG_FILE.exists():
-        return set(line for line in LOG_FILE.read_text().splitlines() if line.strip())
+        return set(line for line in LOG_FILE.read_text(encoding="utf-8").splitlines() if line.strip())
     return set()
 
 
@@ -75,11 +80,11 @@ def log_fact(fact_id: str) -> None:
 
 
 def load_manifest() -> dict:
-    return json.loads(MANIFEST_FILE.read_text())
+    return json.loads(MANIFEST_FILE.read_text(encoding="utf-8"))
 
 
 def save_manifest(manifest: dict) -> None:
-    MANIFEST_FILE.write_text(json.dumps(manifest, indent=2, ensure_ascii=False))
+    MANIFEST_FILE.write_text(json.dumps(manifest, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
 def get_current_file() -> Path | None:
@@ -152,7 +157,7 @@ def tag_file(filepath: Path) -> None:
     immediately (so progress survives a crash), and append the fact ID to
     tagged_facts.log. Facts already in the log are skipped.
     """
-    data = json.loads(filepath.read_text())
+    data = json.loads(filepath.read_text(encoding="utf-8"))
     tags_content = load_tags()
     done = load_log()
     facts = data["facts"]
@@ -176,7 +181,7 @@ def tag_file(filepath: Path) -> None:
                 print(f"    → {new_tags}")
                 fact["tags"] = new_tags
                 # Write after every fact so a crash doesn't lose progress
-                filepath.write_text(json.dumps(data, indent=2, ensure_ascii=False))
+                filepath.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
                 log_fact(fact_id)
                 break
             except Exception as e:
