@@ -7,11 +7,10 @@
       "hash": "ca00972e14ac79988b14112847a16de4766c08178cf7f9088f1b7e5b4024f4de",
       "text": "The Achelous -class repair ship USS Atlas was used to repair damaged landing craft after D-Day in 1944",
       "tags": [
+        "Modern History",
         "Military History",
         "Holocaust & WWII",
-        "Inventions & Technology",
-        "Europe",
-        "The Americas"
+        "Europe"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/USS_Atlas_%28ARL-7%29_departing_San_Francisco_Bay%2C_in_February_1953.jpg",
@@ -48,11 +47,11 @@
       "hash": "ad5c9b1e46d006fd01d151c11ee996c7d544625e7f63175c231b01070d80b007",
       "text": "A special kind of soil from Bidar fort is an essential ingredient in making Bidriware, a metal handicraft of Karnataka, India",
       "tags": [
-        "Geology & Earth Science",
         "Visual Art",
         "Fashion & Design",
+        "Geology & Earth Science",
         "Asia",
-        "Hidden Histories"
+        "Inventions & Technology"
       ],
       "image": {
         "url": null,
@@ -106,9 +105,9 @@
       "tags": [
         "Modern History",
         "Politics & Government",
-        "The Americas",
+        "Law & Justice",
         "Remarkable People",
-        "Law & Justice"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -156,10 +155,9 @@
       "text": "Maize was the staple of Aztec cuisine, and that maguey worms, spirulina and corn smut were popular Aztec foods",
       "tags": [
         "Ancient History",
-        "Biology & Nature",
         "Food & Drink",
         "The Americas",
-        "Hidden Histories"
+        "Biology & Nature"
       ],
       "image": {
         "url": null,
@@ -252,8 +250,9 @@
       "hash": "dad71cdd0038ece2f37d62285b028361c51862630f924c849b9435d2e4683145",
       "text": "Orographic rainfall, one of the three types of rainfall, is caused when cool air is forced upward by mountains to form clouds which then produce rain",
       "tags": [
+        "Geology & Earth Science",
         "Biology & Nature",
-        "Geology & Earth Science"
+        "Science"
       ],
       "image": {
         "url": null,
@@ -290,8 +289,8 @@
       "hash": "89280f249cc958e32e45b7f6bb585dcba26b8cebfa47fe541aac0e1463a66495",
       "text": "Company style paintings were made by Indian artists for patrons from the British East India Company in the 18th and 19th centuries",
       "tags": [
-        "Modern History",
         "Colonial History",
+        "Modern History",
         "Visual Art",
         "Asia",
         "Economics & Trade"
@@ -326,8 +325,7 @@
       "hash": "3826630c76ffbdf3e3030b18e365acb81e8180fbe5a9333aa0110c35e5765679",
       "text": "The Brown Rock Chat sometimes nests in the rafters of inhabited houses",
       "tags": [
-        "Biology & Nature",
-        "Animals in History"
+        "Biology & Nature"
       ],
       "image": {
         "url": null,
@@ -397,8 +395,7 @@
         "Biology & Nature",
         "Philosophy & Ethics",
         "Mythology & Folklore",
-        "Animals in History",
-        "Hidden Histories"
+        "Animals in History"
       ],
       "image": {
         "url": null,
@@ -420,11 +417,11 @@
       "hash": "8c38d4af8a044abdcd8ac7c5cbfee5dd676c9f83a994a2532b15a36f630c6f1f",
       "text": "Josef Hoffmann co-founded two major art groups and his designs served as a precedent for modern architecture",
       "tags": [
-        "Modern History",
-        "Visual Art",
         "Architecture",
         "Fashion & Design",
-        "Remarkable People"
+        "Visual Art",
+        "Remarkable People",
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -450,7 +447,11 @@
       "id": "dyk_2007_Apr_4a15a75cfcdf",
       "hash": "2ad7844026249b482c6a1374accdfecf585366c466ef5f83c50882249c6a96fd",
       "text": "Ten case forms can be traced in the Lithuanian language, seven of which are preserved in the standard language version",
-      "tags": [],
+      "tags": [
+        "Europe",
+        "Literature & Books",
+        "Philosophy & Ethics"
+      ],
       "image": {
         "url": null,
         "caption": null
@@ -480,7 +481,7 @@
         "Politics & Government",
         "Europe",
         "Remarkable People",
-        "Hidden Histories"
+        "Holocaust & WWII"
       ],
       "image": {
         "url": null,
@@ -525,7 +526,8 @@
         "Modern History",
         "Visual Art",
         "Remarkable People",
-        "Asia"
+        "Asia",
+        "Politics & Government"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Takeuchi_Seiho.jpg",
@@ -598,9 +600,9 @@
         "Modern History",
         "Politics & Government",
         "Law & Justice",
+        "Remarkable People",
         "Criminals & Outlaws",
-        "Asia",
-        "Hidden Histories"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -691,8 +693,7 @@
         "Military History",
         "Mythology & Folklore",
         "Hidden Histories",
-        "Ancient History",
-        "Animals in History"
+        "Fashion & Design"
       ],
       "image": {
         "url": null,
@@ -724,10 +725,11 @@
       "hash": "48fce36ae7b9b45b259a925e887f0b9cc13c644d1aa2ed86fbd0716354591934",
       "text": "The teponaztli is an Aztec wooden slit drum",
       "tags": [
-        "Ancient History",
         "Music",
+        "Ancient History",
         "The Americas",
-        "Mythology & Folklore"
+        "Mythology & Folklore",
+        "Visual Art"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Two_Teponaztli.jpg",
@@ -759,12 +761,11 @@
       "hash": "0c1087b7187b73707fc7e106a6aad603bf3c51b9f02abdf43df57a72861294f0",
       "text": "Fort Antes in what is now Nippenose Township, Pennsylvania, survived a scorched earth attack during the American Revolutionary War, despite having been abandoned by its defenders",
       "tags": [
-        "Modern History",
         "Military History",
         "Colonial History",
+        "Modern History",
         "The Americas",
-        "Disasters & Survival",
-        "Hidden Histories"
+        "Disasters & Survival"
       ],
       "image": {
         "url": null,
@@ -812,10 +813,8 @@
       "text": "Chitrakala Parishat, an art institution and a cultural organization in Bangalore, was the brainchild of famous Russian painter Svetoslav Roerich who used to reside in that city",
       "tags": [
         "Visual Art",
-        "Modern History",
         "Remarkable People",
-        "Asia",
-        "Europe"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -856,8 +855,7 @@
         "Religion & Faith",
         "Food & Drink",
         "Remarkable People",
-        "Europe",
-        "Hidden Histories"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -880,9 +878,10 @@
       "text": "None of the more than 1000 windows in the Waldspirale residential complex in Darmstadt, Germany are identical",
       "tags": [
         "Architecture",
-        "Visual Art",
+        "Fashion & Design",
         "Europe",
-        "Curiosities"
+        "Visual Art",
+        "World Records"
       ],
       "image": {
         "url": null,
@@ -954,10 +953,11 @@
       "hash": "0ddb73baec4bd8f5350b0245a5260d8808c2eacc12c27b101057ee677eae5fe0",
       "text": "MANual Enterprises v. Day 370 U.S. 478 (1962) was the first case in which the U.S. Supreme Court engaged in plenary review of a Post Office Department order holding obscene materials \"nonmailable\"",
       "tags": [
-        "Modern History",
-        "Politics & Government",
         "Law & Justice",
-        "The Americas"
+        "Politics & Government",
+        "Modern History",
+        "The Americas",
+        "Human Rights"
       ],
       "image": {
         "url": null,
@@ -1039,8 +1039,8 @@
         "Religion & Faith",
         "Mythology & Folklore",
         "Remarkable People",
-        "Animals in History",
-        "Europe"
+        "Europe",
+        "Animals in History"
       ],
       "image": {
         "url": null,
@@ -1085,8 +1085,8 @@
         "Modern History",
         "Religion & Faith",
         "Remarkable People",
-        "The Americas",
-        "Explorers & Adventurers"
+        "Explorers & Adventurers",
+        "The Americas"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Charles_Sreeve_Peterson.jpg",
@@ -1160,11 +1160,11 @@
       "hash": "ba8fdb628cbf573ab010aab089f3142a68313923ee79bf47203099ec9685a9c4",
       "text": "Philip Whistler Street was a Chief Justice on the Supreme Court of New South Wales, Australia -- as were his son Kenneth and his grandson Laurence",
       "tags": [
-        "Modern History",
         "Law & Justice",
         "Politics & Government",
         "Remarkable People",
-        "Oceania & Pacific"
+        "Oceania & Pacific",
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -1218,8 +1218,8 @@
       "tags": [
         "Biology & Nature",
         "Medicine & Health",
-        "Europe",
-        "Asia"
+        "Asia",
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -1311,8 +1311,7 @@
       "tags": [
         "Modern History",
         "Religion & Faith",
-        "Asia",
-        "Hidden Histories"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -1341,6 +1340,7 @@
       "tags": [
         "Music",
         "Architecture",
+        "Fashion & Design",
         "The Americas",
         "Inventions & Technology"
       ],
@@ -1404,10 +1404,10 @@
       "text": "Gaetano Donizetti 's opera Le duc d'Albe didn't receive its first performance until more than 40 years after his death",
       "tags": [
         "Music",
-        "Modern History",
         "Remarkable People",
-        "Hidden Histories",
-        "Europe"
+        "Modern History",
+        "Europe",
+        "Hidden Histories"
       ],
       "image": {
         "url": null,
@@ -1441,8 +1441,8 @@
       "tags": [
         "Television",
         "Medicine & Health",
-        "Remarkable People",
-        "Oceania & Pacific"
+        "Oceania & Pacific",
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -1482,8 +1482,7 @@
         "Modern History",
         "Politics & Government",
         "Europe",
-        "Philosophy & Ethics",
-        "Hidden Histories"
+        "Philosophy & Ethics"
       ],
       "image": {
         "url": null,
@@ -1523,8 +1522,7 @@
         "Religion & Faith",
         "Philosophy & Ethics",
         "Human Rights",
-        "Literature & Books",
-        "Sociology"
+        "Literature & Books"
       ],
       "image": {
         "url": null,
@@ -1573,8 +1571,7 @@
       "tags": [
         "Cinema & Film",
         "Modern History",
-        "The Americas",
-        "Hidden Histories"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -1601,12 +1598,11 @@
       "hash": "c14e45d1d03cb1a0c11bd45a34e95bf611b307235d044b553ae82c516829a526",
       "text": "The pedestal of the The Bronze Horseman is believed to be the largest stone ever moved by humans",
       "tags": [
-        "Modern History",
         "Visual Art",
         "Architecture",
         "Europe",
         "World Records",
-        "Geology & Earth Science"
+        "Modern History"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/The_Bronze_Horseman_%28St._Petersburg%2C_Russia%29.jpg",
@@ -1634,8 +1630,7 @@
       "text": "The port of Kuala Belait, one of the two ports in Brunei, is located in Kampong Sungai Duhon",
       "tags": [
         "Economics & Trade",
-        "Asia",
-        "Geology & Earth Science"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -1670,7 +1665,6 @@
         "Modern History",
         "Military History",
         "Colonial History",
-        "Politics & Government",
         "Remarkable People",
         "The Americas"
       ],
@@ -1705,10 +1699,8 @@
       "text": "Japanese painter Shimomura Kanzan came from a family of Noh actors, and that themes from Noh drama frequently appeared in his works",
       "tags": [
         "Visual Art",
-        "Asia",
-        "Mythology & Folklore",
         "Remarkable People",
-        "Modern History"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -1742,9 +1734,9 @@
       "tags": [
         "Religion & Faith",
         "Philosophy & Ethics",
-        "Cinema & Film",
+        "Internet Culture",
         "Hidden Histories",
-        "Unusual Deaths & Accidents"
+        "Human Rights"
       ],
       "image": {
         "url": null,
@@ -1767,10 +1759,9 @@
       "text": "Jim Hutchinson, who died in 2000, was the longest-lived first-class cricket player, at 103 years and 344 days",
       "tags": [
         "Global Sports",
-        "Extreme Sports & Records",
         "Remarkable People",
         "World Records",
-        "Modern History"
+        "Extreme Sports & Records"
       ],
       "image": {
         "url": null,
@@ -1800,6 +1791,7 @@
         "Modern History",
         "Remarkable People",
         "American Sports",
+        "Global Sports",
         "The Americas",
         "Animals in History"
       ],
@@ -1843,10 +1835,10 @@
       "hash": "8405e1737f70906eea6ed276f4ef619500625b8c9d1240872339d5263cda5067",
       "text": "The attack transport USS Bayfield served as headquarters for planning the D-Day landings on \" Utah Beach \" in 1944",
       "tags": [
+        "Modern History",
         "Military History",
         "Holocaust & WWII",
-        "Europe",
-        "Modern History"
+        "Europe"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/USS_Bayfield_%28APA-33%29_at_Charleston%2C_South_Carolina_%28USA%29%2C_on_4_January_1950_%28NH_99242%29.jpg",
@@ -1906,11 +1898,10 @@
       "hash": "b3d23b2567bd7cc317e30cf9dc743f98ae0d7f2142dc0b43c0badd948d8c7530",
       "text": "The Zambian district of Chiengi has no television or telephone service",
       "tags": [
+        "Africa",
         "Inventions & Technology",
         "Television",
-        "Africa",
-        "Economics & Trade",
-        "Human Rights"
+        "Economics & Trade"
       ],
       "image": {
         "url": null,
@@ -1947,11 +1938,11 @@
       "hash": "3bdf57a3c23416e957c8e1c2a15d567695d5863558c357629ef924bdac63d4e0",
       "text": "American comic book artist Art Saaf also made storyboards for The Jackie Gleason Show and illustrated Highlights for Children",
       "tags": [
-        "Visual Art",
         "Television",
+        "Visual Art",
         "Literature & Books",
-        "The Americas",
-        "Remarkable People"
+        "Remarkable People",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -1995,7 +1986,9 @@
       "tags": [
         "Modern History",
         "Politics & Government",
-        "Europe"
+        "Europe",
+        "Law & Justice",
+        "Human Rights"
       ],
       "image": {
         "url": null,
@@ -2033,9 +2026,9 @@
       "text": "The Tel Aviv bus 5 massacre was the deadliest suicide bombing in Israeli history up until that time",
       "tags": [
         "Modern History",
+        "Military History",
         "Politics & Government",
         "Middle East",
-        "World Records",
         "Disasters & Survival"
       ],
       "image": {
@@ -2069,10 +2062,8 @@
       "text": "When Reprise Records signed 17-year-old Chris Cummings to a record contract in 1992, he was the youngest artist they had ever signed",
       "tags": [
         "Music",
-        "Modern History",
         "Remarkable People",
-        "World Records",
-        "The Americas"
+        "World Records"
       ],
       "image": {
         "url": null,
@@ -2137,7 +2128,7 @@
         "Visual Art",
         "Fashion & Design",
         "Remarkable People",
-        "Modern History"
+        "Physics & Chemistry"
       ],
       "image": {
         "url": null,
@@ -2170,10 +2161,10 @@
       "text": "The enrollment rate of girls in schools in Yemen is the lowest out of all Middle Eastern countries",
       "tags": [
         "Human Rights",
-        "Politics & Government",
-        "Asia",
         "Middle East",
-        "Women in History"
+        "Women in History",
+        "Politics & Government",
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -2201,8 +2192,7 @@
       "text": "Gay pornographic film director Scott Masters directed more than 100 loops before founding his own company, Nova Studios",
       "tags": [
         "Cinema & Film",
-        "Remarkable People",
-        "Hidden Histories"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -2247,7 +2237,8 @@
         "Modern History",
         "Economics & Trade",
         "Asia",
-        "Middle East"
+        "Middle East",
+        "Cold War"
       ],
       "image": {
         "url": null,
@@ -2280,10 +2271,9 @@
       "text": "Nearly 3 million rupees worth of property was stolen from the house of Kannada cinema actor Srinath on the day of his daughter's marriage in 2001",
       "tags": [
         "Cinema & Film",
-        "Criminals & Outlaws",
         "Asia",
         "Law & Justice",
-        "Modern History"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -2347,8 +2337,8 @@
       "text": "The 1914 comic strip Abie the Agent, the first American comic with a Jewish protagonist, has been called the first adult comic",
       "tags": [
         "Modern History",
-        "Visual Art",
         "Literature & Books",
+        "Visual Art",
         "Comedy & Satire",
         "The Americas",
         "Hidden Histories"
@@ -2441,8 +2431,8 @@
       "tags": [
         "Economics & Trade",
         "Food & Drink",
-        "The Americas",
-        "Modern History"
+        "Modern History",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -2480,13 +2470,12 @@
       "text": "Between her marriage to Marcus Garvey and her relationship with President of Liberia William Tubman, Pan-Africanist activist Amy Ashwood Garvey ran a club on London 's Carnaby Street",
       "tags": [
         "Modern History",
-        "Colonial History",
         "Politics & Government",
+        "Human Rights",
         "Remarkable People",
         "Women in History",
         "Africa",
-        "Europe",
-        "Hidden Histories"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -2540,9 +2529,8 @@
       "tags": [
         "Mathematics",
         "Inventions & Technology",
-        "Scientists & Thinkers",
         "Visual Art",
-        "Internet Culture"
+        "Scientists & Thinkers"
       ],
       "image": {
         "url": null,
@@ -2565,9 +2553,7 @@
       "text": "Reification is a logical fallacy that occurs when qualities of a living being are attributed to an abstract concept",
       "tags": [
         "Philosophy & Ethics",
-        "Scientists & Thinkers",
-        "Mathematics",
-        "Literature & Books"
+        "Scientists & Thinkers"
       ],
       "image": {
         "url": null,
@@ -2605,8 +2591,7 @@
       "text": "Whistling Kites in Australia primarily hunt live prey, while those in New Guinea are principally scavengers",
       "tags": [
         "Biology & Nature",
-        "Oceania & Pacific",
-        "Animals in History"
+        "Oceania & Pacific"
       ],
       "image": {
         "url": null,
@@ -2643,10 +2628,9 @@
       "hash": "1f8fb53810477d846b447d673675425c162cf17038bef9ac5ab48551085701a3",
       "text": "The Poplar Tree Elementary School building was damaged by boulders from blasting works during its construction, and it initially had no playground",
       "tags": [
-        "Modern History",
         "Architecture",
+        "Modern History",
         "Disasters & Survival",
-        "Hidden Histories",
         "Unusual Deaths & Accidents"
       ],
       "image": {
@@ -2685,11 +2669,10 @@
       "text": "The women courtiers in the erstwhile Mysore Kingdom were expected to be adept in 64 arts, with Kasuti embroidery being one of them",
       "tags": [
         "Modern History",
-        "Visual Art",
         "Fashion & Design",
+        "Visual Art",
         "Women in History",
-        "Asia",
-        "Hidden Histories"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -2716,12 +2699,11 @@
       "hash": "baab2ab577c544c76ffb6534b1552a25bb6bcb5c816c70091f82a20bf89031e0",
       "text": "Japanese painter Tomioka Tessai was encouraged by his mentor, Buddhist nun and poet Otagaki Rengetsu, to synthesize Buddhist and Shinto elements in his works",
       "tags": [
-        "Religion & Faith",
         "Visual Art",
+        "Religion & Faith",
         "Remarkable People",
         "Women in History",
-        "Asia",
-        "Modern History"
+        "Asia"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Tomioka_Tessai.jpg",
@@ -2815,9 +2797,9 @@
       "text": "The town of Channapatna in India is known as the \"toy-town of Karnataka \" due to the popularity of the wooden toys manufactured there",
       "tags": [
         "Asia",
-        "Visual Art",
+        "Economics & Trade",
         "Fashion & Design",
-        "Economics & Trade"
+        "Visual Art"
       ],
       "image": {
         "url": null,
@@ -2855,10 +2837,10 @@
       "text": "The eight surviving medieval Bulgarian royal charters are among the few available secular documents from the time of the Second Bulgarian Empire",
       "tags": [
         "Medieval History",
-        "Politics & Government",
-        "Law & Justice",
         "Europe",
-        "Hidden Histories"
+        "Literature & Books",
+        "Law & Justice",
+        "Politics & Government"
       ],
       "image": {
         "url": null,
@@ -2887,9 +2869,7 @@
       "tags": [
         "Music",
         "Television",
-        "Europe",
-        "Arts & Culture",
-        "Entertainment"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -2922,9 +2902,9 @@
       "text": "During the Toronto Raptors 2006-07 season, the National Basketball Association team won their first division title in franchise history",
       "tags": [
         "American Sports",
+        "Global Sports",
         "The Americas",
-        "Modern History",
-        "Extreme Sports & Records"
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -2951,10 +2931,7 @@
       "hash": "80260ccd01e38de6015fbe023d2f2cabc80965ed7e887821c91bf53b0137cc3a",
       "text": "There are 254 Hewitts and Nuttalls in England",
       "tags": [
-        "Europe",
-        "Mathematics",
-        "Societies",
-        "Curiosities"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -2978,7 +2955,8 @@
       "tags": [
         "Biology & Nature",
         "Geology & Earth Science",
-        "Europe"
+        "Europe",
+        "World Records"
       ],
       "image": {
         "url": null,
@@ -3013,8 +2991,7 @@
         "Modern History",
         "Remarkable People",
         "Women in History",
-        "The Americas",
-        "Hidden Histories"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -3051,10 +3028,11 @@
       "hash": "f276d859963eec4a57c10360cedbf4d77c706e4a4a9e183646aefc43bdf5558a",
       "text": "Marbrianus de Orto was one of the first composers to write a completely canonic setting of the Ordinary of the Mass",
       "tags": [
-        "Medieval History",
-        "Religion & Faith",
         "Music",
-        "Remarkable People"
+        "Religion & Faith",
+        "Remarkable People",
+        "Medieval History",
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -3094,8 +3072,7 @@
         "Politics & Government",
         "Television",
         "Remarkable People",
-        "Asia",
-        "Women in History"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -3142,9 +3119,9 @@
       "hash": "205926318dc3d201757a2b0e361d084d5c66cce6cea4367439c2e468fd15f9b7",
       "text": "The International One Design for yachts was developed so that races would be decided by the crew's skills",
       "tags": [
-        "Modern History",
-        "Inventions & Technology",
-        "Global Sports"
+        "Global Sports",
+        "Fashion & Design",
+        "Modern History"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/International_One_Design_-_Hamilton_Harbour_-_Bermuda.jpg",
@@ -3178,8 +3155,7 @@
       "tags": [
         "Economics & Trade",
         "Politics & Government",
-        "Human Rights",
-        "Philosophy & Ethics"
+        "Human Rights"
       ],
       "image": {
         "url": null,
@@ -3214,8 +3190,7 @@
         "Global Sports",
         "Europe",
         "Remarkable People",
-        "World Records",
-        "Modern History"
+        "World Records"
       ],
       "image": {
         "url": null,
@@ -3254,8 +3229,7 @@
       "tags": [
         "Literature & Books",
         "Philosophy & Ethics",
-        "Hidden Histories",
-        "Scientists & Thinkers"
+        "Law & Justice"
       ],
       "image": {
         "url": null,
@@ -3288,10 +3262,9 @@
       "text": "One of the liturgies of the Antiochian Western Rite Vicariate, a part of Western Rite Orthodoxy, is a modified form of the 1928 American Book of Common Prayer",
       "tags": [
         "Religion & Faith",
-        "Modern History",
         "Literature & Books",
         "The Americas",
-        "Philosophy & Ethics"
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -3331,9 +3304,8 @@
         "Modern History",
         "Remarkable People",
         "Global Sports",
-        "Extreme Sports & Records",
-        "World Records",
-        "Europe"
+        "Europe",
+        "World Records"
       ],
       "image": {
         "url": null,
@@ -3366,10 +3338,10 @@
       "text": "Banga Mahila Vidyalaya (Bengali Women’s College) was the first women’s liberal arts college in India",
       "tags": [
         "Modern History",
-        "Colonial History",
         "Women in History",
         "Asia",
-        "Hidden Histories"
+        "Colonial History",
+        "Human Rights"
       ],
       "image": {
         "url": null,
@@ -3391,11 +3363,11 @@
       "hash": "4f68c942e84df4e5b424f7ded07277fdd17e4dd25b7c44ecaf069733a134cd8c",
       "text": "Winter Quarters Bay is the southern-most port in the Southern Ocean",
       "tags": [
-        "Biology & Nature",
         "Geology & Earth Science",
-        "Explorers & Adventurers",
+        "Biology & Nature",
         "Oceania & Pacific",
-        "World Records"
+        "World Records",
+        "Explorers & Adventurers"
       ],
       "image": {
         "url": null,
@@ -3422,10 +3394,9 @@
       "hash": "53fcfa0bbd4e01c13e187aa7655bfb25688183ed74e39c25b98399bc837b0cf5",
       "text": "The 1934 film Sati Sulochana was the first ever talkie produced in the Kannada language",
       "tags": [
-        "Modern History",
         "Cinema & Film",
-        "Asia",
-        "Hidden Histories"
+        "Modern History",
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -3512,8 +3483,7 @@
       "tags": [
         "Modern History",
         "Economics & Trade",
-        "The Americas",
-        "Architecture"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -3552,8 +3522,9 @@
       "tags": [
         "Biology & Nature",
         "Medicine & Health",
-        "Politics & Government",
-        "Scientists & Thinkers"
+        "Scientists & Thinkers",
+        "Law & Justice",
+        "Philosophy & Ethics"
       ],
       "image": {
         "url": null,
@@ -3619,12 +3590,12 @@
       "hash": "dc29ce49a86deaafbda229af49d3f6147033cba4fee37bf63aae7f20d8e07a77",
       "text": "Alexandru Ghika, the founder of the Romanian school of functional analysis, was the great-great-grandson of Grigore IV Ghica, Prince of Wallachia",
       "tags": [
-        "Modern History",
         "Mathematics",
-        "Politics & Government",
+        "Modern History",
+        "Europe",
         "Remarkable People",
         "Scientists & Thinkers",
-        "Europe"
+        "Politics & Government"
       ],
       "image": {
         "url": null,
@@ -3666,12 +3637,11 @@
       "hash": "cb2353b8489ab868c24d32958f5bf6393f8f07bc9c9afb3e5d4d41324b412139",
       "text": "The villagers of Kotor referred to Dominican visionary and anchoress Osanna of Cattaro as \"the trumpet of the Holy Spirit \" and the \"teacher of mysticism \"",
       "tags": [
-        "Medieval History",
         "Religion & Faith",
         "Remarkable People",
         "Women in History",
         "Europe",
-        "Hidden Histories"
+        "Medieval History"
       ],
       "image": {
         "url": null,
@@ -3723,10 +3693,11 @@
       "hash": "3a63c07d84c6bf0737ea072f1f62c4656392ef5bfdd8da1276addce925a696f1",
       "text": "It is said that the name for Gilbertstone in Birmingham derives from a man named Gilbert lifting an erratic to extend his land",
       "tags": [
-        "Mythology & Folklore",
+        "Modern History",
         "Geology & Earth Science",
-        "Hidden Histories",
-        "Europe"
+        "Mythology & Folklore",
+        "Europe",
+        "Hidden Histories"
       ],
       "image": {
         "url": null,
@@ -3795,11 +3766,10 @@
       "text": "Amsterdam 's Prostitution Information Center provides the city's visitors with information and advice about prostitution",
       "tags": [
         "Europe",
-        "Society",
-        "Politics & Government",
         "Law & Justice",
         "Human Rights",
-        "Philosophy & Ethics"
+        "Philosophy & Ethics",
+        "Politics & Government"
       ],
       "image": {
         "url": null,
@@ -3869,8 +3839,8 @@
       "tags": [
         "Modern History",
         "Politics & Government",
+        "Economics & Trade",
         "Literature & Books",
-        "Remarkable People",
         "Comedy & Satire",
         "Europe"
       ],
@@ -3914,11 +3884,11 @@
       "hash": "52baaf257004d8a8d5f948380b3558348b9d1ad5f692686c92dd7e049d558e1a",
       "text": "The Encyclopedia of Domestic Animation is the first attempt at recording the complete history of Russian and Soviet animation",
       "tags": [
-        "Modern History",
         "Cinema & Film",
-        "Literature & Books",
+        "Modern History",
         "Europe",
-        "Hidden Histories"
+        "Literature & Books",
+        "Visual Art"
       ],
       "image": {
         "url": null,
@@ -3949,9 +3919,9 @@
         "Military History",
         "Cold War",
         "Politics & Government",
-        "Asia",
+        "Law & Justice",
         "Remarkable People",
-        "Hidden Histories"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -3990,8 +3960,7 @@
       "tags": [
         "Music",
         "Cinema & Film",
-        "Literature & Books",
-        "Remarkable People"
+        "Literature & Books"
       ],
       "image": {
         "url": null,
@@ -4033,9 +4002,10 @@
       "hash": "04874eeba9e2473f87433fef44d0d3cbee14146c3e6d3389475a27e24dad24fa",
       "text": "Pumpkin Ridge Golf Club was the site of Tiger Woods ’ record third consecutive amateur championship",
       "tags": [
-        "Remarkable People",
+        "American Sports",
         "Global Sports",
         "Extreme Sports & Records",
+        "Remarkable People",
         "World Records",
         "The Americas"
       ],
@@ -4071,9 +4041,7 @@
       "tags": [
         "Religion & Faith",
         "Remarkable People",
-        "Economics & Trade",
-        "Modern History",
-        "The Americas"
+        "Economics & Trade"
       ],
       "image": {
         "url": null,
@@ -4111,10 +4079,9 @@
       "text": "The land holdings of Henry Newhall formed the basis of what is now Santa Clarita, California",
       "tags": [
         "Modern History",
-        "The Americas",
-        "Remarkable People",
         "Economics & Trade",
-        "Hidden Histories"
+        "Remarkable People",
+        "The Americas"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Henry_Mayo_Newhall.jpg",
@@ -4172,9 +4139,9 @@
         "Medieval History",
         "Religion & Faith",
         "Mythology & Folklore",
+        "Women in History",
         "Europe",
-        "Animals in History",
-        "Hidden Histories"
+        "Animals in History"
       ],
       "image": {
         "url": null,
@@ -4248,8 +4215,8 @@
       "tags": [
         "Military History",
         "Asia",
-        "Music",
-        "Television"
+        "Inventions & Technology",
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -4292,9 +4259,9 @@
       "text": "Jiang Rong was inspired to write his 2004 novel Wolf Totem during China 's Cultural Revolution after a failed attempt to domesticate a wolf",
       "tags": [
         "Modern History",
-        "Biology & Nature",
         "Literature & Books",
         "Asia",
+        "Biology & Nature",
         "Animals in History"
       ],
       "image": {
@@ -4369,9 +4336,8 @@
       "hash": "739a6e4e4720351fd37bac708a80e5b079a222208a204a0f09cd3b074d692b04",
       "text": "County Route 708 in Camden County, New Jersey is only one of four routes in that county that has multiple routes of the same number",
       "tags": [
-        "Politics & Government",
         "The Americas",
-        "Curiosities"
+        "Politics & Government"
       ],
       "image": {
         "url": null,
@@ -4399,10 +4365,10 @@
       "text": "The Oscar Niemeyer Museum in Paraná, Brazil was reinaugurated to honor its famous architect Oscar Niemeyer, who completed his design for the museum's annex at the age of 95",
       "tags": [
         "Architecture",
-        "The Americas",
+        "Visual Art",
+        "Fashion & Design",
         "Remarkable People",
-        "Modern History",
-        "Visual Art"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -4512,7 +4478,8 @@
         "Literature & Books",
         "Scientists & Thinkers",
         "Europe",
-        "Modern History"
+        "Modern History",
+        "Philosophy & Ethics"
       ],
       "image": {
         "url": null,
@@ -4600,12 +4567,13 @@
       "hash": "180e131c429219593adbaaff494c34f2dab032606cb723370bb554dec919e48e",
       "text": "James T. Brand of the Oregon Supreme Court was the presiding judge for most of the Judges' Trial, in which 10 German lawyers and judges were convicted of war crimes after World War II",
       "tags": [
-        "Modern History",
         "Holocaust & WWII",
-        "Politics & Government",
         "Law & Justice",
-        "Human Rights",
-        "Europe"
+        "Politics & Government",
+        "Modern History",
+        "Europe",
+        "The Americas",
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -4647,11 +4615,11 @@
       "hash": "19db39de46662edb9e94a01e037a6dd8edd7aa05000c293f6c71dfe4b1c5d7b0",
       "text": "Even though Uncle Tom's Cabin was the best-selling novel of the 19th century, it reached an even wider audience in its theatrical adaptations",
       "tags": [
+        "Modern History",
         "Literature & Books",
         "Cinema & Film",
-        "Modern History",
-        "The Americas",
-        "Human Rights"
+        "Human Rights",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -4684,6 +4652,7 @@
       "text": "In negative base systems, positive and negative numbers can be represented without the use of a minus sign",
       "tags": [
         "Mathematics",
+        "Inventions & Technology",
         "Scientists & Thinkers"
       ],
       "image": {
@@ -4712,9 +4681,9 @@
       "text": "Gurdwara Sahib Klang, a Sikh Gurdwara in Malaysia, was constructed with donations collected by Sikh Sangats all over Malaysia, including a large sum from the Prime Minister's Department",
       "tags": [
         "Religion & Faith",
+        "Architecture",
         "Politics & Government",
-        "Asia",
-        "Architecture"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -4756,11 +4725,11 @@
       "hash": "bb9743fa5cd9e0ebc20ea7183046e8a4986fc431cfe5f1c60b6cdbaa7fa49808",
       "text": "In 2000, Willamette Industries, Inc. was fined a then-record $11.2 million by the United States Environmental Protection Agency for violations of the Clean Air Act",
       "tags": [
-        "Modern History",
-        "Politics & Government",
         "Law & Justice",
-        "Economics & Trade",
+        "Politics & Government",
+        "Geology & Earth Science",
         "The Americas",
+        "Modern History",
         "World Records"
       ],
       "image": {
@@ -4794,7 +4763,6 @@
       "text": "Ladipo Solanke, long the Secretary-General of the West African Students' Union, was the first person to broadcast on the radio in the Yoruba language",
       "tags": [
         "Modern History",
-        "Colonial History",
         "Inventions & Technology",
         "Remarkable People",
         "Africa",
@@ -4835,10 +4803,10 @@
       "hash": "d36c49aa829fea5ccc434d0a7699860dfb9e11a89f2595448760811761b92af8",
       "text": "The Portland Power ’s Natalie Williams was the leading scorer in the ABL during the 1997 to 1998 season",
       "tags": [
-        "Modern History",
-        "Women in History",
         "American Sports",
         "Global Sports",
+        "Women in History",
+        "Remarkable People",
         "The Americas"
       ],
       "image": {
@@ -4874,8 +4842,7 @@
         "Modern History",
         "Holocaust & WWII",
         "Inventions & Technology",
-        "Europe",
-        "Hidden Histories"
+        "Europe"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/LWD_SZPAK.JPG",
@@ -4914,11 +4881,12 @@
       "tags": [
         "Modern History",
         "Holocaust & WWII",
-        "Cold War",
         "Politics & Government",
+        "Human Rights",
         "Visual Art",
+        "Remarkable People",
         "Europe",
-        "Remarkable People"
+        "Comedy & Satire"
       ],
       "image": {
         "url": null,
@@ -4960,12 +4928,11 @@
       "hash": "693da9cd0c054c66459e473934594020519d1b41fad4a7ad4dbfdf1bf259e0d5",
       "text": "A British Gurkha Battalion has been maintained in Brunei at the request of the Sultan of Brunei since the 1962 Brunei Revolt",
       "tags": [
-        "Modern History",
         "Military History",
+        "Modern History",
+        "Colonial History",
         "Politics & Government",
-        "Asia",
-        "Europe",
-        "Hidden Histories"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -5009,11 +4976,8 @@
       "tags": [
         "Olympics",
         "Global Sports",
-        "World Records",
-        "Modern History",
-        "Law & Justice",
         "Remarkable People",
-        "Philosophy & Ethics"
+        "Law & Justice"
       ],
       "image": {
         "url": null,
@@ -5055,11 +5019,11 @@
       "hash": "98618d3a4da9ae0093a4bb6cb100785f1427b371332e3fa590833d3288d3b906",
       "text": "Charles Menzies established Newcastle, New South Wales as a settlement, when he was only 21 years of age",
       "tags": [
+        "Modern History",
         "Colonial History",
         "Remarkable People",
         "Explorers & Adventurers",
-        "Oceania & Pacific",
-        "Modern History"
+        "Oceania & Pacific"
       ],
       "image": {
         "url": null,
@@ -5087,10 +5051,9 @@
       "text": "Jacqui Oatley is the first female football commentator in the history of BBC football programme Match of the Day",
       "tags": [
         "Television",
-        "Women in History",
         "Remarkable People",
-        "Global Sports",
-        "World Records"
+        "Women in History",
+        "Global Sports"
       ],
       "image": {
         "url": null,
@@ -5135,7 +5098,8 @@
         "Modern History",
         "Politics & Government",
         "Europe",
-        "Hidden Histories"
+        "Visual Art",
+        "Human Rights"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Jagiellonian_University_Collegium_Novum%2C_1882_designed_by_Feliks_Ksi%C4%99%C5%BCarski%2C_24_Go%C5%82%C4%99bia_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
@@ -5173,9 +5137,8 @@
       "text": "The Avinguda Diagonal, a street in Barcelona, Spain, is so named because it cuts the central district Eixample in two diagonally",
       "tags": [
         "Architecture",
-        "Fashion & Design",
         "Europe",
-        "Hidden Histories"
+        "Fashion & Design"
       ],
       "image": {
         "url": null,
@@ -5215,9 +5178,7 @@
         "Modern History",
         "Religion & Faith",
         "Remarkable People",
-        "The Americas",
-        "Unusual Deaths & Accidents",
-        "Hidden Histories"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -5257,9 +5218,8 @@
         "Modern History",
         "Military History",
         "Colonial History",
-        "Politics & Government",
-        "Remarkable People",
-        "Asia"
+        "Asia",
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -5296,11 +5256,9 @@
       "hash": "cd6ffc9f72fb19de2bb26b65966ee23903aa9393d1e6ff0ca4056ea06b8e70fb",
       "text": "Australian Test cricketer Ray Lindwall played in two rugby league grand finals for the St. George Dragons",
       "tags": [
-        "Modern History",
-        "Remarkable People",
         "Global Sports",
         "Oceania & Pacific",
-        "Hidden Histories"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -5342,11 +5300,11 @@
       "hash": "84deebe8b69c12201cb3244c88bccc9e223fdb9880ca1ad0e2e8cf976536d48d",
       "text": "Annette Akroyd, an orientalist, is remembered primarily for her early efforts at women’s education in India",
       "tags": [
+        "Modern History",
         "Colonial History",
-        "Women in History",
-        "Asia",
         "Remarkable People",
-        "Hidden Histories"
+        "Women in History",
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -5378,10 +5336,11 @@
       "hash": "23fbb0b36a317c23970b6647d4b8363f98395e81aed402a9f652da4262f74443",
       "text": "A German-American was aboard the German submarine, U-94, when she was sunk by United States Navy and Canadian Navy forces",
       "tags": [
+        "Modern History",
         "Military History",
         "Holocaust & WWII",
-        "The Americas",
         "Europe",
+        "The Americas",
         "Disasters & Survival"
       ],
       "image": {
@@ -5417,8 +5376,7 @@
         "Modern History",
         "Economics & Trade",
         "Food & Drink",
-        "The Americas",
-        "World Records"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -5470,11 +5428,10 @@
       "hash": "a58180441f50b0ad2d787985c542efd773f82d6a53622e8ae7d51f892127cd1e",
       "text": "The Royal Brunei Navy formed as the Boat Section of the Brunei Malay Regiment",
       "tags": [
-        "Modern History",
         "Military History",
-        "Politics & Government",
+        "Modern History",
         "Asia",
-        "Hidden Histories"
+        "Politics & Government"
       ],
       "image": {
         "url": null,
@@ -5504,7 +5461,6 @@
         "Modern History",
         "Holocaust & WWII",
         "Medicine & Health",
-        "Politics & Government",
         "Remarkable People",
         "Europe",
         "Hidden Histories"
@@ -5539,9 +5495,8 @@
       "hash": "da8dadc07ddc049d20d48364d65ccb3252dc3c72e942823c1ffdaf3ad346ae6b",
       "text": "On May 3, 2002 a military MiG-21bis aircraft crashed into the Bank of Rajasthan in India, killing eight",
       "tags": [
-        "Modern History",
         "Military History",
-        "Politics & Government",
+        "Modern History",
         "Asia",
         "Unusual Deaths & Accidents",
         "Disasters & Survival"
@@ -5590,8 +5545,9 @@
         "Military History",
         "Holocaust & WWII",
         "Politics & Government",
-        "Europe",
-        "Remarkable People"
+        "Law & Justice",
+        "Remarkable People",
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -5642,7 +5598,7 @@
         "Military History",
         "Cold War",
         "Politics & Government",
-        "The Americas",
+        "Remarkable People",
         "Asia"
       ],
       "image": {
@@ -5680,12 +5636,12 @@
       "hash": "f25530a643ebddbe9cd3f965a0ae3f26c179ab025a08702a1edb474728862f19",
       "text": "Julian Salomons was the only chief justice in New South Wales to resign before he was sworn into office",
       "tags": [
+        "Modern History",
         "Colonial History",
         "Politics & Government",
         "Law & Justice",
         "Remarkable People",
-        "Oceania & Pacific",
-        "Hidden Histories"
+        "Oceania & Pacific"
       ],
       "image": {
         "url": null,
@@ -5717,10 +5673,11 @@
       "hash": "32a48a3f64df9c6665c7a449d2fd5de0767e97299b1324fdb153119a46f41fb3",
       "text": "In the Big Runaway during the American Revolution in Pennsylvania in 1778, Rachel Silverthorn rode to warn settlers on Muncy Creek of impending attack when no man would",
       "tags": [
-        "Colonial History",
+        "Modern History",
         "Military History",
-        "Women in History",
+        "Colonial History",
         "Remarkable People",
+        "Women in History",
         "The Americas",
         "Disasters & Survival"
       ],
@@ -5787,11 +5744,11 @@
       "hash": "33f4096e993f765678e29bd90136e7081dbbbcf03b82a71df3639e1bee878a5b",
       "text": "Royal Governor of Chile José de Garro planned to defeat the Mapuches by taking their chiefs hostage in a ruse, but the plan was rejected by King Charles II of Spain as too deceitful",
       "tags": [
-        "Colonial History",
+        "Modern History",
         "Military History",
+        "Colonial History",
         "Politics & Government",
-        "The Americas",
-        "Modern History"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -5830,6 +5787,7 @@
       "tags": [
         "Modern History",
         "American Sports",
+        "Global Sports",
         "The Americas"
       ],
       "image": {
@@ -5869,7 +5827,6 @@
       "tags": [
         "Literature & Books",
         "Philosophy & Ethics",
-        "Sociology",
         "Hidden Histories"
       ],
       "image": {
@@ -5909,8 +5866,8 @@
       "tags": [
         "Literature & Books",
         "Visual Art",
-        "Remarkable People",
         "Global Sports",
+        "Remarkable People",
         "Europe"
       ],
       "image": {
@@ -5951,7 +5908,7 @@
         "Music",
         "Remarkable People",
         "Women in History",
-        "Modern History"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -5984,10 +5941,10 @@
       "text": "Jewelers' Row in Philadelphia was the first speculative housing development in the United States, featuring that country's first row houses",
       "tags": [
         "Modern History",
-        "Economics & Trade",
+        "Colonial History",
         "Architecture",
-        "The Americas",
-        "Hidden Histories"
+        "Economics & Trade",
+        "The Americas"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jewelers%27_Row_S._8th_Street_west_side_looking_north.jpg",
@@ -6029,8 +5986,9 @@
       "hash": "50084db7b0c64d2dcb707430b13e2f3f9dda18775752398c3aa2fddee47027cf",
       "text": "Book peddlers played an important cultural role in various countries, for which they sometimes suffered state persecution and sometimes enjoyed state protection",
       "tags": [
-        "History",
+        "Modern History",
         "Politics & Government",
+        "Law & Justice",
         "Economics & Trade",
         "Literature & Books",
         "Hidden Histories"
@@ -6057,9 +6015,9 @@
       "tags": [
         "Olympics",
         "Global Sports",
+        "Remarkable People",
         "Food & Drink",
-        "Oceania & Pacific",
-        "Remarkable People"
+        "Oceania & Pacific"
       ],
       "image": {
         "url": null,
@@ -6104,8 +6062,8 @@
         "Modern History",
         "Colonial History",
         "Politics & Government",
-        "Remarkable People",
-        "Asia"
+        "Asia",
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -6149,8 +6107,8 @@
       "tags": [
         "Modern History",
         "Politics & Government",
-        "Europe",
         "Human Rights",
+        "Europe",
         "Cold War"
       ],
       "image": {
@@ -6180,9 +6138,9 @@
       "tags": [
         "Military History",
         "Modern History",
+        "Holocaust & WWII",
         "Inventions & Technology",
-        "Europe",
-        "Hidden Histories"
+        "Europe"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Airco_DH_10_ExCC.jpg",
@@ -6219,11 +6177,10 @@
       "hash": "8663e960bc7ed280b339777a46be83262dbfc6f9edd703f432c20dd8e19dfcb8",
       "text": "Kannada poet and Indian political activist Kayyara Kinyanna Rai published his first journal, Susheela, at the age of 12",
       "tags": [
-        "Literature & Books",
         "Politics & Government",
+        "Literature & Books",
         "Remarkable People",
-        "Asia",
-        "Modern History"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -6258,8 +6215,7 @@
         "Literature & Books",
         "Visual Art",
         "World Records",
-        "The Americas",
-        "Hidden Histories"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -6287,10 +6243,11 @@
       "text": "President Ngo Dinh Diem survived the 1962 South Vietnamese Presidential Palace bombing after a 500 lb (225 kg) bomb landed in his room and failed to detonate",
       "tags": [
         "Modern History",
+        "Military History",
         "Cold War",
         "Politics & Government",
-        "Asia",
         "Remarkable People",
+        "Asia",
         "Disasters & Survival"
       ],
       "image": {
@@ -6318,9 +6275,10 @@
       "hash": "c3ea2f33f7d50e63fb55a929bb6417e46ee66044f52f8009696d82718b76a365",
       "text": "John Ives was elected a fellow of both the Society of Antiquaries and the Royal Society by the age of 21",
       "tags": [
-        "Scientists & Thinkers",
         "Remarkable People",
-        "Modern History"
+        "Scientists & Thinkers",
+        "Modern History",
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -6354,8 +6312,8 @@
       "tags": [
         "Modern History",
         "The Americas",
-        "Unusual Deaths & Accidents",
-        "Disasters & Survival"
+        "Disasters & Survival",
+        "Unusual Deaths & Accidents"
       ],
       "image": {
         "url": null,
@@ -6392,10 +6350,10 @@
       "hash": "66506fa75d0fce5ca02b4693253d3e64820ee96e5aa4a00c5bb4ba8dfc4cbba6",
       "text": "Du battant des lames au sommet des montagnes ( French for \"From the beating of the waves to the summit of the mountains\") is a legal description of the manner in which the island of Réunion was divided into parcels",
       "tags": [
-        "Colonial History",
         "Law & Justice",
-        "Oceania & Pacific",
-        "Hidden Histories"
+        "Modern History",
+        "Colonial History",
+        "Africa"
       ],
       "image": {
         "url": null,
@@ -6468,7 +6426,6 @@
       "text": "When the Sudanese Boeing 737 Air West Flight 612 was hijacked, the hijacker originally wanted to fly to Rome or London but was forced to settle for Chad due to a lack of fuel",
       "tags": [
         "Modern History",
-        "Politics & Government",
         "Criminals & Outlaws",
         "Africa",
         "Europe",
@@ -6538,8 +6495,7 @@
         "Modern History",
         "Religion & Faith",
         "Architecture",
-        "Europe",
-        "Hidden Histories"
+        "Europe"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Oxford%2C_Church_of_St_Thomas_the_Martyr%2C_from_the_east.jpg",
@@ -6566,7 +6522,8 @@
       "hash": "b543cf286b7e0d7578ef7ec0b6b0f5e289ee35c4074245b33303c2c0a6b945f2",
       "text": "The mushroom Lactarius rubrilacteus is also known as the \" Bleeding milkcap \" because it releases a dark-red milky substance when sliced or cut",
       "tags": [
-        "Biology & Nature"
+        "Biology & Nature",
+        "Food & Drink"
       ],
       "image": {
         "url": null,
@@ -6603,11 +6560,10 @@
       "hash": "7ac9e77749ed89a39c2a8065d66c00793bad70b23975cde40770cc0ebfed5d40",
       "text": "The South Seas Evangelical Church, the third-largest religious affiliation in the Solomon Islands, traces its history to a mission for Kanakas in Queensland, Australia",
       "tags": [
+        "Religion & Faith",
         "Modern History",
         "Colonial History",
-        "Religion & Faith",
-        "Oceania & Pacific",
-        "Hidden Histories"
+        "Oceania & Pacific"
       ],
       "image": {
         "url": null,
@@ -6654,8 +6610,8 @@
       "hash": "1f64d8ad368150c58439666f6ac7b298c1c3d90c1c12f8604f867537867b6c54",
       "text": "British Conservative politician Robert Jones was the only person to represent the parliamentary constituency of West Hertfordshire from its creation in 1983 to its abolition in 1997",
       "tags": [
-        "Modern History",
         "Politics & Government",
+        "Modern History",
         "Europe",
         "Remarkable People"
       ],
@@ -6729,11 +6685,10 @@
       "hash": "86e6e79f6187f279dd70c9ffd714876ebc80704eaf9a9dee85b2acbd12de27ab",
       "text": "Pankaj Gupta was one of the earliest Indian sports administrators involved in football, hockey and cricket",
       "tags": [
-        "Modern History",
         "Remarkable People",
         "Global Sports",
         "Asia",
-        "Hidden Histories"
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -6776,10 +6731,10 @@
       "text": "In the 100th meeting of the Red River Shootout, the Texas Longhorns tied their record for biggest margin of victory over their rival, the Oklahoma Sooners",
       "tags": [
         "American Sports",
+        "Global Sports",
         "Extreme Sports & Records",
-        "World Records",
         "The Americas",
-        "Modern History"
+        "World Records"
       ],
       "image": {
         "url": null,
@@ -6806,11 +6761,11 @@
       "hash": "3b63348fe2c274b4a65c9d581463536adc2994ab3c62c358e20515c4bba8edf5",
       "text": "Wee Chong Jin, one of the former judicial officers of the Republic of Singapore, was the longest-serving Chief Justice of Singapore and of a Commonwealth country, having held the post for over 27 years",
       "tags": [
-        "Modern History",
         "Politics & Government",
         "Law & Justice",
         "Remarkable People",
         "Asia",
+        "Modern History",
         "World Records"
       ],
       "image": {
@@ -6851,8 +6806,8 @@
         "Human Rights",
         "Remarkable People",
         "Scientists & Thinkers",
-        "Philosophy & Ethics",
-        "Asia"
+        "Asia",
+        "Philosophy & Ethics"
       ],
       "image": {
         "url": null,
@@ -6879,11 +6834,10 @@
       "hash": "22a1e57f718a5faa528e48b590fca0737d20d107a23bec0c9347908f3581775d",
       "text": "Ashley Mallett, Australia 's most successful post-war off spinner, had his career curtailed by arthritis",
       "tags": [
-        "Medicine & Health",
-        "Remarkable People",
         "Global Sports",
-        "Oceania & Pacific",
-        "Modern History"
+        "Remarkable People",
+        "Medicine & Health",
+        "Oceania & Pacific"
       ],
       "image": {
         "url": null,
@@ -6926,9 +6880,7 @@
       "text": "The genus Brachyplatystoma includes many large species of Amazonian catfish, including one which may reach about 3.6 metres (almost 12 feet ) in length",
       "tags": [
         "Biology & Nature",
-        "The Americas",
-        "World Records",
-        "Animals in History"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -6983,7 +6935,7 @@
         "Modern History",
         "Military History",
         "Europe",
-        "Hidden Histories"
+        "Animals in History"
       ],
       "image": {
         "url": null,
@@ -7027,8 +6979,7 @@
       "tags": [
         "Biology & Nature",
         "Africa",
-        "World Records",
-        "Animals in History"
+        "World Records"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Rothschild%27s_Giraffe_%28Giraffa_camelopardalis_rothschildi%29_male_%287068054987%29%2C_crop_%26_edit.jpg",
@@ -7090,7 +7041,9 @@
         "Politics & Government",
         "Human Rights",
         "Religion & Faith",
+        "Architecture",
         "Visual Art",
+        "Asia",
         "Middle East"
       ],
       "image": {
@@ -7126,6 +7079,7 @@
         "Modern History",
         "Military History",
         "Holocaust & WWII",
+        "Remarkable People",
         "Oceania & Pacific",
         "Disasters & Survival"
       ],
@@ -7173,7 +7127,7 @@
         "Religion & Faith",
         "Global Sports",
         "Asia",
-        "Law & Justice"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -7207,9 +7161,9 @@
       "tags": [
         "Colonial History",
         "Politics & Government",
-        "Law & Justice",
         "Remarkable People",
-        "The Americas"
+        "The Americas",
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -7390,8 +7344,7 @@
         "Economics & Trade",
         "Cinema & Film",
         "Remarkable People",
-        "The Americas",
-        "Hidden Histories"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -7430,6 +7383,7 @@
       "tags": [
         "Politics & Government",
         "Human Rights",
+        "Remarkable People",
         "Europe"
       ],
       "image": {
@@ -7524,7 +7478,6 @@
       "hash": "e6c77ea40eed58d709b0339ae4fce77f0deea1a82798a5b2e98c773794f99521",
       "text": "The Achelous -class landing craft repair ship USS Krishna and her sister ship USS Indra are the only U.S. Naval vessels to have borne the name of Hindu deities",
       "tags": [
-        "Modern History",
         "Military History",
         "Religion & Faith",
         "Mythology & Folklore",
@@ -7580,7 +7533,6 @@
       "hash": "062b41c70f30cc4491d7ea25c8f590a6c317458a4a406744917b3e880411f51c",
       "text": "The body of a 5th-century Germanic warrior found with the Treasure of Pouan was initially thought to be that of Theodoric I",
       "tags": [
-        "Ancient History",
         "Medieval History",
         "Military History",
         "Europe",
@@ -7613,10 +7565,9 @@
       "text": "Australian cricketer John Gleeson attributed the finger strength used in his two-finger bowling action to a childhood of milking cows",
       "tags": [
         "Global Sports",
-        "Remarkable People",
-        "Biology & Nature",
         "Oceania & Pacific",
-        "Hidden Histories"
+        "Remarkable People",
+        "Biology & Nature"
       ],
       "image": {
         "url": null,
@@ -7703,8 +7654,7 @@
         "Military History",
         "Cold War",
         "Politics & Government",
-        "Asia",
-        "Hidden Histories"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -7736,11 +7686,9 @@
       "hash": "edcaa45979e59946312f8d2c9b90407f47e53ab5ae800368991d2c35f1d941b7",
       "text": "Professional Wrestling Hall of Fame inductee John Pesek was also inducted into the Greyhound National Hall of Fame",
       "tags": [
-        "Remarkable People",
         "American Sports",
         "Global Sports",
-        "Animals in History",
-        "Extreme Sports & Records"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -7774,10 +7722,9 @@
       "tags": [
         "Modern History",
         "Military History",
-        "Politics & Government",
         "Remarkable People",
         "The Americas",
-        "Hidden Histories"
+        "Politics & Government"
       ],
       "image": {
         "url": null,
@@ -7851,9 +7798,7 @@
       "text": "Light echoes appear to exceed the speed of light due to simple interstellar illusions",
       "tags": [
         "Space & Astronomy",
-        "Physics & Chemistry",
-        "Scientists & Thinkers",
-        "Curiosities"
+        "Physics & Chemistry"
       ],
       "image": {
         "url": null,
@@ -7891,10 +7836,11 @@
       "text": "Despite the scar literature after the Cultural Revolution in China contributing to Deng Xiaoping 's return to power, he later suppressed it",
       "tags": [
         "Modern History",
+        "Cold War",
         "Politics & Government",
         "Literature & Books",
         "Asia",
-        "Hidden Histories"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -7932,11 +7878,11 @@
       "text": "The Irish – Australian surveyor Robert D. Fitzgerald became so skilled in his hobby of botany that Charles Darwin corresponded with him and 4 plants were named in his honour",
       "tags": [
         "Biology & Nature",
-        "Scientists & Thinkers",
-        "Remarkable People",
-        "Oceania & Pacific",
         "Modern History",
-        "Hidden Histories"
+        "Colonial History",
+        "Remarkable People",
+        "Scientists & Thinkers",
+        "Oceania & Pacific"
       ],
       "image": {
         "url": null,
@@ -7979,9 +7925,8 @@
       "text": "Churumuri.com, one of the most popular blogs on WordPress.com, is named after a snack made of puffed rice that is a speciality of Mysore, Karnataka in India",
       "tags": [
         "Food & Drink",
-        "Asia",
         "Internet Culture",
-        "Mythology & Folklore"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -8028,6 +7973,7 @@
       "hash": "41a83f79cb5c78d455d4a73dfcd046af4ac40064ed1f48b105aba30fb23833cc",
       "text": "The Governors Court in New South Wales had a rule barring ex-convict lawyers from appearing before it, but all of the lawyers in the penal colony were ex-convicts",
       "tags": [
+        "Modern History",
         "Colonial History",
         "Politics & Government",
         "Law & Justice",
@@ -8066,8 +8012,8 @@
       "text": "Gilbert Jessop called Henry Scattergood America's greatest wicket-keeper",
       "tags": [
         "Global Sports",
-        "The Americas",
         "Remarkable People",
+        "The Americas",
         "Modern History"
       ],
       "image": {
@@ -8101,8 +8047,8 @@
       "text": "British philosopher Iain King is attempting to apply the scientific revolution to ethics",
       "tags": [
         "Philosophy & Ethics",
-        "Modern History",
         "Scientists & Thinkers",
+        "Modern History",
         "Europe"
       ],
       "image": {
@@ -8140,11 +8086,10 @@
       "hash": "9b87e63f7136bb0d2607b6a416c8e790307c9ab264bb39d7a0034f6c426f34d6",
       "text": "The Russian Federal Atomic Energy Agency is building nuclear power plants that float on water",
       "tags": [
-        "Politics & Government",
         "Inventions & Technology",
         "Physics & Chemistry",
-        "Europe",
-        "Asia"
+        "Politics & Government",
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -8171,9 +8116,9 @@
       "hash": "d228c79f5b240a9e5273f84bbe81247851b076733c7d967b7f3ed8587fbb8e01",
       "text": "During the 2007 Rolex 24 At Daytona, Katherine Legge completed the one millionth lap in the history of the race",
       "tags": [
-        "Modern History",
-        "Women in History",
         "Global Sports",
+        "Remarkable People",
+        "Women in History",
         "Extreme Sports & Records",
         "World Records"
       ],
@@ -8202,8 +8147,7 @@
       "hash": "4284c7fee3828fe0fbb60ebf8e4d41ea7bae01cda710a7559a2ec33dc0af8ef0",
       "text": "Dusky Woodswallows roost together in large flocks during the breeding season to protect their young from predators",
       "tags": [
-        "Biology & Nature",
-        "Animals in History"
+        "Biology & Nature"
       ],
       "image": {
         "url": null,
@@ -8235,10 +8179,10 @@
       "hash": "e799152912bb9cb9968db70fff5232fa0deccdc14e26df209c582a346c7ac693",
       "text": "The person or group responsible for the blackmail letters of the Glico Morinaga case in Japan is known as the Monster with 21 Faces",
       "tags": [
-        "Modern History",
         "Law & Justice",
         "Criminals & Outlaws",
         "Asia",
+        "Modern History",
         "Hidden Histories"
       ],
       "image": {
@@ -8278,9 +8222,10 @@
       "tags": [
         "Law & Justice",
         "Economics & Trade",
-        "Criminals & Outlaws",
+        "Military History",
         "The Americas",
-        "Philosophy & Ethics"
+        "Criminals & Outlaws",
+        "Hoaxes & Forgeries"
       ],
       "image": {
         "url": null,
@@ -8323,9 +8268,8 @@
       "text": "Joachim Piccolomini was repeatedly urged by his fellow Servites to become a priest, but felt unworthy to be anything more than an altar server",
       "tags": [
         "Religion & Faith",
-        "Medieval History",
-        "Europe",
-        "Remarkable People"
+        "Remarkable People",
+        "Europe"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Joachim_Piccolomini.JPG",
@@ -8362,9 +8306,9 @@
       "hash": "1b234ad458e3d9e22865f8ae14bb5bd2017fbf2de10c32dfedef9c6d16586c1b",
       "text": "Neville Duke was the top Allied fighter ace in the Mediterranean theatre in World War II, having shot down at least 27 aircraft",
       "tags": [
-        "Modern History",
         "Military History",
         "Holocaust & WWII",
+        "Modern History",
         "Remarkable People",
         "Europe"
       ],
@@ -8399,9 +8343,10 @@
       "text": "The Tennessee Lady Volunteers basketball program is the only college women's team to appear in every NCAA Tournament and every Sweet 16",
       "tags": [
         "American Sports",
-        "Women in History",
-        "World Records",
-        "Modern History"
+        "Global Sports",
+        "Extreme Sports & Records",
+        "The Americas",
+        "World Records"
       ],
       "image": {
         "url": null,
@@ -8428,6 +8373,7 @@
       "hash": "e3d99721c399f05d298a2a801e1702dc583c7fd075aabf594ea6cfb166d34efc",
       "text": "In the book Beyond Capricorn Peter Trickett claims that the Portuguese were the first to discover Australia, between 1519-24",
       "tags": [
+        "Modern History",
         "Colonial History",
         "Literature & Books",
         "Explorers & Adventurers",
@@ -8466,7 +8412,7 @@
       "tags": [
         "Modern History",
         "Colonial History",
-        "Politics & Government",
+        "Military History",
         "Africa",
         "Remarkable People",
         "Unusual Deaths & Accidents"
@@ -8511,11 +8457,9 @@
       "hash": "58cfb94673191fd7b0a7c590d17288a225978ac2f3dff331edca7d4685976c02",
       "text": "Uruguayan footballer Víctor Rodríguez Andrade helped found the Uruguayan Basketball Federation team 25 de Agosto",
       "tags": [
-        "Modern History",
-        "Remarkable People",
         "Global Sports",
-        "The Americas",
-        "Hidden Histories"
+        "Remarkable People",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -8553,11 +8497,11 @@
       "text": "Zhang Chengzhi, who formed China 's first group of Red Guards while a student at Tsinghua University Middle School, converted to Islam",
       "tags": [
         "Modern History",
+        "Cold War",
         "Politics & Government",
         "Religion & Faith",
         "Remarkable People",
-        "Asia",
-        "Hidden Histories"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -8637,9 +8581,9 @@
       "hash": "968b737f93b7828dfbf9fdae340a0a3152501405a8f7040f94794b1c9c897d88",
       "text": "A version of the traditional Bengali panjika, the Hindu astrological almanac, comes with an interactive CD-ROM",
       "tags": [
-        "Religion & Faith",
         "Space & Astronomy",
         "Inventions & Technology",
+        "Religion & Faith",
         "Literature & Books",
         "Asia"
       ],
@@ -8684,10 +8628,8 @@
       "text": "None of the storms of the 1970 North Indian Ocean cyclone season in the Arabian Sea made landfall",
       "tags": [
         "Modern History",
-        "Biology & Nature",
         "Geology & Earth Science",
         "Asia",
-        "Middle East",
         "Disasters & Survival"
       ],
       "image": {
@@ -8723,7 +8665,8 @@
         "Modern History",
         "Military History",
         "Politics & Government",
-        "Europe"
+        "Europe",
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -8807,7 +8750,8 @@
         "Modern History",
         "Explorers & Adventurers",
         "Extreme Sports & Records",
-        "World Records"
+        "World Records",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -8847,6 +8791,7 @@
         "Medieval History",
         "Music",
         "Europe",
+        "Remarkable People",
         "Hidden Histories"
       ],
       "image": {
@@ -8895,7 +8840,7 @@
       "text": "The Los Angeles Lakers and San Antonio Spurs (black jerseys) had an intense rivalry, during which the two teams won a total of six NBA championships in seven seasons",
       "tags": [
         "American Sports",
-        "Extreme Sports & Records",
+        "Global Sports",
         "The Americas"
       ],
       "image": {
@@ -8938,11 +8883,11 @@
       "hash": "0a5a7c1558631cfa5894b68e56ec15850a28fd7597b1d3593438a5869bfeb821",
       "text": "Gottlieb Ott changed Berne 's cityscape both by constructing new buildings and removing a medieval tower",
       "tags": [
-        "Medieval History",
         "Architecture",
+        "Modern History",
+        "Medieval History",
         "Remarkable People",
-        "Europe",
-        "Modern History"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -9010,9 +8955,9 @@
       "text": "Species of Prosaurolophus, a duckbilled dinosaur, have been described by Barnum Brown and Jack Horner, two of the most prominent paleontologists of the 20th century",
       "tags": [
         "Biology & Nature",
-        "Scientists & Thinkers",
-        "Animals in History",
-        "Remarkable People"
+        "Geology & Earth Science",
+        "Remarkable People",
+        "Scientists & Thinkers"
       ],
       "image": {
         "url": null,
@@ -9062,8 +9007,7 @@
         "Cinema & Film",
         "Literature & Books",
         "Comedy & Satire",
-        "Internet Culture",
-        "Mythology & Folklore"
+        "Biology & Nature"
       ],
       "image": {
         "url": null,
@@ -9108,8 +9052,8 @@
         "Modern History",
         "Military History",
         "Holocaust & WWII",
-        "Africa",
-        "Europe"
+        "Europe",
+        "Africa"
       ],
       "image": {
         "url": null,
@@ -9136,10 +9080,11 @@
       "hash": "55d10d31e8eb16abaad10dec05cf6ecce47598e4fab65535e6defc49553eb07e",
       "text": "The Mather School in Dorchester, Massachusetts, is the oldest free public elementary school in North America",
       "tags": [
+        "Modern History",
         "Colonial History",
+        "Politics & Government",
         "The Americas",
-        "Hidden Histories",
-        "Modern History"
+        "World Records"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/en/d/da/Matherlogo.png",
@@ -9177,9 +9122,9 @@
       "text": "Jerry Zimmerman was the last active Major League Baseball coach to umpire a major league game",
       "tags": [
         "American Sports",
-        "Modern History",
+        "Global Sports",
         "Remarkable People",
-        "World Records",
+        "Modern History",
         "The Americas"
       ],
       "image": {
@@ -9212,12 +9157,11 @@
       "hash": "b0b29eb224ec59e68f5318a7e8387a9bdfd4a4d83b14d09fa3868757670af5d0",
       "text": "The first recorded use of \" mad as a March hare \", which refers to the antics of hares during their breeding season, was written by Sir Thomas More in 1529",
       "tags": [
-        "Medieval History",
+        "Modern History",
         "Biology & Nature",
         "Literature & Books",
         "Remarkable People",
-        "Animals in History",
-        "Europe"
+        "Animals in History"
       ],
       "image": {
         "url": null,
@@ -9258,7 +9202,7 @@
         "Cold War",
         "Politics & Government",
         "Europe",
-        "Hidden Histories"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -9300,11 +9244,9 @@
       "hash": "16889dfdbe9d4e9fa4c73008ff1b5a7964ab9f4673fe77c64458d922100237bd",
       "text": "Mother Theresa University, in Vilpatti Panchayat, South India, is the nation's only university exclusively devoted to women's issues",
       "tags": [
-        "Asia",
-        "Women in History",
         "Human Rights",
-        "Politics & Government",
-        "Philosophy & Ethics"
+        "Women in History",
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -9339,6 +9281,7 @@
         "Modern History",
         "Medicine & Health",
         "Biology & Nature",
+        "Inventions & Technology",
         "Scientists & Thinkers",
         "Animals in History"
       ],
@@ -9377,11 +9320,10 @@
       "hash": "1efcd7de4b4394e318eaa9868f66b729d623520cb3227286385b5d516a0ebdd1",
       "text": "The Korean dialect spoken by ethnic Koreans in Japan has changed so much that some of its speakers don't think it can be properly referred to as \" Korean \" anymore",
       "tags": [
-        "Colonial History",
         "Asia",
+        "Colonial History",
         "Modern History",
-        "Hidden Histories",
-        "Society"
+        "Arts & Culture"
       ],
       "image": {
         "url": null,
@@ -9419,8 +9361,8 @@
       "text": "The lockstep walking was a trademark of the American prison system of the 19th century and sometimes replaced the military step of inmates as a form of punishment",
       "tags": [
         "Modern History",
-        "Military History",
         "Law & Justice",
+        "Human Rights",
         "The Americas",
         "Hidden Histories"
       ],
@@ -9454,7 +9396,7 @@
       "hash": "31cdba39e1e1324f214b57d84a2c2fb68a6cf9abf19d22dd52e2677761fb86c5",
       "text": "Berne 's Christoffelturm, when it was over 500 years old, was pulled down in a political move that had 415 supporters and 412 opposers",
       "tags": [
-        "Medieval History",
+        "Modern History",
         "Politics & Government",
         "Architecture",
         "Europe",
@@ -9487,6 +9429,8 @@
       "tags": [
         "Law & Justice",
         "Politics & Government",
+        "Human Rights",
+        "Philosophy & Ethics",
         "The Americas"
       ],
       "image": {
@@ -9520,9 +9464,9 @@
       "text": "Ninasam, a cultural organization in Karnataka, India, had a project sponsored by the Ford Foundation of the United States",
       "tags": [
         "Asia",
-        "Arts & Culture",
-        "Society",
-        "Economics & Trade"
+        "Economics & Trade",
+        "Politics & Government",
+        "Literature & Books"
       ],
       "image": {
         "url": null,
@@ -9566,6 +9510,7 @@
       "tags": [
         "Inventions & Technology",
         "Global Sports",
+        "Modern History",
         "The Americas",
         "Hidden Histories"
       ],
@@ -9607,10 +9552,8 @@
         "Medieval History",
         "Religion & Faith",
         "Remarkable People",
-        "Middle East",
         "Africa",
-        "Unusual Deaths & Accidents",
-        "Hidden Histories"
+        "Unusual Deaths & Accidents"
       ],
       "image": {
         "url": null,
@@ -9668,9 +9611,9 @@
       "text": "During the Battle of Dalmatia, Croatian forces were so ill-equipped that they stuffed explosives into Coca-Cola cans to create hand grenades",
       "tags": [
         "Military History",
-        "Inventions & Technology",
-        "Food & Drink",
+        "Modern History",
         "Europe",
+        "Inventions & Technology",
         "Hidden Histories"
       ],
       "image": {
@@ -9760,8 +9703,8 @@
       "tags": [
         "Cinema & Film",
         "Comedy & Satire",
-        "Modern History",
-        "Europe"
+        "Europe",
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -9833,12 +9776,11 @@
       "hash": "e20edc5c9eef1005af315beeadfb7ffbf6e978f5af3b5fc7fc89a22fec604d62",
       "text": "Rajarsi Janakananda, before becoming the leading disciple of Hindu Guru Paramahansa Yogananda, was a self-made American millionaire named James Jesse Lynn",
       "tags": [
-        "Modern History",
         "Religion & Faith",
-        "Economics & Trade",
         "Remarkable People",
+        "Modern History",
         "The Americas",
-        "Hidden Histories"
+        "Economics & Trade"
       ],
       "image": {
         "url": null,
@@ -9884,8 +9826,7 @@
         "Literature & Books",
         "Remarkable People",
         "Scientists & Thinkers",
-        "Modern History",
-        "Mythology & Folklore"
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -9930,8 +9871,6 @@
         "Modern History",
         "Military History",
         "Physics & Chemistry",
-        "Inventions & Technology",
-        "Remarkable People",
         "Scientists & Thinkers",
         "Europe"
       ],
@@ -9974,8 +9913,7 @@
         "Politics & Government",
         "Cinema & Film",
         "Remarkable People",
-        "The Americas",
-        "Hidden Histories"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -10027,11 +9965,11 @@
       "hash": "792fb7f06af9e7c6132b8311e3a28eb7c39b3360092fa1f9f812b24af788cd4d",
       "text": "The Aichi D1A was a carrier -borne dive bomber primarily used by the Imperial Japanese Navy during the Second Sino-Japanese War",
       "tags": [
-        "Modern History",
         "Military History",
+        "Holocaust & WWII",
         "Inventions & Technology",
         "Asia",
-        "Oceania & Pacific"
+        "Modern History"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Aichi_D1A2.jpg",
@@ -10073,8 +10011,7 @@
       "hash": "d86bdae12c19e1189513bfce416d63c164ccb5738df1ff492727791f3f4a6a1f",
       "text": "A nonconvex polygon with three convex vertices is called a pseudotriangle",
       "tags": [
-        "Mathematics",
-        "Scientists & Thinkers"
+        "Mathematics"
       ],
       "image": {
         "url": null,
@@ -10108,9 +10045,9 @@
       "tags": [
         "Inventions & Technology",
         "Economics & Trade",
-        "Politics & Government",
         "Law & Justice",
-        "Philosophy & Ethics"
+        "Human Rights",
+        "Internet Culture"
       ],
       "image": {
         "url": null,
@@ -10140,8 +10077,7 @@
         "Modern History",
         "Remarkable People",
         "Europe",
-        "Disasters & Survival",
-        "Hidden Histories"
+        "Disasters & Survival"
       ],
       "image": {
         "url": null,
@@ -10242,11 +10178,11 @@
       "hash": "a4485c34fc7ea6d02a49972b839546c20cb66ae3491698e38c7a9e2228689314",
       "text": "The Court of Civil Jurisdiction was the first civil court established in New South Wales, Australia",
       "tags": [
+        "Modern History",
         "Colonial History",
         "Politics & Government",
         "Law & Justice",
-        "Oceania & Pacific",
-        "Modern History"
+        "Oceania & Pacific"
       ],
       "image": {
         "url": null,
@@ -10286,8 +10222,7 @@
         "Modern History",
         "Inventions & Technology",
         "Unusual Deaths & Accidents",
-        "Disasters & Survival",
-        "Oceania & Pacific"
+        "Disasters & Survival"
       ],
       "image": {
         "url": null,
@@ -10325,10 +10260,8 @@
       "text": "The history of the Lutheran Church in Malaysia and Singapore dates back to the arrival of Lutheran Hakka refugees following the Taiping Rebellion in China",
       "tags": [
         "Modern History",
-        "Colonial History",
         "Religion & Faith",
-        "Asia",
-        "Hidden Histories"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -10417,11 +10350,10 @@
       "hash": "5c04414c83bc8707eb4a57c52f8429a669aaca0f8e51c40f153dedf6386e1754",
       "text": "Australian Olympic swimming champion Faith Leech grew up on a diet of carrot juice and beetroot after refusing all other food as a baby",
       "tags": [
+        "Food & Drink",
+        "Remarkable People",
         "Olympics",
         "Global Sports",
-        "Remarkable People",
-        "Women in History",
-        "Food & Drink",
         "Oceania & Pacific",
         "Medicine & Health"
       ],
@@ -10502,11 +10434,11 @@
       "hash": "0cd679da258c3deda83a71b4a075c5b8a0900aa2477d01e8a62316f435ab5f01",
       "text": "The pyramid scheme Holiday Magic was investigated by the State of California, the US Securities and Exchange Commission and the Federal Trade Commission and shut down for fraud",
       "tags": [
-        "Modern History",
-        "Politics & Government",
         "Law & Justice",
         "Economics & Trade",
         "Criminals & Outlaws",
+        "Hoaxes & Forgeries",
+        "Politics & Government",
         "The Americas"
       ],
       "image": {
@@ -10557,8 +10489,8 @@
         "Global Sports",
         "Extreme Sports & Records",
         "World Records",
-        "Europe",
-        "Remarkable People"
+        "Remarkable People",
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -10590,8 +10522,8 @@
       "hash": "22ec96783d8dad16ad76d387d2d73632a813f2e3dedd482376b078eae590c661",
       "text": "Polish-Jewish and American historian Adam Ulam escaped The Holocaust by leaving to study in the U.S. only days before the Germans invaded Poland",
       "tags": [
-        "Modern History",
         "Holocaust & WWII",
+        "Modern History",
         "Remarkable People",
         "Scientists & Thinkers",
         "Europe",
@@ -10644,11 +10576,11 @@
       "text": "The cities of Viterbo and Narni fought a two-year battle over where the popular nun Lucia Brocadelli of Narni would reside",
       "tags": [
         "Medieval History",
+        "Military History",
         "Religion & Faith",
         "Women in History",
         "Europe",
-        "Remarkable People",
-        "Hidden Histories"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -10689,6 +10621,7 @@
         "Military History",
         "Politics & Government",
         "Architecture",
+        "Cinema & Film",
         "The Americas",
         "Hidden Histories"
       ],
@@ -10729,10 +10662,10 @@
       "tags": [
         "Cinema & Film",
         "Remarkable People",
-        "Europe",
-        "The Americas",
         "Hoaxes & Forgeries",
-        "Hidden Histories"
+        "Modern History",
+        "Europe",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -10769,9 +10702,9 @@
       "hash": "5d7a843b71fa02fa0f8243a1706794153d27b9091dbd69616204f457e07f3195",
       "text": "John Downer, Premier of South Australia from 1885 to 1887, is the grandfather of Alexander Downer, the current Australian Minister for Foreign Affairs",
       "tags": [
+        "Politics & Government",
         "Modern History",
         "Colonial History",
-        "Politics & Government",
         "Remarkable People",
         "Oceania & Pacific"
       ],
@@ -10820,10 +10753,9 @@
       "hash": "316f19bf59a956426c7676532d4e5fe00df101278cc3d9dbe7fcd960718cdc50",
       "text": "Beighton Cup is the oldest field hockey tournament in the world",
       "tags": [
-        "Modern History",
         "Global Sports",
         "World Records",
-        "Hidden Histories"
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -10898,8 +10830,7 @@
       "tags": [
         "Economics & Trade",
         "Europe",
-        "Philosophy & Ethics",
-        "Society"
+        "Philosophy & Ethics"
       ],
       "image": {
         "url": null,
@@ -10947,13 +10878,11 @@
       "text": "Reginald H. Thomson, the civil engineer responsible for \"virtually all of Seattle 's infrastructure\", had a Ph.D. in philosophy",
       "tags": [
         "Modern History",
-        "Inventions & Technology",
         "Philosophy & Ethics",
         "Architecture",
         "Remarkable People",
         "Scientists & Thinkers",
-        "The Americas",
-        "Hidden Histories"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -10992,8 +10921,7 @@
       "tags": [
         "Biology & Nature",
         "Geology & Earth Science",
-        "Scientists & Thinkers",
-        "Curiosities"
+        "Hidden Histories"
       ],
       "image": {
         "url": null,
@@ -11027,7 +10955,6 @@
       "tags": [
         "Law & Justice",
         "Television",
-        "Cinema & Film",
         "Remarkable People",
         "The Americas"
       ],
@@ -11078,9 +11005,8 @@
       "tags": [
         "Medicine & Health",
         "Remarkable People",
-        "Biology & Nature",
-        "Philosophy & Ethics",
-        "Hidden Histories"
+        "World Records",
+        "Biology & Nature"
       ],
       "image": {
         "url": null,
@@ -11152,8 +11078,8 @@
       "hash": "009767840bd4572dfd13c442e9c636bf82734d75c6707a87aea0cd36fa9849c2",
       "text": "The Australian legal doctrine of Persona designata allows a judge to exercise non-judicial power, if it has been conferred to the judge personally, rather than to his or her court",
       "tags": [
-        "Politics & Government",
         "Law & Justice",
+        "Politics & Government",
         "Oceania & Pacific"
       ],
       "image": {
@@ -11187,8 +11113,8 @@
       "text": "The concept of cross-boundary subsidies is developed out of a merging of ideas from the studies of landscape ecology and food web ecology",
       "tags": [
         "Biology & Nature",
-        "Scientists & Thinkers",
-        "Economics & Trade"
+        "Economics & Trade",
+        "Scientists & Thinkers"
       ],
       "image": {
         "url": null,
@@ -11223,9 +11149,8 @@
         "Cinema & Film",
         "Television",
         "Remarkable People",
-        "Women in History",
-        "Oceania & Pacific",
-        "The Americas"
+        "The Americas",
+        "Oceania & Pacific"
       ],
       "image": {
         "url": null,
@@ -11260,8 +11185,8 @@
         "Law & Justice",
         "Medicine & Health",
         "Food & Drink",
-        "The Americas",
-        "Politics & Government"
+        "Politics & Government",
+        "The Americas"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Robertwsweet.jpg",
@@ -11293,8 +11218,7 @@
       "hash": "77705eae53a8431e03652c1b181b8e6c5aa9a37e3e12298f813397292d5b1b4a",
       "text": "Some species of Iridomyrmex ants have a symbiotic relationship with caterpillars",
       "tags": [
-        "Biology & Nature",
-        "Animals in History"
+        "Biology & Nature"
       ],
       "image": {
         "url": null,
@@ -11323,6 +11247,7 @@
       "tags": [
         "Ancient History",
         "Religion & Faith",
+        "Philosophy & Ethics",
         "Remarkable People",
         "Women in History",
         "Asia"
@@ -11425,10 +11350,11 @@
       "text": "Pedro Vuskovic 's plan to move Chile 's economy to a socialist model by democratic means led to runaway inflation and economic recession",
       "tags": [
         "Modern History",
+        "Cold War",
         "Politics & Government",
         "Economics & Trade",
-        "The Americas",
-        "Remarkable People"
+        "Remarkable People",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -11485,11 +11411,11 @@
       "hash": "a4c7c14ab115ac5e80f3a2b2dbc067be4831bcd8a9edca449250713942a98fea",
       "text": "The International Grape Genome Program in Adelaide, Australia discovered that white grapes only exist today due to a rare genetic mutation that took place thousands of years ago",
       "tags": [
-        "Ancient History",
         "Biology & Nature",
         "Food & Drink",
-        "Scientists & Thinkers",
-        "Oceania & Pacific"
+        "Oceania & Pacific",
+        "Ancient History",
+        "Inventions & Technology"
       ],
       "image": {
         "url": null,
@@ -11529,8 +11455,7 @@
         "Medieval History",
         "Religion & Faith",
         "Remarkable People",
-        "Europe",
-        "Mythology & Folklore"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -11635,8 +11560,8 @@
         "Global Sports",
         "Remarkable People",
         "Women in History",
-        "Oceania & Pacific",
-        "World Records"
+        "World Records",
+        "Oceania & Pacific"
       ],
       "image": {
         "url": null,
@@ -11671,8 +11596,7 @@
         "Modern History",
         "Politics & Government",
         "Remarkable People",
-        "Africa",
-        "Hidden Histories"
+        "Africa"
       ],
       "image": {
         "url": null,
@@ -11699,8 +11623,8 @@
       "hash": "21430c7a0efc4ae4c0f614dbe808104e6744605ba82082c538c4b032df4b4482",
       "text": "The events of Polish October together with Hungarian November shook the Eastern Bloc in 1956 and set the course for the Revolutions of 1989",
       "tags": [
-        "Modern History",
         "Cold War",
+        "Modern History",
         "Politics & Government",
         "Europe"
       ],
@@ -11740,7 +11664,6 @@
       "text": "...that, until Johannes Rebmann saw snow on Kilimanjaro in 1848, most Europeans thought it could not exist in Africa",
       "tags": [
         "Modern History",
-        "Biology & Nature",
         "Geology & Earth Science",
         "Explorers & Adventurers",
         "Africa",
@@ -11787,8 +11710,7 @@
         "Politics & Government",
         "Economics & Trade",
         "Remarkable People",
-        "Middle East",
-        "Hidden Histories"
+        "Middle East"
       ],
       "image": {
         "url": null,
@@ -11826,10 +11748,10 @@
       "text": "The preservation movement that resulted in the Chicago Landmark designation began with the 1957 adoption of the Frank Lloyd Wright Robie House",
       "tags": [
         "Modern History",
-        "Politics & Government",
         "Architecture",
-        "Remarkable People",
-        "The Americas"
+        "Fashion & Design",
+        "The Americas",
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -11864,8 +11786,7 @@
         "Medieval History",
         "Visual Art",
         "Remarkable People",
-        "Europe",
-        "Hidden Histories"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -11971,7 +11892,6 @@
       "text": "Charles M. Loring was the father of the park system in Minneapolis, where Horace Cleveland designed the Grand Rounds and Theodore Wirth placed a park near every home",
       "tags": [
         "Modern History",
-        "Biology & Nature",
         "Architecture",
         "Fashion & Design",
         "Remarkable People",
@@ -12023,10 +11943,9 @@
       "text": "Nihonga artist Ogura Yuki was the first woman to be selected chairperson of the Japan Art Academy, and one of only two women painters to be awarded Japan's Order of Culture",
       "tags": [
         "Visual Art",
-        "Women in History",
-        "Asia",
         "Remarkable People",
-        "Modern History"
+        "Women in History",
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -12063,11 +11982,10 @@
       "hash": "927d6f8fede5499f840023bec688cc8eb4eff40fade8919565e1a6c7618d3974",
       "text": "Joseph Smith Jr. instructed that members of the Latter Day Saints ' First Presidency and Quorum of the Twelve Apostles should be accepted by the church as prophets, seers, and revelators",
       "tags": [
-        "Modern History",
         "Religion & Faith",
+        "Modern History",
         "Remarkable People",
-        "The Americas",
-        "Philosophy & Ethics"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -12110,12 +12028,10 @@
       "text": "Nguyen Van Nhung, who executed Ngo Dinh Diem and Ngo Dinh Nhu following South Vietnam 's 1963 coup, was himself executed a few months later, after another coup",
       "tags": [
         "Modern History",
-        "Military History",
         "Cold War",
         "Politics & Government",
         "Asia",
-        "Remarkable People",
-        "Unusual Deaths & Accidents"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -12156,7 +12072,7 @@
         "Military History",
         "Remarkable People",
         "Europe",
-        "Oceania & Pacific"
+        "Asia"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Zavoiko_VS_1860_cropped.jpg",
@@ -12199,7 +12115,7 @@
       "text": "Thomas Lant called the College of Arms \"a company full of discord and envy?\"",
       "tags": [
         "Modern History",
-        "Politics & Government",
+        "Law & Justice",
         "Europe",
         "Remarkable People",
         "Hidden Histories"
@@ -12276,11 +12192,11 @@
       "text": "American John Thayer is the only known first-class cricketer to have died on the RMS Titanic",
       "tags": [
         "Modern History",
-        "The Americas",
         "Remarkable People",
         "Global Sports",
-        "Unusual Deaths & Accidents",
-        "Disasters & Survival"
+        "The Americas",
+        "Disasters & Survival",
+        "Unusual Deaths & Accidents"
       ],
       "image": {
         "url": null,
@@ -12312,8 +12228,8 @@
       "hash": "9f7863c2415bdadeacbaafd1f7788c6dff6c905a55b64308b873fe8930897ab4",
       "text": "The French-designed Minié rifle was the dominant infantry weapon of the American Civil War",
       "tags": [
-        "Military History",
         "Modern History",
+        "Military History",
         "Inventions & Technology",
         "The Americas",
         "Europe"
@@ -12350,8 +12266,6 @@
       "tags": [
         "Music",
         "Visual Art",
-        "Medieval History",
-        "Military History",
         "Europe",
         "Remarkable People"
       ],
@@ -12385,10 +12299,10 @@
       "hash": "771046a50f17a2a54e8e69cd2a7656e41c695b4674ec8525e1aa9dd26837e14c",
       "text": "David Lewis and his son Stephen Lewis served simultaneously as the leaders of the Canadian and Ontario New Democratic Party",
       "tags": [
-        "Modern History",
         "Politics & Government",
-        "The Americas",
-        "Remarkable People"
+        "Remarkable People",
+        "Modern History",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -12523,12 +12437,12 @@
       "hash": "43b8b2a1bd0ea4f45d7e35f583d8b3d652360b15e5dc91696844ba2b838258d4",
       "text": "Yasa, the sixth arahant of Gautama Buddha, was also the son and former husband of the first two female lay disciples",
       "tags": [
-        "Ancient History",
         "Religion & Faith",
+        "Philosophy & Ethics",
         "Remarkable People",
         "Women in History",
         "Asia",
-        "Hidden Histories"
+        "Ancient History"
       ],
       "image": {
         "url": null,
@@ -12560,10 +12474,11 @@
       "hash": "9e11f2ed6517c49d79afe2a00a2e92cfe299339fc0ea552f7c77c6ef9faf5073",
       "text": "Frederick Matthew Darley was offered the position of Chief Justice of New South Wales, Australia, twice, and that he refused it the first time as he would earn less money than if he continued to practise as a barrister",
       "tags": [
-        "Colonial History",
+        "Modern History",
         "Politics & Government",
         "Law & Justice",
         "Economics & Trade",
+        "Remarkable People",
         "Oceania & Pacific"
       ],
       "image": {
@@ -12603,10 +12518,10 @@
       "tags": [
         "Modern History",
         "Military History",
-        "Colonial History",
         "Politics & Government",
-        "Asia",
-        "Remarkable People"
+        "Religion & Faith",
+        "Remarkable People",
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -12662,7 +12577,7 @@
         "Economics & Trade",
         "Fashion & Design",
         "The Americas",
-        "Hidden Histories"
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -12699,8 +12614,9 @@
       "hash": "af02f761210b36ffc1fba69ba2e1cb84d946c0060927668877e689fadcb1b87a",
       "text": "The key area of NBA basketball courts was widened to reduce the effectiveness of dominating centers like George Mikan",
       "tags": [
-        "Modern History",
         "American Sports",
+        "Global Sports",
+        "Modern History",
         "Remarkable People"
       ],
       "image": {
@@ -12744,10 +12660,8 @@
       "text": "Fashion designer Gareth Pugh has earned critical acclaim for his clothing made of inflated PVC but has never sold a single dress",
       "tags": [
         "Fashion & Design",
-        "Visual Art",
         "Remarkable People",
-        "Economics & Trade",
-        "Curiosities"
+        "Economics & Trade"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Rsz_Gareth_pugh_london.jpg",
@@ -12780,11 +12694,10 @@
       "text": "Bollywood actress Shenaz Treasurywala was discovered while stuck in India when Kuwait Airways lost her luggage, including travel documents she needed to return to school in New York",
       "tags": [
         "Cinema & Film",
-        "Women in History",
+        "Remarkable People",
         "Asia",
-        "Middle East",
         "The Americas",
-        "Disasters & Survival"
+        "Middle East"
       ],
       "image": {
         "url": null,
@@ -12832,9 +12745,7 @@
       "text": "Alan Davidson, regarded as one of the greatest left arm fast bowlers in the history of cricket, only took up the skill when his uncle's weekend team ran out of fast bowlers",
       "tags": [
         "Global Sports",
-        "Remarkable People",
-        "Modern History",
-        "Hidden Histories"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -12867,8 +12778,7 @@
       "text": "The Beta Effect, which affects larger tropical cyclones and needs to be accounted for in tropical cyclone forecasting, forces a more northwest tropical cyclone track in the Northern Hemisphere",
       "tags": [
         "Geology & Earth Science",
-        "Biology & Nature",
-        "Scientists & Thinkers",
+        "Physics & Chemistry",
         "Disasters & Survival"
       ],
       "image": {
@@ -12902,10 +12812,10 @@
       "text": "When the Workers Party of North Korea was founded in 1946, Kim Il-sung was given the position of Vice Chairman of the party",
       "tags": [
         "Modern History",
+        "Cold War",
         "Politics & Government",
-        "Asia",
         "Remarkable People",
-        "Cold War"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -12934,8 +12844,8 @@
       "tags": [
         "Inventions & Technology",
         "Music",
+        "Food & Drink",
         "Remarkable People",
-        "Hidden Histories",
         "The Americas"
       ],
       "image": {
@@ -12982,7 +12892,7 @@
         "Mythology & Folklore",
         "Architecture",
         "Europe",
-        "Visual Art"
+        "Inventions & Technology"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Zytglogge_01.jpg",
@@ -13024,12 +12934,11 @@
       "hash": "91069f5e486759d94f7d702db1b07457edb65a8b18a1d8dad39b90b1bac736aa",
       "text": "When Katherine Ann Power, a fugitive from justice for 23 years before turning herself in, was on the run in Oregon, she was treated for depression by Courtney Love 's mother",
       "tags": [
-        "Modern History",
         "Law & Justice",
+        "Medicine & Health",
         "Criminals & Outlaws",
-        "Women in History",
         "The Americas",
-        "Hidden Histories"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -13109,11 +13018,10 @@
       "hash": "1c14b92564e4276f8424a717b47e07a4ceec5a0da76494fc1c5a7982e62d5b8e",
       "text": "Long after Lana Stempien died by drowning, someone or something turned on the GPS system on her abandoned boat",
       "tags": [
-        "Unusual Deaths & Accidents",
+        "Law & Justice",
         "Inventions & Technology",
-        "Disasters & Survival",
-        "Hidden Histories",
-        "Women in History"
+        "Unusual Deaths & Accidents",
+        "Disasters & Survival"
       ],
       "image": {
         "url": null,
@@ -13136,9 +13044,9 @@
       "text": "After being captured by pirates, friar Matthew Carrieri offered to remain a captive in place of others, which shocked the pirate captain so much he set all the prisoners free",
       "tags": [
         "Religion & Faith",
+        "Philosophy & Ethics",
         "Remarkable People",
         "Criminals & Outlaws",
-        "Philosophy & Ethics",
         "Disasters & Survival",
         "Hidden Histories"
       ],
@@ -13171,6 +13079,7 @@
         "Cold War",
         "Politics & Government",
         "Law & Justice",
+        "Human Rights",
         "The Americas"
       ],
       "image": {
@@ -13243,9 +13152,7 @@
       "tags": [
         "Ancient History",
         "Visual Art",
-        "Africa",
-        "Middle East",
-        "Remarkable People"
+        "Africa"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Ankhhaf_Bust.jpg",
@@ -13321,7 +13228,6 @@
         "Military History",
         "Biology & Nature",
         "The Americas",
-        "Modern History",
         "Hidden Histories"
       ],
       "image": {
@@ -13364,8 +13270,8 @@
       "hash": "52ed287f5db9d9229cfba3d50539ab5b28178de045b04bdc182fedb18261067b",
       "text": "Generic antecedents are essential parts of communication; and there are many strategies to refer to them clearly and appropriately",
       "tags": [
-        "Philosophy & Ethics",
         "Literature & Books",
+        "Philosophy & Ethics",
         "Scientists & Thinkers"
       ],
       "image": {
@@ -13388,11 +13294,9 @@
       "hash": "80f131947888bd7c85e9f1d4c61f32cfcc051ba71073e53946d16921a0c81611",
       "text": "The 1975 film Tubby the Tuba marked the first time that computers were used in the production of an animated feature",
       "tags": [
-        "Modern History",
-        "Inventions & Technology",
-        "Music",
         "Cinema & Film",
-        "Visual Art"
+        "Inventions & Technology",
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -13456,10 +13360,10 @@
       "text": "It took a musicologist 12 years to reconstruct the missing portions of the only copy of English Renaissance composer Martin Peerson ' s Latin motets so they could be published and recorded",
       "tags": [
         "Music",
+        "Modern History",
         "Europe",
         "Hidden Histories",
-        "Remarkable People",
-        "Modern History"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -13506,11 +13410,11 @@
       "hash": "2be756cfc0b2f16bbbbf7c28233c668ec1468f138a28bf28a17c800399c9ecd1",
       "text": "The prototypes for the WW II German U-boat fleet were designed by a Dutch company and built in Finland at the Crichton-Vulcan shipyard",
       "tags": [
-        "Modern History",
         "Military History",
         "Holocaust & WWII",
         "Inventions & Technology",
-        "Europe"
+        "Europe",
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -13605,9 +13509,9 @@
       "tags": [
         "Modern History",
         "Economics & Trade",
-        "Remarkable People",
+        "Geology & Earth Science",
         "Oceania & Pacific",
-        "Geology & Earth Science"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -13640,6 +13544,7 @@
       "text": "The Missa de Beata Virgine was the most popular of Josquin des Prez 's masses in the 16th century",
       "tags": [
         "Music",
+        "Modern History",
         "Religion & Faith",
         "Europe",
         "Remarkable People"
@@ -13675,9 +13580,9 @@
       "text": "British MP James Henderson Stewart was only one of four National Liberals to vote against Neville Chamberlain in the Norway Debate",
       "tags": [
         "Modern History",
-        "Holocaust & WWII",
         "Politics & Government",
         "Europe",
+        "Holocaust & WWII",
         "Remarkable People"
       ],
       "image": {
@@ -13725,11 +13630,11 @@
       "hash": "1d1879204f1a3e4b9ed4b35604a2900ed337c67f1eb507b280ee393f4dc8310a",
       "text": "The Cave of Swallows is so large and wide that it is possible to navigate a hot air balloon through the cave with ease",
       "tags": [
-        "Biology & Nature",
         "Geology & Earth Science",
-        "Explorers & Adventurers",
+        "Biology & Nature",
+        "Extreme Sports & Records",
         "World Records",
-        "Curiosities"
+        "Explorers & Adventurers"
       ],
       "image": {
         "url": null,
@@ -13752,8 +13657,7 @@
       "text": "Phreatobius cisternarum, a species of catfish, is one of the few fish species that lives underground",
       "tags": [
         "Biology & Nature",
-        "Animals in History",
-        "Curiosities"
+        "Geology & Earth Science"
       ],
       "image": {
         "url": null,
@@ -13792,9 +13696,7 @@
       "tags": [
         "Television",
         "Cinema & Film",
-        "Architecture",
-        "Europe",
-        "Modern History"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -13832,9 +13734,9 @@
       "text": "Alwatan is the first and oldest Omani newspaper",
       "tags": [
         "Modern History",
-        "Politics & Government",
+        "Literature & Books",
         "Middle East",
-        "Hidden Histories"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -13868,10 +13770,9 @@
       "tags": [
         "Religion & Faith",
         "Mythology & Folklore",
-        "Women in History",
-        "Europe",
         "Remarkable People",
-        "Hidden Histories"
+        "Women in History",
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -13904,10 +13805,11 @@
       "text": "US physicist Gaylord Harnwell was made a Commander of the Order of the British Empire and an Honorary Fellow of the Royal Society of Edinburgh",
       "tags": [
         "Physics & Chemistry",
-        "Scientists & Thinkers",
         "Remarkable People",
-        "The Americas",
-        "Europe"
+        "Scientists & Thinkers",
+        "Modern History",
+        "Europe",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -13990,9 +13892,8 @@
       "hash": "b382ff41c9c5e7ab79d15a1885a4dd9bf85fba60355c0dfe1c7169097f749810",
       "text": "In Anderson v. Mt. Clemens Pottery Co. the U.S. Supreme Court held that preliminary work activities should be included as working time under the Fair Labor Standards Act",
       "tags": [
-        "Politics & Government",
         "Law & Justice",
-        "Human Rights",
+        "Politics & Government",
         "Economics & Trade",
         "The Americas"
       ],
@@ -14069,7 +13970,7 @@
         "Remarkable People",
         "Europe",
         "Hoaxes & Forgeries",
-        "Hidden Histories"
+        "Comedy & Satire"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Constantin_Mille.png",
@@ -14107,9 +14008,7 @@
       "text": "Kenneth Farrow GC attempted to rescue a boy from an underground aqueduct despite strong current, heavy deposits on the floor and almost no headroom or handholds",
       "tags": [
         "Remarkable People",
-        "Disasters & Survival",
-        "Extreme Sports & Records",
-        "Unusual Deaths & Accidents"
+        "Disasters & Survival"
       ],
       "image": {
         "url": null,
@@ -14141,10 +14040,11 @@
       "hash": "5910a225d7c973d1709605525390b17fbd5e1faa6c70ac802705a713e9f2999c",
       "text": "Camillo Ynitia was the only Native American on the northern frontier of Alta California to secure a large land grant for his tribe",
       "tags": [
+        "Modern History",
         "Colonial History",
-        "Politics & Government",
-        "The Americas",
+        "Law & Justice",
         "Remarkable People",
+        "The Americas",
         "Hidden Histories"
       ],
       "image": {
@@ -14182,7 +14082,6 @@
       "hash": "8e7d670b23685c4b3fe2387a58102ddd85223de0c4f63c9cb41cee0b14f8d17a",
       "text": "Zen master Dahui Zonggao ordered the destruction of the Blue Cliff Record, his master's collection of koans, making it unavailable for the next two centuries",
       "tags": [
-        "Medieval History",
         "Religion & Faith",
         "Philosophy & Ethics",
         "Literature & Books",
@@ -14263,9 +14162,10 @@
         "Religion & Faith",
         "Literature & Books",
         "Fashion & Design",
+        "Remarkable People",
         "Women in History",
-        "Middle East",
-        "Europe"
+        "Europe",
+        "Middle East"
       ],
       "image": {
         "url": null,
@@ -14312,11 +14212,12 @@
       "hash": "39f11f86da2c2069aa3de65d3452c7598cf7952030bdbe740e025619c1d88adc",
       "text": "The homosexual content of the works of António Botto led Catholic students to call for the author's hanging",
       "tags": [
-        "Modern History",
-        "Religion & Faith",
         "Literature & Books",
-        "Europe",
-        "Hidden Histories"
+        "Religion & Faith",
+        "Human Rights",
+        "Modern History",
+        "Remarkable People",
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -14354,9 +14255,9 @@
       "text": "The Swedish-Norwegian Union Jack of 1844 became so unpopular that it was contemptuously nicknamed the Sillsalaten, after a colorful dish of pickled herring, red beets and apples",
       "tags": [
         "Modern History",
-        "Politics & Government",
-        "Food & Drink",
         "Europe",
+        "Food & Drink",
+        "Politics & Government",
         "Hidden Histories"
       ],
       "image": {
@@ -14402,7 +14303,6 @@
         "Modern History",
         "Military History",
         "Politics & Government",
-        "Human Rights",
         "Economics & Trade",
         "The Americas"
       ],
@@ -14441,12 +14341,13 @@
       "hash": "dc1bcdb5b5b286649ac9cf9a032fe89197527535ec3ab2a286dc138f6696f42d",
       "text": "Botanist Leonard John Brass was born and died in Australia, served in the Canadian Army, became an American citizen and did most of his fieldwork in New Guinea",
       "tags": [
-        "Military History",
         "Biology & Nature",
+        "Military History",
+        "Remarkable People",
         "Scientists & Thinkers",
         "Explorers & Adventurers",
-        "The Americas",
-        "Oceania & Pacific"
+        "Oceania & Pacific",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -14493,10 +14394,10 @@
       "hash": "ede13ee868b79240a80032e2e10c37b78cd717b8626505c7664a542eea475a44",
       "text": "Educator Eliot Wigginton, editor of the landmark 12-volume Foxfire oral history anthologies, had to give up teaching in 1992 after pleading guilty to child molestation",
       "tags": [
-        "Law & Justice",
         "Literature & Books",
+        "Law & Justice",
         "Criminals & Outlaws",
-        "Modern History",
+        "Remarkable People",
         "The Americas"
       ],
       "image": {
@@ -14536,9 +14437,9 @@
       "tags": [
         "Medieval History",
         "Religion & Faith",
+        "Remarkable People",
         "Women in History",
         "Europe",
-        "Remarkable People",
         "Hidden Histories"
       ],
       "image": {
@@ -14578,9 +14479,9 @@
       "tags": [
         "Visual Art",
         "Asia",
-        "Modern History",
+        "World Records",
         "Economics & Trade",
-        "World Records"
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -14624,10 +14525,9 @@
       "tags": [
         "Modern History",
         "Military History",
-        "Inventions & Technology",
-        "Politics & Government",
         "Europe",
-        "Hidden Histories"
+        "Inventions & Technology",
+        "Economics & Trade"
       ],
       "image": {
         "url": null,
@@ -14700,9 +14600,9 @@
       "hash": "374d6287bd3571634ea5d889e4a6124e342ded73114fe306c46850fa84be389c",
       "text": "The crown in the coat of arms of Amsterdam is the Imperial Crown of Austria",
       "tags": [
-        "Medieval History",
-        "Politics & Government",
+        "Modern History",
         "Visual Art",
+        "Politics & Government",
         "Europe",
         "Hidden Histories"
       ],
@@ -14737,8 +14637,10 @@
       "text": "Yaylag, the Turkic tradition of moving to highland pastures in the summer, started in the fourth millennium BCE",
       "tags": [
         "Ancient History",
+        "Biology & Nature",
         "Mythology & Folklore",
-        "Asia"
+        "Asia",
+        "Hidden Histories"
       ],
       "image": {
         "url": null,
@@ -14801,8 +14703,7 @@
         "Ancient History",
         "Religion & Faith",
         "Mythology & Folklore",
-        "Europe",
-        "Women in History"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -14835,7 +14736,7 @@
       "text": "The steam generated by the Southeast Steam Plant for the Minneapolis campus of the University of Minnesota is enough to heat 55,000 homes",
       "tags": [
         "Inventions & Technology",
-        "Physics & Chemistry",
+        "Architecture",
         "The Americas"
       ],
       "image": {
@@ -14875,10 +14776,9 @@
       "tags": [
         "Medieval History",
         "Religion & Faith",
-        "Women in History",
         "Remarkable People",
-        "Europe",
-        "Hidden Histories"
+        "Women in History",
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -14916,10 +14816,9 @@
       "text": "The idiom forty winks relates to the biblical use of the number 40, thus meaning just the right amount of sleep",
       "tags": [
         "Religion & Faith",
-        "Literature & Books",
         "Mythology & Folklore",
-        "Hidden Histories",
-        "Curiosities"
+        "Literature & Books",
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -14951,11 +14850,12 @@
       "hash": "f808c53b5f9dbaf1c8d42819fea0e741683851d1ee0e19d708a9470cc2160fed",
       "text": "The soldiers of the Black Brunswickers dressed entirely in black and wore hats with Death's Heads on them to reflect their commander's hatred for Napoleon",
       "tags": [
-        "Military History",
         "Modern History",
-        "Europe",
+        "Military History",
         "Fashion & Design",
-        "Remarkable People"
+        "Remarkable People",
+        "Europe",
+        "Hidden Histories"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Die_Gartenlaube_%281870%29_b_117.jpg",
@@ -14987,8 +14887,7 @@
       "hash": "cb9bc7a8303256e39b9d5e601ebfa9963ea193329adc83a9a520fbcd3d632a3e",
       "text": "Sorubim is a genus of catfish with shovel -shaped long noses",
       "tags": [
-        "Biology & Nature",
-        "Animals in History"
+        "Biology & Nature"
       ],
       "image": {
         "url": null,
@@ -15071,7 +14970,7 @@
         "Religion & Faith",
         "Remarkable People",
         "Europe",
-        "Hidden Histories"
+        "Hoaxes & Forgeries"
       ],
       "image": {
         "url": null,
@@ -15123,10 +15022,10 @@
       "hash": "19f9f8ba442d0a4960cf0e3f571dfe261334524c7789d08b929f35d162ee1ec4",
       "text": "Chal is a traditional Turkic drink made from fermented camel 's milk, which is popular in Central Asia, as well as in the Near East",
       "tags": [
-        "Biology & Nature",
         "Food & Drink",
         "Asia",
-        "Middle East"
+        "Middle East",
+        "Biology & Nature"
       ],
       "image": {
         "url": null,
@@ -15170,9 +15069,9 @@
       "tags": [
         "Politics & Government",
         "Law & Justice",
+        "Human Rights",
         "The Americas",
-        "Remarkable People",
-        "Hidden Histories"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -15214,11 +15113,10 @@
       "hash": "de7f3adc36e460ae2521a1abe6053de11c682a2b1e96404ecdd04b9e81548859",
       "text": "The bestselling 1906 erotic novel Josephine Mutzenbacher is thought to have been written by Felix Salten, the author of Bambi",
       "tags": [
-        "Modern History",
         "Literature & Books",
+        "Modern History",
         "Remarkable People",
-        "Europe",
-        "Hidden Histories"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -15250,11 +15148,10 @@
       "hash": "09afa0b5f04ee52a7341cc7ee558078849dbbc7e7831b7482f499129407e5f27",
       "text": "Charles Frederick Field was the basis for Inspector Bucket in Charles Dickens 's novel Bleak House",
       "tags": [
-        "Modern History",
         "Literature & Books",
         "Remarkable People",
-        "Europe",
-        "Law & Justice"
+        "Law & Justice",
+        "Modern History"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Charles_Frederick_Field.jpg",
@@ -15338,10 +15235,9 @@
       "tags": [
         "Ancient History",
         "Literature & Books",
-        "Mythology & Folklore",
         "Architecture",
         "Middle East",
-        "Asia"
+        "Mythology & Folklore"
       ],
       "image": {
         "url": null,
@@ -15388,9 +15284,10 @@
       "hash": "6d9e6729b3ee3e0d489698048b1bc9b21b42ab6bd0ef32d2eb01791821bea249",
       "text": "The modern meaning of \" ballad \", a slow, sentimental tune or love song, often written in a fairly standardized form, came about from Tin Pan Alley and Broadway composers",
       "tags": [
-        "Modern History",
         "Music",
-        "The Americas"
+        "Modern History",
+        "The Americas",
+        "Literature & Books"
       ],
       "image": {
         "url": null,
@@ -15424,9 +15321,7 @@
       "tags": [
         "Space & Astronomy",
         "Inventions & Technology",
-        "Scientists & Thinkers",
-        "Explorers & Adventurers",
-        "Politics & Government"
+        "Explorers & Adventurers"
       ],
       "image": {
         "url": null,
@@ -15468,11 +15363,9 @@
       "hash": "dc9080799ae7deba6c40a2ff4c69ae7922fbb97803c4b8f177b5c83ed463c616",
       "text": "Belgium 's Carnival of Binche, which features a \"battle of confetti \", is the culmination of a build-up lasting 50 days",
       "tags": [
-        "Mythology & Folklore",
-        "Music",
         "Europe",
-        "Visual Art",
-        "Curiosities"
+        "Mythology & Folklore",
+        "Fashion & Design"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Binche_-_Les_Gilles.jpg",
@@ -15507,8 +15400,8 @@
         "Modern History",
         "Cold War",
         "Politics & Government",
-        "Europe",
-        "Human Rights"
+        "Human Rights",
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -15533,8 +15426,8 @@
         "Medieval History",
         "Religion & Faith",
         "Architecture",
-        "Middle East",
-        "Africa"
+        "Africa",
+        "Hidden Histories"
       ],
       "image": {
         "url": null,
@@ -15566,10 +15459,8 @@
       "hash": "6feccde90fba3abc6e3c9562ebccdad84398df7659783f62765b6cd9e0bc4266",
       "text": "The earliest known examples of polyphonic music, dating from the 9th century, are written in Daseian notation",
       "tags": [
-        "Medieval History",
         "Music",
-        "Arts & Culture",
-        "Hidden Histories"
+        "Medieval History"
       ],
       "image": {
         "url": null,
@@ -15596,8 +15487,7 @@
       "hash": "65e0fd759435c7f0cdee678ebfab26076be2c7fe0de13acb60b89f3f626766e8",
       "text": "Hypancistrus is a genus of catfish with suckermouths, including popular aquarium fish such as the zebra pleco",
       "tags": [
-        "Biology & Nature",
-        "Animals in History"
+        "Biology & Nature"
       ],
       "image": {
         "url": null,
@@ -15649,6 +15539,7 @@
         "Politics & Government",
         "Law & Justice",
         "Remarkable People",
+        "Scientists & Thinkers",
         "Europe"
       ],
       "image": {
@@ -15687,11 +15578,10 @@
       "text": "Causeway Bay Typhoon Shelter was the first of its kind in Hong Kong",
       "tags": [
         "Modern History",
-        "Colonial History",
         "Architecture",
         "Asia",
-        "Disasters & Survival",
-        "Hidden Histories"
+        "Inventions & Technology",
+        "Colonial History"
       ],
       "image": {
         "url": null,
@@ -15721,8 +15611,7 @@
         "Europe",
         "Architecture",
         "Fashion & Design",
-        "Modern History",
-        "Visual Art"
+        "Politics & Government"
       ],
       "image": {
         "url": null,
@@ -15750,10 +15639,10 @@
       "text": "In 1906 The New York Times praised The Langham apartment building, noting among its modern amenities \" real ice \"",
       "tags": [
         "Modern History",
-        "Inventions & Technology",
         "Architecture",
+        "Inventions & Technology",
         "The Americas",
-        "Hidden Histories"
+        "Fashion & Design"
       ],
       "image": {
         "url": null,
@@ -15790,12 +15679,12 @@
       "hash": "32010bb6b3c5ad52bcf9c0487bbee783dec53cb62e08568917aa08bce3d87bff",
       "text": "The \"secret university \" largely organised by Frank Bell in a World War II POW camp taught subjects as diverse as Urdu, pig-farming, civics and chess",
       "tags": [
-        "Modern History",
-        "Military History",
         "Holocaust & WWII",
-        "Politics & Government",
+        "Military History",
+        "Modern History",
         "Remarkable People",
-        "Hidden Histories"
+        "Hidden Histories",
+        "Tabletop Games"
       ],
       "image": {
         "url": null,
@@ -15837,11 +15726,9 @@
       "hash": "2b3d9183c9ea44de76d5f50b6b32871a0e01dac15f54e599a0e4f74eed2d9681",
       "text": "Neil Doak was named in the Ireland squad for the 2003 Rugby World Cup but did not play, just missing out on becoming the first Irish dual cricket / rugby union international since the 1960s",
       "tags": [
-        "Modern History",
-        "Remarkable People",
         "Global Sports",
-        "Europe",
-        "Hidden Histories"
+        "Remarkable People",
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -15949,12 +15836,12 @@
       "hash": "c07c6bf9d49b09f4ee72e7659afc86bfe19259e683558ce67e0c12133a53b741",
       "text": "Jewish-Polish historian Lucjan Dobroszycki who survived the Litzmannstadt Ghetto in World War II was known as the New York City YIVO 's \"research consultant to the stars\"",
       "tags": [
-        "Modern History",
         "Holocaust & WWII",
+        "Modern History",
         "Remarkable People",
-        "Scientists & Thinkers",
         "Europe",
-        "Hidden Histories"
+        "The Americas",
+        "Disasters & Survival"
       ],
       "image": {
         "url": null,
@@ -15996,12 +15883,11 @@
       "hash": "c255dfde32efafcf96ca92bbb65497054c45fa9ebc76ef6529620b90094e0fda",
       "text": "The \"Girl Grimmett \", Peggy Antonio, was the first Australian to take a wicket in women's Test cricket",
       "tags": [
-        "Modern History",
         "Women in History",
-        "Remarkable People",
         "Global Sports",
+        "Remarkable People",
         "Oceania & Pacific",
-        "Hidden Histories"
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -16063,10 +15949,10 @@
       "hash": "7ad6fd1be7db0fa514f11499c38a160ff0b273beb9f99cd4652de2e1559f1b16",
       "text": "Professional ice hockey player Bob Bailey was traded three separate times for Bill Dineen over a nine year period",
       "tags": [
+        "American Sports",
         "Global Sports",
         "Remarkable People",
-        "Modern History",
-        "Economics & Trade"
+        "Curiosities"
       ],
       "image": {
         "url": null,
@@ -16095,9 +15981,9 @@
       "tags": [
         "Modern History",
         "Politics & Government",
+        "Economics & Trade",
         "Food & Drink",
-        "Europe",
-        "Hidden Histories"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -16126,8 +16012,8 @@
       "tags": [
         "Modern History",
         "Colonial History",
-        "Asia",
         "Architecture",
+        "Asia",
         "Hidden Histories"
       ],
       "image": {
@@ -16170,8 +16056,7 @@
         "Politics & Government",
         "Literature & Books",
         "Remarkable People",
-        "Europe",
-        "Hidden Histories"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -16249,11 +16134,11 @@
       "hash": "2c31cb6083687f4029c42668d969da0b0700e4e561f3883ad91190011f54ef7d",
       "text": "Grey's Scouts, despite starting off as a small provisional group, became one of the most effective and successful Special Forces units in the Rhodesian Bush War",
       "tags": [
-        "Modern History",
         "Military History",
+        "Modern History",
         "Colonial History",
-        "Africa",
-        "Hidden Histories"
+        "Cold War",
+        "Africa"
       ],
       "image": {
         "url": null,
@@ -16286,9 +16171,9 @@
       "text": "Although the modern trumpet is a recent invention, primitive trumpets of one form or another have been in existence for millennia",
       "tags": [
         "Ancient History",
+        "Modern History",
         "Inventions & Technology",
-        "Music",
-        "Hidden Histories"
+        "Music"
       ],
       "image": {
         "url": null,
@@ -16315,10 +16200,9 @@
       "hash": "2fbce78b7f282cbf03720b57c95e1879d7866b24c3af83276afe2dd3a8c51535",
       "text": "The Amoy dialect of Chinese formed the basis of Taiwanese",
       "tags": [
-        "Modern History",
         "Asia",
-        "Literature & Books",
-        "Hidden Histories"
+        "Modern History",
+        "Arts & Culture"
       ],
       "image": {
         "url": null,
@@ -16350,6 +16234,7 @@
       "hash": "c422f014d0fe126df114362a3ccbc6d06322f6a5499594d1fc25c1bb28bf6396",
       "text": "The Chaga mushroom has been used as a folk remedy in Eastern European countries for ulcers, cancer and gastritis since the 16th century",
       "tags": [
+        "Modern History",
         "Biology & Nature",
         "Medicine & Health",
         "Mythology & Folklore",
@@ -16396,10 +16281,10 @@
       "text": "Dr John Billings was an Australian neurologist who developed the Billings ovulation method of family planning",
       "tags": [
         "Medicine & Health",
-        "Scientists & Thinkers",
-        "Oceania & Pacific",
         "Biology & Nature",
-        "Remarkable People"
+        "Remarkable People",
+        "Scientists & Thinkers",
+        "Oceania & Pacific"
       ],
       "image": {
         "url": null,
@@ -16475,10 +16360,10 @@
       "text": "The Rosie the Riveter/World War II Home Front National Historical Park is the first national tribute to home front American women",
       "tags": [
         "Holocaust & WWII",
+        "Modern History",
         "Women in History",
         "The Americas",
-        "Modern History",
-        "Hidden Histories"
+        "Remarkable People"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Liberty_Ship_scaler_HD-SN-99-02466.JPG",
@@ -16533,9 +16418,9 @@
       "text": "The city of Mysore, in the Indian state of Karnataka, has been called the \" Cultural Capital of Karnataka \"",
       "tags": [
         "Asia",
-        "Music",
-        "Visual Art",
         "Architecture",
+        "Visual Art",
+        "Literature & Books",
         "Mythology & Folklore"
       ],
       "image": {
@@ -16574,9 +16459,9 @@
       "text": "Neil McLean persuaded the British government not to recognise the Yemen Arab Republic takeover of the Mutawakkilite Kingdom of Yemen during the North Yemen Civil War",
       "tags": [
         "Modern History",
+        "Military History",
         "Politics & Government",
         "Middle East",
-        "Asia",
         "Remarkable People"
       ],
       "image": {
@@ -16619,13 +16504,14 @@
       "hash": "daccec0abd59883977e9b664377a66b5d1e198675415bf596ca52fbf9a69f300",
       "text": "...the 1765 cookery book The Frugal Housewife, or, Complete woman cook by English author Susannah Carter was republished in Boston in 1772, illustrated with engravings by Paul Revere",
       "tags": [
+        "Modern History",
         "Colonial History",
         "Literature & Books",
         "Visual Art",
         "Food & Drink",
         "Women in History",
-        "The Americas",
-        "Europe"
+        "Remarkable People",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -16667,8 +16553,8 @@
       "hash": "8652fc1933ec0318073addd141f74700bd7f6e64a21947827a5b619e556b2850",
       "text": "...the AT&T Corporate Center is the tallest building built in Chicago in the last quarter of the 20th century",
       "tags": [
-        "Modern History",
         "Architecture",
+        "Modern History",
         "The Americas",
         "World Records"
       ],
@@ -16697,9 +16583,7 @@
       "hash": "d2c1d2aef1192b42874567c342f76af07887d9001c9919ee13d894660bcc0254",
       "text": "A view from the Plaza Mayor in Trinidad, Cuba, is featured on the 25 centavo convertible peso coin",
       "tags": [
-        "Colonial History",
         "Economics & Trade",
-        "Visual Art",
         "Architecture",
         "The Americas"
       ],
@@ -16733,11 +16617,10 @@
       "hash": "c2af929f9eb91d02bc4808651131fef6ee5fd9d90433026460c4c84c65837256",
       "text": "The Century apartments is one of the first residential buildings to be built in the Art Deco style, causing it to stand out from its Beaux-Arts neighbors on Central Park West",
       "tags": [
-        "Modern History",
         "Architecture",
         "Fashion & Design",
-        "The Americas",
-        "Hidden Histories"
+        "Modern History",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -16775,12 +16658,11 @@
       "text": "Despite plagiarizing a Chinese - French - Latin dictionary ordered by Napoleon, Chrétien-Louis-Joseph de Guignes went on to become a member of the French Academy of Sciences",
       "tags": [
         "Modern History",
-        "Politics & Government",
         "Literature & Books",
+        "Remarkable People",
         "Scientists & Thinkers",
         "Europe",
-        "Asia",
-        "Hidden Histories"
+        "Hoaxes & Forgeries"
       ],
       "image": {
         "url": null,
@@ -16833,11 +16715,10 @@
       "text": "Convicted American felon Matthew Cox was so bold in committing over $ 15 million of mortgage fraud that he allegedly even took out a mortgage under the name of The Simpsons character \" C. Montgomery Burns \"",
       "tags": [
         "Law & Justice",
-        "Economics & Trade",
         "Criminals & Outlaws",
-        "The Americas",
         "Television",
-        "Comedy & Satire"
+        "Hoaxes & Forgeries",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -16885,9 +16766,9 @@
       "text": "The Wordless Book was invented by the London Baptist preacher Charles Haddon Spurgeon and employs religious symbolism and color psychology in evangelism",
       "tags": [
         "Modern History",
+        "Inventions & Technology",
         "Religion & Faith",
         "Literature & Books",
-        "Visual Art",
         "Remarkable People",
         "Europe"
       ],
@@ -16938,7 +16819,6 @@
       "tags": [
         "Modern History",
         "Politics & Government",
-        "Law & Justice",
         "Human Rights",
         "Cinema & Film",
         "Remarkable People",
@@ -17029,10 +16909,10 @@
       "text": "Upon completion of Central Reclamation Phase 1 of the Central and Wan Chai Reclamation project in Hong Kong, the coastline of Central, Hong Kong was extended up to 350 metres beyond the original coastline",
       "tags": [
         "Modern History",
-        "Politics & Government",
         "Architecture",
+        "Inventions & Technology",
         "Asia",
-        "Geology & Earth Science"
+        "Economics & Trade"
       ],
       "image": {
         "url": null,
@@ -17066,9 +16946,9 @@
       "tags": [
         "Modern History",
         "Religion & Faith",
+        "Human Rights",
         "Remarkable People",
-        "The Americas",
-        "Hidden Histories"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -17147,11 +17027,10 @@
       "hash": "833b60ecc91c5ec593fb35323e84cd052392e85a31b3216c3b39c698ab9bd173",
       "text": "George B. Schwabe served as Speaker of the Oklahoma House of Representatives from 1921 to 1922 and was the first and only Republican to hold that position until 2005",
       "tags": [
-        "Modern History",
         "Politics & Government",
-        "Remarkable People",
+        "Modern History",
         "The Americas",
-        "Hidden Histories"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -17184,10 +17063,10 @@
       "text": "Jaina Island, a Maya necropolis, contains over 20,000 burials, with every one excavated having one or more ceramic figurines",
       "tags": [
         "Ancient History",
+        "Visual Art",
+        "Religion & Faith",
         "The Americas",
-        "Archaeology",
-        "Hidden Histories",
-        "Mythology & Folklore"
+        "Hidden Histories"
       ],
       "image": {
         "url": null,
@@ -17219,11 +17098,9 @@
       "hash": "f5610cf2ff968e0f7ea7ecd51b25b7fe23123fc844abb20a355b0e3c9d306f5f",
       "text": "The LST-1 -class tank landing ship USS Benzie County was featured in a World War II -era Camel cigarettes advertisement",
       "tags": [
+        "Modern History",
         "Military History",
-        "Holocaust & WWII",
-        "Visual Art",
-        "The Americas",
-        "Inventions & Technology"
+        "Holocaust & WWII"
       ],
       "image": {
         "url": null,
@@ -17320,8 +17197,7 @@
         "Religion & Faith",
         "Visual Art",
         "Architecture",
-        "Europe",
-        "Fashion & Design"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -17371,9 +17247,9 @@
         "Modern History",
         "Law & Justice",
         "Human Rights",
+        "Remarkable People",
         "Women in History",
-        "The Americas",
-        "Hidden Histories"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -17413,8 +17289,7 @@
         "Modern History",
         "Architecture",
         "Fashion & Design",
-        "The Americas",
-        "Visual Art"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -17455,7 +17330,6 @@
         "Cold War",
         "Religion & Faith",
         "Visual Art",
-        "Architecture",
         "Europe"
       ],
       "image": {
@@ -17489,10 +17363,8 @@
       "text": "Al Sobotka, who drives the Zamboni for Detroit Red Wings games, is the namesake of the team mascot Al the Octopus",
       "tags": [
         "American Sports",
-        "Remarkable People",
-        "The Americas",
-        "Hidden Histories",
-        "Curiosities"
+        "Global Sports",
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -17533,8 +17405,7 @@
         "Military History",
         "Biology & Nature",
         "Scientists & Thinkers",
-        "Europe",
-        "Animals in History"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -17563,7 +17434,6 @@
       "tags": [
         "Ancient History",
         "Religion & Faith",
-        "Mythology & Folklore",
         "Europe",
         "Hidden Histories",
         "Unusual Deaths & Accidents"
@@ -17606,8 +17476,7 @@
         "Modern History",
         "Politics & Government",
         "Architecture",
-        "Europe",
-        "Hidden Histories"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -17830,7 +17699,6 @@
       "text": "The geology of Gloucestershire is one of the most diverse in England, with rocks from the Precambrian through to the Jurassic represented",
       "tags": [
         "Geology & Earth Science",
-        "Biology & Nature",
         "Europe"
       ],
       "image": {
@@ -17869,10 +17737,10 @@
       "text": "The Crystals did not actually sing on their 1962 #1 hit \" He's a Rebel \"",
       "tags": [
         "Music",
+        "Arts & Culture",
         "Modern History",
-        "Women in History",
-        "Remarkable People",
-        "Hidden Histories"
+        "Hidden Histories",
+        "Curiosities"
       ],
       "image": {
         "url": null,
@@ -17901,7 +17769,7 @@
       "tags": [
         "Biology & Nature",
         "Oceania & Pacific",
-        "Curiosities"
+        "Architecture"
       ],
       "image": {
         "url": null,
@@ -17938,10 +17806,9 @@
       "hash": "df6c3d6681e7b0785b901a4f11388d036f9bcdf22338832202e341158d55f3dc",
       "text": "New York City 's Central Park West Historic District contains only one building not felt to contribute to its historic character",
       "tags": [
-        "Modern History",
         "Architecture",
-        "The Americas",
-        "Hidden Histories"
+        "Modern History",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -17975,6 +17842,7 @@
       "tags": [
         "Remarkable People",
         "American Sports",
+        "Global Sports",
         "Extreme Sports & Records",
         "The Americas",
         "World Records"
@@ -18019,9 +17887,10 @@
       "hash": "beac73d52b5ab68ec9338df06cfee262f734de0f070cc39631a315b9d680ad88",
       "text": "Ellis Bent was the first barrister appointed as a judge in Australia",
       "tags": [
+        "Modern History",
         "Colonial History",
-        "Law & Justice",
         "Politics & Government",
+        "Law & Justice",
         "Remarkable People",
         "Oceania & Pacific"
       ],
@@ -18063,8 +17932,7 @@
         "Biology & Nature",
         "Geology & Earth Science",
         "Scientists & Thinkers",
-        "Animals in History",
-        "The Americas"
+        "Animals in History"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Benjamin_Franklin_Mudge.jpg",
@@ -18097,6 +17965,7 @@
       "text": "Despite the relatively low level of academic output by Professor Gary Chaison, he is widely cited in the American mass media",
       "tags": [
         "Scientists & Thinkers",
+        "Remarkable People",
         "The Americas"
       ],
       "image": {
@@ -18134,6 +18003,7 @@
         "Cold War",
         "Politics & Government",
         "Religion & Faith",
+        "Human Rights",
         "Asia"
       ],
       "image": {
@@ -18188,8 +18058,7 @@
       "tags": [
         "Law & Justice",
         "Politics & Government",
-        "Human Rights",
-        "Philosophy & Ethics"
+        "Human Rights"
       ],
       "image": {
         "url": null,
@@ -18216,10 +18085,9 @@
       "hash": "62cc045f58ab32761ea5f5201b404f7fbdcc843f04f2a2ee22e1114d1cdcd5c7",
       "text": "Innocence, a 2005 documentary film about a school in rural northern Thailand, influenced the Thai government to reverse cuts it had made in the education budget",
       "tags": [
-        "Politics & Government",
         "Cinema & Film",
-        "Asia",
-        "Human Rights"
+        "Politics & Government",
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -18252,10 +18120,10 @@
       "text": "An apparition of Saint Michael is said to have convinced Antoninus of Sorrento and Catellus of Castellammare to found a new church after both resigned from the same bishopric",
       "tags": [
         "Religion & Faith",
-        "Mythology & Folklore",
+        "Medieval History",
         "Europe",
-        "Remarkable People",
-        "Medieval History"
+        "Architecture",
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -18295,6 +18163,7 @@
         "Modern History",
         "Inventions & Technology",
         "Remarkable People",
+        "Explorers & Adventurers",
         "Extreme Sports & Records",
         "Europe"
       ],
@@ -18411,11 +18280,11 @@
       "text": "Poison, over its 6500-year history, has been used for both great progression in medicine and as a hugely popular method of assassination",
       "tags": [
         "Ancient History",
-        "Medicine & Health",
         "Physics & Chemistry",
+        "Biology & Nature",
+        "Medicine & Health",
         "Criminals & Outlaws",
-        "Unusual Deaths & Accidents",
-        "Hidden Histories"
+        "Unusual Deaths & Accidents"
       ],
       "image": {
         "url": null,
@@ -18500,6 +18369,7 @@
       "tags": [
         "Ancient History",
         "Religion & Faith",
+        "Philosophy & Ethics",
         "Remarkable People",
         "Scientists & Thinkers",
         "Asia"
@@ -18531,9 +18401,9 @@
       "tags": [
         "Visual Art",
         "Remarkable People",
+        "The Americas",
         "World Records",
-        "Animals in History",
-        "The Americas"
+        "Animals in History"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Tillamook_Cheddar_%28dog%29.jpg",
@@ -18599,7 +18469,8 @@
         "Ancient History",
         "Law & Justice",
         "Europe",
-        "Hidden Histories"
+        "World Records",
+        "Literature & Books"
       ],
       "image": {
         "url": null,
@@ -18632,8 +18503,7 @@
       "text": "Aquarium filters are necessary to support life as aquaria are relatively small, closed volumes of water compared to the natural environment of most fish",
       "tags": [
         "Biology & Nature",
-        "Inventions & Technology",
-        "Animals in History"
+        "Inventions & Technology"
       ],
       "image": {
         "url": null,
@@ -18674,8 +18544,7 @@
         "Cold War",
         "Architecture",
         "Remarkable People",
-        "Europe",
-        "Hidden Histories"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -18723,10 +18592,7 @@
       "text": "The cornerstone of moral syncretism is that religion cannot be the only arbiter of morality",
       "tags": [
         "Religion & Faith",
-        "Philosophy & Ethics",
-        "Human Rights",
-        "Politics & Government",
-        "Law & Justice"
+        "Philosophy & Ethics"
       ],
       "image": {
         "url": null,
@@ -18760,8 +18626,8 @@
       "tags": [
         "Law & Justice",
         "Religion & Faith",
-        "Economics & Trade",
         "Criminals & Outlaws",
+        "Politics & Government",
         "Philosophy & Ethics"
       ],
       "image": {
@@ -18794,11 +18660,12 @@
       "hash": "6ae6cef8698ab71a1a55dd88e07328a025855e7656ef7b6e82068049224dbd7c",
       "text": "...that, 23 years after explorer Charles Sturt found and named the Murray River, his brother Evelyn Sturt, a Police Magistrate and notable grazier, declared it absurd that the area would ever become agricultural",
       "tags": [
+        "Modern History",
         "Colonial History",
         "Explorers & Adventurers",
-        "Remarkable People",
         "Oceania & Pacific",
-        "Hidden Histories"
+        "Remarkable People",
+        "Law & Justice"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Evelyn_Pitfield_Shirley_Sturt.jpeg",
@@ -18830,12 +18697,11 @@
       "hash": "d05a4040cdadd4eb2ef9b4049176952640051aff96d2b773c04687eae6f75696",
       "text": "The Australian cricket team 's world record of 16 consecutive wins ended during its 2002 India tour, when India recorded only the third win in Test cricket history by a side forced to follow-on",
       "tags": [
-        "Modern History",
         "Global Sports",
         "Extreme Sports & Records",
+        "World Records",
         "Asia",
-        "Oceania & Pacific",
-        "World Records"
+        "Oceania & Pacific"
       ],
       "image": {
         "url": null,
@@ -18880,8 +18746,7 @@
         "Modern History",
         "Religion & Faith",
         "Architecture",
-        "The Americas",
-        "Hidden Histories"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -18969,11 +18834,11 @@
       "hash": "2cf2705da5c10bfc94d9930048dbf64564793296279c90946aaae5189c1eaaad",
       "text": "Assaji, the last of the first five bhikkhus of Gautama Buddha to become an arahant, converted Sariputta and Mahamoggallana, the Buddha's two chief disciples",
       "tags": [
-        "Ancient History",
         "Religion & Faith",
+        "Philosophy & Ethics",
         "Remarkable People",
-        "Asia",
-        "Philosophy & Ethics"
+        "Ancient History",
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -19064,6 +18929,7 @@
         "Medieval History",
         "Modern History",
         "Fashion & Design",
+        "Inventions & Technology",
         "Hidden Histories"
       ],
       "image": {
@@ -19086,10 +18952,9 @@
       "hash": "5af9bc4ac04ec56faa3188228bba0031a404de26ef64340cc67f6da4b4e3a10c",
       "text": "Work, painted over 13 years from 1852 to 1865, is generally considered to be the most important painting by Ford Madox Brown",
       "tags": [
-        "Modern History",
         "Visual Art",
-        "Remarkable People",
-        "Europe"
+        "Modern History",
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -19120,8 +18985,7 @@
         "Military History",
         "Cold War",
         "Politics & Government",
-        "Asia",
-        "Middle East"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -19163,9 +19027,9 @@
       "hash": "9cf63909f189d8d6b4d2e2b5e4a92f0caa716c7291d80cf434f6d7980a5ba329",
       "text": "Numerous common idioms feature one of the various slang meanings of 'dime'",
       "tags": [
+        "Economics & Trade",
         "Literature & Books",
-        "Internet Culture",
-        "The Americas"
+        "Internet Culture"
       ],
       "image": {
         "url": null,
@@ -19193,9 +19057,8 @@
       "text": "When Birmingham -based early-music choir Ex Cathedra founded its Baroque orchestra in its 1983–1984 season, this was the first period instrument orchestra to be established in an English city outside London",
       "tags": [
         "Music",
-        "Europe",
         "Modern History",
-        "Arts & Culture"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -19260,8 +19123,7 @@
         "Modern History",
         "Cold War",
         "Politics & Government",
-        "Asia",
-        "Remarkable People"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -19305,9 +19167,9 @@
       "tags": [
         "Modern History",
         "Literature & Books",
-        "Hidden Histories",
         "Human Rights",
-        "The Americas"
+        "The Americas",
+        "Hidden Histories"
       ],
       "image": {
         "url": null,
@@ -19342,9 +19204,8 @@
         "Ancient History",
         "Religion & Faith",
         "Mythology & Folklore",
-        "Africa",
         "Visual Art",
-        "Hidden Histories"
+        "Africa"
       ],
       "image": {
         "url": null,
@@ -19373,9 +19234,9 @@
       "tags": [
         "Modern History",
         "Military History",
-        "Food & Drink",
         "Europe",
-        "Curiosities"
+        "Food & Drink",
+        "Disasters & Survival"
       ],
       "image": {
         "url": null,
@@ -19400,7 +19261,7 @@
         "Cinema & Film",
         "Asia",
         "Philosophy & Ethics",
-        "Remarkable People"
+        "Medicine & Health"
       ],
       "image": {
         "url": null,
@@ -19446,8 +19307,8 @@
         "Cold War",
         "Politics & Government",
         "Remarkable People",
-        "Asia",
-        "Europe"
+        "Europe",
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -19496,9 +19357,9 @@
       "tags": [
         "Music",
         "Politics & Government",
-        "The Americas",
         "Human Rights",
-        "Modern History"
+        "Modern History",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -19561,8 +19422,8 @@
       "tags": [
         "Cinema & Film",
         "Literature & Books",
-        "Women in History",
         "Remarkable People",
+        "Women in History",
         "Asia"
       ],
       "image": {
@@ -19645,8 +19506,8 @@
         "Medieval History",
         "Military History",
         "Religion & Faith",
-        "Mythology & Folklore",
         "Architecture",
+        "Remarkable People",
         "Europe"
       ],
       "image": {
@@ -19738,8 +19599,8 @@
       "tags": [
         "Music",
         "Religion & Faith",
-        "Europe",
         "Remarkable People",
+        "Europe",
         "Medieval History"
       ],
       "image": {
@@ -19776,7 +19637,6 @@
         "Inventions & Technology",
         "Remarkable People",
         "Global Sports",
-        "Extreme Sports & Records",
         "World Records"
       ],
       "image": {
@@ -19850,11 +19710,9 @@
       "hash": "0d7dbf2b6d716a12c9ad422bc35a6f41e51cdb6d780be6accd941ee858601d73",
       "text": "The California Wine Country is known for its cuisine, recreation and history as much as viticulture",
       "tags": [
-        "Modern History",
-        "Biology & Nature",
         "Food & Drink",
-        "The Americas",
-        "Hidden Histories"
+        "Modern History",
+        "The Americas"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Domaine_Carneros%2C_Napa_Valley%2C_CA_USA_-_panoramio_%289%29_%28cropped%29.jpg",
@@ -19896,11 +19754,9 @@
       "hash": "d81a0b12b63f8745a2611b5736f4fa4854271134029bb16047c5417c1fb8b4a1",
       "text": "Ajit Wadekar was the first Indian to represent the country as Test Cricket player, captain, coach/manager and Chairman of Selectors",
       "tags": [
-        "Remarkable People",
         "Global Sports",
-        "Asia",
-        "Modern History",
-        "World Records"
+        "Remarkable People",
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -19937,8 +19793,7 @@
         "Religion & Faith",
         "Remarkable People",
         "Europe",
-        "Unusual Deaths & Accidents",
-        "Hidden Histories"
+        "Unusual Deaths & Accidents"
       ],
       "image": {
         "url": null,
@@ -19972,10 +19827,9 @@
       "tags": [
         "Modern History",
         "Military History",
+        "Cold War",
         "Politics & Government",
-        "Asia",
-        "Remarkable People",
-        "Hidden Histories"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -20057,9 +19911,9 @@
       "hash": "8d3e8a788ceb864c5f342cd8b707929d679bc83aca7e76c9868ea87ed6737ad1",
       "text": "British barrister Sir Tony Hetherington was the first head of the Crown Prosecution Service after it was founded in 1986",
       "tags": [
-        "Modern History",
-        "Politics & Government",
         "Law & Justice",
+        "Politics & Government",
+        "Modern History",
         "Remarkable People",
         "Europe"
       ],
@@ -20099,8 +19953,7 @@
       "text": "It is estimated that 40% of the Tamil and Malayalam Nadar caste are Christians",
       "tags": [
         "Religion & Faith",
-        "Asia",
-        "Society"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -20188,9 +20041,9 @@
       "hash": "fca7e5228602472d71421b9e94b970d04219adf9dae1fb7d6c6746504cbb501c",
       "text": "The SS in Nazi Germany were above civilian law, answering only to the SS-run Hauptamt SS Gericht",
       "tags": [
+        "Holocaust & WWII",
         "Modern History",
         "Military History",
-        "Holocaust & WWII",
         "Politics & Government",
         "Law & Justice",
         "Europe"
@@ -20226,9 +20079,10 @@
       "text": "After his 1967 film Branded to Kill, contract director Seijun Suzuki was fired by the Nikkatsu Company for making films \"that make no sense\"",
       "tags": [
         "Cinema & Film",
+        "Remarkable People",
         "Asia",
         "Modern History",
-        "Remarkable People"
+        "Arts & Culture"
       ],
       "image": {
         "url": null,
@@ -20265,11 +20119,11 @@
       "hash": "bff066ec6ef4fe851dad86f4fccfa875816fe88b2d35ecca0dcf27b4473f5e99",
       "text": "Retired LAPD homicide detective \"Jigsaw John\" St. John was posthumously reinstated to active duty in 1995 so that he could be buried as a detective",
       "tags": [
-        "Modern History",
         "Law & Justice",
         "Remarkable People",
         "The Americas",
-        "Hidden Histories"
+        "Modern History",
+        "Unusual Deaths & Accidents"
       ],
       "image": {
         "url": null,
@@ -20307,10 +20161,10 @@
       "text": "The Chronicle of Huru, a 19th century forgery advancing Moldavia 's independence, claimed that a Moldavian federal republic emerged from the Roman province of Dacia in 274",
       "tags": [
         "Modern History",
+        "Ancient History",
         "Politics & Government",
         "Europe",
-        "Hoaxes & Forgeries",
-        "Hidden Histories"
+        "Hoaxes & Forgeries"
       ],
       "image": {
         "url": null,
@@ -20352,11 +20206,12 @@
       "hash": "caea69bce0bb693dda8e2c981a05a1b3981143683c75609e7eefc4ebd07c2729",
       "text": "Patacara, who became a Buddhist while disconsolately wandering naked through the Indian city of Savatthi, rose to become the foremost bhikkhuni of Gautama Buddha in her mastery of the Vinaya",
       "tags": [
-        "Ancient History",
         "Religion & Faith",
+        "Philosophy & Ethics",
         "Remarkable People",
         "Women in History",
-        "Asia"
+        "Asia",
+        "Ancient History"
       ],
       "image": {
         "url": null,
@@ -20408,11 +20263,12 @@
       "hash": "67e98af9451a42364ffec35223e34d23692942b0b7e27711af21988c31ea9a25",
       "text": "The 16th-century Castillo de la Real Fuerza in Havana is the oldest stone fortress in the Americas",
       "tags": [
-        "Colonial History",
+        "Modern History",
         "Military History",
+        "Colonial History",
         "Architecture",
         "The Americas",
-        "Modern History"
+        "World Records"
       ],
       "image": {
         "url": null,
@@ -20447,9 +20303,7 @@
         "Religion & Faith",
         "Visual Art",
         "Architecture",
-        "Europe",
-        "Middle East",
-        "History"
+        "Europe"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Kupa_Synagogue%2C_27_Miodowa_Street%2C_Kazimierz%2C_Krak%C3%B3w%2C_Poland.jpg",
@@ -20524,9 +20378,8 @@
       "hash": "5c92acbd39d87fd7e44ce532db6057bda2dae4a114d4640d1275b72760e24a1a",
       "text": "Liu Heita was a Xia general during China 's transition between the Sui and Tan dynasties in the 7th century",
       "tags": [
-        "Ancient History",
+        "Medieval History",
         "Military History",
-        "Politics & Government",
         "Remarkable People",
         "Asia"
       ],
@@ -20574,7 +20427,7 @@
         "Cold War",
         "Politics & Government",
         "Economics & Trade",
-        "Criminals & Outlaws",
+        "Remarkable People",
         "Asia"
       ],
       "image": {
@@ -20612,10 +20465,8 @@
       "hash": "69fba61584e39632cc61459698379f260dcedf02fb4797c330b57efb81fa0bdb",
       "text": "The 800,000-member Global Pastors Network continues the legacy of Bill Bright by attempting to, in their own words, \"win 1 billion people to Christ \"",
       "tags": [
-        "Modern History",
         "Religion & Faith",
-        "Remarkable People",
-        "World Records"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -20648,11 +20499,12 @@
       "text": "French pirate Jacques de Sores, who captured Havana in 1555, went by the nickname of \"The Exterminating Angel\"",
       "tags": [
         "Modern History",
-        "Colonial History",
         "Military History",
+        "Colonial History",
+        "Remarkable People",
+        "Explorers & Adventurers",
         "Criminals & Outlaws",
-        "The Americas",
-        "Europe"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -20680,12 +20532,11 @@
       "text": "The taekwondo form Ko-Dang was named after Korean nationalist Cho Man-sik, imprisoned and executed for his opposition to Kim Il-sung 's communists",
       "tags": [
         "Modern History",
-        "Cold War",
         "Politics & Government",
-        "Human Rights",
-        "Remarkable People",
+        "Global Sports",
         "Asia",
-        "Hidden Histories"
+        "Remarkable People",
+        "Human Rights"
       ],
       "image": {
         "url": null,
@@ -20732,7 +20583,8 @@
       "hash": "d99d9b38e523dc04f7e6f4ea27f4297673e27f3aa5b650eedf41638f18dae0dd",
       "text": "Giant diffuse galaxies, located in the centre of galaxy clusters, often possess a halo of devoured star matter extending as far out as 3 million light years",
       "tags": [
-        "Space & Astronomy"
+        "Space & Astronomy",
+        "Physics & Chemistry"
       ],
       "image": {
         "url": null,
@@ -20824,8 +20676,8 @@
       "text": "Greek composer Phivos has written songs for artists including Keti Garbi, Angela Dimitriou, Manto, Thanos Kalliris, and, most successfully, Despina Vandi",
       "tags": [
         "Music",
-        "Europe",
-        "Remarkable People"
+        "Remarkable People",
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -20882,11 +20734,11 @@
       "hash": "fd296dc79761df11461119b7ee5bbfd320b8833dacd57941d444692ed2e6b861",
       "text": "The graphic novel The Barn Owl's Wondrous Capers combines Kolkata 's Babu culture and the legend of The Wandering Jew",
       "tags": [
-        "Colonial History",
-        "Mythology & Folklore",
         "Literature & Books",
+        "Mythology & Folklore",
+        "Asia",
         "Visual Art",
-        "Asia"
+        "Colonial History"
       ],
       "image": {
         "url": null,
@@ -20928,12 +20780,11 @@
       "hash": "6f98a822f1d6bbb0ff30bd58224972dcceac9d0de9b1decaaa5e99d877e00daa",
       "text": "The television series ER aired an episode based on the 2003 Chicago balcony collapse",
       "tags": [
-        "Medicine & Health",
-        "Cinema & Film",
         "Television",
+        "Medicine & Health",
         "The Americas",
-        "Unusual Deaths & Accidents",
-        "Disasters & Survival"
+        "Disasters & Survival",
+        "Unusual Deaths & Accidents"
       ],
       "image": {
         "url": null,
@@ -20967,9 +20818,9 @@
       "tags": [
         "Modern History",
         "Politics & Government",
+        "Remarkable People",
         "Europe",
-        "Hidden Histories",
-        "Remarkable People"
+        "Hidden Histories"
       ],
       "image": {
         "url": null,
@@ -21004,8 +20855,7 @@
         "Literature & Books",
         "Women in History",
         "Remarkable People",
-        "Modern History",
-        "Hidden Histories"
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -21039,8 +20889,7 @@
       "tags": [
         "Biology & Nature",
         "Architecture",
-        "Europe",
-        "Fashion & Design"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -21093,6 +20942,7 @@
       "text": "Phoebe Hessel, who masqueraded as a man for 17 years to fight in the British Army alongside her husband, is buried in the churchyard at St. Nicholas Church, Brighton, England",
       "tags": [
         "Military History",
+        "Modern History",
         "Remarkable People",
         "Women in History",
         "Europe",
@@ -21143,11 +20993,10 @@
       "hash": "b3cb74d32686f8b9aaec1915180ac6fcd0dc9a1a8e52c6f7dcd6aa849e6cfd18",
       "text": "When Indrajit Gupta, a Communist, became India 's Union Minister for Home Affairs in 1996, he became head of a ministry \"which once policed the Commies\"",
       "tags": [
-        "Modern History",
         "Politics & Government",
-        "Asia",
+        "Modern History",
         "Remarkable People",
-        "Hidden Histories"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -21185,9 +21034,8 @@
       "text": "Russian architect Lev Kekushev built Art Nouveau buildings in Moscow, Russia, in the 1890s and early 1900s, \"signed\" with a lion ( Lev ) ornament or sculpture",
       "tags": [
         "Modern History",
-        "Visual Art",
         "Architecture",
-        "Fashion & Design",
+        "Visual Art",
         "Remarkable People",
         "Europe"
       ],
@@ -21236,8 +21084,8 @@
       "hash": "4dfdba7a3a2d4ecce98f7502853ad457e64895111e62454dee9c4d0e33d3cc20",
       "text": "The synagogue at the Allgemeines Krankenhaus in Vienna, Austria was devastated during Kristallnacht in 1938 and converted into a transformer station after the war",
       "tags": [
-        "Modern History",
         "Holocaust & WWII",
+        "Modern History",
         "Religion & Faith",
         "Architecture",
         "Europe",
@@ -21297,6 +21145,7 @@
         "Religion & Faith",
         "Law & Justice",
         "Philosophy & Ethics",
+        "Remarkable People",
         "Europe"
       ],
       "image": {
@@ -21340,11 +21189,10 @@
       "text": "Jack Iverson developed his unique \"bent finger\" bowling action while experimenting during recreational cricket while serving in Papua New Guinea during World War II",
       "tags": [
         "Holocaust & WWII",
-        "Military History",
         "Global Sports",
-        "Oceania & Pacific",
         "Remarkable People",
-        "Hidden Histories"
+        "Oceania & Pacific",
+        "Military History"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Jack_Iverson_1952.jpg",
@@ -21388,7 +21236,7 @@
       "tags": [
         "Biology & Nature",
         "The Americas",
-        "Curiosities"
+        "Animals in History"
       ],
       "image": {
         "url": null,
@@ -21432,9 +21280,7 @@
       "tags": [
         "Cinema & Film",
         "Remarkable People",
-        "Women in History",
-        "Asia",
-        "World Records"
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -21467,10 +21313,10 @@
       "text": "The U.S. Navy tank landing ship USS Orange County was decommissioned in August 1946, less than 18 months after entering service, but recommissioned four years later for the Korean War",
       "tags": [
         "Military History",
+        "Modern History",
         "Holocaust & WWII",
         "Cold War",
-        "The Americas",
-        "Asia"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -21508,10 +21354,9 @@
       "text": "Immediate Past President of the American Bar Association Michael S. Greco taught English at Phillips Exeter Academy before attending law school",
       "tags": [
         "Law & Justice",
-        "Literature & Books",
         "Remarkable People",
-        "The Americas",
-        "Politics & Government"
+        "Literature & Books",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -21553,7 +21398,8 @@
       "hash": "309eb9bdb90cfa8309d8d8d2985776ec4de158281698992c047c7097ba27c00e",
       "text": "The daisy -like Sydney flannel flower is actually a member of the carrot family",
       "tags": [
-        "Biology & Nature"
+        "Biology & Nature",
+        "Oceania & Pacific"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flannel_Flower_Henry_Head2_email.jpg",
@@ -21591,11 +21437,9 @@
       "text": "Ranji Hordern took 34 out of 51 wickets (66 percent) in three matches for the Philadelphians in their 1909 tour of Jamaica",
       "tags": [
         "Modern History",
-        "Colonial History",
         "Global Sports",
-        "The Americas",
-        "World Records",
-        "Remarkable People"
+        "Remarkable People",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -21636,7 +21480,8 @@
         "Military History",
         "Politics & Government",
         "Remarkable People",
-        "The Americas"
+        "The Americas",
+        "Hidden Histories"
       ],
       "image": {
         "url": null,
@@ -21688,8 +21533,8 @@
       "hash": "151d9898b91e6dd374a900d4846a8908d5e7aeecf0b04089d235e60bb8501a3b",
       "text": "Stoic philosophy contrasts kathekonta, actions in accordance with nature, with \"perfect actions\" (katorthomata) derived from pure reason",
       "tags": [
-        "Ancient History",
         "Philosophy & Ethics",
+        "Ancient History",
         "Scientists & Thinkers"
       ],
       "image": {
@@ -21732,10 +21577,10 @@
       "hash": "796f306e972a64e14e4955db76f8e28a027ddfd4633cfcfe2d18a99bd0a63faa",
       "text": "Alpamysh, an ancient Turkic epic or dastan, is one of the foremost examples of the Turkic oral literature of Central Asia",
       "tags": [
-        "Ancient History",
-        "Mythology & Folklore",
         "Literature & Books",
-        "Asia"
+        "Mythology & Folklore",
+        "Asia",
+        "Ancient History"
       ],
       "image": {
         "url": null,
@@ -21827,9 +21672,10 @@
       "text": "Battery Chamberlin contains one of the last disappearing guns on the West Coast of the United States",
       "tags": [
         "Military History",
+        "Modern History",
         "Inventions & Technology",
-        "The Americas",
-        "Hidden Histories"
+        "Architecture",
+        "The Americas"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/6in_Rifled_Gun_No_9.jpg",
@@ -21861,6 +21707,7 @@
       "hash": "ea25a78912c4bf7993bfd83575190735d2fb61fcb6231a3e927744754329ab9b",
       "text": "The Red Forest, near Chernobyl Nuclear Power Plant, gets its name from the ginger brown colour of its dead pine trees after the Chernobyl accident",
       "tags": [
+        "Modern History",
         "Cold War",
         "Biology & Nature",
         "Europe",
@@ -21948,12 +21795,11 @@
       "hash": "10b39e3923d47ab984a82c5cd01dd940c5f24d75119b24c0d8a44993276d0d6c",
       "text": "The relics of Sariputra and Mahamoggallana, Gautama Buddha 's two chief disciples, were the subject of more than two million Sri Lankan pilgrimage visits after their discovery by Sir Alexander Cunningham",
       "tags": [
-        "Ancient History",
         "Religion & Faith",
+        "Ancient History",
         "Asia",
         "Remarkable People",
-        "Explorers & Adventurers",
-        "Hidden Histories"
+        "Explorers & Adventurers"
       ],
       "image": {
         "url": null,
@@ -21991,10 +21837,10 @@
       "text": "The Court of Criminal Jurisdiction, the first criminal court in Australia under British rule, operated more like a court-martial than a court of law",
       "tags": [
         "Colonial History",
-        "Military History",
         "Law & Justice",
         "Politics & Government",
-        "Oceania & Pacific"
+        "Oceania & Pacific",
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -22031,10 +21877,10 @@
       "hash": "2c4f6e959e8ed02037260c97f873fce0a63ae480b47ae265878495fee32ea8ea",
       "text": "Jan du Plessis, Chairman of British American Tobacco 's board of directors, was named the tenth most powerful person in British business by The Times in 2006",
       "tags": [
-        "Modern History",
         "Economics & Trade",
         "Remarkable People",
-        "Europe"
+        "Europe",
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -22071,11 +21917,10 @@
       "hash": "10e0618cefb0983bc2894b2e35d7f73ff753e1f389515384fe66e9b9bbf22cc1",
       "text": "The BBC recorded live performances of Hancock's Half Hour, The Goon Show and Steptoe and Son at the Playhouse Theatre in London",
       "tags": [
-        "Modern History",
         "Television",
         "Comedy & Satire",
         "Europe",
-        "Music"
+        "Modern History"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/MyNameIsRachelCorriePlayhouseTheatre20060329.jpg",
@@ -22125,8 +21970,7 @@
         "Modern History",
         "Politics & Government",
         "Architecture",
-        "The Americas",
-        "Hidden Histories"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -22158,10 +22002,9 @@
       "hash": "aef6f330f2d98f1d73a72fea16a1e41020679a556451adcbb5f0d6503e431e7a",
       "text": "Lor Tok, a Thai comedian and actor, had roles in more than 1,000 films from the 1930s to the 1980s",
       "tags": [
-        "Modern History",
         "Cinema & Film",
-        "Remarkable People",
         "Comedy & Satire",
+        "Remarkable People",
         "Asia"
       ],
       "image": {
@@ -22189,11 +22032,10 @@
       "hash": "63d2ec31b73eacfcc515d65c12264922b0ca3d18787e66a52fa143bce73cd097",
       "text": "Helen Hunt Jackson 's 1884 novel Ramona was set at Rancho Camulos in Piru, California",
       "tags": [
-        "Modern History",
         "Literature & Books",
-        "Women in History",
         "The Americas",
-        "Remarkable People"
+        "Modern History",
+        "Women in History"
       ],
       "image": {
         "url": null,
@@ -22230,11 +22072,12 @@
       "hash": "284f2f7134a2d51aba24be4444c310858f11025514e32bd64776b258064b40c1",
       "text": "German physicist Max von Laue wrote an article for Acta Crystallographica, which dealt with the absorption of x-rays under interference conditions, while in French military incarceration in 1945",
       "tags": [
-        "Holocaust & WWII",
         "Physics & Chemistry",
+        "Holocaust & WWII",
         "Scientists & Thinkers",
+        "Remarkable People",
         "Europe",
-        "Military History"
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -22276,6 +22119,7 @@
       "hash": "04c6e6e302b7ae06b79c999f051ecca3150acd110aa8a89b354b394776b239ac",
       "text": "William Ansah Sessarakoo, the \"Prince of Annamaboe\", became a celebrity in mid-18th century London after he was released from slavery, and was compared to Aphra Behn 's fictional Oroonoko",
       "tags": [
+        "Modern History",
         "Colonial History",
         "Human Rights",
         "Literature & Books",
@@ -22324,8 +22168,8 @@
       "hash": "c7ed8473cc690dbb550defa1bcfb8689423c92f93080f1886715722d3e764fe1",
       "text": "The complex flavor of hoja santa has been variously compared to eucalyptus, licorice, sassafras, anise, nutmeg, mint, tarragon and black pepper",
       "tags": [
-        "Biology & Nature",
-        "Food & Drink"
+        "Food & Drink",
+        "Biology & Nature"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Starr_021122-0002_Piper_auritum.jpg",
@@ -22388,9 +22232,7 @@
       "text": "Burning Bright by John Steinbeck was an attempt at a new form of literature, the \"play-novelette\"— but both the play and novel were savaged by the critics and Steinbeck never wrote for the theatre again",
       "tags": [
         "Literature & Books",
-        "Remarkable People",
-        "The Americas",
-        "Modern History"
+        "Remarkable People"
       ],
       "image": {
         "url": null,
@@ -22417,8 +22259,7 @@
       "hash": "48179a1595638dd8ca6435094247c0c339a4954a2461fe5953b673ab16271452",
       "text": "While the center of gravity for a set of points is located at the spot from which the sum of the squares of distances to all the points is minimized, the geometric median is the spot from which the sum of distances is minimized",
       "tags": [
-        "Mathematics",
-        "Scientists & Thinkers"
+        "Mathematics"
       ],
       "image": {
         "url": null,
@@ -22447,7 +22288,6 @@
       "tags": [
         "Modern History",
         "Military History",
-        "Politics & Government",
         "Architecture",
         "The Americas"
       ],
@@ -22494,7 +22334,7 @@
         "Music",
         "Literature & Books",
         "Inventions & Technology",
-        "Internet Culture"
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -22537,9 +22377,10 @@
       "text": "The Althing of Iceland confirmed Thorlac Thornalli as a saint over 700 years before the Catholic Church did",
       "tags": [
         "Medieval History",
-        "Politics & Government",
         "Religion & Faith",
         "Europe",
+        "Remarkable People",
+        "Politics & Government",
         "Hidden Histories"
       ],
       "image": {
@@ -22582,11 +22423,10 @@
       "hash": "e66f4e51de221c0ab9d67c136e90e9442cfd690b317b226b76c7b9a61f462c81",
       "text": "The Tyska kyrkan in Stockholm, is situated in the oldest German ecclesiastical parish outside Germany",
       "tags": [
-        "Medieval History",
         "Religion & Faith",
         "Architecture",
         "Europe",
-        "Hidden Histories"
+        "Modern History"
       ],
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Tyska_kyrkan_stadsbild_2012.jpg",
@@ -22651,7 +22491,7 @@
       "tags": [
         "Asia",
         "Economics & Trade",
-        "Society"
+        "Politics & Government"
       ],
       "image": {
         "url": null,
@@ -22730,11 +22570,11 @@
       "text": "When Archie Goodall scored the lone goal for Ireland in a 9–1 loss to Scotland in 1899, he became the oldest footballer to score in international football in the 19th century",
       "tags": [
         "Modern History",
+        "Remarkable People",
         "Global Sports",
         "Extreme Sports & Records",
         "Europe",
-        "World Records",
-        "Remarkable People"
+        "World Records"
       ],
       "image": {
         "url": null,
@@ -22783,6 +22623,7 @@
       "tags": [
         "Ancient History",
         "Religion & Faith",
+        "Philosophy & Ethics",
         "Asia",
         "Remarkable People"
       ],
@@ -22821,10 +22662,9 @@
       "hash": "2c3ba8aa7dff7b62beb2f841aa0ced951c3544c0cbd5967a8ee83d9e85c8bbc2",
       "text": "The cappuccio, a type of headgear worn by men and women in 15th century Florence, was typically made by tailors instead of hatmakers",
       "tags": [
-        "Medieval History",
+        "Modern History",
         "Fashion & Design",
-        "Europe",
-        "Women in History"
+        "Europe"
       ],
       "image": {
         "url": null,
@@ -22857,7 +22697,6 @@
       "text": "Desmarest's Hutia has the most complex stomach of any rodent",
       "tags": [
         "Biology & Nature",
-        "Animals in History",
         "World Records"
       ],
       "image": {
@@ -22892,10 +22731,10 @@
       "tags": [
         "Medieval History",
         "Military History",
-        "Politics & Government",
         "Europe",
+        "Animals in History",
         "Hidden Histories",
-        "Unusual Deaths & Accidents"
+        "Criminals & Outlaws"
       ],
       "image": {
         "url": null,
@@ -22932,11 +22771,11 @@
       "hash": "2a5b99f14df67995eb4386747c9e29256c63129f76406d0978269f3f70a578fa",
       "text": "Rush Limbaugh was a U.S. ambassador to India",
       "tags": [
-        "Modern History",
         "Politics & Government",
-        "Remarkable People",
+        "Asia",
         "The Americas",
-        "Asia"
+        "Remarkable People",
+        "Modern History"
       ],
       "image": {
         "url": null,
@@ -22970,9 +22809,9 @@
       "tags": [
         "Biology & Nature",
         "Inventions & Technology",
-        "Mythology & Folklore",
+        "Geology & Earth Science",
         "Animals in History",
-        "Curiosities"
+        "Mythology & Folklore"
       ],
       "image": {
         "url": null,
@@ -23000,9 +22839,9 @@
       "text": "Serge Voronoff ' s surgical technique of grafting monkey testicle tissue onto human males has some modern supporters",
       "tags": [
         "Modern History",
+        "Biology & Nature",
         "Medicine & Health",
         "Scientists & Thinkers",
-        "Animals in History",
         "Hidden Histories"
       ],
       "image": {
@@ -23028,8 +22867,8 @@
         "Modern History",
         "Military History",
         "Inventions & Technology",
-        "The Americas",
-        "Hidden Histories"
+        "Economics & Trade",
+        "The Americas"
       ],
       "image": {
         "url": null,
@@ -23068,8 +22907,8 @@
       "tags": [
         "Cinema & Film",
         "Visual Art",
-        "Asia",
-        "Mythology & Folklore"
+        "Mythology & Folklore",
+        "Asia"
       ],
       "image": {
         "url": null,
@@ -23107,11 +22946,11 @@
       "text": "The California Condor, Mauritius Kestrel and Kakapo were all saved from extinction using modern bird conservation techniques",
       "tags": [
         "Biology & Nature",
-        "Modern History",
-        "Animals in History",
+        "Inventions & Technology",
         "The Americas",
         "Oceania & Pacific",
-        "Africa"
+        "Animals in History",
+        "Disasters & Survival"
       ],
       "image": {
         "url": null,
@@ -23155,6 +22994,7 @@
       "tags": [
         "Medieval History",
         "Europe",
+        "Colonial History",
         "Hidden Histories"
       ],
       "image": {
@@ -23179,8 +23019,8 @@
       "tags": [
         "Cinema & Film",
         "Remarkable People",
-        "Africa",
-        "Middle East"
+        "Middle East",
+        "Africa"
       ],
       "image": {
         "url": null,

@@ -7,3 +7,14 @@ data/*.db-wal
 __pycache__/
 *.py[cod]
 .venv/
+
+# Logs and temp state
+logs/*.log
+logs/current_file.txt
+logs/tagged_facts.log
+
+# Backups
+*.bak
+
+# Accidental files
+~*

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Tag facts in dyk_*.json files using OpenRouter (Gemma free model).
+Tag facts in dyk_*.json files using Ollama Cloud (Gemma 4 31B).
 
 HOW IT WORKS
 ------------
@@ -49,8 +49,8 @@ LOG_FILE = LOGS_DIR / "tagged_facts.log"       # IDs of facts tagged in this run
 MANIFEST_FILE = LOGS_DIR / "manifest.json"     # per-month completion status
 CURRENT_FILE = LOGS_DIR / "current_file.txt"   # path of the in-progress file
 
-# Model to use: free-tier Gemma on OpenRouter. Cheap, fast enough for bulk tagging.
-MODEL = "google/gemma-4-26b-a4b-it"
+# Model to use: Gemma 4 31B on Ollama Cloud.
+MODEL = "gemma4:31b-cloud"
 
 PROMPT_TEMPLATE = """Given this fact:
 "{text}"
@@ -110,6 +110,8 @@ def clear_state() -> None:
 def next_untagged(manifest: dict) -> Path | None:
     """Return the data file for the first month not yet tagged, or None if all done."""
     for key, meta in manifest["months"].items():
+        if not key.startswith("dyk_"):
+            continue
         if not meta.get("tags", False):
             candidate = DATA_DIR / f"{key}.json"
             if candidate.exists():
@@ -122,14 +124,14 @@ def mark_tagged(manifest: dict, key: str) -> None:
         manifest["months"][key]["tags"] = True
 
 
-def ask_openrouter(prompt: str) -> list[str]:
-    """Call OpenRouter chat completions and parse the returned JSON tag array."""
-    api_key = os.environ.get("OPENROUTER_API_KEY")
+def ask_ollama(prompt: str) -> list[str]:
+    """Call Ollama Cloud chat completions and parse the returned JSON tag array."""
+    api_key = os.environ.get("OLLAMA_API")
     if not api_key:
-        raise ValueError("OPENROUTER_API_KEY environment variable not set")
+        raise ValueError("OLLAMA_API environment variable not set")
 
     resp = requests.post(
-        "https://openrouter.ai/api/v1/chat/completions",
+        "https://ollama.com/v1/chat/completions",
         headers={"Authorization": f"Bearer {api_key}"},
         json={
             "model": MODEL,
@@ -153,11 +155,14 @@ def tag_file(filepath: Path) -> None:
     """
     Tag every untagged fact in `filepath`.
 
-    For each fact: call OpenRouter, write tags back into the JSON file
+    For each fact: call Ollama Cloud, write tags back into the JSON file
     immediately (so progress survives a crash), and append the fact ID to
     tagged_facts.log. Facts already in the log are skipped.
     """
     data = json.loads(filepath.read_text(encoding="utf-8"))
+    if "facts" not in data:
+        print(f"WARNING: {filepath.name} has no 'facts' key — skipping.")
+        return
     tags_content = load_tags()
     done = load_log()
     facts = data["facts"]
@@ -177,7 +182,7 @@ def tag_file(filepath: Path) -> None:
         prompt = PROMPT_TEMPLATE.format(text=text, tags_content=tags_content)
         for attempt in range(3):
             try:
-                new_tags = ask_openrouter(prompt)
+                new_tags = ask_ollama(prompt)
                 print(f"    → {new_tags}")
                 fact["tags"] = new_tags
                 # Write after every fact so a crash doesn't lose progress
@@ -196,7 +201,7 @@ def tag_file(filepath: Path) -> None:
                 else:
                     print(f"    ERROR (giving up): {e}")
 
-        time.sleep(1)  # stay well under OpenRouter free-tier rate limits
+        time.sleep(1)  # pacing between API calls
 
 
 def main() -> None:
@@ -209,8 +214,14 @@ def main() -> None:
         if not filepath:
             print("ERROR: tagged_facts.log has entries but current_file.txt is missing.")
             sys.exit(1)
-        print(f"Resuming: {filepath.name}")
-    else:
+        # Safety: only resume if it's a real dyk file
+        if not filepath.name.startswith("dyk_"):
+            print(f"WARNING: Ignoring stale current_file.txt pointing to {filepath.name}")
+            done = []  # fall through to find next untagged
+            filepath = None
+        else:
+            print(f"Resuming: {filepath.name}")
+    if not done:
         # Clean slate — find the next month the manifest says needs tagging
         filepath = next_untagged(manifest)
         if not filepath:
